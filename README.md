@@ -25,8 +25,25 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Slack: [treccast.slack.com](https://join.slack.com/t/treccast/shared_invite/enQtNDgwOTE0NTY3MDQyLTljNTM0YmZmYzY0NzJiODNiYWYyMmZjMGRmZTNlNTZlZGVhY2JiNzlkMjc0ODc3NjU0NzkzMTlhYzFmNWFkNTk)
 * Google groups [trec-cast@googlegroups.com](https://groups.google.com/forum/#!forum/trec-cast)
 
+# Important Dates
+
 # Data
 Forthcoming 
 
 # Evaluation 
-Forthcoming 
+Forthcoming
+
+# Organizers
+ * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), University of Glasgow
+ * [Chenyan Xiong](https://www.linkedin.com/in/chenyan-xiong-4a103257/), Microsoft Research
+ * [Jamie Callan](http://www.cs.cmu.edu/~callan/), Carnegie Mellon University
+ 
+ ## Advisory Committee
+  * Laura Dietz, University of New Hamsphire
+  * Jimmy Lin, University of Waterloo
+  * Julia Kiseleva, Microsoft Research
+  * Vanessa Murdock, Amazon Research
+  * Paul Bennett, Microsoft Research
+  * Zhiting Hu, CMU
+  * Anton Leuski, USC
+
