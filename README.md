@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## TREC Conversational Assistance Track (CAsT) 
+
+There are currently few datasets appropriate for training and evaluating models for Conversational Information Seeking (CIS). The main aim of TREC CAsT is to advance research on conversational search systems. The goal of the track is to create a reusable benchmark for open-domain information centric conversational dialogues. 
 
 You can use the [editor on GitHub](https://github.com/daltonj/treccastweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
