@@ -38,7 +38,7 @@ Forthcoming
  * [Chenyan Xiong](https://www.linkedin.com/in/chenyan-xiong-4a103257/), Microsoft Research
  * [Jamie Callan](http://www.cs.cmu.edu/~callan/), Carnegie Mellon University
  
- ## Advisory Committee
+## Advisory Committee
   * Laura Dietz, University of New Hamsphire
   * Jimmy Lin, University of Waterloo
   * Julia Kiseleva, Microsoft Research
