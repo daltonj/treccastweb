@@ -1,39 +1,32 @@
-## TREC Conversational Assistance Track (CAsT) 
+# TREC Conversational Assistance Track (CAsT) 
 
 There are currently few datasets appropriate for training and evaluating models for Conversational Information Seeking (CIS). The main aim of TREC CAsT is to advance research on conversational search systems. The goal of the track is to create a reusable benchmark for open-domain information centric conversational dialogues. 
 
-You can use the [editor on GitHub](https://github.com/daltonj/treccastweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The track will run in 2019 and establish a concrete and standard collection of data with information needs to make systems directly comparable. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the first year of TREC CAsT, which will run as a track in [TREC](https://trec.nist.gov/). This year we aim to focus on candidate information ranking in context:
+* Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
+* Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
-### Markdown
+## Proposed Year 1 task
+* Candidate response ranking in context (INFORM dialogue acts)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Information Needs**
+* ~50-100 topics with manually defined trajectories
+* Start from initial general topic
+* Conversation evolves across ‘realistic’ facets for ~10 turns 
+* Manually created topics from crowdsourcing
 
-```markdown
-Syntax highlighted code block
+# News
+ - November 13: Announcement that the track will run next year. 
 
-# Header 1
-## Header 2
-### Header 3
+# Contact
+* Twitter: [@treccast](https://twitter.com/treccast)
+* Slack: [treccast.slack.com](https://join.slack.com/t/treccast/shared_invite/enQtNDgwOTE0NTY3MDQyLTljNTM0YmZmYzY0NzJiODNiYWYyMmZjMGRmZTNlNTZlZGVhY2JiNzlkMjc0ODc3NjU0NzkzMTlhYzFmNWFkNTk)
+* Google groups [trec-cast@googlegroups.com](https://groups.google.com/forum/#!forum/trec-cast)
 
-- Bulleted
-- List
+# Data
+Forthcoming 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daltonj/treccastweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Evaluation 
+Forthcoming 
