@@ -29,7 +29,8 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 Coming 2019
 
 # Data
-Forthcoming 
+* [Sample of manual topics](./2019/data/sample_manual_topics.txt)
+* Sample of MARCO session topics
 
 # Evaluation 
 Forthcoming
