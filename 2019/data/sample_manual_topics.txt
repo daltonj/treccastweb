@@ -1,6 +1,6 @@
 Title: US Judicial history
 Description: Judicial history in the US including key court cases and what they established.
-What are the most important US supreme court cases?
+What are the most important US Supreme Court cases?
 What did plessy v. ferguson establish?
 How about marbury vs madison?
 Was it unanimous?
@@ -11,13 +11,13 @@ What were the main arguments?
 Why is it important today?
 
 Title: Neolithic revolution
-Description: The neolithic revolution and technology used within it, when it emerged in the british isles.  The transition to the bronze age and its significance. 
+Description: The neolithic revolution and technology used within it, when it emerged in the British isles.  The transition to the bronze age and its significance. 
 What was the neolithic revolution?
 When did it start and end?
 Why did it start?
 What did the neolithic invent?
 What tools were used?
-When was it brought to the british isles?
+When was it brought to the British isles?
 What period follow it?
 What was its significance?
 What were the houses like?
