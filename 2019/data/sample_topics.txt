@@ -1,0 +1,61 @@
+Title: US Judicial history
+Description: Judicial history in the US including key court cases and what they established.
+What are the most important US supreme court cases?
+What did plessy v. ferguson establish?
+How about marbury vs madison?
+Was it unanimous?
+What was the implication of rose vs wade?
+What were the main arguments?
+What was the point of the brown v board of education?
+What were the main arguments?
+Why is it important today?
+
+Title: Neolithic revolution
+Description: The neolithic revolution and technology used within it, when it emerged in the british isles.  The transition to the bronze age and its significance. 
+What was the neolithic revolution?
+When did it start and end?
+Why did it start?
+What did the neolithic invent?
+What tools were used?
+When was it brought to the british isles?
+What period follow it?
+What was its significance?
+What were the houses like?
+
+Title: flowering plants for cold climates 
+Description: You would like to buy and take care of flowering plants for cold climates.
+What flowering plants work for cold climates?
+How much cold can pansies tolerate?
+Can it survive frost?
+Does it have different varieties?
+How do I protect my plants from cold weather?
+How do plants adapt to cold temperature?
+What is the UK hardiness rating for plants?
+How does it compare to the US rating?
+What's the UK rating for pansies?
+What about petunias?
+
+Title: chemical energy
+Description: You are researching chemical energy and different types of chemical reactions. 
+What is chemical energy?
+Describe a chemical reaction
+How is it represented mathematically?
+Give me an example
+What are the different kinds of reactions?
+What is a decomposition reaction?
+How is it a chemical change?
+What is a synthesis reaction?
+Tell me the differences between synthesis and decomposition
+
+Title: Uranus and Neptune
+Description: You would like to learn about Uranus including how it compares to other planets, particularly Neptune.
+Describe Uranus
+What makes it so unusual?
+Tell me more about its orbit
+Why is it tilted?
+How is its rotation different from others?
+What is peculiar about the sunshine on uranus?
+Are there any other planets similar to it?
+Describe Neptune
+What is so special about it?
+Can life exists on these planets?
