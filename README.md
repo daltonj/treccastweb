@@ -23,6 +23,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 
 # News
  - November 13: Announcement that the track will run next year. 
+ - March 19: Sample topic data for conversational and MARCO sessions available
 
 # Contact
 * Twitter: [@treccast](https://twitter.com/treccast)
