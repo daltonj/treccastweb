@@ -30,7 +30,8 @@ Coming 2019
 
 # Data
 * [Sample of manual topics](./2019/data/sample_manual_topics.txt)
-* Sample of MARCO session topics
+* [Sample of sessions with MARCO queries](./2019/data/sample_marco_sessions.txt) -- See the [MARCO Sessions Readme](https://github.com/dfcf93/MSMARCO/blob/master/ConversationalSearch/README.md)
+
 
 # Evaluation 
 Forthcoming
