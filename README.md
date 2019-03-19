@@ -8,6 +8,10 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
+## Year 1 Planning slides 
+* [Year 1 planning information](https://docs.google.com/presentation/d/1z053BrUeozwTtDEimX4t1ik0Mc5eTl5rTct53mAKd4s/edit?usp=sharing)
+* Comments and feedback are welcome.
+
 ## Proposed Year 1 task
 * Candidate response ranking in context (INFORM dialogue acts)
 
