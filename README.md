@@ -15,6 +15,10 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 ## NEW: Conversational Search Training data
 *  - MS MARCO [Conversational Search data](http://www.msmarco.org/dataset.aspx) is released.  See details on [Readme page](https://github.com/dfcf93/MSMARCO/blob/master/ConversationalSearch/README.md).
 
+## Code and tools
+* [TREC-CAsT Tools](https://github.com/gla-ial/trec-cast-tools) repository with code and scripts for processing data. 
+* Note: This will evolve over time, it currently contains topic definition files. 
+
 ## Year 1 Planning slides 
 * [Year 1 planning information](https://docs.google.com/presentation/d/1z053BrUeozwTtDEimX4t1ik0Mc5eTl5rTct53mAKd4s/edit?usp=sharing)
 * Comments and feedback are welcome.
