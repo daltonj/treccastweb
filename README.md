@@ -8,12 +8,16 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
+## NEW: Year 1 Task Guidelines
+* [Year 1 task guidelines](https://docs.google.com/document/d/1SH6UdZ9xQUZzhxnCzlsJvXtPEUCuiow5MXlrsA22pKs/edit?usp=sharing)
+* Comments and feedback are welcome.
+
+## NEW: Conversational Search Training data
+*  - MS MARCO [Conversational Search data](http://www.msmarco.org/dataset.aspx) is released.  See details on [Readme page](https://github.com/dfcf93/MSMARCO/blob/master/ConversationalSearch/README.md).
+
 ## Year 1 Planning slides 
 * [Year 1 planning information](https://docs.google.com/presentation/d/1z053BrUeozwTtDEimX4t1ik0Mc5eTl5rTct53mAKd4s/edit?usp=sharing)
 * Comments and feedback are welcome.
-
-## Proposed Year 1 task
-* Candidate response ranking in context (INFORM dialogue acts)
 
 **Information Needs**
 * ~50-100 topics with manually defined trajectories
@@ -24,6 +28,8 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 # News
  - November 13: Announcement that the track will run next year. 
  - March 19: Sample topic data for conversational and MARCO sessions available
+ - May 1st: Track guidelines are released
+
 
 # Contact
 * Twitter: [@treccast](https://twitter.com/treccast)
