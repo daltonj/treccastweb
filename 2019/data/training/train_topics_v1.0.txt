@@ -203,6 +203,7 @@ Are flows bidirectional?
 How many forwarding rules are there in each layer of the tree?
 Describe the jellyfish architecture.
 Which architecture is more resilient to failure?
+
 ID: CAST-TR19-15
 SQUID: CAST-C10
 Title: International Math Olympiad
