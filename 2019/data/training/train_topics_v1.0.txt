@@ -1,0 +1,426 @@
+ID: CAST-TR19-01
+SQUID: CAST-D1
+Title: career choice for nursing and physician’s assistant
+Description: Considering career options for becoming a physician’s assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
+What is a physician’s assistant?
+What are the educational requirements required to become one?
+What does it cost?
+What’s the average starting salary in the UK?
+What about in the US?
+What school subjects are needed to become a registered nurse?
+What is the PA average salary vs an RN?
+What the difference between a PA and a nurse practitioner? 
+Do NPs or PAs make more?
+Is a PA above a NP?
+What is the fastest way to become a NP?
+How much longer does it take to become a doctor after being an NP?
+
+ID: CAST-TR19-02
+SQUID: CAST-D3
+Title: goat breeds
+Description: Interested in buying goats that implies interest in different breeds of goats and their use (milk, meat, and fur).
+What are the main breeds of goat?
+Tell me about boer goats.
+What breed is good for meat?
+Are angora goats good for it?
+What about boer goats?
+What are pygmies used for?
+What is the best for fiber production?
+How long do Angora goats live?
+Can you milk them?
+How many can you have per acre?
+Are they profitable?
+
+ID: CAST-TR19-03
+SQUID: CAST-D4
+Title: irregular heart beat
+Description: Find information about irregular heart beat.  This includes atrial fibrillation (afib) and atrial flutter), sinus bradycardia, and tachycardia.
+Tell me about the types of irregular heart beat.
+How serious is an irregular heart beat?
+What are the different types of tachycardia?  
+What is atrial flutter?
+What causes it?
+What’s the difference between flutter and fibrillation?
+How does afib affect an ECG?
+Does it shorten your life?
+What triggers it?
+How do you stop an attack?
+What is the best exercise for it?
+
+ID: CAST-TR19-04
+SQUID: CAST-D5
+Title: neolithic revolution
+Description: The neolithic revolution and technology used within it and when it emerged in the british isles.  Also, the transition to the bronze age and its significance. 
+What was the neolithic revolution?
+When did it start and end?
+Why did it start?
+What did the neolithic invent?
+What tools were used?
+When was it brought to the british isles?
+Describe the period that follows it.
+What was its significance?
+What were the houses like?
+
+ID: CAST-TR19-05
+SQUID: CAST-D6
+Title: cooking turkey
+Description: Information about cooking a turkey including brining it, smoking it, and using leftovers (including recipes).
+What are the best ways to cook a turkey?
+Should I brine a turkey before smoking it?
+How much salt do I use to brine it?
+What kind of wood should I use?
+How long should it be smoked for?
+Is smoked turkey healthy?
+What can you do with leftovers?
+How long are leftovers good for in the fridge?
+What’s a recipe for smoked turkey soup?
+How about one for chili?
+
+ID: CAST-TR19-06
+SQUID: CAST-D7
+Title: judicial history
+Description: Judicial history in the US including key court cases and what they established.
+Source: MARCO sessions
+What are the most important US supreme court cases?
+What did plessy v. ferguson establish?
+How about marbury vs madison?
+Was it unanimous?
+What was the implication of roe vs wade?
+What were the main arguments?
+What was the point of brown v board of ed?
+What were the main arguments?
+Why is it important today?
+
+ID: CAST-TR19-07
+SQUID: CAST-D8
+Title: macromolecules
+Description: A comparison of types of basic macromolecules: carbohydrates and lipids. 
+What are the different types of macromolecules?
+Tell me about the characteristics of carbohydrates.
+What are they composed of?
+What is their basic structure?
+What are the main types with examples of each?
+Tell me about lipids
+What is their function?
+What are the types of lipids?
+What is the most common?
+What is the difference between them and carbohydrates?
+Why are carbs better?
+
+ID: CAST-TR19-08
+SQUID: CAST-C1
+Title: Securities Act
+Description: Find information regarding U.S. securities acts, as well as where securities are traded.
+What was the securities act of 1933?
+What is exempt from it? 
+Why was it needed?
+What was the reason for creating the 1934 act?
+What is the largest securities exchange in the world?
+How and when when was it created?
+What was the first stock market? 
+
+ID: CAST-TR19-09
+SQUID: CAST-C2
+Title: statistics and studying it for a career
+Description:  Explore metrics for understanding range in statistics, and career options in statistics.
+Why is statistics important?
+Why should one study it?
+Tell me about its career options.
+Are Data Scientists in high demand?
+How much do they make on average in a year?
+What is range in statistics?
+Describe some different metrics to interpret it
+What are quartiles?
+How do you find the lower and upper quartile?
+
+ID: CAST-TR19-10
+SQUID: CAST-C4
+Title: freezing water and coldest places on earth
+Description: Requires information about the process involved in freezing of water. Also, requests information about the coldest places on Earth in Antarctica.
+How does water freeze?
+What happens to its molecules?
+Why isn’t the bottom of the ocean frozen?
+Can the bottom of the ocean freeze?
+Where is the coldest place on Earth?
+Does Dome Fuji have inhabitants?
+Why is antarctica so cold?
+How cold is the water underneath the ice?
+What is the biggest town?
+
+ID: CAST-TR19-11
+SQUID: CAST-C6
+Title: Futuristic designs
+Description: General questions regarding futuristic designs and how it has affected the world of technology.
+What are  futuristic designs?
+How did this become a new trend?
+Why are most of the constructions inspired by these designs?
+What are the different domains where such designs have been adapted?
+How has it affected technology?
+How have the different giants in the business responded to this?
+Has its introduction lead to increase in business?
+If designs are already futuristic, how will this change in the future? 
+
+ID: CAST-TR19-12
+SQUID: CAST-C7
+Title: LASIK
+Description: Find information about LASIK surgery, including its pros and cons, alternatives etc.
+What is a good age to get LASIK?
+Give me a short description of the procedure
+What are its benefits?
+What are the risks? 
+Describe experiences of some people who had it this done.
+Are there any good alternatives to it?
+What is its success rate?
+Once it's done, what kind of precautions do I need to take?
+Does the effect of wear off with age?
+
+ID: CAST-TR19-13
+SQUID: CAST-C8
+Title: Tofu
+Description: Describe tofu, cooking methods, including recipes, and possible health effects. 
+What is tofu exactly? 
+How is it made?
+What are its origins?
+What is the best tofu?
+Is it a kind of cheese?
+Can I eat it raw?
+What are common ways to cook it? 
+In what cuisines is it popular?
+Is tofu good for you? 
+Can it make you sick?
+Is too much tofu bad for you?
+
+ID: CAST-TR19-14
+SQUID: CAST-C9
+Title: Data center network architectures 
+Description: Technical information about data center network architectures.
+What are scalable data center network architectures?
+What are some examples? 
+Describe the characteristics of FAT tree topology.
+What routes can be taken by an upstream packet?
+Describe core, aggregator and edge switches
+Are flows bidirectional?
+How many forwarding rules are there in each layer of the tree?
+Describe the jellyfish architecture.
+Which architecture is more resilient to failure?
+ID: CAST-TR19-15
+SQUID: CAST-C10
+Title: International Math Olympiad
+Description: Find information about the International Math Olympiad (IMO) including tips for  preparation and its benefits. Also, how does it compare with other similar international science competitions, like the IOI. 
+Tell me about the International Math Olympiad
+How do I prepare for it?
+How tough is the exam?
+Are there any specific categories of questions?
+Which categories are the hardest?
+What are some benefits of being a finalist?
+Does it help applications to US universities? 
+Does solving practice problems help prepare for the International Olympiad in Informatics?
+How does the IMO compare with the IOI?
+
+ID: CAST-TR19-16
+SQUID: CAST-C22
+Title: Blood Sugar
+Description: Blood sugar levels and possible complications that may arise due to it.
+What is a normal blood sugar level?
+What does it mean if it’s higher than this?
+What is a dangerous level?
+How do you bring it down quickly?
+How fast can it rise?
+And what if it’s lower than normal?
+How does this make you feel?
+Do different activities lead to an imbalance?
+Is there a relation between age and sugar levels?
+
+ID: CAST-TR19-17
+SQUID: CAST-C32
+Title: Forms of Energy
+Description: Energy and its various forms.
+What are the different forms of energy?
+How can it be stored?
+What type of energy is used in motion?
+Tell me about mechanical energy.
+Give me some examples
+Why is sound a form of mechanical energy?
+How does it differ from potential energy?
+Are potential and kinetic the same?
+What type does chemical energy belong to?
+What form of energy is used in eating?
+
+ID: CAST-TR19-18
+SQUID: CAST-C33
+Title: Uranus and Neptune
+Description: Information about Uranus and Neptune.
+Describe Uranus
+What makes it so unusual?
+Tell me about its orbit
+Why is it tilted?
+How is its rotation different from other planets?
+What is peculiar the seasons on it?
+Are there any other planets similar to it?
+Describe the characteristics of Neptune.
+Why is it important to our solar system?
+How are these two planets similar to each other?  
+Can life exist on either of them? 
+
+ID: CAST-TR19-19
+SQUID: CAST-C34
+Title: Chemical Reaction
+Description: Information about chemical reactions
+What is chemical energy?
+Describe a chemical reaction
+How is it represented mathematically?
+Give me an example
+What are the different kinds of reactions?
+What is a decomposition reaction?
+How is it a chemical change?
+What is a synthesis reaction?
+Tell me the differences between synthesis and decomposition
+
+ID: CAST-TR19-20
+SQUID: CAST-C35
+Title: Cell membrane
+Description: Information about the cell membrane and its functions.
+Describe cell membranes.
+What are its important functions?
+Tell me about the phospholipid bilayer.
+What are its functions?
+What if the membrane gets damaged?
+Do they repair themselves?
+Which nutrients may help in the repair process?
+ID: CAST-TR19-21
+SQUID: CAST-C37
+Title: Weathering
+Description: General queries regarding weathering, its various types, how it affects rocks etc.
+What is weathering?
+What are its major types?
+Tell me about chemical weathering
+How is it different from biological weathering?
+Does it change the composition of rocks?
+What is the end product of chemical weathering?
+Give me an example
+What happens when quartz undergoes weathering?
+
+ID: CAST-TR19-22
+SQUID: CAST-C46
+Title: Spices
+Description: Questions about spices, their benefits, and their composition.
+What are the most common spices used in cooking?
+How are they different from herbs?
+Why do spices taste good?
+Where do most of them come from?
+What cuisines use them heavily?
+What are the most popular Indian ones?
+Tell me about turmeric
+Are there any benefits of consuming it?
+What is the oldest spice?
+What is the most expensive and why?
+
+ID: CAST-TR19-23
+SQUID: CAST-C53
+Title: Cattle farming for meat and dairy 
+Description: Enquires about two different types of cattle farming - meat and dairy. 
+What are the main types of cattle farming?
+What breeds produce the most milk? 
+How much do Holsteins produce?
+What is special about Jersey milk? 
+Do we eat dairy cows?
+What are the most common breeds for meat?
+Where are angus beef from?
+How much space do they need? 
+
+ID: CAST-TR19-24
+SQUID: CAST-C57
+Title: Smoking Cessation
+Description: Understanding the various ill effects of smoking and methods to prevent it.
+How can I help my friend stop smoking?
+What are its long term effects?
+Does it cause cancer?
+What makes it so addictive?
+Are there any alternatives to nicotine?
+How effective are the patches?
+Tell me about the cold turkey method
+Describe typical withdrawal symptoms
+
+ID: CAST-TR19-25
+SQUID: CAST-C58
+Title: Killer Whales
+Description: More information about killer whales, and about a good time to observe them.
+Tell me about orca whales
+Are they really whales?
+How do they hunt?
+What do they eat?
+Where did they get their name?
+Are they dangerous?
+Where can go to watch them? 
+When is a good season for spotting them?
+How does captivity affect them? 
+
+ID: CAST-TR19-26
+SQUID: CAST-C59
+Title: Chemical Elements
+Description: Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.
+What defines a chemical element? 
+How are they related to the Periodic Table?
+How is it organised?
+How does a chemical compound differ from an element?
+What are different types of compounds?
+How are they formed?
+Which ones are important for the human body?
+What are important ones used on a daily basis?
+
+ID: CAST-TR19-27
+SQUID: CAST-C61
+Title: Yoga
+Description: Exploring the benefits of Yoga, and some of its exercises.
+Tell me about the benefits of yoga
+How many calories does it help you burn?
+Does it help in reducing stress?
+What are some basic poses?
+Tell me about some breathing exercises.
+Does it help you breathe better? 
+Do it help relieve asthma?
+Does it help osteoporosis?
+
+ID: CAST-TR19-28
+SQUID: CAST-C62
+Title: Global Warming
+Description: Understanding global warming, its dangers and what could be done to avoid it.
+Describe global warming
+What are its dangers?
+Are there any methods to prevent it getting worse?
+What can I do at an individual level?
+How do I reduce my carbon footprint?
+Is the US government doing anything about it?
+How is overpopulation related?
+
+ID: CAST-TR19-29
+CAST-TR19-29
+SQUID: CAST-H02
+Title: British Invasion (Music)
+Description: You want to find out more about the phenomenon of British Invasion in Rock Music.
+What is the British Invasion in Music?
+What era did it happen?
+What genre did it involve?
+What is so special about it?
+Which bands were key part of that?
+What was the leading band and what was its role?
+Is it related to any other musical movements?
+What was its impact on American music?
+What other music movement succeeded it?
+
+ID: CAST-TR19-30
+SQUID: CAST-D16
+Title: veganism
+Description: Veganism, is it better for your health and the environment? How does it compare with being vegetarian?
+What does it mean to be a vegan?
+How does it differ from a vegetarian?
+Is going vegan better for the environment?
+Is it a healthier option?
+Do you need milk for strong bones? 
+What are other good sources of calcium?
+If you don’t eat any meat, at all, is it bad for you? 
+What are good sources of vitamin B12?
+Does it help you lose weight?
+What about its health versus being vegetarian?
+Which is better for the environment?
+Why are there so many vegan protests?
