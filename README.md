@@ -30,6 +30,8 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Manually created topics from crowdsourcing
 
 # News
+ - May 23: Training data released
+ - April 18th: Guidelines released
  - November 13: Announcement that the track will run next year. 
  - March 19: Sample topic data for conversational and MARCO sessions available
  - May 1st: Track guidelines are released
@@ -41,12 +43,26 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Google groups [trec-cast@googlegroups.com](https://groups.google.com/forum/#!forum/trec-cast)
 
 # Important Dates
-Coming 2019
+* Training data release: May 23rd
+* Test topic release: June 12th
+* Run submission: August 16th
 
 # Data
-* [Sample of manual topics](./2019/data/sample_manual_topics.txt)
-* [Sample of sessions with MARCO queries](./2019/data/sample_marco_sessions.txt) -- See the [MARCO Sessions Readme](https://github.com/dfcf93/MSMARCO/blob/master/ConversationalSearch/README.md)
 
+## Topics
+ * [Training topics year 1 V1.0](./data/training/train_topics_v1.0.txt)- 30 example training topics
+
+## Collection
+ * The corpus is a combination of three standard TREC collections: MARCO Ranking passages, Wikipedia (TREC CAR), and News (Washington Post)
+ * The [MS MARCO Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collectiontar.gz)
+ * The [TREC CAR 2.1 paragraph collection - unprocessedAllButBenchmark] (http://trec-car.cs.unh.edu/datareleases/v2.1/unprocessedAllButBenchmark.v2.1.tar.xz)
+ * The [TREC Washington Post Corpus] (https://trec.nist.gov/data/wapost/): Note requires an organizational agreement.
+ 
+ ### Document ID format
+ * The collection id is `[collection_id_paragraph_id]` with collection and paragraph separated by an underscore.
+ * The collection ids are in the set: `{MARCO, CAR, WAPO}`. 
+ * The paragraph ids are: standard provided by MARCO and CAR. For WAPO the paragraph ID is `[article_id-paragraph_index]` where the paragraph_index is the 0-based position index of the paragraph using the provided paragraph markup separated by a single dash. 
+ * Example WaPo combined document id: `[WAPO_903cc1eab726b829294d1abdd755d5ab-1]`, or CAR: `[CAR_6869dee46ab12f0f7060874f7fc7b1c57d53144a]`
 
 # Evaluation 
 Forthcoming
