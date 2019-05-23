@@ -1,11 +1,11 @@
 ID: CAST-TR19-01
 SQUID: CAST-D1
-Title: career choice for nursing and physician’s assistant
-Description: Considering career options for becoming a physician’s assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
-What is a physician’s assistant?
+Title: career choice for nursing and physician's assistant
+Description: Considering career options for becoming a physician's assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
+What is a physician's assistant?
 What are the educational requirements required to become one?
 What does it cost?
-What’s the average starting salary in the UK?
+What's the average starting salary in the UK?
 What about in the US?
 What school subjects are needed to become a registered nurse?
 What is the PA average salary vs an RN?
@@ -40,7 +40,7 @@ How serious is an irregular heart beat?
 What are the different types of tachycardia?  
 What is atrial flutter?
 What causes it?
-What’s the difference between flutter and fibrillation?
+What's the difference between flutter and fibrillation?
 How does afib affect an ECG?
 Does it shorten your life?
 What triggers it?
@@ -73,7 +73,7 @@ How long should it be smoked for?
 Is smoked turkey healthy?
 What can you do with leftovers?
 How long are leftovers good for in the fridge?
-What’s a recipe for smoked turkey soup?
+What's a recipe for smoked turkey soup?
 How about one for chili?
 
 ID: CAST-TR19-06
@@ -109,7 +109,7 @@ Why are carbs better?
 
 ID: CAST-TR19-08
 SQUID: CAST-C1
-Title: Securities Act
+Title: securities act
 Description: Find information regarding U.S. securities acts, as well as where securities are traded.
 What was the securities act of 1933?
 What is exempt from it? 
@@ -139,7 +139,7 @@ Title: freezing water and coldest places on earth
 Description: Requires information about the process involved in freezing of water. Also, requests information about the coldest places on Earth in Antarctica.
 How does water freeze?
 What happens to its molecules?
-Why isn’t the bottom of the ocean frozen?
+Why isn't the bottom of the ocean frozen?
 Can the bottom of the ocean freeze?
 Where is the coldest place on Earth?
 Does Dome Fuji have inhabitants?
@@ -149,7 +149,7 @@ What is the biggest town?
 
 ID: CAST-TR19-11
 SQUID: CAST-C6
-Title: Futuristic designs
+Title: futuristic designs
 Description: General questions regarding futuristic designs and how it has affected the world of technology.
 What are  futuristic designs?
 How did this become a new trend?
@@ -162,7 +162,7 @@ If designs are already futuristic, how will this change in the future?
 
 ID: CAST-TR19-12
 SQUID: CAST-C7
-Title: LASIK
+Title: lasik surgery
 Description: Find information about LASIK surgery, including its pros and cons, alternatives etc.
 What is a good age to get LASIK?
 Give me a short description of the procedure
@@ -176,7 +176,7 @@ Does the effect of wear off with age?
 
 ID: CAST-TR19-13
 SQUID: CAST-C8
-Title: Tofu
+Title: tofu
 Description: Describe tofu, cooking methods, including recipes, and possible health effects. 
 What is tofu exactly? 
 How is it made?
@@ -192,7 +192,7 @@ Is too much tofu bad for you?
 
 ID: CAST-TR19-14
 SQUID: CAST-C9
-Title: Data center network architectures 
+Title: data center network architectures 
 Description: Technical information about data center network architectures.
 What are scalable data center network architectures?
 What are some examples? 
@@ -205,36 +205,35 @@ Describe the jellyfish architecture.
 Which architecture is more resilient to failure?
 
 ID: CAST-TR19-15
-SQUID: CAST-C10
-Title: International Math Olympiad
-Description: Find information about the International Math Olympiad (IMO) including tips for  preparation and its benefits. Also, how does it compare with other similar international science competitions, like the IOI. 
-Tell me about the International Math Olympiad
+SQUID: CAST-C27
+Title: international linguistics olympiad
+Description: Information about the International Linguistics Olympiad, and linguistics in general.
+Tell me about the International Linguistics Olympiad.
 How do I prepare for it?
 How tough is the exam?
-Are there any specific categories of questions?
-Which categories are the hardest?
-What are some benefits of being a finalist?
-Does it help applications to US universities? 
-Does solving practice problems help prepare for the International Olympiad in Informatics?
-How does the IMO compare with the IOI?
+What kind of problems can I expect?
+Tell me about the history of linguistics as a field.
+Who was Panini and what were his contributions?
+What is the link between linguistics and computer science?
+
 
 ID: CAST-TR19-16
 SQUID: CAST-C22
-Title: Blood Sugar
+Title: blood sugar
 Description: Blood sugar levels and possible complications that may arise due to it.
 What is a normal blood sugar level?
-What does it mean if it’s higher than this?
+What does it mean if it's higher than this?
 What is a dangerous level?
 How do you bring it down quickly?
 How fast can it rise?
-And what if it’s lower than normal?
+And what if it's lower than normal?
 How does this make you feel?
 Do different activities lead to an imbalance?
 Is there a relation between age and sugar levels?
 
 ID: CAST-TR19-17
 SQUID: CAST-C32
-Title: Forms of Energy
+Title: forms of energy
 Description: Energy and its various forms.
 What are the different forms of energy?
 How can it be stored?
@@ -249,7 +248,7 @@ What form of energy is used in eating?
 
 ID: CAST-TR19-18
 SQUID: CAST-C33
-Title: Uranus and Neptune
+Title: uranus and neptune
 Description: Information about Uranus and Neptune.
 Describe Uranus
 What makes it so unusual?
@@ -265,7 +264,7 @@ Can life exist on either of them?
 
 ID: CAST-TR19-19
 SQUID: CAST-C34
-Title: Chemical Reaction
+Title: chemical reaction
 Description: Information about chemical reactions
 What is chemical energy?
 Describe a chemical reaction
@@ -279,7 +278,7 @@ Tell me the differences between synthesis and decomposition
 
 ID: CAST-TR19-20
 SQUID: CAST-C35
-Title: Cell membrane
+Title: cell membrane
 Description: Information about the cell membrane and its functions.
 Describe cell membranes.
 What are its important functions?
@@ -288,9 +287,10 @@ What are its functions?
 What if the membrane gets damaged?
 Do they repair themselves?
 Which nutrients may help in the repair process?
+
 ID: CAST-TR19-21
 SQUID: CAST-C37
-Title: Weathering
+Title: weathering
 Description: General queries regarding weathering, its various types, how it affects rocks etc.
 What is weathering?
 What are its major types?
@@ -303,7 +303,7 @@ What happens when quartz undergoes weathering?
 
 ID: CAST-TR19-22
 SQUID: CAST-C46
-Title: Spices
+Title: spices
 Description: Questions about spices, their benefits, and their composition.
 What are the most common spices used in cooking?
 How are they different from herbs?
@@ -318,7 +318,7 @@ What is the most expensive and why?
 
 ID: CAST-TR19-23
 SQUID: CAST-C53
-Title: Cattle farming for meat and dairy 
+Title: cattle farming for meat and dairy 
 Description: Enquires about two different types of cattle farming - meat and dairy. 
 What are the main types of cattle farming?
 What breeds produce the most milk? 
@@ -331,7 +331,7 @@ How much space do they need?
 
 ID: CAST-TR19-24
 SQUID: CAST-C57
-Title: Smoking Cessation
+Title: smoking cessation
 Description: Understanding the various ill effects of smoking and methods to prevent it.
 How can I help my friend stop smoking?
 What are its long term effects?
@@ -344,7 +344,7 @@ Describe typical withdrawal symptoms
 
 ID: CAST-TR19-25
 SQUID: CAST-C58
-Title: Killer Whales
+Title: killer whales
 Description: More information about killer whales, and about a good time to observe them.
 Tell me about orca whales
 Are they really whales?
@@ -358,7 +358,7 @@ How does captivity affect them?
 
 ID: CAST-TR19-26
 SQUID: CAST-C59
-Title: Chemical Elements
+Title: chemical elements
 Description: Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.
 What defines a chemical element? 
 How are they related to the Periodic Table?
@@ -370,21 +370,20 @@ Which ones are important for the human body?
 What are important ones used on a daily basis?
 
 ID: CAST-TR19-27
-SQUID: CAST-C61
-Title: Yoga
-Description: Exploring the benefits of Yoga, and some of its exercises.
-Tell me about the benefits of yoga
-How many calories does it help you burn?
-Does it help in reducing stress?
-What are some basic poses?
-Tell me about some breathing exercises.
-Does it help you breathe better? 
-Do it help relieve asthma?
-Does it help osteoporosis?
+SQUID: CAST-C60
+Title: dietary neds
+Description: Trying to understand the importance of various dietary needs and its benefits.
+What comprises a balanced diet?
+Is it the same for men as well as women?
+What are some specific recommendations for women?
+Are dairy products necessary for a good health?
+Can it harm you instead?
+How necessary is fiber?
+What happens if it's consumed in a smaller amount than recommended?
 
 ID: CAST-TR19-28
 SQUID: CAST-C62
-Title: Global Warming
+Title: global warming
 Description: Understanding global warming, its dangers and what could be done to avoid it.
 Describe global warming
 What are its dangers?
@@ -397,7 +396,7 @@ How is overpopulation related?
 ID: CAST-TR19-29
 CAST-TR19-29
 SQUID: CAST-H02
-Title: British Invasion (Music)
+Title: british invasion (music)
 Description: You want to find out more about the phenomenon of British Invasion in Rock Music.
 What is the British Invasion in Music?
 What era did it happen?
@@ -410,18 +409,13 @@ What was its impact on American music?
 What other music movement succeeded it?
 
 ID: CAST-TR19-30
-SQUID: CAST-D16
-Title: veganism
-Description: Veganism, is it better for your health and the environment? How does it compare with being vegetarian?
-What does it mean to be a vegan?
-How does it differ from a vegetarian?
-Is going vegan better for the environment?
-Is it a healthier option?
-Do you need milk for strong bones? 
-What are other good sources of calcium?
-If you don’t eat any meat, at all, is it bad for you? 
-What are good sources of vitamin B12?
-Does it help you lose weight?
-What about its health versus being vegetarian?
-Which is better for the environment?
-Why are there so many vegan protests?
+SQUID: CAST-C56
+Title: linux and windows
+Description: A comparison of Windows and Linux, followed by some tips regarding software installation etc.
+What are some advantages of using Linux?
+Can I run Windows software in it?
+How does it compare to Windows?
+Which of these is more popular?
+How do I install software on it?
+What is an easy way to install Python?
+Tell me about how I can share files.
