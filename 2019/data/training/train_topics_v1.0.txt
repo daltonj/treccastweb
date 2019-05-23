@@ -1,4 +1,4 @@
-ID: CAST-TR19-01
+ID: CAST-01
 SQUID: CAST-D1
 Title: career choice for nursing and physician's assistant
 Description: Considering career options for becoming a physician's assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
@@ -15,7 +15,7 @@ Is a PA above a NP?
 What is the fastest way to become a NP?
 How much longer does it take to become a doctor after being an NP?
 
-ID: CAST-TR19-02
+ID: CAST-02
 SQUID: CAST-D3
 Title: goat breeds
 Description: Interested in buying goats that implies interest in different breeds of goats and their use (milk, meat, and fur).
@@ -31,7 +31,7 @@ Can you milk them?
 How many can you have per acre?
 Are they profitable?
 
-ID: CAST-TR19-03
+ID: CAST-03
 SQUID: CAST-D4
 Title: irregular heart beat
 Description: Find information about irregular heart beat.  This includes atrial fibrillation (afib) and atrial flutter), sinus bradycardia, and tachycardia.
@@ -47,7 +47,7 @@ What triggers it?
 How do you stop an attack?
 What is the best exercise for it?
 
-ID: CAST-TR19-04
+ID: CAST-04
 SQUID: CAST-D5
 Title: neolithic revolution
 Description: The neolithic revolution and technology used within it and when it emerged in the british isles.  Also, the transition to the bronze age and its significance. 
@@ -61,7 +61,7 @@ Describe the period that follows it.
 What was its significance?
 What were the houses like?
 
-ID: CAST-TR19-05
+ID: CAST-05
 SQUID: CAST-D6
 Title: cooking turkey
 Description: Information about cooking a turkey including brining it, smoking it, and using leftovers (including recipes).
@@ -76,7 +76,7 @@ How long are leftovers good for in the fridge?
 What's a recipe for smoked turkey soup?
 How about one for chili?
 
-ID: CAST-TR19-06
+ID: CAST-06
 SQUID: CAST-D7
 Title: judicial history
 Description: Judicial history in the US including key court cases and what they established.
@@ -91,7 +91,7 @@ What was the point of brown v board of ed?
 What were the main arguments?
 Why is it important today?
 
-ID: CAST-TR19-07
+ID: CAST-07
 SQUID: CAST-D8
 Title: macromolecules
 Description: A comparison of types of basic macromolecules: carbohydrates and lipids. 
@@ -107,7 +107,7 @@ What is the most common?
 What is the difference between them and carbohydrates?
 Why are carbs better?
 
-ID: CAST-TR19-08
+ID: CAST-08
 SQUID: CAST-C1
 Title: securities act
 Description: Find information regarding U.S. securities acts, as well as where securities are traded.
@@ -119,7 +119,7 @@ What is the largest securities exchange in the world?
 How and when when was it created?
 What was the first stock market? 
 
-ID: CAST-TR19-09
+ID: CAST-09
 SQUID: CAST-C2
 Title: statistics and studying it for a career
 Description:  Explore metrics for understanding range in statistics, and career options in statistics.
@@ -133,7 +133,7 @@ Describe some different metrics to interpret it
 What are quartiles?
 How do you find the lower and upper quartile?
 
-ID: CAST-TR19-10
+ID: CAST-10
 SQUID: CAST-C4
 Title: freezing water and coldest places on earth
 Description: Requires information about the process involved in freezing of water. Also, requests information about the coldest places on Earth in Antarctica.
@@ -147,7 +147,7 @@ Why is antarctica so cold?
 How cold is the water underneath the ice?
 What is the biggest town?
 
-ID: CAST-TR19-11
+ID: CAST-11
 SQUID: CAST-C6
 Title: futuristic designs
 Description: General questions regarding futuristic designs and how it has affected the world of technology.
@@ -160,7 +160,7 @@ How have the different giants in the business responded to this?
 Has its introduction lead to increase in business?
 If designs are already futuristic, how will this change in the future? 
 
-ID: CAST-TR19-12
+ID: CAST-12
 SQUID: CAST-C7
 Title: lasik surgery
 Description: Find information about LASIK surgery, including its pros and cons, alternatives etc.
@@ -174,7 +174,7 @@ What is its success rate?
 Once it's done, what kind of precautions do I need to take?
 Does the effect of wear off with age?
 
-ID: CAST-TR19-13
+ID: CAST-13
 SQUID: CAST-C8
 Title: tofu
 Description: Describe tofu, cooking methods, including recipes, and possible health effects. 
@@ -190,7 +190,7 @@ Is tofu good for you?
 Can it make you sick?
 Is too much tofu bad for you?
 
-ID: CAST-TR19-14
+ID: CAST-14
 SQUID: CAST-C9
 Title: data center network architectures 
 Description: Technical information about data center network architectures.
@@ -204,7 +204,7 @@ How many forwarding rules are there in each layer of the tree?
 Describe the jellyfish architecture.
 Which architecture is more resilient to failure?
 
-ID: CAST-TR19-15
+ID: CAST-15
 SQUID: CAST-C27
 Title: international linguistics olympiad
 Description: Information about the International Linguistics Olympiad, and linguistics in general.
@@ -217,7 +217,7 @@ Who was Panini and what were his contributions?
 What is the link between linguistics and computer science?
 
 
-ID: CAST-TR19-16
+ID: CAST-16
 SQUID: CAST-C22
 Title: blood sugar
 Description: Blood sugar levels and possible complications that may arise due to it.
@@ -231,7 +231,7 @@ How does this make you feel?
 Do different activities lead to an imbalance?
 Is there a relation between age and sugar levels?
 
-ID: CAST-TR19-17
+ID: CAST-17
 SQUID: CAST-C32
 Title: forms of energy
 Description: Energy and its various forms.
@@ -246,7 +246,7 @@ Are potential and kinetic the same?
 What type does chemical energy belong to?
 What form of energy is used in eating?
 
-ID: CAST-TR19-18
+ID: CAST-18
 SQUID: CAST-C33
 Title: uranus and neptune
 Description: Information about Uranus and Neptune.
@@ -262,7 +262,7 @@ Why is it important to our solar system?
 How are these two planets similar to each other?  
 Can life exist on either of them? 
 
-ID: CAST-TR19-19
+ID: CAST-19
 SQUID: CAST-C34
 Title: chemical reaction
 Description: Information about chemical reactions
@@ -276,7 +276,7 @@ How is it a chemical change?
 What is a synthesis reaction?
 Tell me the differences between synthesis and decomposition
 
-ID: CAST-TR19-20
+ID: CAST-20
 SQUID: CAST-C35
 Title: cell membrane
 Description: Information about the cell membrane and its functions.
@@ -288,7 +288,7 @@ What if the membrane gets damaged?
 Do they repair themselves?
 Which nutrients may help in the repair process?
 
-ID: CAST-TR19-21
+ID: CAST-21
 SQUID: CAST-C37
 Title: weathering
 Description: General queries regarding weathering, its various types, how it affects rocks etc.
@@ -301,7 +301,7 @@ What is the end product of chemical weathering?
 Give me an example
 What happens when quartz undergoes weathering?
 
-ID: CAST-TR19-22
+ID: CAST-22
 SQUID: CAST-C46
 Title: spices
 Description: Questions about spices, their benefits, and their composition.
@@ -316,7 +316,7 @@ Are there any benefits of consuming it?
 What is the oldest spice?
 What is the most expensive and why?
 
-ID: CAST-TR19-23
+ID: CAST-23
 SQUID: CAST-C53
 Title: cattle farming for meat and dairy 
 Description: Enquires about two different types of cattle farming - meat and dairy. 
@@ -329,7 +329,7 @@ What are the most common breeds for meat?
 Where are angus beef from?
 How much space do they need? 
 
-ID: CAST-TR19-24
+ID: CAST-24
 SQUID: CAST-C57
 Title: smoking cessation
 Description: Understanding the various ill effects of smoking and methods to prevent it.
@@ -342,7 +342,7 @@ How effective are the patches?
 Tell me about the cold turkey method
 Describe typical withdrawal symptoms
 
-ID: CAST-TR19-25
+ID: CAST-25
 SQUID: CAST-C58
 Title: killer whales
 Description: More information about killer whales, and about a good time to observe them.
@@ -356,7 +356,7 @@ Where can go to watch them?
 When is a good season for spotting them?
 How does captivity affect them? 
 
-ID: CAST-TR19-26
+ID: CAST-26
 SQUID: CAST-C59
 Title: chemical elements
 Description: Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.
@@ -369,7 +369,7 @@ How are they formed?
 Which ones are important for the human body?
 What are important ones used on a daily basis?
 
-ID: CAST-TR19-27
+ID: CAST-27
 SQUID: CAST-C60
 Title: dietary neds
 Description: Trying to understand the importance of various dietary needs and its benefits.
@@ -381,7 +381,7 @@ Can it harm you instead?
 How necessary is fiber?
 What happens if it's consumed in a smaller amount than recommended?
 
-ID: CAST-TR19-28
+ID: CAST-28
 SQUID: CAST-C62
 Title: global warming
 Description: Understanding global warming, its dangers and what could be done to avoid it.
@@ -393,8 +393,8 @@ How do I reduce my carbon footprint?
 Is the US government doing anything about it?
 How is overpopulation related?
 
-ID: CAST-TR19-29
-CAST-TR19-29
+ID: CAST-29
+CAST-29
 SQUID: CAST-H02
 Title: british invasion (music)
 Description: You want to find out more about the phenomenon of British Invasion in Rock Music.
@@ -408,7 +408,7 @@ Is it related to any other musical movements?
 What was its impact on American music?
 What other music movement succeeded it?
 
-ID: CAST-TR19-30
+ID: CAST-30
 SQUID: CAST-C56
 Title: linux and windows
 Description: A comparison of Windows and Linux, followed by some tips regarding software installation etc.
