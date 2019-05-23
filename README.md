@@ -49,10 +49,10 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 
 # Data
 
-## Topics
+# Topics
  * [Training topics year 1 V1.0](./2019/data/training/train_topics_v1.0.txt)- 30 example training topics
 
-## Collection
+# Collection
  * The corpus is a combination of three standard TREC collections: MARCO Ranking passages, Wikipedia (TREC CAR), and News (Washington Post)
  * The [MS MARCO Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collectiontar.gz)
  * The [TREC CAR paragraph collection 2.1 - unprocessedAllButBenchmark](http://trec-car.cs.unh.edu/datareleases/v2.1/unprocessedAllButBenchmark.v2.1.tar.xz)
