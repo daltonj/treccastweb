@@ -58,10 +58,10 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
  * The [TREC CAR paragraph collection 2.1 - unprocessedAllButBenchmark](http://trec-car.cs.unh.edu/datareleases/v2.1/unprocessedAllButBenchmark.v2.1.tar.xz)
  * The [TREC Washington Post Corpus](https://trec.nist.gov/data/wapost/): Note requires an organizational agreement.
  
- ### MARCO Duplicate filtering
+ ## MARCO Duplicate filtering
  * Note: The MS MARCO collection contains duplicate passages.  We have made a pass at clustering duplicates; the following file of duplicate paragraphs should omitted from the colleciton.
  
- ### Document ID format
+ ## Document ID format
  * The collection id is `[collection_id_paragraph_id]` with collection and paragraph separated by an underscore.
  * The collection ids are in the set: `{MARCO, CAR, WAPO}`. 
  * The paragraph ids are: standard provided by MARCO and CAR. For WAPO the paragraph ID is `[article_id-paragraph_index]` where the paragraph_index is the 0-based position index of the paragraph using the provided paragraph markup separated by a single dash. 
