@@ -54,8 +54,8 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 
 ## Collection
  * The corpus is a combination of three standard TREC collections: MARCO Ranking passages, Wikipedia (TREC CAR), and News (Washington Post)
- * The [MS MARCO Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collectiontar.gz)
- * The [TREC CAR paragraph collection 2.1 - unprocessedAllButBenchmark](http://trec-car.cs.unh.edu/datareleases/v2.1/unprocessedAllButBenchmark.v2.1.tar.xz)
+ * The [MS MARCO Passage Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collectiontar.gz)
+ * The [TREC CAR paragraph collection v2.0](http://trec-car.cs.unh.edu/datareleases/v2.0/paragraphCorpus.v2.0.tar.xz)
  * The [TREC Washington Post Corpus](https://trec.nist.gov/data/wapost/): Note requires an organizational agreement.
  
 ### MARCO Duplicate filtering
