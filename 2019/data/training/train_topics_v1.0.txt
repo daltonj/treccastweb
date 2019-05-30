@@ -1,389 +1,388 @@
 Number: 1
-Title: career choice for nursing and physician's assistant
+Title: Career choice for Nursing and Physician's Assistant
 Description: Considering career options for becoming a physician's assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
-1. What is a physician's assistant?
-2. What are the educational requirements required to become one?
-3. What does it cost?
-4. What's the average starting salary in the UK?
-5. What about in the US?
-6. What school subjects are needed to become a registered nurse?
-7. What is the PA average salary vs an RN?
-8. What the difference between a PA and a nurse practitioner?
-9. Do NPs or PAs make more?
-10. Is a PA above a NP?
-11. What is the fastest way to become a NP?
-12. How much longer does it take to become a doctor after being an NP?
+1	What is a physician's assistant?
+2	What are the educational requirements required to become one?
+3	What does it cost?
+4	What's the average starting salary in the UK?
+5	What about in the US?
+6	What school subjects are needed to become a registered nurse?
+7	What is the PA average salary vs an RN?
+8	What the difference between a PA and a nurse practitioner?
+9	Do NPs or PAs make more?
+10	Is a PA above a NP?
+11	What is the fastest way to become a NP?
+12	How much longer does it take to become a doctor after being an NP?
 
 Number: 2
-Title: goat breeds
+Title: Boat breeds
 Description: Interested in buying goats that implies interest in different breeds of goats and their use (milk, meat, and fur).
-What are the main breeds of goat?
-Tell me about boer goats.
-What breed is good for meat?
-Are angora goats good for it?
-What about boer goats?
-What are pygmies used for?
-What is the best for fiber production?
-How long do Angora goats live?
-Can you milk them?
-How many can you have per acre?
-Are they profitable?
+1	What are the main breeds of goat?
+2	Tell me about boer goats.
+3	What breed is good for meat?
+4	Are angora goats good for it?
+5	What about boer goats?
+6	What are pygmies used for?
+7	What is the best for fiber production?
+8	How long do Angora goats live?
+9	Can you milk them?
+10	How many can you have per acre?
+11	Are they profitable?
 
 Number: 3
-Title: irregular heart beat
+Title: Irregular heart beat
 Description: Find information about irregular heart beat.  This includes atrial fibrillation (afib) and atrial flutter), sinus bradycardia, and tachycardia.
-Tell me about the types of irregular heart beat.
-How serious is an irregular heart beat?
-What are the different types of tachycardia?  
-What is atrial flutter?
-What causes it?
-What's the difference between flutter and fibrillation?
-How does afib affect an ECG?
-Does it shorten your life?
-What triggers it?
-How do you stop an attack?
-What is the best exercise for it?
+1	Tell me about the types of irregular heart beat.
+2	How serious is an irregular heart beat?
+3	What are the different types of tachycardia?  
+4	What is atrial flutter?
+5	What causes it?
+6	What's the difference between flutter and fibrillation?
+7	How does afib affect an ECG?
+8	Does it shorten your life?
+9	What triggers it?
+10	How do you stop an attack?
+11	What is the best exercise for it?
 
 Number: 4
-Title: neolithic revolution
+Title: The Neolithic Revolution
 Description: The neolithic revolution and technology used within it and when it emerged in the british isles.  Also, the transition to the bronze age and its significance.
-What was the neolithic revolution?
-When did it start and end?
-Why did it start?
-What did the neolithic invent?
-What tools were used?
-When was it brought to the british isles?
-Describe the period that follows it.
-What was its significance?
-What were the houses like?
+1	What was the neolithic revolution?
+2	When did it start and end?
+3	Why did it start?
+4	What did the neolithic invent?
+5	What tools were used?
+6	When was it brought to the british isles?
+7	Describe the period that follows it.
+8	What was its significance?
+9	What were the houses like?
 
 Number: 5
-Title: cooking turkey
+Title: Cooking turkey
 Description: Information about cooking a turkey including brining it, smoking it, and using leftovers (including recipes).
-What are the best ways to cook a turkey?
-Should I brine a turkey before smoking it?
-How much salt do I use to brine it?
-What kind of wood should I use?
-How long should it be smoked for?
-Is smoked turkey healthy?
-What can you do with leftovers?
-How long are leftovers good for in the fridge?
-What's a recipe for smoked turkey soup?
-How about one for chili?
+1	What are the best ways to cook a turkey?
+2	Should I brine a turkey before smoking it?
+3	How much salt do I use to brine it?
+4	What kind of wood should I use?
+5	How long should it be smoked for?
+6	Is smoked turkey healthy?
+7	What can you do with leftovers?
+8	How long are leftovers good for in the fridge?
+9	What's a recipe for smoked turkey soup?
+10	How about one for chili?
 
 Number: 6
-Title: judicial history
+Title: Judicial history
 Description: Judicial history in the US including key court cases and what they established.
-What are the most important US supreme court cases?
-What did Plessy v. Ferguson establish?
-How about Marbury vs Madison?
-Was it unanimous?
-What was the implication of Roe vs Wade?
-What were the main arguments?
-What was the point of Brown v Board of Ed?
-What were the main arguments?
-Why is it important today?
+1	What are the most important US supreme court cases?
+2	What did Plessy v. Ferguson establish?
+3	How about Marbury vs Madison?
+4	Was it unanimous?
+5	What was the implication of Roe vs Wade?
+6	What were the main arguments?
+7	What was the point of Brown v Board of Ed?
+8	What were the main arguments?
+9	Why is it important today?
 
 Number: 7
-Title: macromolecules
+Title: Macromolecules
 Description: A comparison of types of basic macromolecules: carbohydrates and lipids. 
-What are the different types of macromolecules?
-Tell me about the characteristics of carbohydrates.
-What are they composed of?
-What is their basic structure?
-What are the main types with examples of each?
-Tell me about lipids.
-What is their function?
-What are the types of lipids?
-What is the most common?
-What is the difference between them and carbohydrates?
-Why are carbs better?
+1	What are the different types of macromolecules?
+2	Tell me about the characteristics of carbohydrates.
+3	What are they composed of?
+4	What is their basic structure?
+5	What are the main types with examples of each?
+6	Tell me about lipids.
+7	What is their function?
+8	What are the types of lipids?
+9	What is the most common?
+10	What is the difference between them and carbohydrates?
+11	Why are carbs better?
 
 Number: 8
-Title: securities acts
+Title: Securities acts
 Description: Find information regarding U.S. securities acts, as well as where securities are traded.
-What was the Securities Act of 1933?
-What is exempt from it?
-Why was it needed?
-What was the reason for creating the 1934 act?
-What is the largest securities exchange in the world?
-How and when when was it created?
-What was the first stock market? 
+1	What was the Securities Act of 1933?
+2	What is exempt from it?
+3	Why was it needed?
+4	What was the reason for creating the 1934 act?
+5	What is the largest securities exchange in the world?
+6	How and when when was it created?
+7	What was the first stock market? 
 
 Number: 9
-Title: statistics and studying it for a career
+Title: Statistics and studying it for a career
 Description:  Explore metrics for understanding range in statistics, and career options in statistics.
-Why is statistics important?
-Why should one study it?
-Tell me about its career options.
-Are Data Scientists in high demand?
-How much do they make on average in a year?
-What is range in statistics?
-Describe some different metrics to interpret it.
-What are quartiles?
-How do you find the lower and upper quartile?
+1	Why is statistics important?
+2	Why should one study it?
+3	Tell me about its career options.
+4	Are Data Scientists in high demand?
+5	How much do they make on average in a year?
+6	What is range in statistics?
+7	Describe some different metrics to interpret it.
+8	What are quartiles?
+9	How do you find the lower and upper quartile?
 
 Number: 10
-Title: freezing water and coldest places on earth
+Title: Freezing water and coldest places on Earth
 Description: Requires information about the process involved in freezing of water. Also, requests information about the coldest places on Earth in Antarctica.
-How does water freeze?
-What happens to its molecules?
-Why isn't the bottom of the ocean frozen?
-Can the bottom of the ocean freeze?
-Where is the coldest place on Earth?
-Does Dome Fuji have inhabitants?
-Why is Antarctica so cold?
-How cold is the water underneath the ice?
-What is the biggest town?
+1	How does water freeze?
+2	What happens to its molecules?
+3	Why isn't the bottom of the ocean frozen?
+4	Can the bottom of the ocean freeze?
+5	Where is the coldest place on Earth?
+6	Does Dome Fuji have inhabitants?
+7	Why is Antarctica so cold?
+8	How cold is the water underneath the ice?
+9	What is the biggest town?
 
 Number: 11
-Title: futuristic designs
+Title: Futuristic designs
 Description: General questions regarding futuristic designs and how it has affected the world of technology.
-What are  futuristic designs?
-How did this become a new trend?
-Why are most of the constructions inspired by these designs?
-What are the different domains where such designs have been adapted?
-How has it affected technology?
-How have the different giants in the business responded to this?
-Has its introduction led to increase in business?
-If designs are already futuristic, how will this change in the future? 
+1	What are  futuristic designs?
+2	How did this become a new trend?
+3	Why are most of the constructions inspired by these designs?
+4	What are the different domains where such designs have been adapted?
+5	How has it affected technology?
+6	How have the different giants in the business responded to this?
+7	Has its introduction led to increase in business?
+8	If designs are already futuristic, how will this change in the future? 
 
 Number: 12
-Title: lasik surgery
+Title: LASIK surgery
 Description: Find information about LASIK surgery, including its pros and cons, alternatives etc.
-What is a good age to get LASIK?
-Give me a short description of the procedure.
-What are its benefits?
-What are the risks?
-Describe experiences of some people who had it done.
-Are there any good alternatives to it?
-What is its success rate?
-Once it's done, what kind of precautions do I need to take?
-Does the effect wear off with age?
+1	What is a good age to get LASIK?
+2	Give me a short description of the procedure.
+3	What are its benefits?
+4	What are the risks?
+5	Describe experiences of some people who had it done.
+6	Are there any good alternatives to it?
+7	What is its success rate?
+8	Once it's done, what kind of precautions do I need to take?
+9	Does the effect wear off with age?
 
 Number: 13
-Title: tofu
+Title: Tofu
 Description: Describe tofu, cooking methods, including recipes, and possible health effects.
-What is tofu exactly?
-How is it made?
-What are its origins?
-What is the best tofu?
-Is it a kind of cheese?
-Can I eat it raw?
-What are common ways to cook it?
-In what cuisines is it popular?
-Is tofu good for you?
-Can it make you sick?
-Is too much tofu bad for you?
+1	What is tofu exactly?
+2	How is it made?
+3	What are its origins?
+4	What is the best tofu?
+5	Is it a kind of cheese?
+6	Can I eat it raw?
+7	What are common ways to cook it?
+8	In what cuisines is it popular?
+9	Is tofu good for you?
+10	Can it make you sick?
+11	Is too much tofu bad for you?
 
 Number: 14
-Title: data center network architectures 
+Title: Data center network architectures 
 Description: Technical information about data center network architectures.
-What are scalable data center network architectures?
-What are some examples?
-Describe the characteristics of FAT tree topology.
-What routes can be taken by an upstream packet?
-Describe core, aggregator and edge switches.
-Are flows bidirectional?
-How many forwarding rules are there in each layer of the tree?
-Describe the jellyfish architecture.
-Which architecture is more resilient to failure?
+1	What are scalable data center network architectures?
+2	What are some examples?
+3	Describe the characteristics of FAT tree topology.
+4	What routes can be taken by an upstream packet?
+5	Describe core, aggregator and edge switches.
+6	Are flows bidirectional?
+7	How many forwarding rules are there in each layer of the tree?
+8	Describe the jellyfish architecture.
+9	Which architecture is more resilient to failure?
 
 Number: 15
-Title: international linguistics olympiad
+Title: International Linguistics Olympiad
 Description: Information about the International Linguistics Olympiad, and linguistics in general.
-Tell me about the International Linguistics Olympiad.
-How do I prepare for it?
-How tough is the exam?
-What kind of problems can I expect?
-Tell me about the history of linguistics as a field.
-Who was Panini and what were his contributions?
-What is the link between linguistics and computer science?
-
+1	Tell me about the International Linguistics Olympiad.
+2	How do I prepare for it?
+3	How tough is the exam?
+4	What kind of problems can I expect?
+5	Tell me about the history of linguistics as a field.
+6	Who was Panini and what were his contributions?
+7	What is the link between linguistics and computer science?
 
 Number: 16
-Title: blood sugar
+Title: Blood sugar
 Description: Blood sugar levels and possible complications that may arise due to it.
-What is a normal blood sugar level?
-What does it mean if it's higher than this?
-What is a dangerous level?
-How do you bring it down quickly?
-How fast can it rise?
-And what if it's lower than normal?
-How does this make you feel?
-Do different activities lead to an imbalance?
-Is there a relation between age and sugar levels?
+1	What is a normal blood sugar level?
+2	What does it mean if it's higher than this?
+3	What is a dangerous level?
+4	How do you bring it down quickly?
+5	How fast can it rise?
+6	And what if it's lower than normal?
+7	How does this make you feel?
+8	Do different activities lead to an imbalance?
+9	Is there a relation between age and sugar levels?
 
 Number: 17
-Title: forms of energy
+Title: Forms of energy
 Description: Energy and its various forms.
-What are the different forms of energy?
-How can it be stored?
-What type of energy is used in motion?
-Tell me about mechanical energy.
-Give me some examples.
-Why is sound a form of mechanical energy?
-How does it differ from potential energy?
-Are potential and kinetic the same?
-What type does chemical energy belong to?
-What form of energy is used in eating?
+1	What are the different forms of energy?
+2	How can it be stored?
+3	What type of energy is used in motion?
+4	Tell me about mechanical energy.
+5	Give me some examples.
+6	Why is sound a form of mechanical energy?
+7	How does it differ from potential energy?
+8	Are potential and kinetic the same?
+9	What type does chemical energy belong to?
+10	What form of energy is used in eating?
 
 Number: 18
-Title: uranus and neptune
+Title: Uranus and Neptune
 Description: Information about Uranus and Neptune.
-Describe Uranus.
-What makes it so unusual?
-Tell me about its orbit.
-Why is it tilted?
-How is its rotation different from other planets?
-What is peculiar about its seasons?
-Are there any other planets similar to it?
-Describe the characteristics of Neptune.
-Why is it important to our solar system?
-How are these two planets similar to each other?
-Can life exist on either of them?
+1	Describe Uranus.
+2	What makes it so unusual?
+3	Tell me about its orbit.
+4	Why is it tilted?
+5	How is its rotation different from other planets?
+6	What is peculiar about its seasons?
+7	Are there any other planets similar to it?
+8	Describe the characteristics of Neptune.
+9	Why is it important to our solar system?
+10	How are these two planets similar to each other?
+11	Can life exist on either of them?
 
 Number: 19
-Title: chemical reaction
+Title: Chemical reaction
 Description: Information about chemical reactions.
-What is chemical energy?
-Describe a chemical reaction.
-How is it represented mathematically?
-Give me an example.
-What are the different kinds of reactions?
-What is a decomposition reaction?
-How is it a chemical change?
-What is a synthesis reaction?
-Tell me the differences between synthesis and decomposition.
+1	What is chemical energy?
+2	Describe a chemical reaction.
+3	How is it represented mathematically?
+4	Give me an example.
+5	What are the different kinds of reactions?
+6	What is a decomposition reaction?
+7	How is it a chemical change?
+8	What is a synthesis reaction?
+9	Tell me the differences between synthesis and decomposition.
 
 Number: 20
-Title: cell membrane
+Title: Cell membrane
 Description: Information about the cell membrane and its functions.
-Describe cell membranes.
-What are its important functions?
-Tell me about the phospholipid bilayer.
-What are its functions?
-What if the membrane gets damaged?
-Do they repair themselves?
-Which nutrients may help in the repair process?
+1	Describe cell membranes.
+2	What are its important functions?
+3	Tell me about the phospholipid bilayer.
+4	What are its functions?
+5	What if the membrane gets damaged?
+6	Do they repair themselves?
+7	Which nutrients may help in the repair process?
 
 Number: 21
-Title: weathering
+Title: Weathering
 Description: General queries regarding weathering, its various types, how it affects rocks etc.
-What is weathering?
-What are its major types?
-Tell me about chemical weathering.
-How is it different from biological weathering?
-Does it change the composition of rocks?
-What is the end product of chemical weathering?
-Give me an example.
-What happens when quartz undergoes weathering?
+1	What is weathering?
+2	What are its major types?
+3	Tell me about chemical weathering.
+4	How is it different from biological weathering?
+5	Does it change the composition of rocks?
+6	What is the end product of chemical weathering?
+7	Give me an example.
+8	What happens when quartz undergoes weathering?
 
 Number: 22
-Title: spices
+Title: Spices
 Description: Questions about spices, their benefits, and their composition.
-What are the most common spices used in cooking?
-How are they different from herbs?
-Why do spices taste good?
-Where do most of them come from?
-What cuisines use them heavily?
-What are the most popular Indian ones?
-Tell me about turmeric.
-Are there any benefits of consuming it?
-What is the oldest spice?
-What is the most expensive and why?
+1	What are the most common spices used in cooking?
+2	How are they different from herbs?
+3	Why do spices taste good?
+4	Where do most of them come from?
+5	What cuisines use them heavily?
+6	What are the most popular Indian ones?
+7	Tell me about turmeric.
+8	Are there any benefits of consuming it?
+9	What is the oldest spice?
+10	What is the most expensive and why?
 
 Number: 23
-Title: cattle farming for meat and dairy
+Title: Cattle farming for meat and dairy
 Description: Inquires about two different types of cattle farming - meat and dairy.
-What are the main types of cattle farming?
-What breeds produce the most milk?
-How much do Holsteins produce?
-What is special about Jersey milk?
-Do we eat dairy cows?
-What are the most common breeds for meat?
-Where are angus beef from?
-How much space do they need?
+1	What are the main types of cattle farming?
+2	What breeds produce the most milk?
+3	How much do Holsteins produce?
+4	What is special about Jersey milk?
+5	Do we eat dairy cows?
+6	What are the most common breeds for meat?
+7	Where are angus beef from?
+8	How much space do they need?
 
 Number: 24
-Title: smoking cessation
+Title: Smoking cessation
 Description: Understanding the various ill effects of smoking and methods to prevent it.
-How can I help my friend stop smoking?
-What are its long term effects?
-Does it cause cancer?
-What makes it so addictive?
-Are there any alternatives to nicotine?
-How effective are the patches?
-Tell me about the cold turkey method.
-Describe typical withdrawal symptoms.
+1	How can I help my friend stop smoking?
+2	What are its long term effects?
+3	Does it cause cancer?
+4	What makes it so addictive?
+5	Are there any alternatives to nicotine?
+6	How effective are the patches?
+7	Tell me about the cold turkey method.
+8	Describe typical withdrawal symptoms.
 
 Number: 25
-Title: killer whales
+Title: Killer whales
 Description: More information about killer whales, and about a good time to observe them.
-Tell me about Orca whales.
-Are they really whales?
-How do they hunt?
-What do they eat?
-Where did they get their name?
-Are they dangerous?
-Where can go to watch them?
-When is a good season for spotting them?
-How does captivity affect them? 
+1	Tell me about Orca whales.
+2	Are they really whales?
+3	How do they hunt?
+4	What do they eat?
+5	Where did they get their name?
+6	Are they dangerous?
+7	Where can go to watch them?
+8	When is a good season for spotting them?
+9	How does captivity affect them? 
 
 Number: 26
-Title: chemical elements
+Title: Chemical elements
 Description: Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.
-What defines a chemical element?
-How are they related to the Periodic Table?
-How is it organised?
-How does a chemical compound differ from an element?
-What are different types of compounds?
-How are they formed?
-Which ones are important for the human body?
-What are important ones used on a daily basis?
+1	What defines a chemical element?
+2	How are they related to the Periodic Table?
+3	How is it organised?
+4	How does a chemical compound differ from an element?
+5	What are different types of compounds?
+6	How are they formed?
+7	Which ones are important for the human body?
+8	What are important ones used on a daily basis?
 
 Number: 27
-Title: dietary neds
+Title: Dietary neds
 Description: Trying to understand the importance of various dietary needs and its benefits.
-What comprises a balanced diet?
-Is it the same for men as well as women?
-What are some specific recommendations for women?
-Are dairy products necessary for a good health?
-Can it harm you instead?
-How necessary is fiber?
-What happens if it's consumed in a smaller amount than recommended?
+1	What comprises a balanced diet?
+2	Is it the same for men as well as women?
+3	What are some specific recommendations for women?
+4	Are dairy products necessary for a good health?
+5	Can it harm you instead?
+6	How necessary is fiber?
+7	What happens if it's consumed in a smaller amount than recommended?
 
 Number: 28
-Title: global warming
+Title: Global warming
 Description: Understanding global warming, its dangers and what could be done to avoid it.
-Describe global warming.
-What are its dangers?
-Are there any methods to prevent it getting worse?
-What can I do at an individual level?
-How do I reduce my carbon footprint?
-Is the US government doing anything about it?
-How is overpopulation related?
+1	Describe global warming.
+2	What are its dangers?
+3	Are there any methods to prevent it getting worse?
+4	What can I do at an individual level?
+5	How do I reduce my carbon footprint?
+6	Is the US government doing anything about it?
+7	How is overpopulation related?
 
 Number: 29
-Title: british invasion (music)
+Title: British Invasion (music)
 Description: You want to find out more about the phenomenon of British Invasion in rock music.
-What is the British Invasion in music?
-What era did it happen?
-What genre did it involve?
-What is so special about it?
-Which bands were a key part?
-What was the leading band and what was its role?
-Is it related to any other musical movements?
-What was its impact on American music?
-What other music movement succeeded it?
+1	What is the British Invasion in music?
+2	What era did it happen?
+3	What genre did it involve?
+4	What is so special about it?
+5	Which bands were a key part?
+6	What was the leading band and what was its role?
+7	Is it related to any other musical movements?
+8	What was its impact on American music?
+9	What other music movement succeeded it?
 
 Number: 30
-Title: linux and windows
+Title: Linux and Windows
 Description: A comparison of Windows and Linux, followed by some tips regarding software installation etc.
-What are some advantages of using Linux?
-Can I run Windows software in it?
-How does it compare to Windows?
-Which of these is more popular?
-How do I install software on it?
-What is an easy way to install Python?
-Tell me about how I can share files.
+1	What are some advantages of using Linux?
+2	Can I run Windows software in it?
+3	How does it compare to Windows?
+4	Which of these is more popular?
+5	How do I install software on it?
+6	What is an easy way to install Python?
+7	Tell me about how I can share files.
