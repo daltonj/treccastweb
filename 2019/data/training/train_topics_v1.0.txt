@@ -15,7 +15,7 @@ Description: Considering career options for becoming a physician's assistant vs 
 12	How much longer does it take to become a doctor after being an NP?
 
 Number: 2
-Title: Boat breeds
+Title: Goat breeds
 Description: Interested in buying goats that implies interest in different breeds of goats and their use (milk, meat, and fur).
 1	What are the main breeds of goat?
 2	Tell me about boer goats.
