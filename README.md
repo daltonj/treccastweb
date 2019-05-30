@@ -15,7 +15,8 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 # Data
 
 ## Topics
- * [Training topics year 1 V1.0](./2019/data/training/train_topics_v1.0.txt)- 30 example training topics
+ * [Training topics year 1 V1.0](./2019/data/training/train_topics_v1.0.txt) - 30 example training topics
+ * Coming soon: Partial judgment data for a subset of training topics
  * Additional resources: MS MARCO Conversational Search Sessions  [Conversational Search data](https://github.com/microsoft/MSMARCO-Conversational-Search) and [train data](https://msmarco.blob.core.windows.net/conversationalsearch/ann_session_train.tar.gz) is released.
 
 ## Collection
@@ -23,10 +24,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
  * The [MS MARCO Passage Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collection.tar.gz)
  * The [TREC CAR paragraph collection v2.0](http://trec-car.cs.unh.edu/datareleases/v2.0/paragraphCorpus.v2.0.tar.xz)
  * The [TREC Washington Post Corpus](https://trec.nist.gov/data/wapost/): Note requires an organizational agreement.
- 
-### MARCO Duplicate filtering
- * Note: The MS MARCO collection contains duplicate passages.  We have made a pass at clustering duplicates; the following file of duplicate paragraphs should omitted from the colleciton.
- 
+  
 ### Document ID format
  * The collection id is `[collection_id_paragraph_id]` with collection and paragraph separated by an underscore.
  * The collection ids are in the set: `{MARCO, CAR, WAPO}`. 
