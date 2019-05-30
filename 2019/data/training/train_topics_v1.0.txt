@@ -1,18 +1,18 @@
 Number: 1
 Title: career choice for nursing and physician's assistant
 Description: Considering career options for becoming a physician's assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
-What is a physician's assistant?
-What are the educational requirements required to become one?
-What does it cost?
-What's the average starting salary in the UK?
-What about in the US?
-What school subjects are needed to become a registered nurse?
-What is the PA average salary vs an RN?
-What the difference between a PA and a nurse practitioner? 
-Do NPs or PAs make more?
-Is a PA above a NP?
-What is the fastest way to become a NP?
-How much longer does it take to become a doctor after being an NP?
+1. What is a physician's assistant?
+2. What are the educational requirements required to become one?
+3. What does it cost?
+4. What's the average starting salary in the UK?
+5. What about in the US?
+6. What school subjects are needed to become a registered nurse?
+7. What is the PA average salary vs an RN?
+8. What the difference between a PA and a nurse practitioner?
+9. Do NPs or PAs make more?
+10. Is a PA above a NP?
+11. What is the fastest way to become a NP?
+12. How much longer does it take to become a doctor after being an NP?
 
 Number: 2
 Title: goat breeds
@@ -46,7 +46,7 @@ What is the best exercise for it?
 
 Number: 4
 Title: neolithic revolution
-Description: The neolithic revolution and technology used within it and when it emerged in the british isles.  Also, the transition to the bronze age and its significance. 
+Description: The neolithic revolution and technology used within it and when it emerged in the british isles.  Also, the transition to the bronze age and its significance.
 What was the neolithic revolution?
 When did it start and end?
 Why did it start?
@@ -74,14 +74,13 @@ How about one for chili?
 Number: 6
 Title: judicial history
 Description: Judicial history in the US including key court cases and what they established.
-Source: MARCO sessions
 What are the most important US supreme court cases?
-What did plessy v. ferguson establish?
-How about marbury vs madison?
+What did Plessy v. Ferguson establish?
+How about Marbury vs Madison?
 Was it unanimous?
-What was the implication of roe vs wade?
+What was the implication of Roe vs Wade?
 What were the main arguments?
-What was the point of brown v board of ed?
+What was the point of Brown v Board of Ed?
 What were the main arguments?
 Why is it important today?
 
@@ -93,7 +92,7 @@ Tell me about the characteristics of carbohydrates.
 What are they composed of?
 What is their basic structure?
 What are the main types with examples of each?
-Tell me about lipids
+Tell me about lipids.
 What is their function?
 What are the types of lipids?
 What is the most common?
@@ -103,8 +102,8 @@ Why are carbs better?
 Number: 8
 Title: securities acts
 Description: Find information regarding U.S. securities acts, as well as where securities are traded.
-What was the securities act of 1933?
-What is exempt from it? 
+What was the Securities Act of 1933?
+What is exempt from it?
 Why was it needed?
 What was the reason for creating the 1934 act?
 What is the largest securities exchange in the world?
@@ -120,7 +119,7 @@ Tell me about its career options.
 Are Data Scientists in high demand?
 How much do they make on average in a year?
 What is range in statistics?
-Describe some different metrics to interpret it
+Describe some different metrics to interpret it.
 What are quartiles?
 How do you find the lower and upper quartile?
 
@@ -133,7 +132,7 @@ Why isn't the bottom of the ocean frozen?
 Can the bottom of the ocean freeze?
 Where is the coldest place on Earth?
 Does Dome Fuji have inhabitants?
-Why is antarctica so cold?
+Why is Antarctica so cold?
 How cold is the water underneath the ice?
 What is the biggest town?
 
@@ -146,34 +145,34 @@ Why are most of the constructions inspired by these designs?
 What are the different domains where such designs have been adapted?
 How has it affected technology?
 How have the different giants in the business responded to this?
-Has its introduction lead to increase in business?
+Has its introduction led to increase in business?
 If designs are already futuristic, how will this change in the future? 
 
 Number: 12
 Title: lasik surgery
 Description: Find information about LASIK surgery, including its pros and cons, alternatives etc.
 What is a good age to get LASIK?
-Give me a short description of the procedure
+Give me a short description of the procedure.
 What are its benefits?
-What are the risks? 
-Describe experiences of some people who had it this done.
+What are the risks?
+Describe experiences of some people who had it done.
 Are there any good alternatives to it?
 What is its success rate?
 Once it's done, what kind of precautions do I need to take?
-Does the effect of wear off with age?
+Does the effect wear off with age?
 
 Number: 13
 Title: tofu
-Description: Describe tofu, cooking methods, including recipes, and possible health effects. 
-What is tofu exactly? 
+Description: Describe tofu, cooking methods, including recipes, and possible health effects.
+What is tofu exactly?
 How is it made?
 What are its origins?
 What is the best tofu?
 Is it a kind of cheese?
 Can I eat it raw?
-What are common ways to cook it? 
+What are common ways to cook it?
 In what cuisines is it popular?
-Is tofu good for you? 
+Is tofu good for you?
 Can it make you sick?
 Is too much tofu bad for you?
 
@@ -181,10 +180,10 @@ Number: 14
 Title: data center network architectures 
 Description: Technical information about data center network architectures.
 What are scalable data center network architectures?
-What are some examples? 
+What are some examples?
 Describe the characteristics of FAT tree topology.
 What routes can be taken by an upstream packet?
-Describe core, aggregator and edge switches
+Describe core, aggregator and edge switches.
 Are flows bidirectional?
 How many forwarding rules are there in each layer of the tree?
 Describe the jellyfish architecture.
@@ -222,7 +221,7 @@ What are the different forms of energy?
 How can it be stored?
 What type of energy is used in motion?
 Tell me about mechanical energy.
-Give me some examples
+Give me some examples.
 Why is sound a form of mechanical energy?
 How does it differ from potential energy?
 Are potential and kinetic the same?
@@ -232,30 +231,30 @@ What form of energy is used in eating?
 Number: 18
 Title: uranus and neptune
 Description: Information about Uranus and Neptune.
-Describe Uranus
+Describe Uranus.
 What makes it so unusual?
-Tell me about its orbit
+Tell me about its orbit.
 Why is it tilted?
 How is its rotation different from other planets?
-What is peculiar the seasons on it?
+What is peculiar about its seasons?
 Are there any other planets similar to it?
 Describe the characteristics of Neptune.
 Why is it important to our solar system?
-How are these two planets similar to each other?  
-Can life exist on either of them? 
+How are these two planets similar to each other?
+Can life exist on either of them?
 
 Number: 19
 Title: chemical reaction
-Description: Information about chemical reactions
+Description: Information about chemical reactions.
 What is chemical energy?
-Describe a chemical reaction
+Describe a chemical reaction.
 How is it represented mathematically?
-Give me an example
+Give me an example.
 What are the different kinds of reactions?
 What is a decomposition reaction?
 How is it a chemical change?
 What is a synthesis reaction?
-Tell me the differences between synthesis and decomposition
+Tell me the differences between synthesis and decomposition.
 
 Number: 20
 Title: cell membrane
@@ -273,11 +272,11 @@ Title: weathering
 Description: General queries regarding weathering, its various types, how it affects rocks etc.
 What is weathering?
 What are its major types?
-Tell me about chemical weathering
+Tell me about chemical weathering.
 How is it different from biological weathering?
 Does it change the composition of rocks?
 What is the end product of chemical weathering?
-Give me an example
+Give me an example.
 What happens when quartz undergoes weathering?
 
 Number: 22
@@ -289,22 +288,22 @@ Why do spices taste good?
 Where do most of them come from?
 What cuisines use them heavily?
 What are the most popular Indian ones?
-Tell me about turmeric
+Tell me about turmeric.
 Are there any benefits of consuming it?
 What is the oldest spice?
 What is the most expensive and why?
 
 Number: 23
-Title: cattle farming for meat and dairy 
-Description: Enquires about two different types of cattle farming - meat and dairy. 
+Title: cattle farming for meat and dairy
+Description: Inquires about two different types of cattle farming - meat and dairy.
 What are the main types of cattle farming?
-What breeds produce the most milk? 
+What breeds produce the most milk?
 How much do Holsteins produce?
-What is special about Jersey milk? 
+What is special about Jersey milk?
 Do we eat dairy cows?
 What are the most common breeds for meat?
 Where are angus beef from?
-How much space do they need? 
+How much space do they need?
 
 Number: 24
 Title: smoking cessation
@@ -315,26 +314,26 @@ Does it cause cancer?
 What makes it so addictive?
 Are there any alternatives to nicotine?
 How effective are the patches?
-Tell me about the cold turkey method
-Describe typical withdrawal symptoms
+Tell me about the cold turkey method.
+Describe typical withdrawal symptoms.
 
 Number: 25
 Title: killer whales
 Description: More information about killer whales, and about a good time to observe them.
-Tell me about orca whales
+Tell me about Orca whales.
 Are they really whales?
 How do they hunt?
 What do they eat?
 Where did they get their name?
 Are they dangerous?
-Where can go to watch them? 
+Where can go to watch them?
 When is a good season for spotting them?
 How does captivity affect them? 
 
 Number: 26
 Title: chemical elements
 Description: Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.
-What defines a chemical element? 
+What defines a chemical element?
 How are they related to the Periodic Table?
 How is it organised?
 How does a chemical compound differ from an element?
@@ -357,7 +356,7 @@ What happens if it's consumed in a smaller amount than recommended?
 Number: 28
 Title: global warming
 Description: Understanding global warming, its dangers and what could be done to avoid it.
-Describe global warming
+Describe global warming.
 What are its dangers?
 Are there any methods to prevent it getting worse?
 What can I do at an individual level?
@@ -367,12 +366,12 @@ How is overpopulation related?
 
 Number: 29
 Title: british invasion (music)
-Description: You want to find out more about the phenomenon of British Invasion in Rock Music.
-What is the British Invasion in Music?
+Description: You want to find out more about the phenomenon of British Invasion in rock music.
+What is the British Invasion in music?
 What era did it happen?
 What genre did it involve?
 What is so special about it?
-Which bands were key part of that?
+Which bands were a key part?
 What was the leading band and what was its role?
 Is it related to any other musical movements?
 What was its impact on American music?
