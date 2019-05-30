@@ -1,4 +1,4 @@
-Number: 0
+Number: 1
 Title: career choice for nursing and physician's assistant
 Description: Considering career options for becoming a physician's assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
 What is a physician's assistant?
@@ -14,7 +14,7 @@ Is a PA above a NP?
 What is the fastest way to become a NP?
 How much longer does it take to become a doctor after being an NP?
 
-Number: 1
+Number: 2
 Title: goat breeds
 Description: Interested in buying goats that implies interest in different breeds of goats and their use (milk, meat, and fur).
 What are the main breeds of goat?
@@ -29,7 +29,7 @@ Can you milk them?
 How many can you have per acre?
 Are they profitable?
 
-Number: 2
+Number: 3
 Title: irregular heart beat
 Description: Find information about irregular heart beat.  This includes atrial fibrillation (afib) and atrial flutter), sinus bradycardia, and tachycardia.
 Tell me about the types of irregular heart beat.
@@ -44,7 +44,7 @@ What triggers it?
 How do you stop an attack?
 What is the best exercise for it?
 
-Number: 3
+Number: 4
 Title: neolithic revolution
 Description: The neolithic revolution and technology used within it and when it emerged in the british isles.  Also, the transition to the bronze age and its significance. 
 What was the neolithic revolution?
@@ -57,7 +57,7 @@ Describe the period that follows it.
 What was its significance?
 What were the houses like?
 
-Number: 4
+Number: 5
 Title: cooking turkey
 Description: Information about cooking a turkey including brining it, smoking it, and using leftovers (including recipes).
 What are the best ways to cook a turkey?
@@ -71,7 +71,7 @@ How long are leftovers good for in the fridge?
 What's a recipe for smoked turkey soup?
 How about one for chili?
 
-Number: 5
+Number: 6
 Title: judicial history
 Description: Judicial history in the US including key court cases and what they established.
 Source: MARCO sessions
@@ -85,7 +85,7 @@ What was the point of brown v board of ed?
 What were the main arguments?
 Why is it important today?
 
-Number: 6
+Number: 7
 Title: macromolecules
 Description: A comparison of types of basic macromolecules: carbohydrates and lipids. 
 What are the different types of macromolecules?
@@ -100,8 +100,8 @@ What is the most common?
 What is the difference between them and carbohydrates?
 Why are carbs better?
 
-Number: 7
-Title: securities act
+Number: 8
+Title: securities acts
 Description: Find information regarding U.S. securities acts, as well as where securities are traded.
 What was the securities act of 1933?
 What is exempt from it? 
@@ -111,7 +111,7 @@ What is the largest securities exchange in the world?
 How and when when was it created?
 What was the first stock market? 
 
-Number: 8
+Number: 9
 Title: statistics and studying it for a career
 Description:  Explore metrics for understanding range in statistics, and career options in statistics.
 Why is statistics important?
@@ -124,7 +124,7 @@ Describe some different metrics to interpret it
 What are quartiles?
 How do you find the lower and upper quartile?
 
-Number: 9
+Number: 10
 Title: freezing water and coldest places on earth
 Description: Requires information about the process involved in freezing of water. Also, requests information about the coldest places on Earth in Antarctica.
 How does water freeze?
@@ -137,7 +137,7 @@ Why is antarctica so cold?
 How cold is the water underneath the ice?
 What is the biggest town?
 
-Number: 10
+Number: 11
 Title: futuristic designs
 Description: General questions regarding futuristic designs and how it has affected the world of technology.
 What are  futuristic designs?
@@ -149,7 +149,7 @@ How have the different giants in the business responded to this?
 Has its introduction lead to increase in business?
 If designs are already futuristic, how will this change in the future? 
 
-Number: 11
+Number: 12
 Title: lasik surgery
 Description: Find information about LASIK surgery, including its pros and cons, alternatives etc.
 What is a good age to get LASIK?
@@ -162,7 +162,7 @@ What is its success rate?
 Once it's done, what kind of precautions do I need to take?
 Does the effect of wear off with age?
 
-Number: 12
+Number: 13
 Title: tofu
 Description: Describe tofu, cooking methods, including recipes, and possible health effects. 
 What is tofu exactly? 
@@ -177,7 +177,7 @@ Is tofu good for you?
 Can it make you sick?
 Is too much tofu bad for you?
 
-Number: 13
+Number: 14
 Title: data center network architectures 
 Description: Technical information about data center network architectures.
 What are scalable data center network architectures?
@@ -190,7 +190,7 @@ How many forwarding rules are there in each layer of the tree?
 Describe the jellyfish architecture.
 Which architecture is more resilient to failure?
 
-Number: 14
+Number: 15
 Title: international linguistics olympiad
 Description: Information about the International Linguistics Olympiad, and linguistics in general.
 Tell me about the International Linguistics Olympiad.
@@ -202,7 +202,7 @@ Who was Panini and what were his contributions?
 What is the link between linguistics and computer science?
 
 
-Number: 15
+Number: 16
 Title: blood sugar
 Description: Blood sugar levels and possible complications that may arise due to it.
 What is a normal blood sugar level?
@@ -215,7 +215,7 @@ How does this make you feel?
 Do different activities lead to an imbalance?
 Is there a relation between age and sugar levels?
 
-Number: 16
+Number: 17
 Title: forms of energy
 Description: Energy and its various forms.
 What are the different forms of energy?
@@ -229,7 +229,7 @@ Are potential and kinetic the same?
 What type does chemical energy belong to?
 What form of energy is used in eating?
 
-Number: 17
+Number: 18
 Title: uranus and neptune
 Description: Information about Uranus and Neptune.
 Describe Uranus
@@ -244,7 +244,7 @@ Why is it important to our solar system?
 How are these two planets similar to each other?  
 Can life exist on either of them? 
 
-Number: 18
+Number: 19
 Title: chemical reaction
 Description: Information about chemical reactions
 What is chemical energy?
@@ -257,7 +257,7 @@ How is it a chemical change?
 What is a synthesis reaction?
 Tell me the differences between synthesis and decomposition
 
-Number: 19
+Number: 20
 Title: cell membrane
 Description: Information about the cell membrane and its functions.
 Describe cell membranes.
@@ -268,7 +268,7 @@ What if the membrane gets damaged?
 Do they repair themselves?
 Which nutrients may help in the repair process?
 
-Number: 20
+Number: 21
 Title: weathering
 Description: General queries regarding weathering, its various types, how it affects rocks etc.
 What is weathering?
@@ -280,7 +280,7 @@ What is the end product of chemical weathering?
 Give me an example
 What happens when quartz undergoes weathering?
 
-Number: 21
+Number: 22
 Title: spices
 Description: Questions about spices, their benefits, and their composition.
 What are the most common spices used in cooking?
@@ -294,7 +294,7 @@ Are there any benefits of consuming it?
 What is the oldest spice?
 What is the most expensive and why?
 
-Number: 22
+Number: 23
 Title: cattle farming for meat and dairy 
 Description: Enquires about two different types of cattle farming - meat and dairy. 
 What are the main types of cattle farming?
@@ -306,7 +306,7 @@ What are the most common breeds for meat?
 Where are angus beef from?
 How much space do they need? 
 
-Number: 23
+Number: 24
 Title: smoking cessation
 Description: Understanding the various ill effects of smoking and methods to prevent it.
 How can I help my friend stop smoking?
@@ -318,7 +318,7 @@ How effective are the patches?
 Tell me about the cold turkey method
 Describe typical withdrawal symptoms
 
-Number: 24
+Number: 25
 Title: killer whales
 Description: More information about killer whales, and about a good time to observe them.
 Tell me about orca whales
@@ -331,7 +331,7 @@ Where can go to watch them?
 When is a good season for spotting them?
 How does captivity affect them? 
 
-Number: 25
+Number: 26
 Title: chemical elements
 Description: Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.
 What defines a chemical element? 
@@ -343,7 +343,7 @@ How are they formed?
 Which ones are important for the human body?
 What are important ones used on a daily basis?
 
-Number: 26
+Number: 27
 Title: dietary neds
 Description: Trying to understand the importance of various dietary needs and its benefits.
 What comprises a balanced diet?
@@ -354,7 +354,7 @@ Can it harm you instead?
 How necessary is fiber?
 What happens if it's consumed in a smaller amount than recommended?
 
-Number: 27
+Number: 28
 Title: global warming
 Description: Understanding global warming, its dangers and what could be done to avoid it.
 Describe global warming
@@ -365,7 +365,7 @@ How do I reduce my carbon footprint?
 Is the US government doing anything about it?
 How is overpopulation related?
 
-Number: 28
+Number: 29
 Title: british invasion (music)
 Description: You want to find out more about the phenomenon of British Invasion in Rock Music.
 What is the British Invasion in Music?
@@ -378,7 +378,7 @@ Is it related to any other musical movements?
 What was its impact on American music?
 What other music movement succeeded it?
 
-Number: 29
+Number: 30
 Title: linux and windows
 Description: A comparison of Windows and Linux, followed by some tips regarding software installation etc.
 What are some advantages of using Linux?
