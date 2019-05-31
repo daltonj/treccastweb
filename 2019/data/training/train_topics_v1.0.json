@@ -1,0 +1,1288 @@
+[
+  {
+    "number": 1,
+    "description": "Considering career options for becoming a physician\u0027s assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is a physician\u0027s assistant?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are the educational requirements required to become one?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What does it cost?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What\u0027s the average starting salary in the UK?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What about in the US?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What school subjects are needed to become a registered nurse?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the PA average salary vs an RN?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What the difference between a PA and a nurse practitioner?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Do NPs or PAs make more?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Is a PA above a NP?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "What is the fastest way to become a NP?"
+      },
+      {
+        "number": 12,
+        "raw_utterance": "How much longer does it take to become a doctor after being an NP?"
+      }
+    ],
+    "title": "Career choice for Nursing and Physician\u0027s Assistant"
+  },
+  {
+    "number": 2,
+    "description": "Interested in buying goats that implies interest in different breeds of goats and their use (milk, meat, and fur).",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the main breeds of goat?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Tell me about boer goats."
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What breed is good for meat?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Are angora goats good for it?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What about boer goats?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are pygmies used for?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the best for fiber production?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How long do Angora goats live?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Can you milk them?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How many can you have per acre?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "Are they profitable?"
+      }
+    ],
+    "title": "Goat breeds"
+  },
+  {
+    "number": 3,
+    "description": "Find information about irregular heart beat.  This includes atrial fibrillation (afib) and atrial flutter), sinus bradycardia, and tachycardia.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about the types of irregular heart beat."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How serious is an irregular heart beat?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are the different types of tachycardia?  "
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is atrial flutter?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What causes it?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What\u0027s the difference between flutter and fibrillation?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How does afib affect an ECG?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Does it shorten your life?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What triggers it?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How do you stop an attack?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "What is the best exercise for it?"
+      }
+    ],
+    "title": "Irregular heart beat"
+  },
+  {
+    "number": 4,
+    "description": "The neolithic revolution and technology used within it and when it emerged in the british isles.  Also, the transition to the bronze age and its significance.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What was the neolithic revolution?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "When did it start and end?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why did it start?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What did the neolithic invent?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What tools were used?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "When was it brought to the british isles?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Describe the period that follows it."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What was its significance?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What were the houses like?"
+      }
+    ],
+    "title": "The Neolithic Revolution"
+  },
+  {
+    "number": 5,
+    "description": "Information about cooking a turkey including brining it, smoking it, and using leftovers (including recipes).",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the best ways to cook a turkey?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Should I brine a turkey before smoking it?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How much salt do I use to brine it?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What kind of wood should I use?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How long should it be smoked for?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Is smoked turkey healthy?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What can you do with leftovers?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How long are leftovers good for in the fridge?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What\u0027s a recipe for smoked turkey soup?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How about one for chili?"
+      }
+    ],
+    "title": "Cooking turkey"
+  },
+  {
+    "number": 6,
+    "description": "Judicial history in the US including key court cases and what they established.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the most important US supreme court cases?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What did Plessy v. Ferguson establish?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How about Marbury vs Madison?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Was it unanimous?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What was the implication of Roe vs Wade?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What were the main arguments?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What was the point of Brown v Board of Ed?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What were the main arguments?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Why is it important today?"
+      }
+    ],
+    "title": "Judicial history"
+  },
+  {
+    "number": 7,
+    "description": "A comparison of types of basic macromolecules: carbohydrates and lipids.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the different types of macromolecules?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Tell me about the characteristics of carbohydrates."
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are they composed of?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is their basic structure?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are the main types with examples of each?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Tell me about lipids."
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is their function?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are the types of lipids?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What is the most common?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is the difference between them and carbohydrates?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "Why are carbs better?"
+      }
+    ],
+    "title": "Macromolecules"
+  },
+  {
+    "number": 8,
+    "description": "Find information regarding U.S. securities acts, as well as where securities are traded.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What was the Securities Act of 1933?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is exempt from it?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why was it needed?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What was the reason for creating the 1934 act?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is the largest securities exchange in the world?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How and when when was it created?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What was the first stock market? "
+      }
+    ],
+    "title": "Securities acts"
+  },
+  {
+    "number": 9,
+    "description": "Explore metrics for understanding range in statistics, and career options in statistics.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Why is statistics important?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Why should one study it?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about its career options."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Are Data Scientists in high demand?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How much do they make on average in a year?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is range in statistics?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Describe some different metrics to interpret it."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are quartiles?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How do you find the lower and upper quartile?"
+      }
+    ],
+    "title": "Statistics and studying it for a career"
+  },
+  {
+    "number": 10,
+    "description": "Requires information about the process involved in freezing of water. Also, requests information about the coldest places on Earth in Antarctica.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "How does water freeze?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What happens to its molecules?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why isn\u0027t the bottom of the ocean frozen?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Can the bottom of the ocean freeze?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Where is the coldest place on Earth?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Does Dome Fuji have inhabitants?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Why is Antarctica so cold?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How cold is the water underneath the ice?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What is the biggest town?"
+      }
+    ],
+    "title": "Freezing water and coldest places on Earth"
+  },
+  {
+    "number": 11,
+    "description": "General questions regarding futuristic designs and how it has affected the world of technology.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are  futuristic designs?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How did this become a new trend?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why are most of the constructions inspired by these designs?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are the different domains where such designs have been adapted?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How has it affected technology?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How have the different giants in the business responded to this?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Has its introduction led to increase in business?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "If designs are already futuristic, how will this change in the future? "
+      }
+    ],
+    "title": "Futuristic designs"
+  },
+  {
+    "number": 12,
+    "description": "Find information about LASIK surgery, including its pros and cons, alternatives etc.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is a good age to get LASIK?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Give me a short description of the procedure."
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are its benefits?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are the risks?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Describe experiences of some people who had it done."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Are there any good alternatives to it?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is its success rate?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Once it\u0027s done, what kind of precautions do I need to take?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Does the effect wear off with age?"
+      }
+    ],
+    "title": "LASIK surgery"
+  },
+  {
+    "number": 13,
+    "description": "Describe tofu, cooking methods, including recipes, and possible health effects.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is tofu exactly?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How is it made?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are its origins?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is the best tofu?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Is it a kind of cheese?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Can I eat it raw?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What are common ways to cook it?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "In what cuisines is it popular?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Is tofu good for you?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Can it make you sick?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "Is too much tofu bad for you?"
+      }
+    ],
+    "title": "Tofu"
+  },
+  {
+    "number": 14,
+    "description": "Technical information about data center network architectures.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are scalable data center network architectures?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are some examples?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Describe the characteristics of FAT tree topology."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What routes can be taken by an upstream packet?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Describe core, aggregator and edge switches."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Are flows bidirectional?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How many forwarding rules are there in each layer of the tree?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Describe the jellyfish architecture."
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Which architecture is more resilient to failure?"
+      }
+    ],
+    "title": "Data center network architectures"
+  },
+  {
+    "number": 15,
+    "description": "Information about the International Linguistics Olympiad, and linguistics in general.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about the International Linguistics Olympiad."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How do I prepare for it?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How tough is the exam?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What kind of problems can I expect?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Tell me about the history of linguistics as a field."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Who was Panini and what were his contributions?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the link between linguistics and computer science?"
+      }
+    ],
+    "title": "International Linguistics Olympiad"
+  },
+  {
+    "number": 16,
+    "description": "Blood sugar levels and possible complications that may arise due to it.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is a normal blood sugar level?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What does it mean if it\u0027s higher than this?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is a dangerous level?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How do you bring it down quickly?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How fast can it rise?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "And what if it\u0027s lower than normal?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How does this make you feel?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Do different activities lead to an imbalance?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Is there a relation between age and sugar levels?"
+      }
+    ],
+    "title": "Blood sugar"
+  },
+  {
+    "number": 17,
+    "description": "Energy and its various forms.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the different forms of energy?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How can it be stored?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What type of energy is used in motion?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Tell me about mechanical energy."
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Give me some examples."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Why is sound a form of mechanical energy?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How does it differ from potential energy?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Are potential and kinetic the same?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What type does chemical energy belong to?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What form of energy is used in eating?"
+      }
+    ],
+    "title": "Forms of energy"
+  },
+  {
+    "number": 18,
+    "description": "Information about Uranus and Neptune.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Describe Uranus."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What makes it so unusual?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about its orbit."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Why is it tilted?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How is its rotation different from other planets?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is peculiar about its seasons?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Are there any other planets similar to it?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Describe the characteristics of Neptune."
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Why is it important to our solar system?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How are these two planets similar to each other?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "Can life exist on either of them?"
+      }
+    ],
+    "title": "Uranus and Neptune"
+  },
+  {
+    "number": 19,
+    "description": "Information about chemical reactions.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is chemical energy?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Describe a chemical reaction."
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How is it represented mathematically?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Give me an example."
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are the different kinds of reactions?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is a decomposition reaction?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How is it a chemical change?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is a synthesis reaction?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Tell me the differences between synthesis and decomposition."
+      }
+    ],
+    "title": "Chemical reaction"
+  },
+  {
+    "number": 20,
+    "description": "Information about the cell membrane and its functions.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Describe cell membranes."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its important functions?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about the phospholipid bilayer."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are its functions?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What if the membrane gets damaged?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Do they repair themselves?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Which nutrients may help in the repair process?"
+      }
+    ],
+    "title": "Cell membrane"
+  },
+  {
+    "number": 21,
+    "description": "General queries regarding weathering, its various types, how it affects rocks etc.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is weathering?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its major types?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about chemical weathering."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How is it different from biological weathering?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Does it change the composition of rocks?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is the end product of chemical weathering?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Give me an example."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What happens when quartz undergoes weathering?"
+      }
+    ],
+    "title": "Weathering"
+  },
+  {
+    "number": 22,
+    "description": "Questions about spices, their benefits, and their composition.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the most common spices used in cooking?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How are they different from herbs?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why do spices taste good?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Where do most of them come from?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What cuisines use them heavily?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are the most popular Indian ones?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Tell me about turmeric."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Are there any benefits of consuming it?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What is the oldest spice?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is the most expensive and why?"
+      }
+    ],
+    "title": "Spices"
+  },
+  {
+    "number": 23,
+    "description": "Inquires about two different types of cattle farming - meat and dairy.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the main types of cattle farming?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What breeds produce the most milk?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How much do Holsteins produce?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is special about Jersey milk?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Do we eat dairy cows?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are the most common breeds for meat?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Where are angus beef from?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How much space do they need?"
+      }
+    ],
+    "title": "Cattle farming for meat and dairy"
+  },
+  {
+    "number": 24,
+    "description": "Understanding the various ill effects of smoking and methods to prevent it.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "How can I help my friend stop smoking?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its long term effects?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Does it cause cancer?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What makes it so addictive?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Are there any alternatives to nicotine?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How effective are the patches?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Tell me about the cold turkey method."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Describe typical withdrawal symptoms."
+      }
+    ],
+    "title": "Smoking cessation"
+  },
+  {
+    "number": 25,
+    "description": "More information about killer whales, and about a good time to observe them.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about Orca whales."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Are they really whales?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How do they hunt?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What do they eat?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Where did they get their name?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Are they dangerous?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Where can go to watch them?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "When is a good season for spotting them?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How does captivity affect them? "
+      }
+    ],
+    "title": "Killer whales"
+  },
+  {
+    "number": 26,
+    "description": "Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What defines a chemical element?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How are they related to the Periodic Table?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How is it organised?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How does a chemical compound differ from an element?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are different types of compounds?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How are they formed?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Which ones are important for the human body?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are important ones used on a daily basis?"
+      }
+    ],
+    "title": "Chemical elements"
+  },
+  {
+    "number": 27,
+    "description": "Trying to understand the importance of various dietary needs and its benefits.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What comprises a balanced diet?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Is it the same for men as well as women?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are some specific recommendations for women?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Are dairy products necessary for a good health?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Can it harm you instead?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How necessary is fiber?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What happens if it\u0027s consumed in a smaller amount than recommended?"
+      }
+    ],
+    "title": "Dietary neds"
+  },
+  {
+    "number": 28,
+    "description": "Understanding global warming, its dangers and what could be done to avoid it.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Describe global warming."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its dangers?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Are there any methods to prevent it getting worse?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What can I do at an individual level?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How do I reduce my carbon footprint?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Is the US government doing anything about it?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How is overpopulation related?"
+      }
+    ],
+    "title": "Global warming"
+  },
+  {
+    "number": 29,
+    "description": "You want to find out more about the phenomenon of British Invasion in rock music.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is the British Invasion in music?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What era did it happen?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What genre did it involve?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is so special about it?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Which bands were a key part?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What was the leading band and what was its role?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Is it related to any other musical movements?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What was its impact on American music?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What other music movement succeeded it?"
+      }
+    ],
+    "title": "British Invasion (music)"
+  },
+  {
+    "number": 30,
+    "description": "A comparison of Windows and Linux, followed by some tips regarding software installation etc.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are some advantages of using Linux?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Can I run Windows software in it?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How does it compare to Windows?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Which of these is more popular?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How do I install software on it?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is an easy way to install Python?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Tell me about how I can share files."
+      }
+    ],
+    "title": "Linux and Windows"
+  }
+]
