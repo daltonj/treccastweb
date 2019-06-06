@@ -1,0 +1,40 @@
+-----------------------------------------------------------------------
+TREC 2019 Conversational Assistance Track (CAsT)
+-----------------------------------------------------------------------
+
+Webpage: http://treccast.ai
+Twitter: @treccast
+Mailing List: https://groups.google.com/forum/#!forum/trec-cast
+
+ --- GOALS  ---
+The goal is to advance Conversational Information Seeking research and create large-scale reusable test collections for open-domain conversational search systems. 
+
+This is the first year of TREC CAsT, which is running as a track in the Text Retrieval Conference (TREC). The main task is that, given a sequence of utterances that a user might ask to a conversational agent like the Google Assistant, Cortana, Siri, or Alexa, to retrieve relevant content that satisfies the user's information need. This requires: 
+ * Tracking the evolution of the information need in the conversation and identifying salient information for each turn
+ * Retrieving candidate response passages from a large heterogeneous collection of paragraphs
+
+--- Task Description ---
+See the website (http://treccast.ai) for full details, including the Year 1 Task Guidelines and trainings topics. 
+
+For year 1, participants of the track will be challenged with retrieving relevant paragraphs for each turn in a conversational topic. 
+* Topics: Manually developed information seeking topics  
+* Data collection: (1) Wikipedia paragraphs, (2) Microsoft MARCO web passages, (3) Washington Post news 
+
+Note: Where possible we link our topics to the recently released MS MARCO Conversational Search corpus, a large collection of artificial information seeking sessions linked to the MS MARCO dataset. 
+
+--- Important Dates ---
+ASAP: TREC Registration: https://ir.nist.gov/trecsubmit.open/application.html 
+Note: To register, send an email to trec@nist.gov to obtain a registration key. 
+
+Test topic release: June 12th
+Run submission: August 16th
+System papers due: Late October
+Conference at NIST: November 13-15 2019
+
+--- Organizing Committee ---
+Jeff Dalton, University of Glasgow
+Chenyan Xiong, Microsoft Research AI
+Jamie Callan, Carnegie-Mellon University
+
+--- Contact --- 
+Mailing list: trec-cast@googlegroups.com
