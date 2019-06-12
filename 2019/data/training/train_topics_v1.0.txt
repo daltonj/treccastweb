@@ -342,7 +342,7 @@ Description: Understanding various aspects of chemical elements, including how t
 8	What are important ones used on a daily basis?
 
 Number: 27
-Title: Dietary neds
+Title: Dietary needs
 Description: Trying to understand the importance of various dietary needs and its benefits.
 1	What comprises a balanced diet?
 2	Is it the same for men as well as women?
