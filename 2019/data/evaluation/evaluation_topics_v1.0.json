@@ -1,0 +1,2267 @@
+[
+  {
+    "number": 31,
+    "description": "A person is trying to compare and contrast types of cancer in the throat, esophagus, and lungs.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is throat cancer?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Is it treatable?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about lung cancer."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are its symptoms? "
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Can it spread to the throat?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What causes throat cancer?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the first sign of it?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Is it the same as esophageal cancer?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What\u0027s the difference in their symptoms?"
+      }
+    ],
+    "title": "head and neck cancer"
+  },
+  {
+    "number": 32,
+    "description": "Information about sharks including several of the main types of sharks, their biological properties including size (whether they have teeth), as well as adaptations.  This includes difference between sharks and whales.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the different types of sharks?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Are sharks endangered?  If so, which species?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me more about tiger sharks."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is the largest ever to have lived on Earth?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What\u0027s the biggest ever caught?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What about for great whites?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Tell me about makos."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are their adaptations?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Where do they live?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What do they eat?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "How do they compare with tigers for being dangerous?"
+      }
+    ],
+    "title": "sharks"
+  },
+  {
+    "number": 33,
+    "description": "Information about The Neverending Story the novel as well as the film adaptations. It should start with the recent film and discuss the novel adaptation.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about the Neverending Story film."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is it about?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How was it received?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Did it win any awards?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Was it a book first?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Who was the author and when what it published?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What are the main themes?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Who are the main characters?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are the differences between the book and movies?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Did the horse Artax really die?"
+      }
+    ],
+    "title": "Neverending Story film and novel adaptation"
+  },
+  {
+    "number": 34,
+    "description": "The Bronze Age collapse and the transition into a dark age.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about the Bronze Age collapse."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is the evidence for it?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are some of the possible causes?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Who were the Sea Peoples?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What was their role in it?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What other factors led to a breakdown of trade?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What about environmental factors?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What empires survived?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What came after it?"
+      }
+    ],
+    "title": "Bronze Age collapse"
+  },
+  {
+    "number": 35,
+    "description": "The history of the toilet and the evolution of indoor and outdoor sanitation systems.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about the history of toilets."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Where does the term come from?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Where and when was the first invented?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Why do the Brits call it a loo?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What came before them?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "When did indoor versions become common?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How many types are there?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Why are they so important for society?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What is their role in film?"
+      }
+    ],
+    "title": "history of toilets"
+  },
+  {
+    "number": 36,
+    "description": "The United States Electoral College, it\u0027s history, importance, controversies, and role in important current events.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is the US Electoral College?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How does it work?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about its creation."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Why was the system chosen?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How has it changed over time?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What if the electors don\u0027t vote for the pledged candidate?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How has this changed election outcomes?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Who are the Hamilton Electors and what were they trying to do?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How would the College be abolished?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How does the National Popular Vote Interstate Compact work?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "Is it legal?"
+      }
+    ],
+    "title": "US Electoral College"
+  },
+  {
+    "number": 37,
+    "description": "The Stanford Experiment and its ramifications in human testing, particularly on prisoners and its ethics.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What was the Stanford Experiment?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What did it show?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about the author of the experiment."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Was it ethical?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are other similar experiments?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What happened in the Milgram experiment?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Why was it important?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What were the similarities and differences between the studies?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What about the BBC experiment?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What are the key findings?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "How did the results differ?"
+      },
+      {
+        "number": 12,
+        "raw_utterance": "Why was it ended?"
+      }
+    ],
+    "title": "prison psychology studies"
+  },
+  {
+    "number": 38,
+    "description": "Lyme disease and patient experience",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is Lyme disease?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How do you get Lyme Disease?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How does it make you feel?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What happens if it goes untreated?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Can it kill you?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How reliable is the test?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Can it be cured?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is Chronic Lyme?"
+      }
+    ],
+    "title": "Lyme disease"
+  },
+  {
+    "number": 39,
+    "description": "Veganism, is it better for your health and the environment? How does it compare with being vegetarian?",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What does it mean to be a vegan?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is the environmental argument for it?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Do you need milk for strong bones?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are other good sources of calcium?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "If you don\u0027t eat any meat, at all, is it bad for you?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are good sources of vitamin B12?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Does it help you lose weight?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What about its health effects versus being vegetarian?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How does the environmental impact compare between them?"
+      }
+    ],
+    "title": "veganism"
+  },
+  {
+    "number": 40,
+    "description": "Discuss key characteristics of popular music and why some English bands are so popular.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the origins of popular music? "
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its characteristics?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What technological developments enabled it?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "When and why did people start taking pop seriously? "
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How has it been integrated into music education? "
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Describe some of the influential pop bands. "
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What makes a song pop punk?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is the difference between it and emo?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How did Britpop change music?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What are its roots and what influenced it?"
+      }
+    ],
+    "title": "Popular music"
+  },
+  {
+    "number": 41,
+    "description": "Drinking alcohol and its effects on society as well as mental and physical health.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Why is the drinking age in the US 21 and not 18?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What were the pros and cons?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about the negative health effects of drinking."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How does binge drinking affect development?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Can it damage mental health?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are the short and long-term effects of usage on brain chemicals?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Are alcoholics generally depressed?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are the effects on vitamins and minerals?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Are there any benefits?"
+      }
+    ],
+    "title": "drinking alcohol"
+  },
+  {
+    "number": 42,
+    "description": "Information pertaining to food and travel in Chattanooga.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is Chattanooga famous for?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is there to do in downtown Chattanooga?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Are there tourism activities related to trucks or trains?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Are there any related to Bessie Smith?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Can I visit some nearby distilleries?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is Rock City, and why is it famous?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Are special events held there?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What kind of food is Chattanooga known for?"
+      }
+    ],
+    "title": "Chattanooga tourism"
+  },
+  {
+    "number": 43,
+    "description": "Information about travel, food, and music in Ann Arbor.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are some interesting things around Ann Arbor?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Tell me about when the city was founded. "
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How does it relate to the establishment of the University? "
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Does the Museum of Art have any special collections?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is the South Pond Nature Area?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Are there any film festivals?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How about for jazz?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are popular bars or clubs where I can listen to it?"
+      }
+    ],
+    "title": "Ann Arbor travel"
+  },
+  {
+    "number": 44,
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What causes acidic reflux in the morning?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Does it have long term side effects?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is the best OTC for it?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are the side effects of long term PPI use?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Tell me about natural treatments."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What foods cause it?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What ones reduce it? "
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How does exercise affect it?"
+      }
+    ],
+    "title": "acid reflux"
+  },
+  {
+    "number": 45,
+    "description": "Information about the process of adopting a dog and aspects around types of breeds.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What dog breed is the best for playing?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What kind should I get if I’m allergic?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How about big and active dogs?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Do big dogs live longer than small dogs?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Will I need to put a lot of time into training?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Tell me about some breeds that are independent and can be left home all day."
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How much does a Irish Wolfhound weigh?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How much do they cost?"
+      }
+    ],
+    "title": "dog adoption"
+  },
+  {
+    "number": 46,
+    "description": "Questions about learning a second language, particularly for an English speaker and the advantages of it.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Why is learning a second language difficult?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "At what age is it harder and why?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "If I already know English, which language would be the easiest to learn?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How can I begin learning Norwegian?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Is it easier to learn than Spanish?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What other languages are closest to it?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Describe some of its similarities with Danish."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How did all these languages evolve?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How is it related to Old Norse?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Are there advantages of knowing multiple languages?"
+      }
+    ],
+    "title": "learning a second language"
+  },
+  {
+    "number": 47,
+    "description": "Information about visiting Boise Idaho and exploring popular hiking trails.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Why is Boise called the city of trees?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How did it get its name?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is there to do in the summer?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are popular hiking trails? "
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Tell me about the Oregon Trail Reserve."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Tell me about the history of the Boise Greenbelt."
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the controversy around it?"
+      }
+    ],
+    "title": "Boise tourism"
+  },
+  {
+    "number": 48,
+    "description": "Learn about virtual machines, their function, use in cloud computing and relationship to containers.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is the main function of a virtual machine?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its advantages?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Describe some of its disadvantages."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How do they work?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are the main types of VMs?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is their role in cloud computing?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How is a container different?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is the advantage of Docker?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How is it related Kurbenetes?"
+      }
+    ],
+    "title": "virtual machines and containers"
+  },
+  {
+    "number": 49,
+    "description": "Information about the history of Netflix, its evolution and competing media companies.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "How was Netflix started? "
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How did it originally work?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is its relationship with Blockbuster?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "When did Netflix shift from DVDs to a streaming service?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are its other competitors? "
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How does it compare to Amazon Prime Video?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Describe it’s subscriber growth over time."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How has it changed the way TV is watched?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How has it impacted society?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How about dating and relationships? "
+      }
+    ],
+    "title": "Netflix history"
+  },
+  {
+    "number": 50,
+    "description": "Information about artificial satellites, their orbits and types, their applications including GPS, and the future.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What was the first artificial satellite?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are the types of orbits?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are the important classes of satellite?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How do navigation systems work?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is the Galileo system and why is it important?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Why did it create tension with the US?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What are Cubesats?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are their advantages? "
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are they used for?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is their future?"
+      }
+    ],
+    "title": "satellites"
+  },
+  {
+    "number": 51,
+    "description": "Information about saving for a child’s collection education including important savings plans and accounts. \tInformation should be specific to the US.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "How do I save for a child’s college education in the US?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is a 529 plan?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How does it work?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are the main advantages?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What about disadvantages?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How long have they been around?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What are the types of plans?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What can the funds be used for?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What happens if it’s not used?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How does a ESA compare?"
+      }
+    ],
+    "title": "child college education savings"
+  },
+  {
+    "number": 52,
+    "description": "Information about the development of supertankers and their evolution",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Describe the Afra tanker scale."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Why was it developed?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are supertankers?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Describe their invention."
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are the important factors led to their development?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What was the role of the Six-Day War?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How many barrels can a VLCC ship carry?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is the largest in the world?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What new problem did increased scale create?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Describe crude oil washing."
+      }
+    ],
+    "title": "supertankers"
+  },
+  {
+    "number": 53,
+    "description": "Describe the possible effects of consuming Red Bull and other energy drinks, including arguments for why they should be restricted.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Is Red Bull bad for you?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Can it kill you?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How much can you drink in a day?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is taurine?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are its health effects?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "In general, what are the effects of consuming energy drinks?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Why are they harmful when mixed with alcohol?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is the argument for their age restriction to kids?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Where are they banned to minors?"
+      }
+    ],
+    "title": "energy drinks"
+  },
+  {
+    "number": 54,
+    "description": "Information about travel and leisure in Washington D.C.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is worth seeing in Washington D.C.?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Which Smithsonian museums are the most popular?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why is the National Air and Space Museum important?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Is the Spy Museum free?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is there to do in DC after the museums close?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is the best time to visit the reflecting pools?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Are there any famous foods?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is a DC half smoke?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Tell me about its history."
+      }
+    ],
+    "title": "Washington DC tourism"
+  },
+  {
+    "number": 55,
+    "description": "Requires information about the oceanic crust, its composition, and the process of creation.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Describe the oceanic crust."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are the main layers?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How does it differ from the continental crust?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Which is younger and why?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Where is the youngest oceanic found?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What about the oldest?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is seafloor spreading?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is its significance?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How is ocean crust formed?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Is it being recycled?"
+      }
+    ],
+    "title": "oceanic crust"
+  },
+  {
+    "number": 56,
+    "description": "Seeking information about the evolution of humans and others as a species.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is Darwin’s theory in a nutshell?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How was it developed? "
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How do sexual and asexual reproduction affect it?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How can fossils be used to understand it?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is modern evidence for it? "
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is the impact on modern biology?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Compare and contrast microevolution and macroevolution."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is the relationship to speciation?"
+      }
+    ],
+    "title": "theory of evolution"
+  },
+  {
+    "number": 57,
+    "description": "Information about depression including diagnosing it, major types, causes, and treatments.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "How can you tell if someone is suffering from depression?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are common types?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What causes it?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is the role of brain chemicals?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Does a lack of sunlight cause it?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How can you treat SAD?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the role of melatonin?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How are anxiety and depression related?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What treatments exist for depression?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is CBT and how does it work?"
+      }
+    ],
+    "title": "depression"
+  },
+  {
+    "number": 58,
+    "description": "Information about recent advances in databases, including realtime databases, use in cloud applications and how it differs from previous technology.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is a real-time database?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "How does it differ from traditional ones?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are the advantages of real-time processing?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are examples of important ones?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are important applications?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are important cloud options?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Tell me about the Firebase DB."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How is it used in mobile apps?"
+      }
+    ],
+    "title": "realtime database"
+  },
+  {
+    "number": 59,
+    "description": "Requires information about physical injuries methods required for their treatment.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Which weekend sports have the most injuries?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are the most common types of injuries? "
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is the ACL?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is an injury for it?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Tell me about the RICE method."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Is there disagreement about it?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is arnica used for?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are some ways to avoid injury?"
+      }
+    ],
+    "title": "physical injuries"
+  },
+  {
+    "number": 60,
+    "description": "Exploring the benefits of Yoga, and some of its exercises.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about the benefits of yoga."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Does it help in reducing stress?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are some of the main types?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What type is best for losing weight?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What are common poses in Bikram yoga?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Why is mindful breathing important?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Does it help relieve asthma?"
+      }
+    ],
+    "title": "benefits of yoga"
+  },
+  {
+    "number": 61,
+    "description": "Find and compare information about superheroes in the Marvel Universe.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Who are The Avengers?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Tell me about their first appearance."
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Who is the most powerful and why? "
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is the relationship of Spider-Man to the team?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Why is Batman not a member? "
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is an important team in the DC universe? "
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Tell me about the origins of the Justice League."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Who are the important members?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Which team came first?"
+      }
+    ],
+    "title": "Avengers and Superhero Universes"
+  },
+  {
+    "number": 62,
+    "description": "Learn about the Surrealism movement, its development and famous artists.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is the Surrealism movement in art?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its characteristics?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me about its founding."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Tell me about the series of manifestos."
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How is it different from Dada?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is its importance?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Who are the most famous artists? "
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Why did Dali choose surrealism?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are his most iconic works?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Is it still used today?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "What has its impact been on other fields?"
+      }
+    ],
+    "title": "Surrealism movement"
+  },
+  {
+    "number": 63,
+    "description": "Learn about blockchain, relationship to cryptocurrencies, and their importance.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is blockchain?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What problem does it solve?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How does it work?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are the types of networks?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Tell me about its invention."
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How is it related to cryptocurrencies?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How is Bitcoin generated? "
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How secure is blockchain?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are its other uses in business?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What are the implications for society?"
+      }
+    ],
+    "title": "blockchain"
+  },
+  {
+    "number": 64,
+    "description": "Description of the different types of pork ribs, how to cook them, including details of smoking, rubs, and sauces.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the types of pork ribs?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are baby backs?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are the differences with spareribs?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are ways to cook them? "
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How about on the bbq?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Describe the 321 method."
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How long do they take to smoke?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How do you know when they are done?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What is in a typical rub?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What’s the best style of sauce for them? "
+      },
+      {
+        "number": 11,
+        "raw_utterance": "What’s in Kansas City style sauce?"
+      }
+    ],
+    "title": "cooking pork ribs"
+  },
+  {
+    "number": 65,
+    "description": "Learn information about key economic concepts including GDP, inflation, and the influence on employment.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is nominal GDP?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Why is it not a good measure?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is the difference with real?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How is it related to gross national income?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is the meaning of GNI?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How is inflation affected by high GDP growth? "
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the relationship between inflation and unemployment?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is frictional unemployment and why is it important?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Is it bad for the economy?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How can the government reduce its level?"
+      }
+    ],
+    "title": "economy and employment statistics"
+  },
+  {
+    "number": 66,
+    "description": "Information about lavender, use in health and culinary applications.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Tell me about lavender plants."
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are the different types?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What places are famous for them?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Are they safe to eat?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What variety is best for cooking?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How is it used? "
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is it good with?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are the health benefits of its oil?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Are there any side effects?"
+      }
+    ],
+    "title": "lavender"
+  },
+  {
+    "number": 67,
+    "description": "Studying red blood cells, hemoglobin, and oxygen transportation as well as related health issues.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Why is blood red?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are red blood cells?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How are they created?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "How is oxygen transported?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is anemia?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are the symptoms?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Can it go away?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are its possible causes?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How is it treated?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What foods contain high levels of iron?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "What improves absorption?"
+      }
+    ],
+    "title": "red blood cells"
+  },
+  {
+    "number": 68,
+    "description": "Information about travel in Emilia-Romagna including Bologna and Modena with an interest in food.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is cuisine is Emilia-Romagna famous for?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Tell me about cooking schools and classes."
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What are famous foods from the region?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "Describe the traditional process for making balsamic vinegar?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is mortadella and where is it from?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What’s the difference with Bologna?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Where was Parmesan cheese created?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What is done with the whey after production?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are typical pasta dishes?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is the history of tagliatelle al ragu bolognese?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "What are its common variations?"
+      }
+    ],
+    "title": "Emilia-Romagna food travel"
+  },
+  {
+    "number": 69,
+    "description": "The use of melatonin, to combat jet lag, sources of it and supplements, and its use as a treatment for other health issues.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "How do you sleep after jet lag?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Does melatonin help?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How was it discovered?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are good sources in food?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Is melatonin bad for you?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are the side effects?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Why does it require a prescription in the UK?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How can I increase my levels naturally?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Is it effective for treating insomnia?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How about for anxiety?"
+      }
+    ],
+    "title": "melatonin and sleep"
+  },
+  {
+    "number": 70,
+    "description": "Learn more about solar energy, its various uses in rural areas, and applications in architecture and transportation.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is solar energy?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are its main uses?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why is it important?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are advantages of solar energy?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is the cost of solar power?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How is being used in rural Africa?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "Tell me more about solar cookers work."
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How is solar used in architecture?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are important projects? "
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Can it be used to power cars?"
+      }
+    ],
+    "title": "solar energy"
+  },
+  {
+    "number": 71,
+    "description": "Learn about mammals, their key characteristics, the largest mammals and information about them.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are mammals?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What are their key characteristics?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How many legs do they have?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is the largest one on land?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is the largest in the world?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What about in the UK?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What about the largest to ever walk the earth?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Tell me about Blue whales. "
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How much do they weigh?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "Where do they live?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "What do they eat?"
+      },
+      {
+        "number": 12,
+        "raw_utterance": "Where can we see them?"
+      }
+    ],
+    "title": "mammals"
+  },
+  {
+    "number": 72,
+    "description": "Information about Christmas in Spain including the Christmas lottery, and Three Kings Day traditions.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What do Spanish people do on Christmas day?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What do they eat for dinner?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How about on Christmas eve?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is the Christmas Lottery?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How does the drawing work?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How are the tickets sold?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is Tió de Nadal?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How did this tradition start?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How do they celebrate Three Kings Day?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What cakes are traditional?"
+      }
+    ],
+    "title": "Spanish Christmas traditions"
+  },
+  {
+    "number": 73,
+    "description": "The history of female pirates, including key pirates and information about them.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Who is the most successful pirate of all time?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Who is the most famous female?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Tell me more about Ching Shih."
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What were her code of laws?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How did she die?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Who was Anne Bonny?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What was she famous for?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Who was she married to?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How did Calico Jack die?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What happened to Anne?"
+      }
+    ],
+    "title": "female pirates"
+  },
+  {
+    "number": 74,
+    "description": "Information about Tesla electric cars, including battery production and autopilot features.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are the pros and cons of electric cars?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Tell me more about Tesla."
+      },
+      {
+        "number": 3,
+        "raw_utterance": "Why did Elon Musk start it?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What models are available?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is the best selling?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is unique about the Model 3?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What are the safety features?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Why is it building Gigafactories?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What makes the batteries unique?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "How long can they last?"
+      },
+      {
+        "number": 11,
+        "raw_utterance": "Tell me more about autopilot."
+      },
+      {
+        "number": 12,
+        "raw_utterance": "Does it support full self-driving?"
+      }
+    ],
+    "title": "Tesla cars"
+  },
+  {
+    "number": 75,
+    "description": "Information about turkey, the bird, and its history",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "Why do turkey and Turkey share the same name?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Where are turkeys from?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What was their importance in native cultures?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "When and how were they domesticated?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "Can they fly?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Why did Ben Franklin want it to be the national symbol?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How did he cook it?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Why is it eaten on Thanksgiving?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "How did it become traditional for Christmas dinner in Britain? "
+      },
+      {
+        "number": 10,
+        "raw_utterance": "When did they become popular?"
+      }
+    ],
+    "title": "turkey history"
+  },
+  {
+    "number": 76,
+    "description": "Information about key concepts including literary elements and literary devices.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What are important literary elements?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is the difference between them and literary devices?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is a genre?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are the most important ones?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What is a trope?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What are important examples in fantasy?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is the definition of allegory?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "What are some important modern uses?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are the different types of foreshadowing?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is an example?"
+      }
+    ],
+    "title": "fiction literature"
+  },
+  {
+    "number": 77,
+    "description": "Information about stews from around the world and their importance.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What\u0027s the difference between soup and stew?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Is chilli a stew?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "How about goulash?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What are popular ones in France?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How is cassoulet made?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Tell me about feijoada and its significance."
+      },
+      {
+        "number": 7,
+        "raw_utterance": "How is it similar or different from cassoulet?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "Tell about Bigos stew."
+      },
+      {
+        "number": 9,
+        "raw_utterance": "Why is it important?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is the history of Irish stew?"
+      }
+    ],
+    "title": "stews"
+  },
+  {
+    "number": 78,
+    "description": "Information about popular diets including keto, paleo, and fasting.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is the keto diet?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "Why was it original developed?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is ketosis?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is paleo?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "What do they have in common?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "How are they different?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is intermittent fasting?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How is it related to keto?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What is the 16/8 method?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What is the best for weight loss?"
+      }
+    ],
+    "title": "diet information"
+  },
+  {
+    "number": 79,
+    "description": "Information about the field of sociology including important people, theories, and how they relate to one another.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What is taught in sociology?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What is the main contribution of Auguste Comte?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What is the role of positivism in it?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What is Herbert Spencer known for?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How is his work related to Comte?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "What is the functionalist theory?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What is its main criticism?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How does it compare to conflict theory?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What are modern examples of conflict theory?"
+      }
+    ],
+    "title": "sociology"
+  },
+  {
+    "number": 80,
+    "description": "Information about the Lewis and Clark expedition, findings, and its significance in US history.",
+    "turn": [
+      {
+        "number": 1,
+        "raw_utterance": "What were the purposes of the Lewis and Clark expedition?"
+      },
+      {
+        "number": 2,
+        "raw_utterance": "What were important plants and animals they discovered?"
+      },
+      {
+        "number": 3,
+        "raw_utterance": "What were the diplomatic objectives?"
+      },
+      {
+        "number": 4,
+        "raw_utterance": "What were the Native American tribes that they encountered?"
+      },
+      {
+        "number": 5,
+        "raw_utterance": "How did Sacagawea help them?"
+      },
+      {
+        "number": 6,
+        "raw_utterance": "Did they find the Northwest Passage?"
+      },
+      {
+        "number": 7,
+        "raw_utterance": "What was the purpose of Fort Mandan?"
+      },
+      {
+        "number": 8,
+        "raw_utterance": "How did they spend the next winter?"
+      },
+      {
+        "number": 9,
+        "raw_utterance": "What happened to Fort Clatsop?"
+      },
+      {
+        "number": 10,
+        "raw_utterance": "What was the impact of the expedition?"
+      }
+    ],
+    "title": "Lewis and Clark expedition"
+  }
+]

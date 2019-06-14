@@ -1,0 +1,677 @@
+Number: 31
+Title: head and neck cancer
+Description: A person is trying to compare and contrast types of cancer in the throat, esophagus, and lungs.   
+1	What is throat cancer?
+2	Is it treatable?
+3	Tell me about lung cancer.
+4	What are its symptoms? 
+5	Can it spread to the throat?
+6	What causes throat cancer?
+7	What is the first sign of it?
+8	Is it the same as esophageal cancer?
+9	What's the difference in their symptoms?
+
+Number: 32
+Title: sharks
+Description: Information about sharks including several of the main types of sharks, their biological properties including size (whether they have teeth), as well as adaptations.  This includes difference between sharks and whales.
+1	What are the different types of sharks?
+2	Are sharks endangered?  If so, which species?
+3	Tell me more about tiger sharks.
+4	What is the largest ever to have lived on Earth?
+5	What's the biggest ever caught?
+6	What about for great whites?
+7	Tell me about makos.
+8	What are their adaptations?
+9	Where do they live?
+10	What do they eat?
+11	How do they compare with tigers for being dangerous?
+
+Number: 33
+Title: Neverending Story film and novel adaptation
+Description: Information about The Neverending Story the novel as well as the film adaptations. It should start with the recent film and discuss the novel adaptation.
+1	Tell me about the Neverending Story film.
+2	What is it about?
+3	How was it received?
+4	Did it win any awards?
+5	Was it a book first?
+6	Who was the author and when what it published?
+7	What are the main themes?
+8	Who are the main characters?
+9	What are the differences between the book and movies?
+10	Did the horse Artax really die?
+
+Number: 34
+Title: Bronze Age collapse
+Description: The Bronze Age collapse and the transition into a dark age. 
+1	Tell me about the Bronze Age collapse.
+2	What is the evidence for it?
+3	What are some of the possible causes?
+4	Who were the Sea Peoples?
+5	What was their role in it?
+6	What other factors led to a breakdown of trade?
+7	What about environmental factors?
+8	What empires survived?
+9	What came after it?
+
+Number: 35
+Title: history of toilets
+Description: The history of the toilet and the evolution of indoor and outdoor sanitation systems.
+1	Tell me about the history of toilets.
+2	Where does the term come from?
+3	Where and when was the first invented?
+4	Why do the Brits call it a loo?
+5	What came before them?
+6	When did indoor versions become common?
+7	How many types are there?
+8	Why are they so important for society?
+9	What is their role in film?
+
+Number: 36
+Title: US Electoral College
+Description: The United States Electoral College, it's history, importance, controversies, and role in important current events.
+1	What is the US Electoral College?
+2	How does it work?
+3	Tell me about its creation.
+4	Why was the system chosen?
+5	How has it changed over time?
+6	What if the electors don't vote for the pledged candidate?
+7	How has this changed election outcomes?
+8	Who are the Hamilton Electors and what were they trying to do?
+9	How would the College be abolished?
+10	How does the National Popular Vote Interstate Compact work?
+11	Is it legal?
+
+Number: 37
+Title: prison psychology studies
+Description: The Stanford Experiment and its ramifications in human testing, particularly on prisoners and its ethics.
+1	What was the Stanford Experiment?
+2	What did it show?
+3	Tell me about the author of the experiment.
+4	Was it ethical?
+5	What are other similar experiments?
+6	What happened in the Milgram experiment?
+7	Why was it important?
+8	What were the similarities and differences between the studies?
+9	What about the BBC experiment?
+10	What are the key findings?
+11	How did the results differ?
+12	Why was it ended?
+
+Number: 38
+Title: Lyme disease
+Description: Lyme disease and patient experience
+1	What is Lyme disease?
+2	How do you get Lyme Disease?
+3	How does it make you feel?
+4	What happens if it goes untreated?
+5	Can it kill you?
+6	How reliable is the test?
+7	Can it be cured?
+8	What is Chronic Lyme?
+
+Number: 39
+Title: veganism
+Description: Veganism, is it better for your health and the environment? How does it compare with being vegetarian?
+1	What does it mean to be a vegan?
+2	What is the environmental argument for it?
+3	Do you need milk for strong bones?
+4	What are other good sources of calcium?
+5	If you don't eat any meat, at all, is it bad for you?
+6	What are good sources of vitamin B12?
+7	Does it help you lose weight?
+8	What about its health effects versus being vegetarian?
+9 	How does the environmental impact compare between them?
+
+Number: 40
+Title: Popular music
+Description: Discuss key characteristics of popular music and why some English bands are so popular. 
+1	What are the origins of popular music? 
+2	What are its characteristics?
+3	What technological developments enabled it?
+4	When and why did people start taking pop seriously? 
+5	How has it been integrated into music education? 
+6	Describe some of the influential pop bands. 
+7	What makes a song pop punk?
+8	What is the difference between it and emo?
+9	How did Britpop change music?
+10	What are its roots and what influenced it?
+
+Number: 41
+Title: drinking alcohol
+Description: Drinking alcohol and its effects on society as well as mental and physical health.
+1	Why is the drinking age in the US 21 and not 18?
+2	What were the pros and cons?
+3	Tell me about the negative health effects of drinking.
+4	How does binge drinking affect development?
+5	Can it damage mental health?
+6	What are the short and long-term effects of usage on brain chemicals?
+7	Are alcoholics generally depressed?
+8 	What are the effects on vitamins and minerals?
+9 	Are there any benefits?
+
+Number: 42
+Title: Chattanooga tourism
+Description: Information pertaining to food and travel in Chattanooga.
+1	What is Chattanooga famous for?
+2	What is there to do in downtown Chattanooga?
+3	Are there tourism activities related to trucks or trains?
+4	Are there any related to Bessie Smith?
+5	Can I visit some nearby distilleries?
+6	What is Rock City, and why is it famous?
+7	Are special events held there?
+8	What kind of food is Chattanooga known for?
+
+Number: 43
+Title: Ann Arbor travel
+Description: Information about travel, food, and music in Ann Arbor.
+1	What are some interesting things around Ann Arbor?
+2	Tell me about when the city was founded. 
+3	How does it relate to the establishment of the University? 
+4	Does the Museum of Art have any special collections?
+5	What is the South Pond Nature Area?
+6	Are there any film festivals?
+7	How about for jazz?
+8	What are popular bars or clubs where I can listen to it?
+
+Number: 44
+Title: acid reflux
+1	What causes acidic reflux in the morning?
+2	Does it have long term side effects?
+3	What is the best OTC for it?
+4	What are the side effects of long term PPI use?
+5	Tell me about natural treatments.
+6	What foods cause it?
+7	What ones reduce it? 
+8	How does exercise affect it?
+
+Number: 45
+Title: dog adoption
+Description: Information about the process of adopting a dog and aspects around types of breeds.
+1	What dog breed is the best for playing?
+2	What kind should I get if I’m allergic?
+3	How about big and active dogs?
+4	Do big dogs live longer than small dogs?
+5	Will I need to put a lot of time into training?
+6	Tell me about some breeds that are independent and can be left home all day.
+7	How much does a Irish Wolfhound weigh?
+8	How much do they cost?
+
+Number: 46
+Title: learning a second language
+Description: Questions about learning a second language, particularly for an English speaker and the advantages of it.
+1	Why is learning a second language difficult?
+2	At what age is it harder and why?
+3	If I already know English, which language would be the easiest to learn?
+4	How can I begin learning Norwegian?
+5	Is it easier to learn than Spanish?
+6	What other languages are closest to it?
+7	Describe some of its similarities with Danish.
+8	How did all these languages evolve?
+9	How is it related to Old Norse?
+10	Are there advantages of knowing multiple languages?
+
+Number: 47
+Title: Boise tourism
+Description: Information about visiting Boise Idaho and exploring popular hiking trails.
+1	Why is Boise called the city of trees?
+2	How did it get its name?
+3	What is there to do in the summer?
+4	What are popular hiking trails? 
+5	Tell me about the Oregon Trail Reserve.
+6	Tell me about the history of the Boise Greenbelt.
+7	What is the controversy around it?
+
+Number: 48
+Title: virtual machines and containers
+Description: Learn about virtual machines, their function, use in cloud computing and relationship to containers.  
+1	What is the main function of a virtual machine?
+2	What are its advantages?
+3	Describe some of its disadvantages.
+4	How do they work?
+5	What are the main types of VMs?
+6	What is their role in cloud computing?
+7	How is a container different?
+8	What is the advantage of Docker?
+9	How is it related Kurbenetes?
+
+Number: 49
+Title: Netflix history
+Description: Information about the history of Netflix, its evolution and competing media companies. 
+1	How was Netflix started? 
+2	How did it originally work?
+3	What is its relationship with Blockbuster?
+4	When did Netflix shift from DVDs to a streaming service?
+5	What are its other competitors? 
+6	How does it compare to Amazon Prime Video?
+7	Describe it’s subscriber growth over time.
+8	How has it changed the way TV is watched?
+9	How has it impacted society?
+10	How about dating and relationships? 
+
+Number: 50
+Title: satellites
+Description: Information about artificial satellites, their orbits and types, their applications including GPS, and the future. 
+1	What was the first artificial satellite?
+2	What are the types of orbits?
+3	What are the important classes of satellite?
+4	How do navigation systems work?
+5	What is the Galileo system and why is it important?
+6	Why did it create tension with the US?
+7	What are Cubesats?
+8	What are their advantages? 
+9	What are they used for?
+10	What is their future?
+
+Number: 51
+Title: child college education savings
+Description: Information about saving for a child’s collection education including important savings plans and accounts. 	Information should be specific to the US.
+1	How do I save for a child’s college education in the US?
+2	What is a 529 plan?
+3	How does it work?
+4	What are the main advantages?
+5	What about disadvantages?
+6	How long have they been around?
+7	What are the types of plans?
+8	What can the funds be used for?
+9	What happens if it’s not used?
+10	How does a ESA compare?
+
+Number: 52
+Title: supertankers
+Description: Information about the development of supertankers and their evolution
+1	Describe the Afra tanker scale.
+2	Why was it developed?
+3	What are supertankers?
+4	Describe their invention.
+5	What are the important factors led to their development?
+6	What was the role of the Six-Day War?
+7	How many barrels can a VLCC ship carry?
+8	What is the largest in the world?
+9	What new problem did increased scale create?
+10	Describe crude oil washing.
+
+Number: 53
+Title: energy drinks
+Description: Describe the possible effects of consuming Red Bull and other energy drinks, including arguments for why they should be restricted. 
+1	Is Red Bull bad for you?
+2	Can it kill you?
+3	How much can you drink in a day?
+4	What is taurine?
+5	What are its health effects?
+6	In general, what are the effects of consuming energy drinks?
+7	Why are they harmful when mixed with alcohol?
+8	What is the argument for their age restriction to kids?
+9	Where are they banned to minors?
+
+Number: 54
+Title: Washington DC tourism
+Description: Information about travel and leisure in Washington D.C.
+1	What is worth seeing in Washington D.C.?
+2	Which Smithsonian museums are the most popular?
+3	Why is the National Air and Space Museum important?
+4	Is the Spy Museum free?
+5	What is there to do in DC after the museums close?
+6	What is the best time to visit the reflecting pools?
+7	Are there any famous foods?
+8	What is a DC half smoke?
+9	Tell me about its history.
+
+Number: 55
+Title: oceanic crust
+Description: Requires information about the oceanic crust, its composition, and the process of creation.
+1	Describe the oceanic crust.
+2	What are the main layers?
+3	How does it differ from the continental crust?
+4	Which is younger and why?
+5	Where is the youngest oceanic found?
+6	What about the oldest?
+7	What is seafloor spreading?
+8	What is its significance?
+9	How is ocean crust formed?
+10	Is it being recycled?
+
+Number: 56
+Title: theory of evolution
+Description: Seeking information about the evolution of humans and others as a species.
+1	What is Darwin’s theory in a nutshell?
+2	How was it developed? 
+3	How do sexual and asexual reproduction affect it?
+4	How can fossils be used to understand it?
+5	What is modern evidence for it? 
+6	What is the impact on modern biology?
+7	Compare and contrast microevolution and macroevolution.
+8	What is the relationship to speciation?
+
+Number: 57
+Title: depression
+Description: Information about depression including diagnosing it, major types, causes, and treatments. 
+1	How can you tell if someone is suffering from depression?
+2	What are common types?
+3	What causes it?
+4	What is the role of brain chemicals?
+5	Does a lack of sunlight cause it?
+6	How can you treat SAD?
+7	What is the role of melatonin?
+8	How are anxiety and depression related?
+9	What treatments exist for depression?
+10	What is CBT and how does it work?
+
+Number: 58
+Title: realtime database
+Description: Information about recent advances in databases, including realtime databases, use in cloud applications and how it differs from previous technology.
+1	What is a real-time database?
+2	How does it differ from traditional ones?
+3	What are the advantages of real-time processing?
+4	What are examples of important ones?
+5 	What are important applications?
+6	What are important cloud options?
+7	Tell me about the Firebase DB.
+8	How is it used in mobile apps?
+
+Number: 59
+Title: physical injuries
+Description: Requires information about physical injuries methods required for their treatment.
+1	Which weekend sports have the most injuries?
+2	What are the most common types of injuries? 
+3	What is the ACL?
+4	What is an injury for it?
+5	Tell me about the RICE method.
+6	Is there disagreement about it?
+7	What is arnica used for?
+8	What are some ways to avoid injury?
+
+Number: 60
+Title: benefits of yoga
+Description: Exploring the benefits of Yoga, and some of its exercises.
+1	Tell me about the benefits of yoga.
+2	Does it help in reducing stress?
+3	What are some of the main types?
+4	What type is best for losing weight?
+5	What are common poses in Bikram yoga?
+6	Why is mindful breathing important?
+7	Does it help relieve asthma?
+
+Number: 61
+Title: Avengers and Superhero Universes
+Description: Find and compare information about superheroes in the Marvel Universe.
+1	Who are The Avengers?
+2	Tell me about their first appearance.
+3	Who is the most powerful and why? 
+4	What is the relationship of Spider-Man to the team?
+5	Why is Batman not a member? 
+6	What is an important team in the DC universe? 
+7	Tell me about the origins of the Justice League.
+8	Who are the important members?
+9	Which team came first?
+
+Number: 62
+Title: Surrealism movement
+Description: Learn about the Surrealism movement, its development and famous artists.
+1	What is the Surrealism movement in art?
+2	What are its characteristics?
+3	Tell me about its founding.
+4	Tell me about the series of manifestos.
+5	How is it different from Dada?
+6	What is its importance?
+7	Who are the most famous artists? 
+8	Why did Dali choose surrealism?
+9	What are his most iconic works?
+10	Is it still used today?
+11	What has its impact been on other fields?
+
+Number: 63
+Title: blockchain
+Description: Learn about blockchain, relationship to cryptocurrencies, and their importance. 
+1	What is blockchain?
+2	What problem does it solve?
+3	How does it work?
+4	What are the types of networks?
+5	Tell me about its invention.
+6	How is it related to cryptocurrencies?
+7	How is Bitcoin generated? 
+8	How secure is blockchain?
+9	What are its other uses in business?
+10	What are the implications for society?
+
+Number: 64
+Title: cooking pork ribs
+Description: Description of the different types of pork ribs, how to cook them, including details of smoking, rubs, and sauces. 
+1	What are the types of pork ribs?
+2	What are baby backs?
+3	What are the differences with spareribs?
+4	What are ways to cook them? 
+5	How about on the bbq?
+6	Describe the 321 method.
+7	How long do they take to smoke?
+8	How do you know when they are done?
+9	What is in a typical rub?
+10	What’s the best style of sauce for them? 
+11	What’s in Kansas City style sauce?
+
+Number: 65
+Title: economy and employment statistics
+Description: Learn information about key economic concepts including GDP, inflation, and the influence on employment.
+1	What is nominal GDP?
+2	Why is it not a good measure?
+3	What is the difference with real?
+4	How is it related to gross national income?
+5	What is the meaning of GNI?
+6	How is inflation affected by high GDP growth? 
+7	What is the relationship between inflation and unemployment?
+8	What is frictional unemployment and why is it important?
+9	Is it bad for the economy?
+10	How can the government reduce its level?
+
+Number: 66
+Title: lavender
+Description: Information about lavender, use in health and culinary applications. 
+1	Tell me about lavender plants.
+2	What are the different types?
+3	What places are famous for them?
+4	Are they safe to eat?
+5	What variety is best for cooking?
+6	How is it used? 
+7	What is it good with?
+8	What are the health benefits of its oil?
+9	Are there any side effects?
+
+Number: 67
+Title: red blood cells
+Description: Studying red blood cells, hemoglobin, and oxygen transportation as well as related health issues. 
+1	Why is blood red?
+2	What are red blood cells?
+3	How are they created?
+4	How is oxygen transported?
+5	What is anemia?
+6	What are the symptoms?
+7	Can it go away?
+8	What are its possible causes?
+9	How is it treated?
+10	What foods contain high levels of iron?
+11	What improves absorption?
+
+Number: 68
+Title: Emilia-Romagna food travel
+Description: Information about travel in Emilia-Romagna including Bologna and Modena with an interest in food.
+1	What is cuisine is Emilia-Romagna famous for?
+2	Tell me about cooking schools and classes.
+3	What are famous foods from the region?
+4	Describe the traditional process for making balsamic vinegar?
+5	What is mortadella and where is it from?
+6	What’s the difference with Bologna?
+7	Where was Parmesan cheese created?
+8	What is done with the whey after production?
+9	What are typical pasta dishes?
+10	What is the history of tagliatelle al ragu bolognese?
+11	What are its common variations?
+
+Number: 69
+Title: melatonin and sleep
+Description: The use of melatonin, to combat jet lag, sources of it and supplements, and its use as a treatment for other health issues. 
+1	How do you sleep after jet lag?
+2	Does melatonin help?
+3	How was it discovered?
+4	What are good sources in food?
+5	Is melatonin bad for you?
+6	What are the side effects?
+7	Why does it require a prescription in the UK?
+8	How can I increase my levels naturally?
+9	Is it effective for treating insomnia?
+10	How about for anxiety?
+
+Number: 70
+Title: solar energy
+Description: Learn more about solar energy, its various uses in rural areas, and applications in architecture and transportation.
+1	What is solar energy?
+2	What are its main uses?
+3	Why is it important?
+4	What are advantages of solar energy?
+5	What is the cost of solar power?
+6	How is being used in rural Africa?
+7	Tell me more about solar cookers work.
+8	How is solar used in architecture?
+9	What are important projects? 
+10	Can it be used to power cars?
+
+Number: 71
+Title: mammals
+Description: Learn about mammals, their key characteristics, the largest mammals and information about them.
+1	What are mammals?
+2	What are their key characteristics?
+3	How many legs do they have?
+4	What is the largest one on land?
+5	What is the largest in the world?
+6	What about in the UK?
+7	What about the largest to ever walk the earth?
+8	Tell me about Blue whales. 
+9	How much do they weigh?
+10	Where do they live?
+11	What do they eat?
+12	Where can we see them?
+
+Number: 72
+Title: Spanish Christmas traditions 
+Description: Information about Christmas in Spain including the Christmas lottery, and Three Kings Day traditions. 
+1	What do Spanish people do on Christmas day?
+2	What do they eat for dinner?
+3	How about on Christmas eve?
+4	What is the Christmas Lottery?
+5	How does the drawing work?
+6	How are the tickets sold?
+7	What is Tió de Nadal?
+8	How did this tradition start?
+9	How do they celebrate Three Kings Day?
+10	What cakes are traditional?
+
+Number: 73
+Title: female pirates
+Description: The history of female pirates, including key pirates and information about them. 
+1	Who is the most successful pirate of all time?
+2	Who is the most famous female?
+3	Tell me more about Ching Shih.
+4	What were her code of laws?
+5	How did she die?
+6	Who was Anne Bonny?
+7	What was she famous for?
+8	Who was she married to?
+9	How did Calico Jack die?
+10	What happened to Anne?
+
+Number: 74
+Title: Tesla cars
+Description: Information about Tesla electric cars, including battery production and autopilot features.
+1	What are the pros and cons of electric cars?
+2	Tell me more about Tesla.
+3	Why did Elon Musk start it?
+4	What models are available?
+5	What is the best selling?
+6	What is unique about the Model 3?
+7	What are the safety features?
+8	Why is it building Gigafactories?
+9	What makes the batteries unique?
+10	How long can they last?
+11	Tell me more about autopilot.
+12	Does it support full self-driving?
+
+Number: 75
+Title: turkey history
+Description: Information about turkey, the bird, and its history 
+1	Why do turkey and Turkey share the same name?
+2	Where are turkeys from?
+3	What was their importance in native cultures?
+4	When and how were they domesticated?
+5	Can they fly?
+6	Why did Ben Franklin want it to be the national symbol?
+7	How did he cook it?
+8	Why is it eaten on Thanksgiving?
+9	How did it become traditional for Christmas dinner in Britain? 
+10	When did they become popular?
+
+Number: 76
+Title: fiction literature
+Description: Information about key concepts including literary elements and literary devices. 
+1	What are important literary elements?
+2	What is the difference between them and literary devices?
+3	What is a genre?
+4	What are the most important ones?
+5	What is a trope?
+6	What are important examples in fantasy?
+7	What is the definition of allegory?
+8	What are some important modern uses?
+9	What are the different types of foreshadowing?
+10	What is an example?
+
+Number: 77
+Title: stews
+Description: Information about stews from around the world and their importance.
+1	What's the difference between soup and stew?
+2	Is chilli a stew?
+3	How about goulash?
+4	What are popular ones in France?
+5	How is cassoulet made?
+6	Tell me about feijoada and its significance.
+7	How is it similar or different from cassoulet?
+8	Tell about Bigos stew.
+9	Why is it important?
+10	What is the history of Irish stew?
+
+Number: 78
+Title: diet information
+Description: Information about popular diets including keto, paleo, and fasting. 
+1	What is the keto diet?
+2	Why was it original developed?
+3	What is ketosis?
+4	What is paleo?
+5	What do they have in common?
+6	How are they different?
+7	What is intermittent fasting?
+8	How is it related to keto?
+9	What is the 16/8 method?
+10	What is the best for weight loss?
+
+Number: 79
+Title: sociology
+Description: Information about the field of sociology including important people, theories, and how they relate to one another. 
+1	What is taught in sociology?
+2	What is the main contribution of Auguste Comte?
+3	What is the role of positivism in it?
+4	What is Herbert Spencer known for?
+5	How is his work related to Comte?
+6	What is the functionalist theory?
+7	What is its main criticism?
+8	How does it compare to conflict theory?
+9	What are modern examples of conflict theory?
+
+Number: 80
+Title: Lewis and Clark expedition
+Description: Information about the Lewis and Clark expedition, findings, and its significance in US history.
+1	What were the purposes of the Lewis and Clark expedition?
+2	What were important plants and animals they discovered?
+3	What were the diplomatic objectives?
+4	What were the Native American tribes that they encountered?
+5	How did Sacagawea help them?
+6	Did they find the Northwest Passage?
+7	What was the purpose of Fort Mandan?
+8	How did they spend the next winter?
+9	What happened to Fort Clatsop?
+10	What was the impact of the expedition?
