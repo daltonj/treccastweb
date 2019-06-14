@@ -15,8 +15,11 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 # Data
 
 ## Topics
- * [Training topics year 1 V1.0](./2019/data/training/train_topics_v1.0.txt) - 30 example training topics
- * Coming soon: Partial judgment data for a subset of training topics
+ * [Training topics year 1 V1.0](./2019/data/training/) - 30 example training topics
+  * Coming soon: Partial judgment data for a subset of training topics
+
+ * [Evaluation topics year 1 V1.0](./2019/data/training/) - 50 evaluation topics
+ 
  * Additional resources: MS MARCO Conversational Search Sessions  [Conversational Search data](https://github.com/microsoft/MSMARCO-Conversational-Search) and [train data](https://msmarco.blob.core.windows.net/conversationalsearch/ann_session_train.tar.gz) is released.
 
 ## Collection
