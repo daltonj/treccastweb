@@ -31,7 +31,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 ### Document ID format
  * The document id format is `[collection_id_paragraph_id]` with collection id and paragraph id separated by an underscore.
  * The collection ids are in the set: `{MARCO, CAR, WAPO}`. 
- * The paragraph ids are: standard provided by MARCO and CAR. For WAPO the paragraph ID is `[article_id-paragraph_index]` where the paragraph_index is the 0-based position index of the paragraph using the provided paragraph markup separated by a single dash. 
+ * The paragraph ids are: standard provided by MARCO and CAR. For WAPO the paragraph ID is `[article_id-paragraph_index]` where the paragraph_index is the *starting from 1-based* index of the paragraph using the provided paragraph markup separated by a single dash. 
  * Example WaPo combined document id: `[WAPO_903cc1eab726b829294d1abdd755d5ab-1]`, or CAR: `[CAR_6869dee46ab12f0f7060874f7fc7b1c57d53144a]`
  
 
