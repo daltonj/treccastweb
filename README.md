@@ -40,7 +40,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
  
 ### Duplicate handling
  * Early analysis found that both the MARCO and WaPo corpora both contain a significant number of near duplicate paragraphs. We have run near-dupliate detection to cluster results; only one result per duplicate cluster will be evaluated.  It is suggested that you remove dupliates (keeping the canonical document) from your indices.
- * A description of the [duplicate file format](http://boston.lti.cs.cmu.edu/Services/treccast19/duplicate_description.txt).
+ * A README with the [process and file format](http://boston.lti.cs.cmu.edu/Services/treccast19/duplicate_description.txt).
  * Washington Post [duplicate file](http://boston.lti.cs.cmu.edu/Services/treccast19/wapo_duplicate_list_v1.0.txt)
  * MARCO [duplicate file](http://boston.lti.cs.cmu.edu/Services/treccast19/duplicate_list_v1.0.txt)
  * Note: The tools in the repository below require these files as input for processing the collection and perform deduplication when the data is generated.
