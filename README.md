@@ -38,9 +38,16 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
  * The paragraph ids are: standard provided by MARCO and CAR. For WAPO the paragraph ID is `[article_id-paragraph_index]` where the paragraph_index is the *starting from 1-based* index of the paragraph using the provided paragraph markup separated by a single dash. 
  * Example WaPo combined document id: `[WAPO_903cc1eab726b829294d1abdd755d5ab-1]`, or CAR: `[CAR_6869dee46ab12f0f7060874f7fc7b1c57d53144a]`
  
-
+### Duplicate handling
+ * Early analysis found that both the MARCO and WaPo corpora both contain a significant number of near duplicate paragraphs. We have run near-dupliate detection to cluster results; only one result per duplicate cluster will be evaluated.  It is suggested that you remove dupliates (keeping the canonical document) from your indices.
+ * A description of the [duplicate file format](http://boston.lti.cs.cmu.edu/Services/treccast19/duplicate_description.txt).
+ * Washington Post [duplicate file](http://boston.lti.cs.cmu.edu/Services/treccast19/wapo_duplicate_list_v1.0.txt)
+ * MARCO [duplicate file](http://boston.lti.cs.cmu.edu/Services/treccast19/duplicate_list_v1.0.txt)
+ * Note: The tools in the repository below require these files as input for processing the collection and perform deduplication when the data is generated.
+ 
 ## Code and tools
 * [TREC-CAsT Tools](https://github.com/gla-ial/trec-cast-tools) repository with code and scripts for processing data. 
+* The tools contain scripts for parsing the collection into standard indexing formats. It also provides APIs for working with the topics (in text, json, and protocol buffer formats).
 * Note: This will evolve over time, it currently contains topic definition files and scripts for reading and loading topics. 
 
 ## Year 1 Planning slides 
@@ -54,6 +61,8 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Manually created topics from crowdsourcing
 
 # News
+ - June 26: Additional resources released (baseline, collection index, collections tools)
+ - June 14: Evaluation data released
  - May 23: Training data released
  - April 18th: Guidelines released
  - November 13: Announcement that the track will run next year. 
