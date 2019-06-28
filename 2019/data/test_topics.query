@@ -1,0 +1,1921 @@
+<parameters>
+<index>marco_index</index>
+<index>car_index</index>
+<index>wapo_index</index>
+<query>
+<number>31_1</number>
+<text>#combine(throat cancer )</text>
+</query>
+<query>
+<number>31_2</number>
+<text>#combine(throat cancer treatable )</text>
+</query>
+<query>
+<number>31_3</number>
+<text>#combine(lung cancer )</text>
+</query>
+<query>
+<number>31_4</number>
+<text>#combine(lung cancer symptoms )</text>
+</query>
+<query>
+<number>31_5</number>
+<text>#combine(lung cancer spread throat cancer  )</text>
+</query>
+<query>
+<number>31_6</number>
+<text>#combine(throat cancer  )</text>
+</query>
+<query>
+<number>31_7</number>
+<text>#combine(sign throat cancer  )</text>
+</query>
+<query>
+<number>31_8</number>
+<text>#combine(throat cancer  esophageal cancer )</text>
+</query>
+<query>
+<number>31_9</number>
+<text>#combine(difference lung cancer symptoms  )</text>
+</query>
+<query>
+<number>32_1</number>
+<text>#combine(types sharks )</text>
+</query>
+<query>
+<number>32_2</number>
+<text>#combine(sharks endangered    species )</text>
+</query>
+<query>
+<number>32_3</number>
+<text>#combine(tiger sharks )</text>
+</query>
+<query>
+<number>32_4</number>
+<text>#combine(largest lived earth )</text>
+</query>
+<query>
+<number>32_5</number>
+<text>#combine(largest  caught )</text>
+</query>
+<query>
+<number>32_6</number>
+<text>#combine(great whites )</text>
+</query>
+<query>
+<number>32_7</number>
+<text>#combine(makos )</text>
+</query>
+<query>
+<number>32_8</number>
+<text>#combine(makos  )</text>
+</query>
+<query>
+<number>32_9</number>
+<text>#combine(makos live )</text>
+</query>
+<query>
+<number>32_10</number>
+<text>#combine(makos eat )</text>
+</query>
+<query>
+<number>32_11</number>
+<text>#combine(makos compare tigers dangerous )</text>
+</query>
+<query>
+<number>33_1</number>
+<text>#combine(neverending story film )</text>
+</query>
+<query>
+<number>33_2</number>
+<text>#combine(neverending story film )</text>
+</query>
+<query>
+<number>33_3</number>
+<text>#combine(neverending story film received )</text>
+</query>
+<query>
+<number>33_4</number>
+<text>#combine(neverending story film win awards )</text>
+</query>
+<query>
+<number>33_5</number>
+<text>#combine(neverending story film book )</text>
+</query>
+<query>
+<number>33_6</number>
+<text>#combine(book  book published )</text>
+</query>
+<query>
+<number>33_7</number>
+<text>#combine(main themes )</text>
+</query>
+<query>
+<number>33_8</number>
+<text>#combine(main characters )</text>
+</query>
+<query>
+<number>33_9</number>
+<text>#combine(differences neverending story film  movies )</text>
+</query>
+<query>
+<number>33_10</number>
+<text>#combine(neverending story film   die )</text>
+</query>
+<query>
+<number>34_1</number>
+<text>#combine(bronze age collapse )</text>
+</query>
+<query>
+<number>34_2</number>
+<text>#combine(evidence bronze age collapse )</text>
+</query>
+<query>
+<number>34_3</number>
+<text>#combine()</text>
+</query>
+<query>
+<number>34_4</number>
+<text>#combine(sea peoples )</text>
+</query>
+<query>
+<number>34_5</number>
+<text>#combine(sea peoples role bronze age collapse )</text>
+</query>
+<query>
+<number>34_6</number>
+<text>#combine(factors led breakdown trade )</text>
+</query>
+<query>
+<number>34_7</number>
+<text>#combine(environmental factors )</text>
+</query>
+<query>
+<number>34_8</number>
+<text>#combine(empires survived )</text>
+</query>
+<query>
+<number>34_9</number>
+<text>#combine(bronze age collapse )</text>
+</query>
+<query>
+<number>35_1</number>
+<text>#combine(history toilets )</text>
+</query>
+<query>
+<number>35_2</number>
+<text>#combine(term )</text>
+</query>
+<query>
+<number>35_3</number>
+<text>#combine(invented )</text>
+</query>
+<query>
+<number>35_4</number>
+<text>#combine(brits call term loo )</text>
+</query>
+<query>
+<number>35_5</number>
+<text>#combine(brits )</text>
+</query>
+<query>
+<number>35_6</number>
+<text>#combine(indoor versions common )</text>
+</query>
+<query>
+<number>35_7</number>
+<text>#combine(types )</text>
+</query>
+<query>
+<number>35_8</number>
+<text>#combine(indoor versions important society )</text>
+</query>
+<query>
+<number>35_9</number>
+<text>#combine(indoor versions role film )</text>
+</query>
+<query>
+<number>36_1</number>
+<text>#combine(electoral college )</text>
+</query>
+<query>
+<number>36_2</number>
+<text>#combine(electoral college work )</text>
+</query>
+<query>
+<number>36_3</number>
+<text>#combine(electoral college creation )</text>
+</query>
+<query>
+<number>36_4</number>
+<text>#combine(system chosen )</text>
+</query>
+<query>
+<number>36_5</number>
+<text>#combine(electoral college changed time )</text>
+</query>
+<query>
+<number>36_6</number>
+<text>#combine(electors nt vote pledged candidate )</text>
+</query>
+<query>
+<number>36_7</number>
+<text>#combine(changed election outcomes )</text>
+</query>
+<query>
+<number>36_8</number>
+<text>#combine(hamilton electors hamilton electors )</text>
+</query>
+<query>
+<number>36_9</number>
+<text>#combine(electoral college  abolished )</text>
+</query>
+<query>
+<number>36_10</number>
+<text>#combine(national popular vote interstate compact work )</text>
+</query>
+<query>
+<number>36_11</number>
+<text>#combine(legal )</text>
+</query>
+<query>
+<number>37_1</number>
+<text>#combine(stanford experiment )</text>
+</query>
+<query>
+<number>37_2</number>
+<text>#combine(stanford experiment show )</text>
+</query>
+<query>
+<number>37_3</number>
+<text>#combine(author experiment )</text>
+</query>
+<query>
+<number>37_4</number>
+<text>#combine(experiment ethical )</text>
+</query>
+<query>
+<number>37_5</number>
+<text>#combine(similar experiments )</text>
+</query>
+<query>
+<number>37_6</number>
+<text>#combine(happened experiment stanford experiment  )</text>
+</query>
+<query>
+<number>37_7</number>
+<text>#combine(experiment important )</text>
+</query>
+<query>
+<number>37_8</number>
+<text>#combine(similarities differences studies )</text>
+</query>
+<query>
+<number>37_9</number>
+<text>#combine(experiment   )</text>
+</query>
+<query>
+<number>37_10</number>
+<text>#combine(key findings )</text>
+</query>
+<query>
+<number>37_11</number>
+<text>#combine(key findings  differ )</text>
+</query>
+<query>
+<number>37_12</number>
+<text>#combine(experiment ended )</text>
+</query>
+<query>
+<number>38_1</number>
+<text>#combine(lyme disease )</text>
+</query>
+<query>
+<number>38_2</number>
+<text>#combine(lyme disease  )</text>
+</query>
+<query>
+<number>38_3</number>
+<text>#combine(make feel )</text>
+</query>
+<query>
+<number>38_4</number>
+<text>#combine(untreated )</text>
+</query>
+<query>
+<number>38_5</number>
+<text>#combine(kill )</text>
+</query>
+<query>
+<number>38_6</number>
+<text>#combine(reliable test )</text>
+</query>
+<query>
+<number>38_7</number>
+<text>#combine(test cured )</text>
+</query>
+<query>
+<number>38_8</number>
+<text>#combine(lyme disease   )</text>
+</query>
+<query>
+<number>39_1</number>
+<text>#combine(vegan )</text>
+</query>
+<query>
+<number>39_2</number>
+<text>#combine(environmental argument )</text>
+</query>
+<query>
+<number>39_3</number>
+<text>#combine(milk strong bones )</text>
+</query>
+<query>
+<number>39_4</number>
+<text>#combine(good sources calcium )</text>
+</query>
+<query>
+<number>39_5</number>
+<text>#combine(nt eat meat   bad )</text>
+</query>
+<query>
+<number>39_6</number>
+<text>#combine(good sources vitamin b12 )</text>
+</query>
+<query>
+<number>39_7</number>
+<text>#combine(lose weight )</text>
+</query>
+<query>
+<number>39_8</number>
+<text>#combine(health effects versus vegetarian )</text>
+</query>
+<query>
+<number>39_9</number>
+<text>#combine(environmental impact compare )</text>
+</query>
+<query>
+<number>40_1</number>
+<text>#combine(origins popular music )</text>
+</query>
+<query>
+<number>40_2</number>
+<text>#combine(popular music characteristics )</text>
+</query>
+<query>
+<number>40_3</number>
+<text>#combine(technological developments enabled popular music )</text>
+</query>
+<query>
+<number>40_4</number>
+<text>#combine(people start taking pop )</text>
+</query>
+<query>
+<number>40_5</number>
+<text>#combine(popular music integrated music education )</text>
+</query>
+<query>
+<number>40_6</number>
+<text>#combine(describe influential pop bands )</text>
+</query>
+<query>
+<number>40_7</number>
+<text>#combine(makes song pop punk )</text>
+</query>
+<query>
+<number>40_8</number>
+<text>#combine(difference song pop punk emo )</text>
+</query>
+<query>
+<number>40_9</number>
+<text>#combine(britpop change music )</text>
+</query>
+<query>
+<number>40_10</number>
+<text>#combine(popular music roots influenced popular music )</text>
+</query>
+<query>
+<number>41_1</number>
+<text>#combine(drinking age 21 18 )</text>
+</query>
+<query>
+<number>41_2</number>
+<text>#combine(pros cons )</text>
+</query>
+<query>
+<number>41_3</number>
+<text>#combine(negative health effects drinking )</text>
+</query>
+<query>
+<number>41_4</number>
+<text>#combine(binge drinking affect development )</text>
+</query>
+<query>
+<number>41_5</number>
+<text>#combine(damage mental health )</text>
+</query>
+<query>
+<number>41_6</number>
+<text>#combine(short long  term effects usage brain chemicals )</text>
+</query>
+<query>
+<number>41_7</number>
+<text>#combine(alcoholics generally depressed )</text>
+</query>
+<query>
+<number>41_8</number>
+<text>#combine(effects vitamins minerals )</text>
+</query>
+<query>
+<number>41_9</number>
+<text>#combine(benefits )</text>
+</query>
+<query>
+<number>42_1</number>
+<text>#combine(chattanooga famous )</text>
+</query>
+<query>
+<number>42_2</number>
+<text>#combine(downtown chattanooga )</text>
+</query>
+<query>
+<number>42_3</number>
+<text>#combine(tourism activities related trucks trains )</text>
+</query>
+<query>
+<number>42_4</number>
+<text>#combine(related bessie smith )</text>
+</query>
+<query>
+<number>42_5</number>
+<text>#combine(visit nearby distilleries )</text>
+</query>
+<query>
+<number>42_6</number>
+<text>#combine(rock city  famous )</text>
+</query>
+<query>
+<number>42_7</number>
+<text>#combine(special events held )</text>
+</query>
+<query>
+<number>42_8</number>
+<text>#combine(kind food chattanooga )</text>
+</query>
+<query>
+<number>43_1</number>
+<text>#combine(interesting things ann arbor )</text>
+</query>
+<query>
+<number>43_2</number>
+<text>#combine(ann arbor  founded )</text>
+</query>
+<query>
+<number>43_3</number>
+<text>#combine(ann arbor  relate establishment university )</text>
+</query>
+<query>
+<number>43_4</number>
+<text>#combine(museum art special collections )</text>
+</query>
+<query>
+<number>43_5</number>
+<text>#combine(south pond nature area )</text>
+</query>
+<query>
+<number>43_6</number>
+<text>#combine(film festivals )</text>
+</query>
+<query>
+<number>43_7</number>
+<text>#combine(jazz )</text>
+</query>
+<query>
+<number>43_8</number>
+<text>#combine(popular bars clubs listen south pond nature area )</text>
+</query>
+<query>
+<number>44_1</number>
+<text>#combine(acidic reflux morning )</text>
+</query>
+<query>
+<number>44_2</number>
+<text>#combine(long term side effects )</text>
+</query>
+<query>
+<number>44_3</number>
+<text>#combine(otc )</text>
+</query>
+<query>
+<number>44_4</number>
+<text>#combine(side effects long term ppi )</text>
+</query>
+<query>
+<number>44_5</number>
+<text>#combine(natural treatments )</text>
+</query>
+<query>
+<number>44_6</number>
+<text>#combine(foods natural treatments )</text>
+</query>
+<query>
+<number>44_7</number>
+<text>#combine(reduce natural treatments )</text>
+</query>
+<query>
+<number>44_8</number>
+<text>#combine(exercise affect natural treatments )</text>
+</query>
+<query>
+<number>45_1</number>
+<text>#combine(dog breed playing )</text>
+</query>
+<query>
+<number>45_2</number>
+<text>#combine(kind allergic )</text>
+</query>
+<query>
+<number>45_3</number>
+<text>#combine(big active dogs )</text>
+</query>
+<query>
+<number>45_4</number>
+<text>#combine(big dogs live longer small dogs )</text>
+</query>
+<query>
+<number>45_5</number>
+<text>#combine(put lot time training )</text>
+</query>
+<query>
+<number>45_6</number>
+<text>#combine(breeds independent left home day )</text>
+</query>
+<query>
+<number>45_7</number>
+<text>#combine(irish wolfhound weigh )</text>
+</query>
+<query>
+<number>45_8</number>
+<text>#combine(irish wolfhound cost )</text>
+</query>
+<query>
+<number>46_1</number>
+<text>#combine(learning language difficult )</text>
+</query>
+<query>
+<number>46_2</number>
+<text>#combine(age harder )</text>
+</query>
+<query>
+<number>46_3</number>
+<text>#combine(english  language easiest learn )</text>
+</query>
+<query>
+<number>46_4</number>
+<text>#combine(begin learning norwegian )</text>
+</query>
+<query>
+<number>46_5</number>
+<text>#combine(easier learn spanish )</text>
+</query>
+<query>
+<number>46_6</number>
+<text>#combine(languages closest norwegian )</text>
+</query>
+<query>
+<number>46_7</number>
+<text>#combine(describe norwegian similarities danish )</text>
+</query>
+<query>
+<number>46_8</number>
+<text>#combine(languages evolve )</text>
+</query>
+<query>
+<number>46_9</number>
+<text>#combine(related danish  )</text>
+</query>
+<query>
+<number>46_10</number>
+<text>#combine(advantages knowing multiple languages )</text>
+</query>
+<query>
+<number>47_1</number>
+<text>#combine(boise called city trees )</text>
+</query>
+<query>
+<number>47_2</number>
+<text>#combine()</text>
+</query>
+<query>
+<number>47_3</number>
+<text>#combine(summer )</text>
+</query>
+<query>
+<number>47_4</number>
+<text>#combine(popular hiking trails )</text>
+</query>
+<query>
+<number>47_5</number>
+<text>#combine(oregon trail reserve )</text>
+</query>
+<query>
+<number>47_6</number>
+<text>#combine(history boise greenbelt )</text>
+</query>
+<query>
+<number>47_7</number>
+<text>#combine(controversy history boise greenbelt )</text>
+</query>
+<query>
+<number>48_1</number>
+<text>#combine(main function virtual machine )</text>
+</query>
+<query>
+<number>48_2</number>
+<text>#combine(virtual machine advantages )</text>
+</query>
+<query>
+<number>48_3</number>
+<text>#combine(describe virtual machine disadvantages )</text>
+</query>
+<query>
+<number>48_4</number>
+<text>#combine(work )</text>
+</query>
+<query>
+<number>48_5</number>
+<text>#combine(main types vms )</text>
+</query>
+<query>
+<number>48_6</number>
+<text>#combine(role cloud computing )</text>
+</query>
+<query>
+<number>48_7</number>
+<text>#combine(container )</text>
+</query>
+<query>
+<number>48_8</number>
+<text>#combine(advantage vms )</text>
+</query>
+<query>
+<number>48_9</number>
+<text>#combine(advantage vms related vms )</text>
+</query>
+<query>
+<number>49_1</number>
+<text>#combine(netflix started )</text>
+</query>
+<query>
+<number>49_2</number>
+<text>#combine(netflix originally work )</text>
+</query>
+<query>
+<number>49_3</number>
+<text>#combine(netflix relationship blockbuster )</text>
+</query>
+<query>
+<number>49_4</number>
+<text>#combine(netflix shift dvds streaming service )</text>
+</query>
+<query>
+<number>49_5</number>
+<text>#combine(dvds competitors )</text>
+</query>
+<query>
+<number>49_6</number>
+<text>#combine(dvds compare amazon prime video )</text>
+</query>
+<query>
+<number>49_7</number>
+<text>#combine(describe dvds subscriber growth time )</text>
+</query>
+<query>
+<number>49_8</number>
+<text>#combine(dvds changed tv watched )</text>
+</query>
+<query>
+<number>49_9</number>
+<text>#combine(dvds impacted society )</text>
+</query>
+<query>
+<number>49_10</number>
+<text>#combine(dating relationships )</text>
+</query>
+<query>
+<number>50_1</number>
+<text>#combine(artificial satellite )</text>
+</query>
+<query>
+<number>50_2</number>
+<text>#combine(types orbits )</text>
+</query>
+<query>
+<number>50_3</number>
+<text>#combine(important classes satellite )</text>
+</query>
+<query>
+<number>50_4</number>
+<text>#combine(navigation systems work )</text>
+</query>
+<query>
+<number>50_5</number>
+<text>#combine(galileo system galileo system important )</text>
+</query>
+<query>
+<number>50_6</number>
+<text>#combine(galileo system create tension )</text>
+</query>
+<query>
+<number>50_7</number>
+<text>#combine(cubesats )</text>
+</query>
+<query>
+<number>50_8</number>
+<text>#combine(cubesats advantages )</text>
+</query>
+<query>
+<number>50_9</number>
+<text>#combine(cubesats )</text>
+</query>
+<query>
+<number>50_10</number>
+<text>#combine(cubesats future )</text>
+</query>
+<query>
+<number>51_1</number>
+<text>#combine(save child college education )</text>
+</query>
+<query>
+<number>51_2</number>
+<text>#combine(529 plan )</text>
+</query>
+<query>
+<number>51_3</number>
+<text>#combine(529 plan work )</text>
+</query>
+<query>
+<number>51_4</number>
+<text>#combine(main advantages )</text>
+</query>
+<query>
+<number>51_5</number>
+<text>#combine(disadvantages )</text>
+</query>
+<query>
+<number>51_6</number>
+<text>#combine(long main advantages )</text>
+</query>
+<query>
+<number>51_7</number>
+<text>#combine(types plans )</text>
+</query>
+<query>
+<number>51_8</number>
+<text>#combine(funds )</text>
+</query>
+<query>
+<number>51_9</number>
+<text>#combine(529 plan )</text>
+</query>
+<query>
+<number>51_10</number>
+<text>#combine(esa compare )</text>
+</query>
+<query>
+<number>52_1</number>
+<text>#combine(describe afra tanker scale )</text>
+</query>
+<query>
+<number>52_2</number>
+<text>#combine(developed )</text>
+</query>
+<query>
+<number>52_3</number>
+<text>#combine(supertankers )</text>
+</query>
+<query>
+<number>52_4</number>
+<text>#combine(describe invention )</text>
+</query>
+<query>
+<number>52_5</number>
+<text>#combine(important factors led important factors development )</text>
+</query>
+<query>
+<number>52_6</number>
+<text>#combine(role  day war )</text>
+</query>
+<query>
+<number>52_7</number>
+<text>#combine(barrels vlcc ship carry )</text>
+</query>
+<query>
+<number>52_8</number>
+<text>#combine(largest world )</text>
+</query>
+<query>
+<number>52_9</number>
+<text>#combine(problem increased scale create )</text>
+</query>
+<query>
+<number>52_10</number>
+<text>#combine(describe crude oil washing )</text>
+</query>
+<query>
+<number>53_1</number>
+<text>#combine(red bull bad )</text>
+</query>
+<query>
+<number>53_2</number>
+<text>#combine(kill )</text>
+</query>
+<query>
+<number>53_3</number>
+<text>#combine(drink day )</text>
+</query>
+<query>
+<number>53_4</number>
+<text>#combine(taurine )</text>
+</query>
+<query>
+<number>53_5</number>
+<text>#combine(health effects )</text>
+</query>
+<query>
+<number>53_6</number>
+<text>#combine(general  effects consuming energy drinks )</text>
+</query>
+<query>
+<number>53_7</number>
+<text>#combine(consuming energy drinks harmful mixed alcohol )</text>
+</query>
+<query>
+<number>53_8</number>
+<text>#combine(argument consuming energy drinks age restriction kids )</text>
+</query>
+<query>
+<number>53_9</number>
+<text>#combine(consuming energy drinks banned minors )</text>
+</query>
+<query>
+<number>54_1</number>
+<text>#combine(worth washington dc )</text>
+</query>
+<query>
+<number>54_2</number>
+<text>#combine(smithsonian museums popular )</text>
+</query>
+<query>
+<number>54_3</number>
+<text>#combine(national air space museum important )</text>
+</query>
+<query>
+<number>54_4</number>
+<text>#combine(spy museum free )</text>
+</query>
+<query>
+<number>54_5</number>
+<text>#combine(dc smithsonian museums  close )</text>
+</query>
+<query>
+<number>54_6</number>
+<text>#combine(time visit reflecting pools )</text>
+</query>
+<query>
+<number>54_7</number>
+<text>#combine(famous foods )</text>
+</query>
+<query>
+<number>54_8</number>
+<text>#combine(dc half smoke )</text>
+</query>
+<query>
+<number>54_9</number>
+<text>#combine(dc half smoke history )</text>
+</query>
+<query>
+<number>55_1</number>
+<text>#combine(describe oceanic crust )</text>
+</query>
+<query>
+<number>55_2</number>
+<text>#combine(main layers )</text>
+</query>
+<query>
+<number>55_3</number>
+<text>#combine(main layers differ continental crust )</text>
+</query>
+<query>
+<number>55_4</number>
+<text>#combine(younger )</text>
+</query>
+<query>
+<number>55_5</number>
+<text>#combine(youngest oceanic found )</text>
+</query>
+<query>
+<number>55_6</number>
+<text>#combine(oldest )</text>
+</query>
+<query>
+<number>55_7</number>
+<text>#combine(seafloor spreading )</text>
+</query>
+<query>
+<number>55_8</number>
+<text>#combine(oldest significance )</text>
+</query>
+<query>
+<number>55_9</number>
+<text>#combine(ocean crust formed )</text>
+</query>
+<query>
+<number>55_10</number>
+<text>#combine(oldest recycled )</text>
+</query>
+<query>
+<number>56_1</number>
+<text>#combine(darwin theory nutshell )</text>
+</query>
+<query>
+<number>56_2</number>
+<text>#combine(darwin developed )</text>
+</query>
+<query>
+<number>56_3</number>
+<text>#combine(sexual asexual reproduction affect darwin )</text>
+</query>
+<query>
+<number>56_4</number>
+<text>#combine(fossils understand darwin )</text>
+</query>
+<query>
+<number>56_5</number>
+<text>#combine(modern evidence darwin )</text>
+</query>
+<query>
+<number>56_6</number>
+<text>#combine(impact modern biology )</text>
+</query>
+<query>
+<number>56_7</number>
+<text>#combine(compare contrast microevolution macroevolution )</text>
+</query>
+<query>
+<number>56_8</number>
+<text>#combine(relationship speciation )</text>
+</query>
+<query>
+<number>57_1</number>
+<text>#combine(suffering depression )</text>
+</query>
+<query>
+<number>57_2</number>
+<text>#combine(common types )</text>
+</query>
+<query>
+<number>57_3</number>
+<text>#combine(depression )</text>
+</query>
+<query>
+<number>57_4</number>
+<text>#combine(role brain chemicals )</text>
+</query>
+<query>
+<number>57_5</number>
+<text>#combine(lack sunlight depression )</text>
+</query>
+<query>
+<number>57_6</number>
+<text>#combine(treat )</text>
+</query>
+<query>
+<number>57_7</number>
+<text>#combine(role )</text>
+</query>
+<query>
+<number>57_8</number>
+<text>#combine(anxiety depression related )</text>
+</query>
+<query>
+<number>57_9</number>
+<text>#combine(treatments exist depression )</text>
+</query>
+<query>
+<number>57_10</number>
+<text>#combine(depression work )</text>
+</query>
+<query>
+<number>58_1</number>
+<text>#combine(real  time database )</text>
+</query>
+<query>
+<number>58_2</number>
+<text>#combine(real  time database differ traditional )</text>
+</query>
+<query>
+<number>58_3</number>
+<text>#combine(advantages real  time processing )</text>
+</query>
+<query>
+<number>58_4</number>
+<text>#combine(examples important )</text>
+</query>
+<query>
+<number>58_5</number>
+<text>#combine(important applications )</text>
+</query>
+<query>
+<number>58_6</number>
+<text>#combine(important cloud options )</text>
+</query>
+<query>
+<number>58_7</number>
+<text>#combine(firebase db )</text>
+</query>
+<query>
+<number>58_8</number>
+<text>#combine(firebase db mobile apps )</text>
+</query>
+<query>
+<number>59_1</number>
+<text>#combine(weekend sports injuries )</text>
+</query>
+<query>
+<number>59_2</number>
+<text>#combine(common types injuries )</text>
+</query>
+<query>
+<number>59_3</number>
+<text>#combine(acl )</text>
+</query>
+<query>
+<number>59_4</number>
+<text>#combine(injury acl )</text>
+</query>
+<query>
+<number>59_5</number>
+<text>#combine(acl method )</text>
+</query>
+<query>
+<number>59_6</number>
+<text>#combine(disagreement acl method )</text>
+</query>
+<query>
+<number>59_7</number>
+<text>#combine(acl )</text>
+</query>
+<query>
+<number>59_8</number>
+<text>#combine(ways avoid injury )</text>
+</query>
+<query>
+<number>60_1</number>
+<text>#combine(benefits yoga )</text>
+</query>
+<query>
+<number>60_2</number>
+<text>#combine(benefits yoga reducing stress )</text>
+</query>
+<query>
+<number>60_3</number>
+<text>#combine(main types )</text>
+</query>
+<query>
+<number>60_4</number>
+<text>#combine(type losing weight )</text>
+</query>
+<query>
+<number>60_5</number>
+<text>#combine(common poses bikram yoga )</text>
+</query>
+<query>
+<number>60_6</number>
+<text>#combine(mindful breathing important )</text>
+</query>
+<query>
+<number>60_7</number>
+<text>#combine(benefits yoga relieve asthma )</text>
+</query>
+<query>
+<number>61_1</number>
+<text>#combine(avengers )</text>
+</query>
+<query>
+<number>61_2</number>
+<text>#combine(avengers appearance )</text>
+</query>
+<query>
+<number>61_3</number>
+<text>#combine(powerful )</text>
+</query>
+<query>
+<number>61_4</number>
+<text>#combine(relationship spider  man team )</text>
+</query>
+<query>
+<number>61_5</number>
+<text>#combine(avengers member )</text>
+</query>
+<query>
+<number>61_6</number>
+<text>#combine(important team dc universe )</text>
+</query>
+<query>
+<number>61_7</number>
+<text>#combine(origins justice league )</text>
+</query>
+<query>
+<number>61_8</number>
+<text>#combine(important members )</text>
+</query>
+<query>
+<number>61_9</number>
+<text>#combine(team )</text>
+</query>
+<query>
+<number>62_1</number>
+<text>#combine(surrealism movement art )</text>
+</query>
+<query>
+<number>62_2</number>
+<text>#combine(surrealism movement art characteristics )</text>
+</query>
+<query>
+<number>62_3</number>
+<text>#combine(surrealism movement art founding )</text>
+</query>
+<query>
+<number>62_4</number>
+<text>#combine(series manifestos )</text>
+</query>
+<query>
+<number>62_5</number>
+<text>#combine(dada )</text>
+</query>
+<query>
+<number>62_6</number>
+<text>#combine(surrealism movement art importance )</text>
+</query>
+<query>
+<number>62_7</number>
+<text>#combine(famous artists )</text>
+</query>
+<query>
+<number>62_8</number>
+<text>#combine(dali choose surrealism )</text>
+</query>
+<query>
+<number>62_9</number>
+<text>#combine(dali iconic works )</text>
+</query>
+<query>
+<number>62_10</number>
+<text>#combine(surrealism movement art today )</text>
+</query>
+<query>
+<number>62_11</number>
+<text>#combine(surrealism movement art impact fields )</text>
+</query>
+<query>
+<number>63_1</number>
+<text>#combine(blockchain )</text>
+</query>
+<query>
+<number>63_2</number>
+<text>#combine(problem blockchain solve )</text>
+</query>
+<query>
+<number>63_3</number>
+<text>#combine(blockchain work )</text>
+</query>
+<query>
+<number>63_4</number>
+<text>#combine(types networks )</text>
+</query>
+<query>
+<number>63_5</number>
+<text>#combine(blockchain invention )</text>
+</query>
+<query>
+<number>63_6</number>
+<text>#combine(blockchain related cryptocurrencies )</text>
+</query>
+<query>
+<number>63_7</number>
+<text>#combine(blockchain generated )</text>
+</query>
+<query>
+<number>63_8</number>
+<text>#combine(secure blockchain )</text>
+</query>
+<query>
+<number>63_9</number>
+<text>#combine(blockchain business )</text>
+</query>
+<query>
+<number>63_10</number>
+<text>#combine(implications society )</text>
+</query>
+<query>
+<number>64_1</number>
+<text>#combine(types pork ribs )</text>
+</query>
+<query>
+<number>64_2</number>
+<text>#combine(baby backs )</text>
+</query>
+<query>
+<number>64_3</number>
+<text>#combine(differences spareribs )</text>
+</query>
+<query>
+<number>64_4</number>
+<text>#combine(ways cook baby backs )</text>
+</query>
+<query>
+<number>64_5</number>
+<text>#combine(spareribs  )</text>
+</query>
+<query>
+<number>64_6</number>
+<text>#combine(describe 321 method )</text>
+</query>
+<query>
+<number>64_7</number>
+<text>#combine(long smoke )</text>
+</query>
+<query>
+<number>64_8</number>
+<text>#combine()</text>
+</query>
+<query>
+<number>64_9</number>
+<text>#combine(typical rub )</text>
+</query>
+<query>
+<number>64_10</number>
+<text>#combine(style sauce )</text>
+</query>
+<query>
+<number>64_11</number>
+<text>#combine(kansas city style sauce )</text>
+</query>
+<query>
+<number>65_1</number>
+<text>#combine(nominal gdp )</text>
+</query>
+<query>
+<number>65_2</number>
+<text>#combine(nominal gdp good measure )</text>
+</query>
+<query>
+<number>65_3</number>
+<text>#combine(difference real )</text>
+</query>
+<query>
+<number>65_4</number>
+<text>#combine(nominal gdp related gross national income )</text>
+</query>
+<query>
+<number>65_5</number>
+<text>#combine(meaning gni )</text>
+</query>
+<query>
+<number>65_6</number>
+<text>#combine(inflation affected high nominal gdp growth )</text>
+</query>
+<query>
+<number>65_7</number>
+<text>#combine(relationship inflation unemployment )</text>
+</query>
+<query>
+<number>65_8</number>
+<text>#combine(frictional unemployment frictional unemployment important )</text>
+</query>
+<query>
+<number>65_9</number>
+<text>#combine(bad economy )</text>
+</query>
+<query>
+<number>65_10</number>
+<text>#combine(government reduce government level )</text>
+</query>
+<query>
+<number>66_1</number>
+<text>#combine(lavender plants )</text>
+</query>
+<query>
+<number>66_2</number>
+<text>#combine(types )</text>
+</query>
+<query>
+<number>66_3</number>
+<text>#combine(places famous types )</text>
+</query>
+<query>
+<number>66_4</number>
+<text>#combine(places safe eat )</text>
+</query>
+<query>
+<number>66_5</number>
+<text>#combine(variety cooking )</text>
+</query>
+<query>
+<number>66_6</number>
+<text>#combine(cooking )</text>
+</query>
+<query>
+<number>66_7</number>
+<text>#combine(cooking good )</text>
+</query>
+<query>
+<number>66_8</number>
+<text>#combine(health benefits cooking oil )</text>
+</query>
+<query>
+<number>66_9</number>
+<text>#combine(side effects )</text>
+</query>
+<query>
+<number>67_1</number>
+<text>#combine(blood red )</text>
+</query>
+<query>
+<number>67_2</number>
+<text>#combine(red blood cells )</text>
+</query>
+<query>
+<number>67_3</number>
+<text>#combine(red blood cells created )</text>
+</query>
+<query>
+<number>67_4</number>
+<text>#combine(oxygen transported )</text>
+</query>
+<query>
+<number>67_5</number>
+<text>#combine(anemia )</text>
+</query>
+<query>
+<number>67_6</number>
+<text>#combine(symptoms )</text>
+</query>
+<query>
+<number>67_7</number>
+<text>#combine(anemia )</text>
+</query>
+<query>
+<number>67_8</number>
+<text>#combine(anemia )</text>
+</query>
+<query>
+<number>67_9</number>
+<text>#combine(anemia treated )</text>
+</query>
+<query>
+<number>67_10</number>
+<text>#combine(foods high levels iron )</text>
+</query>
+<query>
+<number>67_11</number>
+<text>#combine(improves absorption )</text>
+</query>
+<query>
+<number>68_1</number>
+<text>#combine(cuisine emilia  romagna famous )</text>
+</query>
+<query>
+<number>68_2</number>
+<text>#combine(cooking schools classes )</text>
+</query>
+<query>
+<number>68_3</number>
+<text>#combine(famous foods region )</text>
+</query>
+<query>
+<number>68_4</number>
+<text>#combine(describe traditional process making balsamic vinegar )</text>
+</query>
+<query>
+<number>68_5</number>
+<text>#combine(mortadella balsamic vinegar )</text>
+</query>
+<query>
+<number>68_6</number>
+<text>#combine(difference balsamic vinegar )</text>
+</query>
+<query>
+<number>68_7</number>
+<text>#combine(balsamic vinegar cheese created )</text>
+</query>
+<query>
+<number>68_8</number>
+<text>#combine(balsamic vinegar  production )</text>
+</query>
+<query>
+<number>68_9</number>
+<text>#combine(typical pasta dishes )</text>
+</query>
+<query>
+<number>68_10</number>
+<text>#combine(history tagliatelle al ragu bolognese )</text>
+</query>
+<query>
+<number>68_11</number>
+<text>#combine(history tagliatelle al ragu bolognese common variations )</text>
+</query>
+<query>
+<number>69_1</number>
+<text>#combine(sleep jet lag )</text>
+</query>
+<query>
+<number>69_2</number>
+<text>#combine(melatonin )</text>
+</query>
+<query>
+<number>69_3</number>
+<text>#combine(jet lag discovered )</text>
+</query>
+<query>
+<number>69_4</number>
+<text>#combine(good sources food )</text>
+</query>
+<query>
+<number>69_5</number>
+<text>#combine(melatonin bad )</text>
+</query>
+<query>
+<number>69_6</number>
+<text>#combine(side effects )</text>
+</query>
+<query>
+<number>69_7</number>
+<text>#combine(side effects require prescription uk )</text>
+</query>
+<query>
+<number>69_8</number>
+<text>#combine(increase levels naturally )</text>
+</query>
+<query>
+<number>69_9</number>
+<text>#combine(side effects effective treating insomnia )</text>
+</query>
+<query>
+<number>69_10</number>
+<text>#combine(anxiety )</text>
+</query>
+<query>
+<number>70_1</number>
+<text>#combine(solar energy )</text>
+</query>
+<query>
+<number>70_2</number>
+<text>#combine(solar energy main )</text>
+</query>
+<query>
+<number>70_3</number>
+<text>#combine(solar energy important )</text>
+</query>
+<query>
+<number>70_4</number>
+<text>#combine(advantages solar energy  )</text>
+</query>
+<query>
+<number>70_5</number>
+<text>#combine(cost solar power )</text>
+</query>
+<query>
+<number>70_6</number>
+<text>#combine(rural africa )</text>
+</query>
+<query>
+<number>70_7</number>
+<text>#combine(solar cookers work )</text>
+</query>
+<query>
+<number>70_8</number>
+<text>#combine(solar power architecture )</text>
+</query>
+<query>
+<number>70_9</number>
+<text>#combine(important projects )</text>
+</query>
+<query>
+<number>70_10</number>
+<text>#combine(solar power power cars )</text>
+</query>
+<query>
+<number>71_1</number>
+<text>#combine(mammals )</text>
+</query>
+<query>
+<number>71_2</number>
+<text>#combine(key characteristics )</text>
+</query>
+<query>
+<number>71_3</number>
+<text>#combine(legs )</text>
+</query>
+<query>
+<number>71_4</number>
+<text>#combine(largest land )</text>
+</query>
+<query>
+<number>71_5</number>
+<text>#combine(largest world )</text>
+</query>
+<query>
+<number>71_6</number>
+<text>#combine(uk )</text>
+</query>
+<query>
+<number>71_7</number>
+<text>#combine(largest land  walk world  )</text>
+</query>
+<query>
+<number>71_8</number>
+<text>#combine(blue whales )</text>
+</query>
+<query>
+<number>71_9</number>
+<text>#combine(blue whales weigh )</text>
+</query>
+<query>
+<number>71_10</number>
+<text>#combine(blue whales live )</text>
+</query>
+<query>
+<number>71_11</number>
+<text>#combine(blue whales eat )</text>
+</query>
+<query>
+<number>71_12</number>
+<text>#combine(blue whales )</text>
+</query>
+<query>
+<number>72_1</number>
+<text>#combine(spanish people christmas day )</text>
+</query>
+<query>
+<number>72_2</number>
+<text>#combine(spanish people eat dinner )</text>
+</query>
+<query>
+<number>72_3</number>
+<text>#combine(christmas day  )</text>
+</query>
+<query>
+<number>72_4</number>
+<text>#combine(christmas lottery )</text>
+</query>
+<query>
+<number>72_5</number>
+<text>#combine(drawing work )</text>
+</query>
+<query>
+<number>72_6</number>
+<text>#combine(tickets sold )</text>
+</query>
+<query>
+<number>72_7</number>
+<text>#combine(christmas lottery   )</text>
+</query>
+<query>
+<number>72_8</number>
+<text>#combine(christmas lottery    start )</text>
+</query>
+<query>
+<number>72_9</number>
+<text>#combine(tickets celebrate kings day )</text>
+</query>
+<query>
+<number>72_10</number>
+<text>#combine(cakes traditional )</text>
+</query>
+<query>
+<number>73_1</number>
+<text>#combine(successful pirate time )</text>
+</query>
+<query>
+<number>73_2</number>
+<text>#combine(famous female )</text>
+</query>
+<query>
+<number>73_3</number>
+<text>#combine(ching shih )</text>
+</query>
+<query>
+<number>73_4</number>
+<text>#combine(ching shih code laws )</text>
+</query>
+<query>
+<number>73_5</number>
+<text>#combine(ching shih die )</text>
+</query>
+<query>
+<number>73_6</number>
+<text>#combine(anne bonny )</text>
+</query>
+<query>
+<number>73_7</number>
+<text>#combine(anne bonny famous )</text>
+</query>
+<query>
+<number>73_8</number>
+<text>#combine(anne bonny married )</text>
+</query>
+<query>
+<number>73_9</number>
+<text>#combine(anne bonny  die )</text>
+</query>
+<query>
+<number>73_10</number>
+<text>#combine(happened anne bonny )</text>
+</query>
+<query>
+<number>74_1</number>
+<text>#combine(pros cons electric cars )</text>
+</query>
+<query>
+<number>74_2</number>
+<text>#combine(tesla )</text>
+</query>
+<query>
+<number>74_3</number>
+<text>#combine(elon musk start tesla )</text>
+</query>
+<query>
+<number>74_4</number>
+<text>#combine(models )</text>
+</query>
+<query>
+<number>74_5</number>
+<text>#combine(selling )</text>
+</query>
+<query>
+<number>74_6</number>
+<text>#combine(unique tesla 3 )</text>
+</query>
+<query>
+<number>74_7</number>
+<text>#combine(safety features )</text>
+</query>
+<query>
+<number>74_8</number>
+<text>#combine(selling building tesla )</text>
+</query>
+<query>
+<number>74_9</number>
+<text>#combine(makes batteries unique )</text>
+</query>
+<query>
+<number>74_10</number>
+<text>#combine(long safety features )</text>
+</query>
+<query>
+<number>74_11</number>
+<text>#combine(autopilot )</text>
+</query>
+<query>
+<number>74_12</number>
+<text>#combine(selling support full  driving )</text>
+</query>
+<query>
+<number>75_1</number>
+<text>#combine(turkey turkey share )</text>
+</query>
+<query>
+<number>75_2</number>
+<text>#combine(turkeys )</text>
+</query>
+<query>
+<number>75_3</number>
+<text>#combine(turkey turkey importance native cultures )</text>
+</query>
+<query>
+<number>75_4</number>
+<text>#combine(turkey turkey domesticated )</text>
+</query>
+<query>
+<number>75_5</number>
+<text>#combine(turkey turkey fly )</text>
+</query>
+<query>
+<number>75_6</number>
+<text>#combine(ben franklin national symbol )</text>
+</query>
+<query>
+<number>75_7</number>
+<text>#combine(ben franklin cook )</text>
+</query>
+<query>
+<number>75_8</number>
+<text>#combine(eaten thanksgiving )</text>
+</query>
+<query>
+<number>75_9</number>
+<text>#combine(traditional christmas dinner britain )</text>
+</query>
+<query>
+<number>75_10</number>
+<text>#combine(turkey turkey popular )</text>
+</query>
+<query>
+<number>76_1</number>
+<text>#combine(important literary elements )</text>
+</query>
+<query>
+<number>76_2</number>
+<text>#combine(difference important literary elements literary devices )</text>
+</query>
+<query>
+<number>76_3</number>
+<text>#combine(genre )</text>
+</query>
+<query>
+<number>76_4</number>
+<text>#combine(important )</text>
+</query>
+<query>
+<number>76_5</number>
+<text>#combine(trope )</text>
+</query>
+<query>
+<number>76_6</number>
+<text>#combine(important examples fantasy )</text>
+</query>
+<query>
+<number>76_7</number>
+<text>#combine(definition allegory )</text>
+</query>
+<query>
+<number>76_8</number>
+<text>#combine(important modern )</text>
+</query>
+<query>
+<number>76_9</number>
+<text>#combine(types foreshadowing )</text>
+</query>
+<query>
+<number>76_10</number>
+<text>#combine()</text>
+</query>
+<query>
+<number>77_1</number>
+<text>#combine(difference soup stew )</text>
+</query>
+<query>
+<number>77_2</number>
+<text>#combine(chilli stew )</text>
+</query>
+<query>
+<number>77_3</number>
+<text>#combine(goulash )</text>
+</query>
+<query>
+<number>77_4</number>
+<text>#combine(popular france )</text>
+</query>
+<query>
+<number>77_5</number>
+<text>#combine(cassoulet made )</text>
+</query>
+<query>
+<number>77_6</number>
+<text>#combine(cassoulet cassoulet significance )</text>
+</query>
+<query>
+<number>77_7</number>
+<text>#combine(similar cassoulet )</text>
+</query>
+<query>
+<number>77_8</number>
+<text>#combine(cassoulet stew )</text>
+</query>
+<query>
+<number>77_9</number>
+<text>#combine(important )</text>
+</query>
+<query>
+<number>77_10</number>
+<text>#combine(history irish stew )</text>
+</query>
+<query>
+<number>78_1</number>
+<text>#combine(keto diet )</text>
+</query>
+<query>
+<number>78_2</number>
+<text>#combine(keto diet original developed )</text>
+</query>
+<query>
+<number>78_3</number>
+<text>#combine(ketosis )</text>
+</query>
+<query>
+<number>78_4</number>
+<text>#combine(paleo )</text>
+</query>
+<query>
+<number>78_5</number>
+<text>#combine(common )</text>
+</query>
+<query>
+<number>78_6</number>
+<text>#combine()</text>
+</query>
+<query>
+<number>78_7</number>
+<text>#combine(intermittent fasting )</text>
+</query>
+<query>
+<number>78_8</number>
+<text>#combine(keto diet related keto )</text>
+</query>
+<query>
+<number>78_9</number>
+<text>#combine(keto diet   )</text>
+</query>
+<query>
+<number>78_10</number>
+<text>#combine(weight loss )</text>
+</query>
+<query>
+<number>79_1</number>
+<text>#combine(taught sociology )</text>
+</query>
+<query>
+<number>79_2</number>
+<text>#combine(main contribution auguste comte )</text>
+</query>
+<query>
+<number>79_3</number>
+<text>#combine(role auguste comte auguste comte )</text>
+</query>
+<query>
+<number>79_4</number>
+<text>#combine(herbert spencer )</text>
+</query>
+<query>
+<number>79_5</number>
+<text>#combine(herbert spencer work related auguste comte )</text>
+</query>
+<query>
+<number>79_6</number>
+<text>#combine(auguste comte   )</text>
+</query>
+<query>
+<number>79_7</number>
+<text>#combine(auguste comte   main criticism )</text>
+</query>
+<query>
+<number>79_8</number>
+<text>#combine(auguste comte   compare conflict theory )</text>
+</query>
+<query>
+<number>79_9</number>
+<text>#combine(modern examples conflict theory )</text>
+</query>
+<query>
+<number>80_1</number>
+<text>#combine(purposes lewis clark expedition )</text>
+</query>
+<query>
+<number>80_2</number>
+<text>#combine(important plants animals discovered )</text>
+</query>
+<query>
+<number>80_3</number>
+<text>#combine(diplomatic objectives )</text>
+</query>
+<query>
+<number>80_4</number>
+<text>#combine(native american tribes encountered )</text>
+</query>
+<query>
+<number>80_5</number>
+<text>#combine(sacagawea )</text>
+</query>
+<query>
+<number>80_6</number>
+<text>#combine(find northwest passage )</text>
+</query>
+<query>
+<number>80_7</number>
+<text>#combine(purpose sacagawea  )</text>
+</query>
+<query>
+<number>80_8</number>
+<text>#combine(spend winter )</text>
+</query>
+<query>
+<number>80_9</number>
+<text>#combine(happened sacagawea   )</text>
+</query>
+<query>
+<number>80_10</number>
+<text>#combine(impact expedition )</text>
+</query>
+</parameters>
