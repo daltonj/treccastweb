@@ -61,6 +61,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Manually created topics from crowdsourcing
 
 # News
+ - June 29: Training data and complete baseline runs
  - June 26: Additional resources released (baseline, collection index, collections tools)
  - June 14: Evaluation data released
  - May 23: Training data released
