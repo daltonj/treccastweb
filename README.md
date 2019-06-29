@@ -28,7 +28,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
  
 ## Collection
  * The corpus is a combination of three standard TREC collections: MARCO Ranking passages, Wikipedia (TREC CAR), and News (Washington Post)
- * The [MS MARCO Passage Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collection.tar.gz)
+ * The [MS MARCO Passage Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collection.tar.gz) - This file only includes the passage id and passage text.  For convenience, we also provide a passage id -> URL mapping file in TSV format [pid to URL file](http://boston.lti.cs.cmu.edu/vaibhav2/cast/marco_pas_url.tsv). 
  * The [TREC CAR paragraph collection v2.0](http://trec-car.cs.unh.edu/datareleases/v2.0/paragraphCorpus.v2.0.tar.xz)
  * The [TREC Washington Post Corpus version 2](https://ir.nist.gov/wapo/WashingtonPost.v2.tar.gz): Note this is behind a password and requires an organizational agreement, to obtain it see: https://ir.nist.gov/wapo/
   
