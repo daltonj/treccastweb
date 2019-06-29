@@ -16,7 +16,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 
 ## Topics
  * [Training topics year 1 V1.0](https://github.com/daltonj/treccastweb/tree/master/2019/data/training) - 30 example training topics
-  * [Trainng judgments](https://github.com/daltonj/treccastweb/blob/master/2019/data/training/train_topics_mod.qrel) - We provide limited training data for 5 topics (approximately 50 turns). These are judged from a baseline retrieval run (below).  The judgments are graded on a three point scale (2 very relevant, 1 relevant, and 0 not relevant). 
+  * [Trainng judgments](https://github.com/daltonj/treccastweb/blob/master/2019/data/training/train_topics_mod.qrel) - We provide limited (incomplete) training data for 5 topics (approximately 50 turns). These are judged from the baseline retrieval run (below).  The judgments are graded on a three point scale (2 very relevant, 1 relevant, and 0 not relevant). 
 
  * [Evaluation topics year 1 V1.0](https://github.com/daltonj/treccastweb/tree/master/2019/data/evaluation) - 50 evaluation topics
  
