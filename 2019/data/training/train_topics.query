@@ -1,0 +1,1081 @@
+<parameters>
+<index>marco_index</index>
+<index>car_index</index>
+<index>wapo_index</index>
+<query>
+<number>1_1</number>
+<text>#combine(physician assistant )</text>
+</query>
+<query>
+<number>1_2</number>
+<text>#combine(educational requirements required )</text>
+</query>
+<query>
+<number>1_3</number>
+<text>#combine(educational requirements required cost )</text>
+</query>
+<query>
+<number>1_4</number>
+<text>#combine(average starting salary uk )</text>
+</query>
+<query>
+<number>1_5</number>
+<text>#combine()</text>
+</query>
+<query>
+<number>1_6</number>
+<text>#combine(school subjects needed registered nurse )</text>
+</query>
+<query>
+<number>1_7</number>
+<text>#combine(pa average salary rn )</text>
+</query>
+<query>
+<number>1_8</number>
+<text>#combine(difference pa nurse practitioner )</text>
+</query>
+<query>
+<number>1_9</number>
+<text>#combine(nps nps make )</text>
+</query>
+<query>
+<number>1_10</number>
+<text>#combine(pa np )</text>
+</query>
+<query>
+<number>1_11</number>
+<text>#combine(fastest np )</text>
+</query>
+<query>
+<number>1_12</number>
+<text>#combine(longer doctor np )</text>
+</query>
+<query>
+<number>2_1</number>
+<text>#combine(main breeds goat )</text>
+</query>
+<query>
+<number>2_2</number>
+<text>#combine(boer goats )</text>
+</query>
+<query>
+<number>2_3</number>
+<text>#combine(breed good meat )</text>
+</query>
+<query>
+<number>2_4</number>
+<text>#combine(boer goats  good )</text>
+</query>
+<query>
+<number>2_5</number>
+<text>#combine(boer goats  )</text>
+</query>
+<query>
+<number>2_6</number>
+<text>#combine(pygmies )</text>
+</query>
+<query>
+<number>2_7</number>
+<text>#combine(fiber production )</text>
+</query>
+<query>
+<number>2_8</number>
+<text>#combine(long boer goats   live )</text>
+</query>
+<query>
+<number>2_9</number>
+<text>#combine(milk boer goats   )</text>
+</query>
+<query>
+<number>2_10</number>
+<text>#combine(acre )</text>
+</query>
+<query>
+<number>2_11</number>
+<text>#combine(boer goats   profitable )</text>
+</query>
+<query>
+<number>3_1</number>
+<text>#combine(types irregular heart beat )</text>
+</query>
+<query>
+<number>3_2</number>
+<text>#combine(irregular heart beat )</text>
+</query>
+<query>
+<number>3_3</number>
+<text>#combine(types tachycardia )</text>
+</query>
+<query>
+<number>3_4</number>
+<text>#combine(atrial flutter )</text>
+</query>
+<query>
+<number>3_5</number>
+<text>#combine(atrial flutter )</text>
+</query>
+<query>
+<number>3_6</number>
+<text>#combine(difference flutter fibrillation )</text>
+</query>
+<query>
+<number>3_7</number>
+<text>#combine(afib affect ecg )</text>
+</query>
+<query>
+<number>3_8</number>
+<text>#combine(afib shorten life )</text>
+</query>
+<query>
+<number>3_9</number>
+<text>#combine(triggers life )</text>
+</query>
+<query>
+<number>3_10</number>
+<text>#combine(stop attack )</text>
+</query>
+<query>
+<number>3_11</number>
+<text>#combine(exercise life )</text>
+</query>
+<query>
+<number>4_1</number>
+<text>#combine(neolithic revolution )</text>
+</query>
+<query>
+<number>4_2</number>
+<text>#combine(neolithic revolution start end )</text>
+</query>
+<query>
+<number>4_3</number>
+<text>#combine(neolithic revolution start )</text>
+</query>
+<query>
+<number>4_4</number>
+<text>#combine(neolithic revolution  invent )</text>
+</query>
+<query>
+<number>4_5</number>
+<text>#combine(tools )</text>
+</query>
+<query>
+<number>4_6</number>
+<text>#combine(brought neolithic revolution   )</text>
+</query>
+<query>
+<number>4_7</number>
+<text>#combine(describe period neolithic revolution   )</text>
+</query>
+<query>
+<number>4_8</number>
+<text>#combine(neolithic revolution   significance )</text>
+</query>
+<query>
+<number>4_9</number>
+<text>#combine(houses )</text>
+</query>
+<query>
+<number>5_1</number>
+<text>#combine(ways cook turkey )</text>
+</query>
+<query>
+<number>5_2</number>
+<text>#combine(brine turkey smoking turkey )</text>
+</query>
+<query>
+<number>5_3</number>
+<text>#combine(salt brine turkey )</text>
+</query>
+<query>
+<number>5_4</number>
+<text>#combine(kind wood )</text>
+</query>
+<query>
+<number>5_5</number>
+<text>#combine(long turkey smoked )</text>
+</query>
+<query>
+<number>5_6</number>
+<text>#combine(smoked turkey healthy )</text>
+</query>
+<query>
+<number>5_7</number>
+<text>#combine(leftovers )</text>
+</query>
+<query>
+<number>5_8</number>
+<text>#combine(long leftovers good fridge )</text>
+</query>
+<query>
+<number>5_9</number>
+<text>#combine(recipe smoked turkey soup )</text>
+</query>
+<query>
+<number>5_10</number>
+<text>#combine(chili )</text>
+</query>
+<query>
+<number>6_1</number>
+<text>#combine(important supreme court cases )</text>
+</query>
+<query>
+<number>6_2</number>
+<text>#combine(plessy ferguson establish )</text>
+</query>
+<query>
+<number>6_3</number>
+<text>#combine(plessy ferguson   )</text>
+</query>
+<query>
+<number>6_4</number>
+<text>#combine(plessy ferguson   unanimous )</text>
+</query>
+<query>
+<number>6_5</number>
+<text>#combine(implication roe wade )</text>
+</query>
+<query>
+<number>6_6</number>
+<text>#combine(main arguments )</text>
+</query>
+<query>
+<number>6_7</number>
+<text>#combine(point brown board ed )</text>
+</query>
+<query>
+<number>6_8</number>
+<text>#combine(main arguments   )</text>
+</query>
+<query>
+<number>6_9</number>
+<text>#combine(point brown board ed important today )</text>
+</query>
+<query>
+<number>7_1</number>
+<text>#combine(types macromolecules )</text>
+</query>
+<query>
+<number>7_2</number>
+<text>#combine(characteristics carbohydrates )</text>
+</query>
+<query>
+<number>7_3</number>
+<text>#combine(carbohydrates composed )</text>
+</query>
+<query>
+<number>7_4</number>
+<text>#combine(carbohydrates basic structure )</text>
+</query>
+<query>
+<number>7_5</number>
+<text>#combine(main types examples )</text>
+</query>
+<query>
+<number>7_6</number>
+<text>#combine(lipids )</text>
+</query>
+<query>
+<number>7_7</number>
+<text>#combine(carbohydrates basic structure  )</text>
+</query>
+<query>
+<number>7_8</number>
+<text>#combine(characteristics carbohydrates    )</text>
+</query>
+<query>
+<number>7_9</number>
+<text>#combine(common )</text>
+</query>
+<query>
+<number>7_10</number>
+<text>#combine(difference characteristics carbohydrates    carbohydrates )</text>
+</query>
+<query>
+<number>7_11</number>
+<text>#combine(carbs )</text>
+</query>
+<query>
+<number>8_1</number>
+<text>#combine(securities act 1933 )</text>
+</query>
+<query>
+<number>8_2</number>
+<text>#combine(exempt securities act 1933 )</text>
+</query>
+<query>
+<number>8_3</number>
+<text>#combine(securities act 1933 needed )</text>
+</query>
+<query>
+<number>8_4</number>
+<text>#combine(reason creating securities act 1933   )</text>
+</query>
+<query>
+<number>8_5</number>
+<text>#combine(largest securities exchange world )</text>
+</query>
+<query>
+<number>8_6</number>
+<text>#combine(securities act 1933 created )</text>
+</query>
+<query>
+<number>8_7</number>
+<text>#combine(stock market )</text>
+</query>
+<query>
+<number>9_1</number>
+<text>#combine(statistics important )</text>
+</query>
+<query>
+<number>9_2</number>
+<text>#combine(study statistics important )</text>
+</query>
+<query>
+<number>9_3</number>
+<text>#combine(statistics important career options )</text>
+</query>
+<query>
+<number>9_4</number>
+<text>#combine(data scientists high demand )</text>
+</query>
+<query>
+<number>9_5</number>
+<text>#combine(statistics important career options make average year )</text>
+</query>
+<query>
+<number>9_6</number>
+<text>#combine(range statistics )</text>
+</query>
+<query>
+<number>9_7</number>
+<text>#combine(describe metrics interpret statistics important )</text>
+</query>
+<query>
+<number>9_8</number>
+<text>#combine(quartiles )</text>
+</query>
+<query>
+<number>9_9</number>
+<text>#combine(find lower upper quartile )</text>
+</query>
+<query>
+<number>10_1</number>
+<text>#combine(water freeze )</text>
+</query>
+<query>
+<number>10_2</number>
+<text>#combine(water molecules )</text>
+</query>
+<query>
+<number>10_3</number>
+<text>#combine(nt bottom ocean frozen )</text>
+</query>
+<query>
+<number>10_4</number>
+<text>#combine(bottom ocean  freeze )</text>
+</query>
+<query>
+<number>10_5</number>
+<text>#combine(coldest place earth )</text>
+</query>
+<query>
+<number>10_6</number>
+<text>#combine(dome fuji inhabitants )</text>
+</query>
+<query>
+<number>10_7</number>
+<text>#combine(antarctica cold )</text>
+</query>
+<query>
+<number>10_8</number>
+<text>#combine(cold water underneath ice )</text>
+</query>
+<query>
+<number>10_9</number>
+<text>#combine(biggest town )</text>
+</query>
+<query>
+<number>11_1</number>
+<text>#combine(  futuristic designs )</text>
+</query>
+<query>
+<number>11_2</number>
+<text>#combine(trend )</text>
+</query>
+<query>
+<number>11_3</number>
+<text>#combine(constructions inspired futuristic designs  )</text>
+</query>
+<query>
+<number>11_4</number>
+<text>#combine(domains futuristic designs   adapted )</text>
+</query>
+<query>
+<number>11_5</number>
+<text>#combine(affected technology )</text>
+</query>
+<query>
+<number>11_6</number>
+<text>#combine(giants business responded )</text>
+</query>
+<query>
+<number>11_7</number>
+<text>#combine(introduction led increase business )</text>
+</query>
+<query>
+<number>11_8</number>
+<text>#combine(designs futuristic  increase  future )</text>
+</query>
+<query>
+<number>12_1</number>
+<text>#combine(good age lasik )</text>
+</query>
+<query>
+<number>12_2</number>
+<text>#combine(give short description procedure )</text>
+</query>
+<query>
+<number>12_3</number>
+<text>#combine(procedure benefits )</text>
+</query>
+<query>
+<number>12_4</number>
+<text>#combine(risks )</text>
+</query>
+<query>
+<number>12_5</number>
+<text>#combine(describe experiences people procedure )</text>
+</query>
+<query>
+<number>12_6</number>
+<text>#combine(good alternatives procedure )</text>
+</query>
+<query>
+<number>12_7</number>
+<text>#combine(procedure success rate )</text>
+</query>
+<query>
+<number>12_8</number>
+<text>#combine(procedure  kind precautions )</text>
+</query>
+<query>
+<number>12_9</number>
+<text>#combine(effect wear age )</text>
+</query>
+<query>
+<number>13_1</number>
+<text>#combine(tofu )</text>
+</query>
+<query>
+<number>13_2</number>
+<text>#combine(made )</text>
+</query>
+<query>
+<number>13_3</number>
+<text>#combine(origins )</text>
+</query>
+<query>
+<number>13_4</number>
+<text>#combine(tofu )</text>
+</query>
+<query>
+<number>13_5</number>
+<text>#combine(kind cheese )</text>
+</query>
+<query>
+<number>13_6</number>
+<text>#combine(eat raw )</text>
+</query>
+<query>
+<number>13_7</number>
+<text>#combine(common ways cook )</text>
+</query>
+<query>
+<number>13_8</number>
+<text>#combine(cuisines popular )</text>
+</query>
+<query>
+<number>13_9</number>
+<text>#combine(tofu good )</text>
+</query>
+<query>
+<number>13_10</number>
+<text>#combine(make sick )</text>
+</query>
+<query>
+<number>13_11</number>
+<text>#combine(tofu bad )</text>
+</query>
+<query>
+<number>14_1</number>
+<text>#combine(scalable data center network architectures )</text>
+</query>
+<query>
+<number>14_2</number>
+<text>#combine(examples )</text>
+</query>
+<query>
+<number>14_3</number>
+<text>#combine(describe characteristics fat tree topology )</text>
+</query>
+<query>
+<number>14_4</number>
+<text>#combine(routes upstream packet )</text>
+</query>
+<query>
+<number>14_5</number>
+<text>#combine(describe core  aggregator edge switches )</text>
+</query>
+<query>
+<number>14_6</number>
+<text>#combine(flows bidirectional )</text>
+</query>
+<query>
+<number>14_7</number>
+<text>#combine(forwarding rules layer tree )</text>
+</query>
+<query>
+<number>14_8</number>
+<text>#combine(describe jellyfish architecture )</text>
+</query>
+<query>
+<number>14_9</number>
+<text>#combine(architecture resilient failure )</text>
+</query>
+<query>
+<number>15_1</number>
+<text>#combine(international linguistics olympiad )</text>
+</query>
+<query>
+<number>15_2</number>
+<text>#combine(prepare international linguistics olympiad )</text>
+</query>
+<query>
+<number>15_3</number>
+<text>#combine(tough exam )</text>
+</query>
+<query>
+<number>15_4</number>
+<text>#combine(kind problems expect )</text>
+</query>
+<query>
+<number>15_5</number>
+<text>#combine(history linguistics field )</text>
+</query>
+<query>
+<number>15_6</number>
+<text>#combine(international linguistics olympiad international linguistics olympiad contributions )</text>
+</query>
+<query>
+<number>15_7</number>
+<text>#combine(link international linguistics olympiad computer science )</text>
+</query>
+<query>
+<number>16_1</number>
+<text>#combine(normal blood sugar level )</text>
+</query>
+<query>
+<number>16_2</number>
+<text>#combine(normal blood sugar level higher normal blood sugar level )</text>
+</query>
+<query>
+<number>16_3</number>
+<text>#combine(dangerous level )</text>
+</query>
+<query>
+<number>16_4</number>
+<text>#combine(bring normal blood sugar level quickly )</text>
+</query>
+<query>
+<number>16_5</number>
+<text>#combine(fast normal blood sugar level rise )</text>
+</query>
+<query>
+<number>16_6</number>
+<text>#combine(normal blood sugar level lower normal )</text>
+</query>
+<query>
+<number>16_7</number>
+<text>#combine(make feel )</text>
+</query>
+<query>
+<number>16_8</number>
+<text>#combine(activities lead imbalance )</text>
+</query>
+<query>
+<number>16_9</number>
+<text>#combine(relation age sugar levels )</text>
+</query>
+<query>
+<number>17_1</number>
+<text>#combine(forms energy )</text>
+</query>
+<query>
+<number>17_2</number>
+<text>#combine(forms energy stored )</text>
+</query>
+<query>
+<number>17_3</number>
+<text>#combine(type energy motion )</text>
+</query>
+<query>
+<number>17_4</number>
+<text>#combine(mechanical energy )</text>
+</query>
+<query>
+<number>17_5</number>
+<text>#combine(give examples )</text>
+</query>
+<query>
+<number>17_6</number>
+<text>#combine(sound form mechanical energy )</text>
+</query>
+<query>
+<number>17_7</number>
+<text>#combine(mechanical energy differ potential energy )</text>
+</query>
+<query>
+<number>17_8</number>
+<text>#combine(potential kinetic )</text>
+</query>
+<query>
+<number>17_9</number>
+<text>#combine(type chemical energy belong )</text>
+</query>
+<query>
+<number>17_10</number>
+<text>#combine(form energy eating )</text>
+</query>
+<query>
+<number>18_1</number>
+<text>#combine(describe uranus )</text>
+</query>
+<query>
+<number>18_2</number>
+<text>#combine(makes unusual )</text>
+</query>
+<query>
+<number>18_3</number>
+<text>#combine(orbit )</text>
+</query>
+<query>
+<number>18_4</number>
+<text>#combine(tilted )</text>
+</query>
+<query>
+<number>18_5</number>
+<text>#combine(rotation planets )</text>
+</query>
+<query>
+<number>18_6</number>
+<text>#combine(peculiar seasons )</text>
+</query>
+<query>
+<number>18_7</number>
+<text>#combine(planets similar )</text>
+</query>
+<query>
+<number>18_8</number>
+<text>#combine(describe characteristics describe uranus )</text>
+</query>
+<query>
+<number>18_9</number>
+<text>#combine(important solar system )</text>
+</query>
+<query>
+<number>18_10</number>
+<text>#combine(describe uranus   similar )</text>
+</query>
+<query>
+<number>18_11</number>
+<text>#combine(life exist describe uranus   )</text>
+</query>
+<query>
+<number>19_1</number>
+<text>#combine(chemical energy )</text>
+</query>
+<query>
+<number>19_2</number>
+<text>#combine(describe chemical reaction )</text>
+</query>
+<query>
+<number>19_3</number>
+<text>#combine(chemical energy represented mathematically )</text>
+</query>
+<query>
+<number>19_4</number>
+<text>#combine(give )</text>
+</query>
+<query>
+<number>19_5</number>
+<text>#combine(kinds reactions )</text>
+</query>
+<query>
+<number>19_6</number>
+<text>#combine(decomposition reaction )</text>
+</query>
+<query>
+<number>19_7</number>
+<text>#combine(chemical energy chemical change )</text>
+</query>
+<query>
+<number>19_8</number>
+<text>#combine(synthesis reaction )</text>
+</query>
+<query>
+<number>19_9</number>
+<text>#combine(differences synthesis decomposition )</text>
+</query>
+<query>
+<number>20_1</number>
+<text>#combine(describe cell membranes )</text>
+</query>
+<query>
+<number>20_2</number>
+<text>#combine(important functions )</text>
+</query>
+<query>
+<number>20_3</number>
+<text>#combine(phospholipid bilayer )</text>
+</query>
+<query>
+<number>20_4</number>
+<text>#combine(important functions  )</text>
+</query>
+<query>
+<number>20_5</number>
+<text>#combine(membrane damaged )</text>
+</query>
+<query>
+<number>20_6</number>
+<text>#combine(membrane repair membrane )</text>
+</query>
+<query>
+<number>20_7</number>
+<text>#combine(nutrients repair process )</text>
+</query>
+<query>
+<number>21_1</number>
+<text>#combine(weathering )</text>
+</query>
+<query>
+<number>21_2</number>
+<text>#combine(weathering major types )</text>
+</query>
+<query>
+<number>21_3</number>
+<text>#combine(chemical weathering )</text>
+</query>
+<query>
+<number>21_4</number>
+<text>#combine(weathering biological weathering )</text>
+</query>
+<query>
+<number>21_5</number>
+<text>#combine(weathering change composition rocks )</text>
+</query>
+<query>
+<number>21_6</number>
+<text>#combine(end product chemical weathering  )</text>
+</query>
+<query>
+<number>21_7</number>
+<text>#combine(give )</text>
+</query>
+<query>
+<number>21_8</number>
+<text>#combine(quartz undergoes weathering )</text>
+</query>
+<query>
+<number>22_1</number>
+<text>#combine(common spices cooking )</text>
+</query>
+<query>
+<number>22_2</number>
+<text>#combine(common spices cooking herbs )</text>
+</query>
+<query>
+<number>22_3</number>
+<text>#combine(spices taste good )</text>
+</query>
+<query>
+<number>22_4</number>
+<text>#combine(common spices cooking )</text>
+</query>
+<query>
+<number>22_5</number>
+<text>#combine(cuisines common spices cooking heavily )</text>
+</query>
+<query>
+<number>22_6</number>
+<text>#combine(popular indian )</text>
+</query>
+<query>
+<number>22_7</number>
+<text>#combine(turmeric )</text>
+</query>
+<query>
+<number>22_8</number>
+<text>#combine(benefits consuming turmeric )</text>
+</query>
+<query>
+<number>22_9</number>
+<text>#combine(oldest spice )</text>
+</query>
+<query>
+<number>22_10</number>
+<text>#combine(expensive )</text>
+</query>
+<query>
+<number>23_1</number>
+<text>#combine(main types cattle farming )</text>
+</query>
+<query>
+<number>23_2</number>
+<text>#combine(breeds produce milk )</text>
+</query>
+<query>
+<number>23_3</number>
+<text>#combine(holsteins produce )</text>
+</query>
+<query>
+<number>23_4</number>
+<text>#combine(special jersey milk )</text>
+</query>
+<query>
+<number>23_5</number>
+<text>#combine(eat dairy cows )</text>
+</query>
+<query>
+<number>23_6</number>
+<text>#combine(common breeds meat )</text>
+</query>
+<query>
+<number>23_7</number>
+<text>#combine(angus beef )</text>
+</query>
+<query>
+<number>23_8</number>
+<text>#combine(space )</text>
+</query>
+<query>
+<number>24_1</number>
+<text>#combine(friend stop smoking )</text>
+</query>
+<query>
+<number>24_2</number>
+<text>#combine(smoking long term effects )</text>
+</query>
+<query>
+<number>24_3</number>
+<text>#combine(smoking cancer )</text>
+</query>
+<query>
+<number>24_4</number>
+<text>#combine(makes smoking addictive )</text>
+</query>
+<query>
+<number>24_5</number>
+<text>#combine(alternatives nicotine )</text>
+</query>
+<query>
+<number>24_6</number>
+<text>#combine(effective patches )</text>
+</query>
+<query>
+<number>24_7</number>
+<text>#combine(cold turkey method )</text>
+</query>
+<query>
+<number>24_8</number>
+<text>#combine(describe typical withdrawal symptoms )</text>
+</query>
+<query>
+<number>25_1</number>
+<text>#combine(orca whales )</text>
+</query>
+<query>
+<number>25_2</number>
+<text>#combine(orca whales whales )</text>
+</query>
+<query>
+<number>25_3</number>
+<text>#combine(orca whales hunt )</text>
+</query>
+<query>
+<number>25_4</number>
+<text>#combine(orca whales eat )</text>
+</query>
+<query>
+<number>25_5</number>
+<text>#combine(orca whales orca whales )</text>
+</query>
+<query>
+<number>25_6</number>
+<text>#combine(orca whales dangerous )</text>
+</query>
+<query>
+<number>25_7</number>
+<text>#combine(watch orca whales )</text>
+</query>
+<query>
+<number>25_8</number>
+<text>#combine(good season spotting orca whales )</text>
+</query>
+<query>
+<number>25_9</number>
+<text>#combine(captivity affect orca whales )</text>
+</query>
+<query>
+<number>26_1</number>
+<text>#combine(defines chemical element )</text>
+</query>
+<query>
+<number>26_2</number>
+<text>#combine(related periodic table )</text>
+</query>
+<query>
+<number>26_3</number>
+<text>#combine(periodic table organised )</text>
+</query>
+<query>
+<number>26_4</number>
+<text>#combine(chemical compound differ element )</text>
+</query>
+<query>
+<number>26_5</number>
+<text>#combine(types compounds )</text>
+</query>
+<query>
+<number>26_6</number>
+<text>#combine(formed )</text>
+</query>
+<query>
+<number>26_7</number>
+<text>#combine(important periodic table   )</text>
+</query>
+<query>
+<number>26_8</number>
+<text>#combine(important daily basis )</text>
+</query>
+<query>
+<number>27_1</number>
+<text>#combine(comprises balanced diet )</text>
+</query>
+<query>
+<number>27_2</number>
+<text>#combine(men women )</text>
+</query>
+<query>
+<number>27_3</number>
+<text>#combine(specific recommendations women )</text>
+</query>
+<query>
+<number>27_4</number>
+<text>#combine(dairy products good health )</text>
+</query>
+<query>
+<number>27_5</number>
+<text>#combine(harm )</text>
+</query>
+<query>
+<number>27_6</number>
+<text>#combine(fiber )</text>
+</query>
+<query>
+<number>27_7</number>
+<text>#combine(consumed smaller amount recommended )</text>
+</query>
+<query>
+<number>28_1</number>
+<text>#combine(describe global warming )</text>
+</query>
+<query>
+<number>28_2</number>
+<text>#combine(dangers )</text>
+</query>
+<query>
+<number>28_3</number>
+<text>#combine(methods prevent worse )</text>
+</query>
+<query>
+<number>28_4</number>
+<text>#combine(individual level )</text>
+</query>
+<query>
+<number>28_5</number>
+<text>#combine(reduce carbon footprint )</text>
+</query>
+<query>
+<number>28_6</number>
+<text>#combine(government carbon footprint )</text>
+</query>
+<query>
+<number>28_7</number>
+<text>#combine(overpopulation related )</text>
+</query>
+<query>
+<number>29_1</number>
+<text>#combine(british invasion music )</text>
+</query>
+<query>
+<number>29_2</number>
+<text>#combine(era british invasion music happen )</text>
+</query>
+<query>
+<number>29_3</number>
+<text>#combine(genre british invasion music involve )</text>
+</query>
+<query>
+<number>29_4</number>
+<text>#combine(special british invasion music )</text>
+</query>
+<query>
+<number>29_5</number>
+<text>#combine(bands key part )</text>
+</query>
+<query>
+<number>29_6</number>
+<text>#combine(leading band british invasion role )</text>
+</query>
+<query>
+<number>29_7</number>
+<text>#combine(british invasion related musical movements )</text>
+</query>
+<query>
+<number>29_8</number>
+<text>#combine(british invasion impact american music )</text>
+</query>
+<query>
+<number>29_9</number>
+<text>#combine(music movement succeeded british invasion )</text>
+</query>
+<query>
+<number>30_1</number>
+<text>#combine(advantages linux )</text>
+</query>
+<query>
+<number>30_2</number>
+<text>#combine(run windows software )</text>
+</query>
+<query>
+<number>30_3</number>
+<text>#combine(compare windows )</text>
+</query>
+<query>
+<number>30_4</number>
+<text>#combine(popular )</text>
+</query>
+<query>
+<number>30_5</number>
+<text>#combine(install software )</text>
+</query>
+<query>
+<number>30_6</number>
+<text>#combine(easy install linux )</text>
+</query>
+<query>
+<number>30_7</number>
+<text>#combine(share files )</text>
+</query>
+</parameters>
