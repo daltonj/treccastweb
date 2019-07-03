@@ -65,10 +65,10 @@ Description: Information about cooking a turkey including brining it, smoking it
 3	How much salt do I use to brine it?
 4	What kind of wood should I use?
 5	How long should it be smoked for?
-6	Is smoked turkey healthy?
+6	Is it healthy?
 7	What can you do with leftovers?
 8	How long are leftovers good for in the fridge?
-9	What's a recipe for smoked turkey soup?
+9	What's a recipe for soup using it?
 10	How about one for chili?
 
 Number: 6
@@ -94,7 +94,7 @@ Description: A comparison of types of basic macromolecules: carbohydrates and li
 5	What are the main types with examples of each?
 6	Tell me about lipids.
 7	What is their function?
-8	What are the types of lipids?
+8	What are the types?
 9	What is the most common?
 10	What is the difference between them and carbohydrates?
 11	Why are carbs better?
@@ -107,7 +107,7 @@ Description: Find information regarding U.S. securities acts, as well as where s
 3	Why was it needed?
 4	What was the reason for creating the 1934 act?
 5	What is the largest securities exchange in the world?
-6	How and when when was it created?
+6	How and when when was the NYSE created?
 7	What was the first stock market? 
 
 Number: 9
@@ -118,7 +118,7 @@ Description:  Explore metrics for understanding range in statistics, and career 
 3	Tell me about its career options.
 4	Are Data Scientists in high demand?
 5	How much do they make on average in a year?
-6	What is range in statistics?
+6	What is range?
 7	Describe some different metrics to interpret it.
 8	What are quartiles?
 9	How do you find the lower and upper quartile?
@@ -139,7 +139,7 @@ Description: Requires information about the process involved in freezing of wate
 Number: 11
 Title: Futuristic designs
 Description: General questions regarding futuristic designs and how it has affected the world of technology.
-1	What are  futuristic designs?
+1	What are futuristic designs?
 2	How did this become a new trend?
 3	Why are most of the constructions inspired by these designs?
 4	What are the different domains where such designs have been adapted?
@@ -167,14 +167,14 @@ Description: Describe tofu, cooking methods, including recipes, and possible hea
 1	What is tofu exactly?
 2	How is it made?
 3	What are its origins?
-4	What is the best tofu?
+4	What is the best?
 5	Is it a kind of cheese?
 6	Can I eat it raw?
 7	What are common ways to cook it?
 8	In what cuisines is it popular?
-9	Is tofu good for you?
+9	Is it good for you?
 10	Can it make you sick?
-11	Is too much tofu bad for you?
+11	Is too much of it bad for you?
 
 Number: 14
 Title: Data center network architectures 
