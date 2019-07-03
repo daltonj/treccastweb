@@ -63,12 +63,11 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 # News
  - June 29: Training data and complete baseline runs
  - June 26: Additional resources released (baseline, collection index, collections tools)
- - June 14: Evaluation data released
- - May 23: Training data released
+ - June 14: Evaluation topics released
+ - May 23: Training topics released
  - April 18th: Guidelines released
  - November 13: Announcement that the track will run next year. 
  - March 19: Sample topic data for conversational and MARCO sessions available
- - May 1st: Track guidelines are released
 
 
 # Contact
