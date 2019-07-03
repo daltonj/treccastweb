@@ -1,5 +1,5 @@
 Number: 1
-Title: Career choice for Nursing and Physician's Assistant
+Title: career choice for Nursing and Physician's Assistant
 Description: Considering career options for becoming a physician's assistant vs a nurse.  Discussion topics include required education (including time, cost), salaries, and which is better overall.
 1	What is a physician's assistant?
 2	What are the educational requirements required to become one?
@@ -15,7 +15,7 @@ Description: Considering career options for becoming a physician's assistant vs 
 12	How much longer does it take to become a doctor after being an NP?
 
 Number: 2
-Title: Goat breeds
+Title: goat breeds
 Description: Interested in buying goats that implies interest in different breeds of goats and their use (milk, meat, and fur).
 1	What are the main breeds of goat?
 2	Tell me about boer goats.
@@ -30,7 +30,7 @@ Description: Interested in buying goats that implies interest in different breed
 11	Are they profitable?
 
 Number: 3
-Title: Irregular heart beat
+Title: irregular heart beat
 Description: Find information about irregular heart beat.  This includes atrial fibrillation (afib) and atrial flutter), sinus bradycardia, and tachycardia.
 1	Tell me about the types of irregular heart beat.
 2	How serious is an irregular heart beat?
@@ -58,7 +58,7 @@ Description: The neolithic revolution and technology used within it and when it 
 9	What were the houses like?
 
 Number: 5
-Title: Cooking turkey
+Title: cooking turkey
 Description: Information about cooking a turkey including brining it, smoking it, and using leftovers (including recipes).
 1	What are the best ways to cook a turkey?
 2	Should I brine a turkey before smoking it?
@@ -72,7 +72,7 @@ Description: Information about cooking a turkey including brining it, smoking it
 10	How about one for chili?
 
 Number: 6
-Title: Judicial history
+Title: judicial history
 Description: Judicial history in the US including key court cases and what they established.
 1	What are the most important US supreme court cases?
 2	What did Plessy v. Ferguson establish?
@@ -85,7 +85,7 @@ Description: Judicial history in the US including key court cases and what they 
 9	Why is it important today?
 
 Number: 7
-Title: Macromolecules
+Title: macromolecules
 Description: A comparison of types of basic macromolecules: carbohydrates and lipids. 
 1	What are the different types of macromolecules?
 2	Tell me about the characteristics of carbohydrates.
@@ -100,7 +100,7 @@ Description: A comparison of types of basic macromolecules: carbohydrates and li
 11	Why are carbs better?
 
 Number: 8
-Title: Securities acts
+Title: securities acts
 Description: Find information regarding U.S. securities acts, as well as where securities are traded.
 1	What was the Securities Act of 1933?
 2	What is exempt from it?
@@ -111,7 +111,7 @@ Description: Find information regarding U.S. securities acts, as well as where s
 7	What was the first stock market? 
 
 Number: 9
-Title: Statistics and studying it for a career
+Title: statistics and studying it for a career
 Description:  Explore metrics for understanding range in statistics, and career options in statistics.
 1	Why is statistics important?
 2	Why should one study it?
@@ -124,7 +124,7 @@ Description:  Explore metrics for understanding range in statistics, and career 
 9	How do you find the lower and upper quartile?
 
 Number: 10
-Title: Freezing water and coldest places on Earth
+Title: freezing water and coldest places on Earth
 Description: Requires information about the process involved in freezing of water. Also, requests information about the coldest places on Earth in Antarctica.
 1	How does water freeze?
 2	What happens to its molecules?
@@ -137,7 +137,7 @@ Description: Requires information about the process involved in freezing of wate
 9	What is the biggest town?
 
 Number: 11
-Title: Futuristic designs
+Title: futuristic designs
 Description: General questions regarding futuristic designs and how it has affected the world of technology.
 1	What are futuristic designs?
 2	How did this become a new trend?
@@ -162,7 +162,7 @@ Description: Find information about LASIK surgery, including its pros and cons, 
 9	Does the effect wear off with age?
 
 Number: 13
-Title: Tofu
+Title: tofu
 Description: Describe tofu, cooking methods, including recipes, and possible health effects.
 1	What is tofu exactly?
 2	How is it made?
@@ -177,7 +177,7 @@ Description: Describe tofu, cooking methods, including recipes, and possible hea
 11	Is too much of it bad for you?
 
 Number: 14
-Title: Data center network architectures 
+Title: data center network architectures 
 Description: Technical information about data center network architectures.
 1	What are scalable data center network architectures?
 2	What are some examples?
@@ -201,7 +201,7 @@ Description: Information about the International Linguistics Olympiad, and lingu
 7	What is the link between linguistics and computer science?
 
 Number: 16
-Title: Blood sugar
+Title: blood sugar
 Description: Blood sugar levels and possible complications that may arise due to it.
 1	What is a normal blood sugar level?
 2	What does it mean if it's higher than this?
@@ -214,7 +214,7 @@ Description: Blood sugar levels and possible complications that may arise due to
 9	Is there a relation between age and sugar levels?
 
 Number: 17
-Title: Forms of energy
+Title: forms of energy
 Description: Energy and its various forms.
 1	What are the different forms of energy?
 2	How can it be stored?
@@ -243,7 +243,7 @@ Description: Information about Uranus and Neptune.
 11	Can life exist on either of them?
 
 Number: 19
-Title: Chemical reaction
+Title: chemical reaction
 Description: Information about chemical reactions.
 1	What is chemical energy?
 2	Describe a chemical reaction.
@@ -256,7 +256,7 @@ Description: Information about chemical reactions.
 9	Tell me the differences between synthesis and decomposition.
 
 Number: 20
-Title: Cell membrane
+Title: cell membrane
 Description: Information about the cell membrane and its functions.
 1	Describe cell membranes.
 2	What are its important functions?
@@ -267,7 +267,7 @@ Description: Information about the cell membrane and its functions.
 7	Which nutrients may help in the repair process?
 
 Number: 21
-Title: Weathering
+Title: weathering
 Description: General queries regarding weathering, its various types, how it affects rocks etc.
 1	What is weathering?
 2	What are its major types?
@@ -279,7 +279,7 @@ Description: General queries regarding weathering, its various types, how it aff
 8	What happens when quartz undergoes weathering?
 
 Number: 22
-Title: Spices
+Title: spices
 Description: Questions about spices, their benefits, and their composition.
 1	What are the most common spices used in cooking?
 2	How are they different from herbs?
@@ -293,7 +293,7 @@ Description: Questions about spices, their benefits, and their composition.
 10	What is the most expensive and why?
 
 Number: 23
-Title: Cattle farming for meat and dairy
+Title: cattle farming for meat and dairy
 Description: Inquires about two different types of cattle farming - meat and dairy.
 1	What are the main types of cattle farming?
 2	What breeds produce the most milk?
@@ -305,7 +305,7 @@ Description: Inquires about two different types of cattle farming - meat and dai
 8	How much space do they need?
 
 Number: 24
-Title: Smoking cessation
+Title: smoking cessation
 Description: Understanding the various ill effects of smoking and methods to prevent it.
 1	How can I help my friend stop smoking?
 2	What are its long term effects?
@@ -317,7 +317,7 @@ Description: Understanding the various ill effects of smoking and methods to pre
 8	Describe typical withdrawal symptoms.
 
 Number: 25
-Title: Killer whales
+Title: killer whales
 Description: More information about killer whales, and about a good time to observe them.
 1	Tell me about Orca whales.
 2	Are they really whales?
@@ -330,7 +330,7 @@ Description: More information about killer whales, and about a good time to obse
 9	How does captivity affect them? 
 
 Number: 26
-Title: Chemical elements
+Title: chemical elements
 Description: Understanding various aspects of chemical elements, including how they are represented, relation to human body etc.
 1	What defines a chemical element?
 2	How are they related to the Periodic Table?
@@ -342,7 +342,7 @@ Description: Understanding various aspects of chemical elements, including how t
 8	What are important ones used on a daily basis?
 
 Number: 27
-Title: Dietary needs
+Title: dietary needs
 Description: Trying to understand the importance of various dietary needs and its benefits.
 1	What comprises a balanced diet?
 2	Is it the same for men as well as women?
@@ -353,7 +353,7 @@ Description: Trying to understand the importance of various dietary needs and it
 7	What happens if it's consumed in a smaller amount than recommended?
 
 Number: 28
-Title: Global warming
+Title: global warming
 Description: Understanding global warming, its dangers and what could be done to avoid it.
 1	Describe global warming.
 2	What are its dangers?
