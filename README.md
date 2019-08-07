@@ -12,6 +12,11 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * [Year 1 task guidelines](https://docs.google.com/document/d/1SH6UdZ9xQUZzhxnCzlsJvXtPEUCuiow5MXlrsA22pKs/edit?usp=sharing)
 * Comments and feedback are welcome.
 
+## Year 1 Submission
+* The (http://ir.nist.gov/trecsubmit/converse.html)[submission form] is now available!
+* (https://trec.nist.gov/act_part/scripts/19.scripts/check_cast.pl)[Script] is available to check the validity of your runs.
+* Note: If you registered, but your name is not in the list, please verify that you have submitted the dissemination form.
+
 # Data
 
 ## Topics
@@ -21,6 +26,8 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
  * [Evaluation topics year 1 V1.0](https://github.com/daltonj/treccastweb/tree/master/2019/data/evaluation) - 50 evaluation topics
  
  * Additional resources: MS MARCO Conversational Search Sessions  [Conversational Search data](https://github.com/microsoft/MSMARCO-Conversational-Search) and [train data](https://msmarco.blob.core.windows.net/conversationalsearch/ann_session_train.tar.gz) is released.
+ 
+ * To facilitate work on passage ranking we performed manual resolution of coreference as well as conversational ambiguity for 1) (https://github.com/daltonj/treccastweb/blob/master/2019/data/training/train_topic_sample_annotated_resolved_v1.0.tsv)two sample training queries (for exemplars) and 2) (https://github.com/daltonj/treccastweb/blob/master/2019/data/evaluation/evaluation_topics_annotated_resolved_v1.0.tsv)[complete annotations] for the year 1 evaluation queries.  The annotations are provided in a tab separated format with the turn id (query id) and the rewritten query in text form.  
 
 ## Baselines
  * [Indri search interface](http://boston.lti.cs.cmu.edu/Services/treccast19) - We provide an Indri index of the CAsT collection.  See the [help page](http://boston.lti.cs.cmu.edu/Services/treccast19/help-db.html) for details on indexing parameters and statistics. It includes a standard [batch search](http://boston.lti.cs.cmu.edu/Services/treccast19_batch/) API limited to 50 queries per batch.)
