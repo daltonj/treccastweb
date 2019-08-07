@@ -28,9 +28,9 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
  * Additional resources: MS MARCO Conversational Search Sessions  [Conversational Search data](https://github.com/microsoft/MSMARCO-Conversational-Search) and [train data](https://msmarco.blob.core.windows.net/conversationalsearch/ann_session_train.tar.gz) is released.
  
  ### Resolved Topic Annotations
- * To facilitate work on passage ranking only we performed manual resolution of coreference as well as conversational ambiguity for topics.  We make these available to participants who may not have access to automatic methods. Runs using this data manual runs. 
- * Sample annotations on [two training queries](https://github.com/daltonj/treccastweb/blob/master/2019/data/training/train_topic_sample_annotated_resolved_v1.0.tsv) (for exemplars) 
- * Complete annotations on the [evaluation topics](https://github.com/daltonj/treccastweb/blob/master/2019/data/evaluation/evaluation_topics_annotated_resolved_v1.0.tsv) for the year 1 evaluation queries.  The annotations are provided in a tab separated format with the turn id (query id) and the rewritten query in text form.
+ * To facilitate work on passage ranking only we performed manual resolution of coreference as well as conversational ambiguity for topics.  We make these available to participants who may not have access to automatic methods. Runs using this data manual runs. The annotations are provided in a tab separated format with the turn id (query id) and the rewritten query in text form.
+ * TRAIN: Sample annotations on [two training queries](https://github.com/daltonj/treccastweb/blob/master/2019/data/training/train_topic_sample_annotated_resolved_v1.0.tsv) (for exemplars) 
+ * EVALUTION: Complete annotations on the [evaluation topics](https://github.com/daltonj/treccastweb/blob/master/2019/data/evaluation/evaluation_topics_annotated_resolved_v1.0.tsv) for the year 1 evaluation queries.  
 
 ## Baselines
  * [Indri search interface](http://boston.lti.cs.cmu.edu/Services/treccast19) - We provide an Indri index of the CAsT collection.  See the [help page](http://boston.lti.cs.cmu.edu/Services/treccast19/help-db.html) for details on indexing parameters and statistics. It includes a standard [batch search](http://boston.lti.cs.cmu.edu/Services/treccast19_batch/) API limited to 50 queries per batch.)
