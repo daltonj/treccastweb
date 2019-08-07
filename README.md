@@ -88,7 +88,7 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 # Important Dates
 * Training data release: May 23rd
 * Test topic release: June 12th
-* Run submission: August 16th
+* Run submission: ~~August 16th~~ August 18th **(Extended deadline)**
 
 
 # Evaluation 
