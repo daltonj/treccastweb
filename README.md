@@ -8,6 +8,10 @@ This is the first year of TREC CAsT, which will run as a track in [TREC](https:/
 * Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
+## Year 2
+ * Year 2 is happening in 2020
+ * See the [TREC Boaster](https://docs.google.com/presentation/d/1ECg07GchcbngdLls6qo4CNULj-odiHOLZBTZLxJ_RS8/edit?usp=sharing) for an initial preview
+
 ## Year 1 Task Guidelines
 * [Year 1 task guidelines](https://docs.google.com/document/d/1SH6UdZ9xQUZzhxnCzlsJvXtPEUCuiow5MXlrsA22pKs/edit?usp=sharing)
 * Comments and feedback are welcome.
