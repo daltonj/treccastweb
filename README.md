@@ -2,9 +2,9 @@
 
 There are currently few datasets appropriate for training and evaluating models for Conversational Information Seeking (CIS). The main aim of TREC CAsT is to advance research on conversational search systems. The goal of the track is to create a reusable benchmark for open-domain information centric conversational dialogues. 
 
-The track will run in 2019 and establish a concrete and standard collection of data with information needs to make systems directly comparable. 
+The track will run in 2020 and establish a concrete and standard collection of data with information needs to make systems directly comparable. 
 
-This is the first year of TREC CAsT, which will run as a track in [TREC](https://trec.nist.gov/). This year we aim to focus on candidate information ranking in context:
+This is the second year of TREC CAsT, which will run as a track in [TREC](https://trec.nist.gov/). This year we aim to focus on candidate information ranking in context:
 * Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
