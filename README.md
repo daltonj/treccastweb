@@ -22,7 +22,8 @@ This is the second year of TREC CAsT, which will run as a track in [TREC](https:
  * The corpus is a combination of two standard TREC collections: MARCO Ranking passages and Wikipedia (TREC CAR).
  * The [MS MARCO Passage Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collection.tar.gz) - This file only includes the passage id and passage text.  For convenience, we also provide a passage id -> URL mapping file in TSV format [pid to URL file](http://boston.lti.cs.cmu.edu/vaibhav2/cast/marco_pas_url.tsv). 
  * The [TREC CAR paragraph collection v2.0](http://trec-car.cs.unh.edu/datareleases/v2.0/paragraphCorpus.v2.0.tar.xz)
-
+ 
+### Guidelines
 * [Year 2 task guidelines](https://docs.google.com/document/d/1B_NpYdl7FU4EiYeAyWJ9c_CBn-Z6hyF4Zq3XJjADBeU/edit?usp=sharing)
 * Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit (deadline end of May!).
 
