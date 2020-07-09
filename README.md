@@ -12,7 +12,7 @@ This is the second year of TREC CAsT, which will run as a track in [TREC](https:
 
 ## Data 
 ### Topics
- * NEW - [Evaluation topics for Year 2 V1.0](https://github.com/daltonj/treccastweb/tree/master/2020) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two versions, variants automatic and manual. 
+ * NEW - [Evaluation topics for Year 2 V1.0](https://github.com/daltonj/treccastweb/tree/master/2020) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
  
 ### Baselines
  * NEW - [BM25 + BERT baseline](https://github.com/daltonj/treccastweb/tree/master/2020/baselines) - We provide a BM25 + BERT reranked baseline run for the raw utterances, automatically rewritten utterances, and the manually rewritten utterances. 
