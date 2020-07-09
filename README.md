@@ -9,20 +9,26 @@ This is the second year of TREC CAsT, which will run as a track in [TREC](https:
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
 # Year 2 (TREC 2020)
- * NEW - [Year 2 task guidelines](https://docs.google.com/document/d/1B_NpYdl7FU4EiYeAyWJ9c_CBn-Z6hyF4Zq3XJjADBeU/edit?usp=sharing)
-* Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit (deadline end of May!).
 
 ## Data 
 ### Topics
- * To be released (in June) 
+ * NEW - [Evaluation topics for Year 2 V1.0](https://github.com/daltonj/treccastweb/tree/master/2020) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two versions, variants automatic and manual. 
+ 
+ ### Baselines
+ * NEW - [BM25 + BERT baseline](https://github.com/daltonj/treccastweb/tree/master/2020/baselines) - We provide a BM25 + BERT reranked baseline run for the raw utterances, automatically rewritten utterances, and the manually rewritten utterances. 
+ * NEW -  [Interactive web UI](http://boston.lti.cs.cmu.edu/boston-2-25/) - A web UI with the same model used to create the baseline runs.
  
 ### Collection
  * The corpus is a combination of two standard TREC collections: MARCO Ranking passages and Wikipedia (TREC CAR).
  * The [MS MARCO Passage Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collection.tar.gz) - This file only includes the passage id and passage text.  For convenience, we also provide a passage id -> URL mapping file in TSV format [pid to URL file](http://boston.lti.cs.cmu.edu/vaibhav2/cast/marco_pas_url.tsv). 
  * The [TREC CAR paragraph collection v2.0](http://trec-car.cs.unh.edu/datareleases/v2.0/paragraphCorpus.v2.0.tar.xz)
 
+* [Year 2 task guidelines](https://docs.google.com/document/d/1B_NpYdl7FU4EiYeAyWJ9c_CBn-Z6hyF4Zq3XJjADBeU/edit?usp=sharing)
+* Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit (deadline end of May!).
+
 # News
  - May 2020: Year 2 guidelines released
+ - July 2020: Year 2 evaluation topics released
 
 # Contact
 * Twitter: [@treccast](https://twitter.com/treccast)
