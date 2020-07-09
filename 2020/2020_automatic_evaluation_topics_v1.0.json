@@ -1,0 +1,1423 @@
+[
+  {
+    "number": 81,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_8752370",
+        "number": 1,
+        "raw_utterance": "How do you know when your garage door opener is going bad?",
+        "automatic_rewritten_utterance": "How do you know when your garage door opener is going bad?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5498474",
+        "number": 2,
+        "raw_utterance": "Now it stopped working. Why?",
+        "automatic_rewritten_utterance": "Why did garage door opener stop working?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1815949",
+        "number": 3,
+        "raw_utterance": "How much does it cost for someone to fix it?",
+        "automatic_rewritten_utterance": "How much does garage door opener cost for someone to fix?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4516825",
+        "number": 4,
+        "raw_utterance": "How about replacing it instead?",
+        "automatic_rewritten_utterance": "How about replacing garage door opener instead?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7713538",
+        "number": 5,
+        "raw_utterance": "How do I choose a new one?",
+        "automatic_rewritten_utterance": "How do I choose a new garage door opener?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3918505",
+        "number": 6,
+        "raw_utterance": "What does a smart one do?",
+        "automatic_rewritten_utterance": "What does a smart garage door opener do?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_393060",
+        "number": 7,
+        "raw_utterance": "What\u0027s important for me to know about their safety?",
+        "automatic_rewritten_utterance": "What\u0027s important for me to know about smart garage door opener safety?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5733335",
+        "number": 8,
+        "raw_utterance": "How could they be hacked?",
+        "automatic_rewritten_utterance": "How could a smart garage door opener be hacked?"
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_955185",
+        "number": 1,
+        "raw_utterance": "I would like to learn about GMO Food labeling.",
+        "automatic_rewritten_utterance": "I would like to learn about GMO Food labeling."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_bafb3c1c72e23c444e182cac4e0ea9e4330d21c9",
+        "number": 2,
+        "raw_utterance": "What are the pros and cons?",
+        "automatic_rewritten_utterance": "What are the pros and cons of GMO Food labeling?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3311529",
+        "number": 3,
+        "raw_utterance": "And what about the cons?",
+        "automatic_rewritten_utterance": "What about the GMO Food labeling pros and cons?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_127c8f0e34a6b25f92f6e8c089fa4a79620d381c",
+        "number": 4,
+        "raw_utterance": "What are the EU rules?",
+        "automatic_rewritten_utterance": "What are the EU rules on GMO food labeling?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_ef401a18f4f95523ee060e42b474d433f61b6cad",
+        "number": 5,
+        "raw_utterance": "Tell me more about traceability tools.",
+        "automatic_rewritten_utterance": "Tell me more about traceability tools."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_5baec6a2efbc901ee5c6680c81eeafed5a33addf",
+        "number": 6,
+        "raw_utterance": "What is the role of Co-Extra?",
+        "automatic_rewritten_utterance": "What is the role of Co-Extra in GMO Food labeling?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_7dc309882a647d5d1f9d2545979314c2f99f9c35",
+        "number": 7,
+        "raw_utterance": "How is testing done for contamination?",
+        "automatic_rewritten_utterance": "How is testing done for GMO contamination?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_5669ae19c48aee4d3cb399c9fac8fb123be5aa7e",
+        "number": 8,
+        "raw_utterance": "What\u0027s the difference between the European and US approaches?",
+        "automatic_rewritten_utterance": "What\u0027s the difference between the European and US approaches to GMO food labeling?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_c6d3a26e8813134c662be00edbd9e7be3845323a",
+        "number": 9,
+        "raw_utterance": "How does the DNA-based method work?",
+        "automatic_rewritten_utterance": "How does the DNA-based method work?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_b2b002496633abf60fbce266f705d1903b204a8e",
+        "number": 10,
+        "raw_utterance": "How could Co-Extra improve it?",
+        "automatic_rewritten_utterance": "How could Co-Extra improve GMO testing?"
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_270579",
+        "number": 1,
+        "raw_utterance": "What are some interesting facts about bees?",
+        "automatic_rewritten_utterance": "What are some interesting facts about bees?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7679417",
+        "number": 2,
+        "raw_utterance": "Why doesn\u0027t it spoil?",
+        "automatic_rewritten_utterance": "Why does bees spoil?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4605702",
+        "number": 3,
+        "raw_utterance": "Why are so many dying?",
+        "automatic_rewritten_utterance": "Why are so many bees dying?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3867578",
+        "number": 4,
+        "raw_utterance": "What can be done to stop it?",
+        "automatic_rewritten_utterance": "What can be done to stop bees dying?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_574203",
+        "number": 5,
+        "raw_utterance": "What has happened to their habitat?",
+        "automatic_rewritten_utterance": "What has happened to bees\u0027 habitat?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4605696",
+        "number": 6,
+        "raw_utterance": "What can I do to help with the problem?",
+        "automatic_rewritten_utterance": "What can I do to help with the problem of bees dying?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_34d35ea59b6fdd5bdefece429f6411eba3799921",
+        "number": 7,
+        "raw_utterance": "What is the cause of CCD?",
+        "automatic_rewritten_utterance": "What is the cause of CCD?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_8119558",
+        "number": 8,
+        "raw_utterance": "What would happen if they died out?",
+        "automatic_rewritten_utterance": "What would happen if bees died out?"
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_fef4c224bb39283d6c8f49190c9855514e0b7fa5",
+        "number": 1,
+        "raw_utterance": "How does seed investment work for startups?",
+        "automatic_rewritten_utterance": "How does seed investment work for startups?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_251cfa99efb3b630a8dec30231d3ed362ecddd41",
+        "number": 2,
+        "raw_utterance": "Tell me more about angel rounds.",
+        "automatic_rewritten_utterance": "Tell me more about angel rounds."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_dc9f9650520a47574a6fc0a0e7af22a5f2043219",
+        "number": 3,
+        "raw_utterance": "How does it compare with crowdfunding?",
+        "automatic_rewritten_utterance": "How does angel rounds compare with crowdfunding?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_4e0e3531a895e33d364e46aba910316f0255111b",
+        "number": 4,
+        "raw_utterance": "How much is a typical A series round?",
+        "automatic_rewritten_utterance": "How much angel is a typical A series round?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1731453",
+        "number": 5,
+        "raw_utterance": "What are the risks of investing?",
+        "automatic_rewritten_utterance": "What are the risks of investing in angel rounds?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5274521",
+        "number": 6,
+        "raw_utterance": "What are the different types of instruments used by VCs?",
+        "automatic_rewritten_utterance": "What are the different types of angel rounds used by VCs?"
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_8828760",
+        "number": 1,
+        "raw_utterance": "How much does a used Lamborghini cost?",
+        "automatic_rewritten_utterance": "How much does a used Lamborghini cost?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2728292",
+        "number": 2,
+        "raw_utterance": "How does it compare to a Ferrari?",
+        "automatic_rewritten_utterance": "How does a Lamborghini compare to a Ferrari?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_847f5f133e932d11811a87814c9040bb685fee74",
+        "number": 3,
+        "raw_utterance": "Interesting. What about for a pimped-out food truck?",
+        "automatic_rewritten_utterance": "What about for a pimped-out food truck?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1490459",
+        "number": 4,
+        "raw_utterance": "What licenses and permits are needed?",
+        "automatic_rewritten_utterance": "What licenses and permits are needed for a pimped-out food truck?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7767319",
+        "number": 5,
+        "raw_utterance": "What makes a good location?",
+        "automatic_rewritten_utterance": "What makes a good food truck location?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3673707",
+        "number": 6,
+        "raw_utterance": "What is a typical day like?",
+        "automatic_rewritten_utterance": "What is a typical day like in Lamborghini?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5768036",
+        "number": 7,
+        "raw_utterance": "How can I run it successfully?",
+        "automatic_rewritten_utterance": "How can I run Lamborghini food truck successfully?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_b883f1a3da907f244282172cfdbd01f3e3905d0e",
+        "number": 8,
+        "raw_utterance": "What are some good examples to learn from?",
+        "automatic_rewritten_utterance": "What are some good examples of Lamborghini food trucks to learn from?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6100431",
+        "number": 9,
+        "raw_utterance": "Besides inventive flavors, what made it successful?",
+        "automatic_rewritten_utterance": "Besides inventive flavors, what made Lamborghini successful?"
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_3989944",
+        "number": 1,
+        "raw_utterance": "What is the climate like in Utah?",
+        "automatic_rewritten_utterance": "What is the climate like in Utah?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_5c696cefb0b5f1c1991b1ca494757a0a6c9ee25f",
+        "number": 2,
+        "raw_utterance": "How does Salt Lake City differ?",
+        "automatic_rewritten_utterance": "How does Salt Lake City differ from Utah?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_717b11440aba32158dba995d76fb5c6a4a9b5ccb",
+        "number": 3,
+        "raw_utterance": "What is its main economic activity?",
+        "automatic_rewritten_utterance": "What is Salt Lake City\u0027s main economic activity?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_85a400316f0e7e7a611d5ee779bbdd890df08e82",
+        "number": 4,
+        "raw_utterance": "What was the impact of the 2002 games?",
+        "automatic_rewritten_utterance": "What was the impact of the 2002 games in Salt Lake City?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_2c5b5a599f0f25c598f01080aa9db5d7d057f88d",
+        "number": 5,
+        "raw_utterance": "What were important ski locations used?",
+        "automatic_rewritten_utterance": "What were important ski locations in Salt Lake City used?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3967989",
+        "number": 6,
+        "raw_utterance": "What are the important non-ski events that happen in the city?",
+        "automatic_rewritten_utterance": "What are the important non-ski events that happen in the city of Salt Lake?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_eefcb283c555c83a7d5535ccf6ec7efbfa9001a9",
+        "number": 7,
+        "raw_utterance": "What about some popular non-winter things to do in the area?",
+        "automatic_rewritten_utterance": "What about some popular non-winter things to do in the Salt Lake City area?"
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_8513150",
+        "number": 1,
+        "raw_utterance": "What are the different types of orange trees?",
+        "automatic_rewritten_utterance": "What are the different types of orange trees?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5694950",
+        "number": 2,
+        "raw_utterance": "How can you tell them apart?",
+        "automatic_rewritten_utterance": "How can you tell orange trees apart?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2741144",
+        "number": 3,
+        "raw_utterance": "What type has thorns?",
+        "automatic_rewritten_utterance": "What type of orange tree has thorns?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_657766",
+        "number": 4,
+        "raw_utterance": "Where do they originally come from?",
+        "automatic_rewritten_utterance": "Where do orange trees originally come from?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_324a662bc5882c7008be352a502ab559cd54bada",
+        "number": 5,
+        "raw_utterance": "Tell me about the Hamlin variety.",
+        "automatic_rewritten_utterance": "Tell me about the Hamlin variety."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_88f9994be7db669fb6d103413b5321059b19c842",
+        "number": 6,
+        "raw_utterance": "Why did it replace PB?",
+        "automatic_rewritten_utterance": "Why did the Hamlin variety replace PB?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7016262",
+        "number": 7,
+        "raw_utterance": "What are the different types of navels?",
+        "automatic_rewritten_utterance": "What are the different types of navels?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3314889",
+        "number": 8,
+        "raw_utterance": "Which is the most delicious?",
+        "automatic_rewritten_utterance": "Which is the most delicious orange?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7271693",
+        "number": 9,
+        "raw_utterance": "How do they compare with blood oranges?",
+        "automatic_rewritten_utterance": "How do orange trees compare with blood oranges?"
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_dbd46bd221e73782e81dad847a5b99256e2f5de9",
+        "number": 1,
+        "raw_utterance": "Can I have some information on the labor systems of the Ottoman Empire?",
+        "automatic_rewritten_utterance": "Can I have some information on the labor systems of the Ottoman Empire?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_d1a956a34d2855a262a5245acb6d4f5c8d6ef119",
+        "number": 2,
+        "raw_utterance": "What was the role of slavery?",
+        "automatic_rewritten_utterance": "What was the role of slavery in the Ottoman Empire?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2050021",
+        "number": 3,
+        "raw_utterance": "How did it govern?",
+        "automatic_rewritten_utterance": "How did it govern?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4485091",
+        "number": 4,
+        "raw_utterance": "Why was it important?",
+        "automatic_rewritten_utterance": "Why was it important?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_c3e750ac79654de5a4a3aee67e05a031da8f103f",
+        "number": 5,
+        "raw_utterance": "What was the culture like?",
+        "automatic_rewritten_utterance": "What was the culture like in the Ottoman Empire?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_4f48e3253dde08e82041199358a6b9cd2da099ea",
+        "number": 6,
+        "raw_utterance": "What was the role of storytellers?",
+        "automatic_rewritten_utterance": "What was the role of storytellers in Ottoman history?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_b0cdc9181b0dfdd83bb4eba13ff1fc4f857f719f",
+        "number": 7,
+        "raw_utterance": "What were popular stories?",
+        "automatic_rewritten_utterance": "What were popular stories in the Ottoman Empire?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4408502",
+        "number": 8,
+        "raw_utterance": "What was the importance of the millet?",
+        "automatic_rewritten_utterance": "What was the importance of the millet?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_76ca7489c6bd368289ce51d2ae3cc072d0ca993c",
+        "number": 9,
+        "raw_utterance": "Why did the British continue it?",
+        "automatic_rewritten_utterance": "Why did the British continue slavery?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_22a02abd346e13531fea8fce7043e127b87f1649",
+        "number": 10,
+        "raw_utterance": "What is its historical importance in developing national identities?",
+        "automatic_rewritten_utterance": "What is the importance of the millet in developing national identities?"
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_059536af0cf0be4c8cd1a59c3f60366da35b54c3",
+        "number": 1,
+        "raw_utterance": "What is the relationship between predator and prey?",
+        "automatic_rewritten_utterance": "What is the relationship between predator and prey?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7579465",
+        "number": 2,
+        "raw_utterance": "What do predator plants eat?",
+        "automatic_rewritten_utterance": "What do predator plants eat?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1071047",
+        "number": 3,
+        "raw_utterance": "What about Venus flytraps in particular?",
+        "automatic_rewritten_utterance": "What about Venus flytraps in particular?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2653125",
+        "number": 4,
+        "raw_utterance": "Where is it native to?",
+        "automatic_rewritten_utterance": "Where is Venus flytraps native to?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_8305341",
+        "number": 5,
+        "raw_utterance": "How do they attract and catch their prey?",
+        "automatic_rewritten_utterance": "How do Venus flytraps attract and catch their prey?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6416398",
+        "number": 6,
+        "raw_utterance": "What are other similar plants from its native area?",
+        "automatic_rewritten_utterance": "What are other similar plants from Venus flytraps native area?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_10a90d52de0763ca7d00296ab650eb0e0c0c0d0f",
+        "number": 7,
+        "raw_utterance": "How do populations of predators and prey relate?",
+        "automatic_rewritten_utterance": "How do populations of predators and prey relate to Venus flytraps?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_ce7b77da14eb1ba639b30b39eb987df0de305652",
+        "number": 8,
+        "raw_utterance": "Why would the roles reverse?",
+        "automatic_rewritten_utterance": "Why would the roles reverse in Venus flytraps?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_687e2f172136457f76c7446807568880b361fb90",
+        "number": 9,
+        "raw_utterance": "How does the relationship influence biodiversity?",
+        "automatic_rewritten_utterance": "How does the relationship influence biodiversity?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2117043",
+        "number": 10,
+        "raw_utterance": "What are examples of these predators?",
+        "automatic_rewritten_utterance": "What are examples of predator plants?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1078814",
+        "number": 11,
+        "raw_utterance": "Why would humans be considered one?",
+        "automatic_rewritten_utterance": "Why would humans be considered one predator?"
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_4698523",
+        "number": 1,
+        "raw_utterance": "Which is the biggest commercial plane?",
+        "automatic_rewritten_utterance": "Which is the biggest commercial plane?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1961312",
+        "number": 2,
+        "raw_utterance": "What are its operational costs?",
+        "automatic_rewritten_utterance": "What are the operational costs of a commercial plane?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_cf435ec8bb05cd7b2a59723327748b449f5e396d",
+        "number": 3,
+        "raw_utterance": "How does its fuel consumption compare to its competitors?",
+        "automatic_rewritten_utterance": "How does the Boeing 737 fuel consumption compare to its competitors?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_b34ec863aec86c76a0228d33c24ca309d01b6851",
+        "number": 4,
+        "raw_utterance": "How do the freighter versions compare to each other?",
+        "automatic_rewritten_utterance": "How do the freighter versions of the Airbus jet compare to each other?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_ff611cf74bffd439069b5e72e6e2375b4a4e54dd",
+        "number": 5,
+        "raw_utterance": "Why did the A380 stop being produced?",
+        "automatic_rewritten_utterance": "Why did the A380 stop being produced?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_c36e4c56b145fc6cee2a79ae590ba6c9c6744415",
+        "number": 6,
+        "raw_utterance": "What was Boeing\u0027s response to compete with it?",
+        "automatic_rewritten_utterance": "What was Boeing\u0027s response to compete with the A380?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_c4e959390e7f6ba142cdaca9a017cd016c2a6cb2",
+        "number": 7,
+        "raw_utterance": "What is the newest version and what is better about it?",
+        "automatic_rewritten_utterance": "What is the newest version of the A380 and what is better about it?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_6f08d927117f910316c926e4721af32d6a6495b0",
+        "number": 8,
+        "raw_utterance": "What are the differences between the variants?",
+        "automatic_rewritten_utterance": "What are the differences between the A380 and the newer version?"
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_41c3a17bc670dbeb1ff5d322cfc39431aabbb671",
+        "number": 1,
+        "raw_utterance": "What is the purpose of GDPR?",
+        "automatic_rewritten_utterance": "What is the purpose of GDPR?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_8090936",
+        "number": 2,
+        "raw_utterance": "What is different compared to previous legislation?",
+        "automatic_rewritten_utterance": "What is different compared to GDPR legislation?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1109622",
+        "number": 3,
+        "raw_utterance": "What are the privacy implications of those technologies?",
+        "automatic_rewritten_utterance": "What are the privacy implications of GDPR technologies?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1109617",
+        "number": 4,
+        "raw_utterance": "Oh, IP addresses are considered PII? What is the full range of personal data?",
+        "automatic_rewritten_utterance": "What is the full range of personal data in GDPR?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_8776210",
+        "number": 5,
+        "raw_utterance": "How do big companies adapt to GDPR?",
+        "automatic_rewritten_utterance": "How do big companies adapt to GDPR?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_17e18a95aa7892169934f8befe9432bb8e33b31c",
+        "number": 6,
+        "raw_utterance": "OK. Tell me about the privacy issues in social networks.",
+        "automatic_rewritten_utterance": "Tell me about the privacy issues in social networks."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_a78a2f41b72eda46b9b17eee5420eca6232cdb55",
+        "number": 7,
+        "raw_utterance": "What do they get in return for their privacy?",
+        "automatic_rewritten_utterance": "What do social networks get in return for their privacy?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6445795",
+        "number": 8,
+        "raw_utterance": "What are the symptoms of that addiction?",
+        "automatic_rewritten_utterance": "What are the symptoms of that addiction?"
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_1545520",
+        "number": 1,
+        "raw_utterance": "Do shoulder braces help recover from an injury?",
+        "automatic_rewritten_utterance": "Do shoulder braces help recover from an injury?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5757628",
+        "number": 2,
+        "raw_utterance": "Tell me more about some exercises that could help.",
+        "automatic_rewritten_utterance": "Tell me more about some exercises that could help shoulder braces recover from an injury."
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2297476",
+        "number": 3,
+        "raw_utterance": "What are some others?",
+        "automatic_rewritten_utterance": "What are some other exercises that could help shoulder braces recover from an injury?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6451471",
+        "number": 4,
+        "raw_utterance": "How do I know if it\u0027s serious?",
+        "automatic_rewritten_utterance": "How do I know if shoulder braces are serious?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4884604",
+        "number": 5,
+        "raw_utterance": "When should you consider surgery?",
+        "automatic_rewritten_utterance": "When should you consider surgery?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3570267",
+        "number": 6,
+        "raw_utterance": "That seems extreme. What are other ways to treat the pain?",
+        "automatic_rewritten_utterance": "What are other ways to treat the shoulder pain?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6797292",
+        "number": 7,
+        "raw_utterance": "How do I stop it from hurting at my desk?",
+        "automatic_rewritten_utterance": "How do I stop shoulder pain from hurting at my desk?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1339916",
+        "number": 8,
+        "raw_utterance": "What are the benefits of a standing one?",
+        "automatic_rewritten_utterance": "What are the benefits of a standing shoulder?"
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_2fd6972ceb67c5576d5250087cf78cef29f290b6",
+        "number": 1,
+        "raw_utterance": "Tell me about purchasing a Burger King franchise.",
+        "automatic_rewritten_utterance": "Tell me about purchasing a Burger King franchise."
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4332525",
+        "number": 2,
+        "raw_utterance": "No, not information about its acquisition. I want to know how to open a franchise.",
+        "automatic_rewritten_utterance": "I want to know how to open a Burger King franchise."
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4332525",
+        "number": 3,
+        "raw_utterance": "Is there any financial support for the fee?",
+        "automatic_rewritten_utterance": "Is there any financial support for the Burger King franchise fee?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2043951",
+        "number": 4,
+        "raw_utterance": "How much does an owner typically make?",
+        "automatic_rewritten_utterance": "How much does an owner typically make in Burger King?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_29716",
+        "number": 5,
+        "raw_utterance": "Is it better to be a franchise or independent?",
+        "automatic_rewritten_utterance": "Is Burger King better to be a franchise or independent?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2042891",
+        "number": 6,
+        "raw_utterance": "What support does it provide?",
+        "automatic_rewritten_utterance": "What support does Burger King provide?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_538108",
+        "number": 7,
+        "raw_utterance": "OK let\u0027s do it. What is the process?",
+        "automatic_rewritten_utterance": "What is the process of Burger King franchise or independent?"
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_091bb05e583e685bdfa721adf0fd7dedf1303040",
+        "number": 1,
+        "raw_utterance": "How did snowboarding begin?",
+        "automatic_rewritten_utterance": "How did snowboarding begin?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_0e591d62cf38d321b95630cc23ae684b9ff34301",
+        "number": 2,
+        "raw_utterance": "Interesting. That\u0027s later than I expected. Who were the winners?",
+        "automatic_rewritten_utterance": "Who were the winners of the snowboarding contest?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_b35d10fc122e108a7a01376c028b17667f9ac537",
+        "number": 3,
+        "raw_utterance": "What are strap-in bindings?",
+        "automatic_rewritten_utterance": "What are strap-in bindings?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_cbbc564c6acbe78987b5afa2212b4931f6049392",
+        "number": 4,
+        "raw_utterance": "What\u0027s an alternative to this binding style?",
+        "automatic_rewritten_utterance": "What\u0027s an alternative to this binding style?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2551000",
+        "number": 5,
+        "raw_utterance": "What else do I need for my first time?",
+        "automatic_rewritten_utterance": "What else do I need for my first time snowboarding?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_58a788f37097f82057f42fd14b9bec93386ed02c",
+        "number": 6,
+        "raw_utterance": "How can I teach myself to get started?",
+        "automatic_rewritten_utterance": "How can I teach myself to get started in snowboarding?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_85b533e71cb234989647660644bb18e8873907f7",
+        "number": 7,
+        "raw_utterance": "What are the best slopes in Seattle?",
+        "automatic_rewritten_utterance": "What are the best slopes in Seattle?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3721235",
+        "number": 8,
+        "raw_utterance": "What are other things to do at Bachelor?",
+        "automatic_rewritten_utterance": "What are other things to do at Bachelor?"
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_ceaa49bdec39db2a76a6a8528e70a6830433f8d8",
+        "number": 1,
+        "raw_utterance": "How are waste and garbage processed?",
+        "automatic_rewritten_utterance": "How are waste and garbage processed?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3526577",
+        "number": 2,
+        "raw_utterance": "Interesting. What is the impact of burning on the environment?",
+        "automatic_rewritten_utterance": "What is the impact of burning on the environment?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_27e68b0c7d5f67623cc07d2c4dbe613a73c4a11b",
+        "number": 3,
+        "raw_utterance": "So you can compact them; why does it slow the waste processing?",
+        "automatic_rewritten_utterance": "So you can compact waste and garbage; why does the burning of waste slow the waste processing?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_869538",
+        "number": 4,
+        "raw_utterance": "How is sewage recycled?",
+        "automatic_rewritten_utterance": "How is sewage recycled?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_3c98982c7f8f38176454a881accf2a0f9a8250a4",
+        "number": 5,
+        "raw_utterance": "What are the pros and cons of recycling vs composting?",
+        "automatic_rewritten_utterance": "What are the pros and cons of recycling vs composting?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3970850",
+        "number": 6,
+        "raw_utterance": "Tell me more about biodegradable plastics.",
+        "automatic_rewritten_utterance": "Tell me more about biodegradable plastics."
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_8217309",
+        "number": 7,
+        "raw_utterance": "How are they made?",
+        "automatic_rewritten_utterance": "How are biodegradable plastics made?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_20b4b91055f28455552bb392cc25bd384abf302d",
+        "number": 8,
+        "raw_utterance": "How is corn oil used?",
+        "automatic_rewritten_utterance": "How is corn oil used?"
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_5233675",
+        "number": 1,
+        "raw_utterance": "How do you make Japanese Yakiniku?",
+        "automatic_rewritten_utterance": "How do you make Japanese Yakiniku?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6093110",
+        "number": 2,
+        "raw_utterance": "Can the sauce be used in other dishes?",
+        "automatic_rewritten_utterance": "Can the sauce be used in other dishes?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_135cf789498f4e25a6b131d9f0365903c521b03d",
+        "number": 3,
+        "raw_utterance": "What are the best Yakiniku restaurants in Tokyo?",
+        "automatic_rewritten_utterance": "What are the best Yakiniku restaurants in Tokyo?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_bf9c3e70ba95710d61684e3eb7e3fbd3bae36292",
+        "number": 4,
+        "raw_utterance": "Tell me about three star Michelin sushi restaurants there.",
+        "automatic_rewritten_utterance": "Tell me about three star Michelin sushi restaurants in Tokyo."
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3459126",
+        "number": 5,
+        "raw_utterance": "Oh you need an agent to make reservations?",
+        "automatic_rewritten_utterance": "Oh you need an agent to make reservations at Michelin sushi restaurants?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_966257",
+        "number": 6,
+        "raw_utterance": "Tell me other fun things to do there.",
+        "automatic_rewritten_utterance": "Tell me other fun things to do at Michelin sushi restaurants in Tokyo."
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_8333660",
+        "number": 7,
+        "raw_utterance": "What is the cost of living there compared to NYC?",
+        "automatic_rewritten_utterance": "What is the cost of living in Tokyo compared to NYC?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_42093db210b9d93cffa04b384760b0d3bf6478b2",
+        "number": 8,
+        "raw_utterance": "What is the salary of foreign law firms there?",
+        "automatic_rewritten_utterance": "What is the salary of foreign law firms in Tokyo?"
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_b410d735cf27416856835beb58a92e475dd14ede",
+        "number": 1,
+        "raw_utterance": "Who are the rivals of the Steelers?",
+        "automatic_rewritten_utterance": "Who are the rivals of the Steelers?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_d0e3651f03e7995081b822cec596ca4620428c90",
+        "number": 2,
+        "raw_utterance": "What are notable games between Ravens versus Steelers?",
+        "automatic_rewritten_utterance": "What are notable games between Ravens and Steelers?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_71ed7fc6d6da727737e614b8cb20a017096ea41f",
+        "number": 3,
+        "raw_utterance": "And notable moments in their rivalry?",
+        "automatic_rewritten_utterance": "And notable moments in Ravens\u0027 rivalry?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_cdcdb70ce559cd3592dcc5f0bf6352705764bbba",
+        "number": 4,
+        "raw_utterance": "Tell me more about that Polamalu\u0027s interception.",
+        "automatic_rewritten_utterance": "Tell me more about Polamalu\u0027s interception."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_3ba1cc6a9cf7ea92ec5e6f715bca56e3e747ac38",
+        "number": 5,
+        "raw_utterance": "How about his pick-6?",
+        "automatic_rewritten_utterance": "How about Polamalu\u0027s pick-6?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_dab330ad7b1acf7ebd56d01c87b391d4ce2466d1",
+        "number": 6,
+        "raw_utterance": "Tell me more about the immaculate reception.",
+        "automatic_rewritten_utterance": "Tell me more about the immaculate reception of Polamalu\u0027s pick-6."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_69a92b241d77c1367b2ff67c589eed89e841ec1c",
+        "number": 7,
+        "raw_utterance": "What happened to the stadium?",
+        "automatic_rewritten_utterance": "What happened to the Steelers stadium?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_4241eaa04dd449e3e75954b08ecfe6dc2b5068a8",
+        "number": 8,
+        "raw_utterance": "Tell me more about their defense.",
+        "automatic_rewritten_utterance": "Tell me more about the Steelers\u0027 defense."
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_3814316",
+        "number": 1,
+        "raw_utterance": "What is the environmental cost of food production?",
+        "automatic_rewritten_utterance": "What is the environmental cost of food production?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4364866",
+        "number": 2,
+        "raw_utterance": "Oh that much water? How is that for meat?",
+        "automatic_rewritten_utterance": "How is that for meat?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_846628",
+        "number": 3,
+        "raw_utterance": "How much less is used for vegetables?",
+        "automatic_rewritten_utterance": "How much water is used for vegetables?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2064821",
+        "number": 4,
+        "raw_utterance": "What are the benefits of being vegetarian?",
+        "automatic_rewritten_utterance": "What are the benefits of being vegetarian?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_dd3fbcf99c43cb6ffaa939143881f229e091ec3f",
+        "number": 5,
+        "raw_utterance": "Are there any health concerns?",
+        "automatic_rewritten_utterance": "Are there any health concerns about vegetarianism?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7546745",
+        "number": 6,
+        "raw_utterance": "What are their sources of proteins?",
+        "automatic_rewritten_utterance": "What are vegetarian proteins sources of proteins?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1456576",
+        "number": 7,
+        "raw_utterance": "Oh almonds? Can you show me recipes with it?",
+        "automatic_rewritten_utterance": "Can you show me recipes with almonds?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_237170",
+        "number": 8,
+        "raw_utterance": "How do you make the flour?",
+        "automatic_rewritten_utterance": "How do you make the almond flour?"
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_513708",
+        "number": 1,
+        "raw_utterance": "What is high blood carbon dioxide?",
+        "automatic_rewritten_utterance": "What is high blood carbon dioxide?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_7682083",
+        "number": 2,
+        "raw_utterance": "What should you do to treat it?",
+        "automatic_rewritten_utterance": "What should you do to treat blood carbon dioxide?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5744833",
+        "number": 3,
+        "raw_utterance": "How about high cholesterol?",
+        "automatic_rewritten_utterance": "How about high cholesterol?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3678275",
+        "number": 4,
+        "raw_utterance": "What should I eat to improve it?",
+        "automatic_rewritten_utterance": "What should I eat to improve cholesterol?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4376952",
+        "number": 5,
+        "raw_utterance": "What are the differences between the two fats?",
+        "automatic_rewritten_utterance": "What are the differences between the two fats?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6032486",
+        "number": 6,
+        "raw_utterance": "So, there are two types.  Is the other fat good for you?",
+        "automatic_rewritten_utterance": "Is the other fat good for you?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_625421",
+        "number": 7,
+        "raw_utterance": "Oh I like fish.  What other foods are good sources?",
+        "automatic_rewritten_utterance": "What other foods are good sources of fish?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5780530",
+        "number": 8,
+        "raw_utterance": "What types does olive oil contain?",
+        "automatic_rewritten_utterance": "What types of olive oil does olive oil contain?"
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_327089",
+        "number": 1,
+        "raw_utterance": "What causes my teeth to chip off?",
+        "automatic_rewritten_utterance": "What causes my teeth to chip off?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6108225",
+        "number": 2,
+        "raw_utterance": "Oh, what can they do to fix it?",
+        "automatic_rewritten_utterance": "What can teeth chip off?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2508797",
+        "number": 3,
+        "raw_utterance": "I have a larger chip, how do the options different?",
+        "automatic_rewritten_utterance": "I have a larger chip, how do the options different in my teeth?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_6825724",
+        "number": 4,
+        "raw_utterance": "A crown sounds better. What about using an implant?",
+        "automatic_rewritten_utterance": "What about using an implant?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1575099",
+        "number": 5,
+        "raw_utterance": "Which one is more expensive?",
+        "automatic_rewritten_utterance": "Which one is more expensive?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_451673",
+        "number": 6,
+        "raw_utterance": "What is the coverage of the crown in insurance?",
+        "automatic_rewritten_utterance": "What is the coverage of the crown in insurance?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2947380",
+        "number": 7,
+        "raw_utterance": "I meant medicare",
+        "automatic_rewritten_utterance": "I meant medicare."
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1371176",
+        "number": 8,
+        "raw_utterance": "Show me covered dentists in Seattle",
+        "automatic_rewritten_utterance": "Show me covered dentists in Seattle in medicare?"
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_3667566",
+        "number": 1,
+        "raw_utterance": "What is Melania Trump\u0027s religion?",
+        "automatic_rewritten_utterance": "What is Melania Trump\u0027s religion?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2207312",
+        "number": 2,
+        "raw_utterance": "What did she do before she was married?",
+        "automatic_rewritten_utterance": "What did Melania Trump do before she was married?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2227469",
+        "number": 3,
+        "raw_utterance": "Does she have children?",
+        "automatic_rewritten_utterance": "Does Melania Trump have children?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_377728",
+        "number": 4,
+        "raw_utterance": "How old is he?",
+        "automatic_rewritten_utterance": "How old is Melania Trump?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_61d45bc0125894a668bead925c31609d4d3c3ebe",
+        "number": 5,
+        "raw_utterance": "They met at the Kit Kat Club?  Where is that?",
+        "automatic_rewritten_utterance": "Where is Melania Trump\u0027s Kit Kat Club?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_8694127",
+        "number": 6,
+        "raw_utterance": "When did she become a model?",
+        "automatic_rewritten_utterance": "When did Melania Trump become a model?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3667571",
+        "number": 7,
+        "raw_utterance": "Do we pay the First Lady?",
+        "automatic_rewritten_utterance": "Do we pay the First Lady Melania?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5344115",
+        "number": 8,
+        "raw_utterance": "What about Ivanka?",
+        "automatic_rewritten_utterance": "What about Ivanka Trump?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_ef619f9789d146a9596a4b0387d0dfec231c1586",
+        "number": 9,
+        "raw_utterance": "And Jared?",
+        "automatic_rewritten_utterance": "And Jared?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3457832",
+        "number": 10,
+        "raw_utterance": "What does he do at the White House?",
+        "automatic_rewritten_utterance": "What does Ivanka Trump do at the White House?"
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "MARCO_3845329",
+        "number": 1,
+        "raw_utterance": "When did social security start in the US?",
+        "automatic_rewritten_utterance": "When did social security start in the US?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4821156",
+        "number": 2,
+        "raw_utterance": "Was it mandatory?",
+        "automatic_rewritten_utterance": "Was social security mandatory?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2733195",
+        "number": 3,
+        "raw_utterance": "Who received the first check?",
+        "automatic_rewritten_utterance": "Who received the first check of social security?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4856686",
+        "number": 4,
+        "raw_utterance": "When did the government start borrowing from it?",
+        "automatic_rewritten_utterance": "When did the government start borrowing from social security?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_230066",
+        "number": 5,
+        "raw_utterance": "How much is owed?",
+        "automatic_rewritten_utterance": "How much is owed?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_0cc9fb79ea96782f143c5026f7c0161d1a042b26",
+        "number": 6,
+        "raw_utterance": "When will it run out of money?",
+        "automatic_rewritten_utterance": "When will social security run out of money?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3222882",
+        "number": 7,
+        "raw_utterance": "Wow! What will happen?",
+        "automatic_rewritten_utterance": "What will happen to social security?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4672482",
+        "number": 8,
+        "raw_utterance": "Can it be fixed?",
+        "automatic_rewritten_utterance": "Can social security run out of money?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_4074934",
+        "number": 9,
+        "raw_utterance": "How much of an increase?",
+        "automatic_rewritten_utterance": "How much of an increase in social security?"
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_772955aad7dbfd3727681b80242724419dac6b42",
+        "number": 1,
+        "raw_utterance": "Why were the Dead such an influential live band?",
+        "automatic_rewritten_utterance": "Why were the Dead such an influential live band?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_b9562a1f560443c8a02fa913ba3f3aade22c7174",
+        "number": 2,
+        "raw_utterance": "Why did they allow live recordings?",
+        "automatic_rewritten_utterance": "Why did the Dead allow live recordings?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_27fd81e584c85ff9a75997ad60df9102e93e44e9",
+        "number": 3,
+        "raw_utterance": "Did they have a #1 hit?",
+        "automatic_rewritten_utterance": "Did the Dead have a #1 hit?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_54cb622b4167a68625ba3830bacbb3e2608e99f0",
+        "number": 4,
+        "raw_utterance": "Who was the leader?",
+        "automatic_rewritten_utterance": "Who was the leader of the Dead?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1875793",
+        "number": 5,
+        "raw_utterance": "How did he lose his finger?",
+        "automatic_rewritten_utterance": "How did the Dead lose their finger?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_24d5fc1f33f9b9238859cf63bbb2136797b96c9f",
+        "number": 6,
+        "raw_utterance": "What was his relationship to the Airplane?",
+        "automatic_rewritten_utterance": "What was the relationship between the Dead and the Airplane?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_9cd68c1bfdb9b4b9f587f569ece013e9ba71c0d1",
+        "number": 7,
+        "raw_utterance": "Is Cassidy about Jack Casady?",
+        "automatic_rewritten_utterance": "Is Cassidy about Jack Casady?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_7dccc5c94027adc8a3712098cca22b580a284369",
+        "number": 8,
+        "raw_utterance": "Who wrote it?",
+        "automatic_rewritten_utterance": "Who wrote the Dead\u0027s Dead?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_2637029",
+        "number": 9,
+        "raw_utterance": "What else did they write?",
+        "automatic_rewritten_utterance": "What else did the Dead write?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_a52f900819cd8a5fd437127efd2ab7bb07f03be0",
+        "number": 10,
+        "raw_utterance": "Why did the band break up?",
+        "automatic_rewritten_utterance": "Why did the Dead break up?"
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_6bc70b9b945c37deeb718898b37ec8400b4d720c",
+        "number": 1,
+        "raw_utterance": "Who are some of the well-known Information Retrieval researchers?",
+        "automatic_rewritten_utterance": "Who are some of the well-known Information Retrieval researchers?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_c3abfb116626bbff62b5b72ef46c70c45a74167d",
+        "number": 2,
+        "raw_utterance": "What did he work on?",
+        "automatic_rewritten_utterance": "What did Information Retrieval researcher Michael R. R. R. work on?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_8d9a125294600232c090191bbc3940ee443c376f",
+        "number": 3,
+        "raw_utterance": "Who are some important British ones?",
+        "automatic_rewritten_utterance": "Who are some important British researchers?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_57d3ffe21cb7e7bc36695f05e6b102ce700c6864",
+        "number": 4,
+        "raw_utterance": "What did his studies contribute to evaluation?",
+        "automatic_rewritten_utterance": "What did the Information Retrieval study contribute to evaluation?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_8e46eac6b7fe507f79675a389590f8a08186ddd5",
+        "number": 5,
+        "raw_utterance": "What are some criticisms of the experiments?",
+        "automatic_rewritten_utterance": "What are some criticisms of the Information Retrieval experiments?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_99043d06b1bfa2a76bde2726e9edf7765fd3b72b",
+        "number": 6,
+        "raw_utterance": "How did they influence modern initiatives?",
+        "automatic_rewritten_utterance": "How did the experiments influence modern initiatives?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_0e11c3f1440ca7b682c5cddbad75a04508a7db5c",
+        "number": 7,
+        "raw_utterance": "What is TREC?",
+        "automatic_rewritten_utterance": "What is TREC?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_14ad79757fc328eef8c44b779c7751565428000a",
+        "number": 8,
+        "raw_utterance": "What are some recent tasks?",
+        "automatic_rewritten_utterance": "What are some recent tasks in TREC?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_5095960",
+        "number": 9,
+        "raw_utterance": "e-Discovery?  What\u0027s that?",
+        "automatic_rewritten_utterance": "What\u0027s that?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_20f7284a2e7635010071c4c432eef09cf85e9170",
+        "number": 10,
+        "raw_utterance": "What are the important components of a test collection?",
+        "automatic_rewritten_utterance": "What are the important components of a test collection?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_fdc82cfbc7abb204e512745d537222f5428913d7",
+        "number": 11,
+        "raw_utterance": "What about benchmarks for music?",
+        "automatic_rewritten_utterance": "What about benchmarks for music in a test collection?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_9216a9e7f10d9ee6aca35f5647ecc5949ba3bd0c",
+        "number": 12,
+        "raw_utterance": "What are important measures for web search engines?",
+        "automatic_rewritten_utterance": "What are important measures for web search engines?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_bb799138afa066363e0c59e6a1ef497700ff5466",
+        "number": 13,
+        "raw_utterance": "What about online ones?",
+        "automatic_rewritten_utterance": "What are important measures for web search engines?"
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "turn": [
+      {
+        "automatic_canonical_result_id": "CAR_c337bd9008ecdd55a8ce2f72e8504d3fbfa713e9",
+        "number": 1,
+        "raw_utterance": "When did the Black Lives Matter campaign begin?",
+        "automatic_rewritten_utterance": "When did the Black Lives Matter campaign begin?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_2be8f82bc9f5be2c938e5167c8eb6aa4c629e2c2",
+        "number": 2,
+        "raw_utterance": "Tell me more about what happened.",
+        "automatic_rewritten_utterance": "Tell me more about what happened."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_48a54cab58fa2fe44bf5e0a13d7d2d6a575b0972",
+        "number": 3,
+        "raw_utterance": "Why was he acquitted?",
+        "automatic_rewritten_utterance": "Why was the Black Lives Matter campaign acquitted?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_1502176",
+        "number": 4,
+        "raw_utterance": "And how about what happened to Brown?",
+        "automatic_rewritten_utterance": "How about what happened to Brown?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_01cf49132210b1df85be3446759a39d77c3649cd",
+        "number": 5,
+        "raw_utterance": "Who named the movement?",
+        "automatic_rewritten_utterance": "Who named the Black Lives Matter movement?"
+      },
+      {
+        "automatic_canonical_result_id": "MARCO_3467165",
+        "number": 6,
+        "raw_utterance": "What was the US reaction to it?",
+        "automatic_rewritten_utterance": "What was the US reaction to the Black Lives Matter movement?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_c6e03044b5ca8bcf2c4432eeb62f70a3eeb9446b",
+        "number": 7,
+        "raw_utterance": "Tell me more about the movement of the police supporters.",
+        "automatic_rewritten_utterance": "Tell me more about the movement of the police supporters of the Black Lives Matter movement."
+      },
+      {
+        "automatic_canonical_result_id": "CAR_960545abbbc245bcdc1b9d158f89c811ef88d10e",
+        "number": 8,
+        "raw_utterance": "Why were they killed?",
+        "automatic_rewritten_utterance": "Why were the Black Lives Matter movement killed?"
+      },
+      {
+        "automatic_canonical_result_id": "CAR_0ef5c6e5c7d53e4ca75dc690ced5488ada2cd521",
+        "number": 9,
+        "raw_utterance": "What else motivates the Black Lives Matter movement?",
+        "automatic_rewritten_utterance": "What else motivates the Black Lives Matter movement?"
+      }
+    ]
+  }
+]
