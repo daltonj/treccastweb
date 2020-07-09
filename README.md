@@ -16,7 +16,7 @@ This is the second year of TREC CAsT, which will run as a track in [TREC](https:
  
 ### Baselines
  * NEW - [BM25 + BERT baseline](https://github.com/daltonj/treccastweb/tree/master/2020/baselines) - We provide a BM25 + BERT reranked baseline run for the raw utterances, automatically rewritten utterances, and the manually rewritten utterances. 
- * NEW -  [Interactive web UI](http://boston.lti.cs.cmu.edu/boston-2-25/) - A web UI with the same model used to create the baseline runs.
+ * NEW -  [Interactive web UI](http://boston.lti.cs.cmu.edu/boston-2-25/) - A simple web UI with the BM25 + BERT model used to create the baseline runs. No rewriting is performed.
  
 ### Collection
  * The corpus is a combination of two standard TREC collections: MARCO Ranking passages and Wikipedia (TREC CAR).
