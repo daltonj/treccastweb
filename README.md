@@ -2,13 +2,42 @@
 
 There are currently few datasets appropriate for training and evaluating models for Conversational Information Seeking (CIS). The main aim of TREC CAsT is to advance research on conversational search systems. The goal of the track is to create a reusable benchmark for open-domain information centric conversational dialogues. 
 
-The track will run in 2020 and establish a concrete and standard collection of data with information needs to make systems directly comparable. 
+The track will run in 2021 and establish a concrete and standard collection of data with information needs to make systems directly comparable. 
 
-This is the second year of TREC CAsT, which will run as a track in [TREC](https://trec.nist.gov/). This year we aim to focus on candidate information ranking in context:
+This is the third year of TREC CAsT, which will run as a track in [TREC](https://trec.nist.gov/). This year we aim to focus on candidate information ranking in context:
 * Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
+# Year 3 (TREC 2021)
+
+## Important Dates
+* Test topic release: early June
+* Run submission deadline: August 18th, 2021
+
+## Data
+* Wapo V4 (Documents)
+* Wikipedia December 2020 (coming soon)
+* MS MARCO (Documents)
+
+### Guidelines
+* COMING SOON
+* Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit (deadline end of May!).
+
+
+# Contact
+* Twitter: [@treccast](https://twitter.com/treccast)
+* Slack: [treccast.slack.com](https://join.slack.com/t/treccast/shared_invite/enQtNDgwOTE0NTY3MDQyLTljNTM0YmZmYzY0NzJiODNiYWYyMmZjMGRmZTNlNTZlZGVhY2JiNzlkMjc0ODc3NjU0NzkzMTlhYzFmNWFkNTk)
+* Google groups [trec-cast@googlegroups.com](https://groups.google.com/forum/#!forum/trec-cast)
+
+# Organizers
+ * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), University of Glasgow
+ * [Chenyan Xiong](https://www.linkedin.com/in/chenyan-xiong-4a103257/), Microsoft Research
+ * [Jamie Callan](http://www.cs.cmu.edu/~callan/), Carnegie Mellon University
+
 # Year 2 (TREC 2020)
+## News
+ - May 2020: Year 2 guidelines released
+ - July 2020: Year 2 evaluation topics released
 
 ## Data 
 ### Topics
@@ -22,31 +51,10 @@ This is the second year of TREC CAsT, which will run as a track in [TREC](https:
  * The corpus is a combination of two standard TREC collections: MARCO Ranking passages and Wikipedia (TREC CAR).
  * The [MS MARCO Passage Ranking collection](https://msmarco.blob.core.windows.net/msmarcoranking/collection.tar.gz) - This file only includes the passage id and passage text.  For convenience, we also provide a passage id -> URL mapping file in TSV format [pid to URL file](http://boston.lti.cs.cmu.edu/vaibhav2/cast/marco_pas_url.tsv). 
  * The [TREC CAR paragraph collection v2.0](http://trec-car.cs.unh.edu/datareleases/v2.0/paragraphCorpus.v2.0.tar.xz)
- 
+
 ### Guidelines
 * [Year 2 task guidelines](https://docs.google.com/document/d/1B_NpYdl7FU4EiYeAyWJ9c_CBn-Z6hyF4Zq3XJjADBeU/edit?usp=sharing)
-* Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit (deadline end of May!).
 
-# News
- - May 2020: Year 2 guidelines released
- - July 2020: Year 2 evaluation topics released
-
-# Contact
-* Twitter: [@treccast](https://twitter.com/treccast)
-* Slack: [treccast.slack.com](https://join.slack.com/t/treccast/shared_invite/enQtNDgwOTE0NTY3MDQyLTljNTM0YmZmYzY0NzJiODNiYWYyMmZjMGRmZTNlNTZlZGVhY2JiNzlkMjc0ODc3NjU0NzkzMTlhYzFmNWFkNTk)
-* Google groups [trec-cast@googlegroups.com](https://groups.google.com/forum/#!forum/trec-cast)
-
-# Important Dates
-* Training data release: See previous data
-* Test topic release: July 9th
-* Run submission: August 19th
-
-
-# Organizers
- * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), University of Glasgow
- * [Chenyan Xiong](https://www.linkedin.com/in/chenyan-xiong-4a103257/), Microsoft Research
- * [Jamie Callan](http://www.cs.cmu.edu/~callan/), Carnegie Mellon University
- 
 # Year 1 (TREC 2019)
 * Read the [TREC 2019 Overview](https://arxiv.org/abs/2003.13624) paper. 
 
