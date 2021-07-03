@@ -17,7 +17,7 @@ This is the third year of TREC CAsT, which will run as a track in [TREC](https:/
 ## Data
 
 ### Topics
- * NEW [Evaluation topics for Year 3 V1.0](https://github.com/daltonj/treccastweb/tree/master/2021) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
+ * *NEW* [Evaluation topics for Year 3 V1.0](https://github.com/daltonj/treccastweb/tree/master/2021) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
 ### Corpora
 * [Washington Post 2020](https://trec.nist.gov/data/wapost/) - Note: This is a new dump including January 2012 through December 2020.
 * [KILT Wikipedia](https://github.com/facebookresearch/KILT/) - From the 2019/08/01 Wikipedia dump.
