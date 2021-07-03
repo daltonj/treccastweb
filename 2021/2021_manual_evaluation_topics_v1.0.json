@@ -1154,7 +1154,7 @@
             {
                 "number": 6,
                 "raw_utterance": "I’ll consider those. How about my options for my other interest?",
-                "manual_rewritten_utterance": "Okay. What about career options related to animals in the UK?",
+                "manual_rewritten_utterance": "I’ll consider those. How about my career options for my other interest in animals?",
                 "canonical_result_id": "MARCO_D1757372",
                 "passage": "Teen Vogue indicates that aspiring fashion magazine journalists may want to study English or journalism, while those working with fashion photography may pursue design-related degrees. Fashion merchandising bachelor's degrees are another option for those aspiring to enter all fashion journalism fields. Because the job markets in the fashion and journalism industries can be competitive, you may want to pursue a college internship in your professional area of interest. Some journalism degree programs may offer concentrations in fashion or magazine writing; the latter may be appropriate for those aspiring to work for fashion magazines. If you pursue a degree in general journalism, one or several fashion writing classes are likely available to you. Some schools may also offer special seminars, clubs or other activities for journalism students interested in fashion. Fashion journalism courses or concentrations teach you about relevant general and journalism-specific concepts, such as visual merchandising, textiles, fashion marketing, event reporting, trend analysis and designer collection reviews. You also study basic journalism topics like news reporting, mass media and society magazine writing, opinion commentary, copyediting, promotional writing and media law.",
                 "passage_id": 2,
@@ -1538,7 +1538,7 @@
             },
             {
                 "number": 3,
-                "raw_utterance": "That sounds very intense but useful for me. How do they compare with just weightlifting?",
+                "raw_utterance": "That sounds very intense but useful for me. How does it compare with just weightlifting?",
                 "manual_rewritten_utterance": "That sounds very intense but useful to me. How does CrossFit compare with just weightlifting to get fit?",
                 "canonical_result_id": "KILT_11568969",
                 "passage": "The paper states that CrossFit participants “are more likely to be injured and to seek medical treatment compared with participants in traditional weightlifting”, a finding that CrossFit, Inc. claimed to be based on scientific errors and material from retracted or mis-represented studies. Section::::Criticism.:Exertional rhabdomyolysis. The relationship between CrossFit and exertional rhabdomyolysis has been a subject of controversy for the company. Some medical professionals have asserted that both the CrossFit methodology and the environment created by CrossFit trainers put athletes at high risk for developing rhabdomyolysis. A man successfully sued his uncertified CrossFit trainers and was awarded US$300,000 in damages, after he suffered from rhabdomyolysis after performing a CrossFit workout on December 11, 2005, at Manassas World Gym in Manassas, Virginia, under the said trainers' supervision. CrossFit, Inc. was not listed as a defendant in the lawsuit. CrossFit, Inc. does not dispute that its methodology has the potential to cause rhabdomyolysis. The company states that exertional rhabdomyolysis can be found in a wide variety of sports and training populations and argues that its critics have conflated CrossFit's high awareness of rhabdomyolysis with high risk.",
@@ -1729,7 +1729,7 @@
             {
                 "number": 3,
                 "raw_utterance": "Has that been effective?",
-                "manual_rewritten_utterance": "Has the Equatorial Guinean government conservation measures to protect Goliath frogs been effective?",
+                "manual_rewritten_utterance": "Has the Equatorial Guinean government's conservation measures to protect Goliath frogs been effective?",
                 "canonical_result_id": "MARCO_D611430",
                 "passage": "The construction of dams threatens the breeding habitat of these frogs. The frogs have been heavily collected for zoos and the pet trade, but Goliath frogs don’t breed or survive well in captivity. Goliaths are also highly prized as delicacy by local people. The IUCN (The International Union for Conservation of Nature) sites Goliath frogs as an endangered species because of a 50% decline in population size in the last three generations. Goliath frog image from animals.uua.cn Mbo tribesmen believe the frogs are wizards of sacred waterfalls. The only real hope for these amphibian wizards is the preservation of their rainforest home. Learn more SALAMANDERS IN CRISIS! An Overview of Why Salamander Conservation is Needed A Prince Becomes a Frog: The Prince Charles Frog Many Thanks, and a Red-Eyed Tree Frog for You! Frog Facts Everyone Should Know This entry was posted in Deforestation and frogs, Frogs and the Rainforest, Learn about Frogs and tagged African frogs, biggest frog on earth, Conraua goliath, earth's biggest frog, endangered frogs, giant frog, gigantic frogs, goliath frog, International Union for Conservation of Nature, IUCN, Rainforest Frogs, world's biggest frog.",
                 "passage_id": 1,
@@ -1951,7 +1951,7 @@
             {
                 "number": 5,
                 "raw_utterance": "What do the guidelines say for pregnant women? Why?",
-                "manual_rewritten_utterance": "Why shouldn’t a pregnant woman drink alcoholic beverages?",
+                "manual_rewritten_utterance": "What do the U.S government guidelines say about pregnant women drinking alcoholic beverages? Why?",
                 "canonical_result_id": "MARCO_D1764548",
                 "passage": "S. Department of Health and Human Services. The Surgeon General first advised women to abstain from alcohol during pregnancy in 1981, and issued a new advisory in 2005. The advisory states in part, “Based on the current, best science available we now know the following: No amount of alcohol consumption can be considered safe during pregnancy;Alcohol can damage the embryo or fetus at any stage of pregnancy;Damage can occur in the earliest weeks of pregnancy, even before a woman knows she is pregnant;The cognitive effects and behavioral problems resulting from prenatal alcohol exposure are lifelong.”“For these reasons: A pregnant woman should not drink alcohol during pregnancy;A pregnant woman who has already consumed alcohol during pregnancy should stop in order to minimize further risk;A woman who is considering becoming pregnant should abstain from alcohol.”About half of all pregnancies are unplanned. As a result, many women consume alcohol without knowing that they are pregnant. The Surgeon General’s advisory also suggests that women of childbearing age should consult their physician about how best to reduce the risk of prenatal alcohol exposure.",
                 "passage_id": 4,
@@ -2082,7 +2082,7 @@
             {
                 "number": 9,
                 "raw_utterance": "No, I meant mania and depression.",
-                "manual_rewritten_utterance": "Can a person have mania and depression at the same time?",
+                "manual_rewritten_utterance": "No, I meant mania and depression.",
                 "canonical_result_id": "MARCO_D197670",
                 "passage": "A mild form in mania that does not require hospitalization is termed hypomania.’Major Depressive Disorders Major depressive disorder (often referred to as unipolar depression) contrasts with bipolar disorder, which is characterized by the occurrence of one or more manic or hypomanic episodes. The diagnosis of either will then fall into a category and a subcategory. What follows is a list of Common Mood Disorders: Depressive Disorders Major depressive disorders are on our list of mood disorders and are subcategorized into a single episode or recurrent episodes, in which two or more depressive episodes occur. The core symptoms of depression include: Sadness, apathy, unhappiness, apathy, anxiety. Pessimism, guilt, negative thinking, low motivation, poor concentration, suicidal thoughts. Lack of interest in personal appearance and hygiene, agitation, sluggish movements. Changes in appetite, constipation, loss of sex drive, sleep disturbances, menstrual cycle disruption. Manic Disorders The core symptoms of mania include: Elation, grandiosity, irritability. Pressure of thoughts, easily distractible with flighty ideas and poor judgement. Overactive speech. High levels of arousal and decreased need for sleep.",
                 "passage_id": 2,
@@ -2141,7 +2141,7 @@
             {
                 "number": 5,
                 "raw_utterance": "Did Bench make it into Cooperstown?",
-                "manual_rewritten_utterance": "When was Johnny Bench inducted into the Baseball Hall of Fame?",
+                "manual_rewritten_utterance": "Did Johnny Lee Bench make it into Cooperstown?",
                 "canonical_result_id": "MARCO_D1549921",
                 "passage": "[53]Honors and post-career activities [ edit]Bench's statue at Great American Ball Park Bench was elected to the National Baseball Hall of Fame in Cooperstown, New York, in 1989 alongside Carl Yastrzemski. [55] He was elected in his first year of eligibility, and appeared on 96% of the ballots, the third-highest percentage at that time. Three years earlier, Bench had been inducted into the Cincinnati Reds Hall of Fame in 1986 and his uniform #5 was retired by the team. [56] [57] He is currently on the Board of Directors for the Cincinnati Reds Hall of Fame. In 1989, he became the first individual baseball player to appear on a Wheaties box, a cereal he ate as a child. [58]For a time in the 1980s Bench was a commercial spokesman for Krylon paint, featuring a memorable catchphrase: \"\"I'm Johnny Bench, and this is Johnny Bench's bench.\"\" [59]In 1985, Bench starred as Joe Boyd/Joe Hardy in a Cincinnati stage production of the musical Damn Yankees, which also included Gwen Verdon and Gary Sandy.",
                 "passage_id": 12,
