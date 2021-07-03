@@ -15,11 +15,15 @@ This is the third year of TREC CAsT, which will run as a track in [TREC](https:/
 * Run submission deadline: August 18th, 2021
 
 ## Data
+
+### Topics
+ * NEW [Evaluation topics for Year 3 V1.0](https://github.com/daltonj/treccastweb/tree/master/2021) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
+### Corpora
 * [Washington Post 2020](https://trec.nist.gov/data/wapost/) - Note: This is a new dump including January 2012 through December 2020.
 * [KILT Wikipedia](https://github.com/facebookresearch/KILT/) - From the 2019/08/01 Wikipedia dump.
 * [MS MARCO (Documents)](https://github.com/microsoft/MSMARCO-Document-Ranking) - MS MARCO document corpus used in DL 2019/2020.
 
-### Guidelines
+## Guidelines
 * [Year 3 task guidelines](https://docs.google.com/document/d/1Eo0IqQedYc_rfTw-YxbvUGTpoYSmejU0iDlUzQWj3_w/edit?usp=sharing)
 * Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit.
 
@@ -40,7 +44,7 @@ This is the third year of TREC CAsT, which will run as a track in [TREC](https:/
 
 ## Data 
 ### Topics
- * NEW - [Evaluation topics for Year 2 V1.0](https://github.com/daltonj/treccastweb/tree/master/2020) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
+ * [Evaluation topics for Year 2 V1.0](https://github.com/daltonj/treccastweb/tree/master/2020) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
  
 ### Baselines
  * NEW - [BM25 + BERT baseline](https://github.com/daltonj/treccastweb/tree/master/2020/baselines) - We provide a BM25 + BERT reranked baseline run for the raw utterances, automatically rewritten utterances, and the manually rewritten utterances. 
