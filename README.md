@@ -11,7 +11,7 @@ This is the third year of TREC CAsT, which will run as a track in [TREC](https:/
 # Year 3 (TREC 2021)
 
 ## Important Dates
-* Test topic release: early June
+* Test topic release: Available
 * Run submission deadline: August 18th, 2021
 
 ## Data
