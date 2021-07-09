@@ -1,4 +1,4 @@
-## Description of marco_duplicates.txt
+## Description of `marco_duplicates.txt`
 
 Each line in the file consists of the original document id followed by a list of its duplicate document ids (0 or many seperated by comma).
 
@@ -12,7 +12,7 @@ For example:
 2) `MARCO_D590:MARCO_D1258790,MARCO_D7001097` => `MARCO_D590` is the original document id and `MARCO_D1258790` and `MARCO_D7001097` are marked as its duplicates.
 
 
-## Description of wapo-near-duplicates
+## Description of `wapo-near-duplicates`
 
 Each line in the file consists of documents that have more than one copy in the collection. The ids of these copies are the same, thus a line in the file has the following form:
 
