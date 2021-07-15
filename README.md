@@ -18,10 +18,19 @@ This is the third year of TREC CAsT, which will run as a track in [TREC](https:/
 
 ### Topics
  * *NEW* [Evaluation topics for Year 3 V1.0](https://github.com/daltonj/treccastweb/tree/master/2021) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
+ 
 ### Corpora
 * [Washington Post 2020](https://trec.nist.gov/data/wapost/) - Note: This is a new dump including January 2012 through December 2020.
 * [KILT Wikipedia](https://github.com/facebookresearch/KILT/) - From the 2019/08/01 Wikipedia dump.
-* [MS MARCO (Documents)](https://github.com/microsoft/MSMARCO-Document-Ranking) - MS MARCO document corpus used in DL 2019/2020.
+* [MS MARCO (Documents)](https://github.com/microsoft/MSMARCO-Document-Ranking) - MS MARCO document corpus used in DL 2019/2020. NOTE: This is NOT the recently release V2 corpus.
+
+### Baselines
+* Automatic and manual baselines are provided [baseline runs](https://github.com/daltonj/treccastweb/tree/master/2021/baselines). See README for details.
+* [Interactive web UI](http://3.142.108.201:3500/) - A web UI supporting BM25 document retrieval and T5 passage reranking. Rewriting is supported using query and result passage context using the [T5-Canard model](https://huggingface.co/castorini/t5-base-canard), that format is the "raw rewrite".
+
+### Duplicate handling
+* The [provided tools](https://github.com/grill-lab/trec-cast-tools/tree/master/src/main/python) support removing duplicate documents from collection, including both MARCO and WaPo duplicates.
+* [Duplicate Files](https://github.com/daltonj/treccastweb/tree/master/2021/duplicate_files)
 
 ## Guidelines
 * [Year 3 task guidelines](https://docs.google.com/document/d/1Eo0IqQedYc_rfTw-YxbvUGTpoYSmejU0iDlUzQWj3_w/edit?usp=sharing)
