@@ -5,7 +5,7 @@ Each line in the file consists of the original document id followed by a list of
 A line in the file has the following form:
 `d0:d1,d2,d3`
 
-The first id `d0` corresponds to the original passage id. The comma seperated passage ids following the colon are the ones which are marked as duplicates of `d0`.
+The first id `d0` corresponds to the original document id. The comma seperated document ids following the colon are the ones which are marked as duplicates of `d0`.
 
 For example:
 1) `MARCO_D135:MARCO_D2854269`  => `MARCO_D135` is the original document id and `MARCO_D2854269` is marked as its duplicate.
@@ -18,6 +18,6 @@ Each line in the file consists of documents that have more than one copy in the 
 
 `0000107b869682826003b04a40e63948 0000107b869682826003b04a40e63948 Vulnerable Senate Democrats think Republicans just handed them a lifeline on health care`
 
-Just the first copy of the document is included.
+Just the first copy of the document is included in the final index.
 
 
