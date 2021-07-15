@@ -18,7 +18,7 @@ For (1), we use a simple BM25 function (K1=4.46, b=0.82), and for (3), we use a 
 
 ## Baseline Rewriter Policy
 
-We use a [T5 model trained on the CANARD dataset](https://huggingface.co/castorini/t5-base-canard) to generate our baseline automatic rewrites.
+We use the [T5 model trained on the CANARD dataset](https://huggingface.co/castorini/t5-base-canard) to generate our baseline automatic rewrites.
 
 For a given query in a topic, the rewrite context consists of all queries from previous turns (turn `1` to turn `n-1`) and the passages from the last three turns (turn `n-3` to turn `n-1`).
 
