@@ -26,7 +26,7 @@ This is the third year of TREC CAsT, which will run as a track in [TREC](https:/
 
 ### Baselines
 * Automatic and manual baselines are provided [baseline runs](https://github.com/daltonj/treccastweb/tree/master/2021/baselines). See README for details.
-* [Interactive web UI](http://3.142.108.201:3500/) - A web UI supporting BM25 document retrieval and T5 passage reranking. Rewriting is supported using query and result passage context using the [T5-Canard model](https://huggingface.co/castorini/t5-base-canard), that format is the "raw rewrite".
+* [Interactive web UI](http://3.142.108.201:3500/) - A web UI supporting BM25 document retrieval and T5 passage reranking. Rewriting is supported using query and result passage context using the [T5-Canard model](https://huggingface.co/castorini/t5-base-canard), that format is the "raw rewrite". A manual that explains how to use the UI can be found [here](https://docs.google.com/document/d/1DnhwmV2OyVoh7I8hz88HE-LVenbtg8B8t6N_7WadPoQ/edit?usp=sharing).
 
 ### Duplicate handling
 * The [provided tools](https://github.com/grill-lab/trec-cast-tools/tree/master/src/main/python) support removing duplicate documents from collection, including both MARCO and WaPo duplicates.
