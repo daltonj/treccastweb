@@ -1753,7 +1753,7 @@
                 "automatic_rewritten_utterance": "What do the guidelines say for pregnant women?"
             },
             {
-                "number": 5,
+                "number": 6,
                 "raw_utterance": "But I’ve heard that pregnant women in France drink wine with dinner. Is that true?",
                 "canonical_result_id": "MARCO_D757820",
                 "passage": "\"Why Can't A Pregnant Woman Have A Drink? Margaret Hartmann8/24/10 11:15am 683Many medical experts say it's OK for pregnant woman to have one or two glasses of wine a week, and drinking while pregnant is common in Europe. So why is moderate drinking during pregnancy still taboo in America? While the American Congress of Obstetricians and Gynecologists still says that \"\"no amount of alcohol consumption can be considered safe during pregnancy,\"\" the New York Post reports that a 2009 study published in the International Journal of Epidemiology found children whose mothers had one or two drinks per week while pregnant did not have an increased risk of cognitive defects compared to those who had no alcohol. One mom tells the Post that her doctor actually told her to \"\"go home and drink a glass of wine,\"\" after having an amniocentesis test because it would help calm painful uterine contractions after the procedure. This would surprise many American moms, but not Europeans; 2008 study published in the journal Alcoholism: Clinical and Experimental Research said more than 50 percent of French women drank at least once during their pregnancy, compared to only 12 percent of American women.",
@@ -1761,7 +1761,7 @@
                 "automatic_rewritten_utterance": "I’ve heard that pregnant women in France drink wine with dinner. Is that true?"
             },
             {
-                "number": 6,
+                "number": 7,
                 "raw_utterance": "So you mean that the US suggestion may be too strict? What is the French government's attitude?",
                 "canonical_result_id": "MARCO_D253045",
                 "passage": "“You should not drink if you are pregnant, are considering getting pregnant or even if you could possibly get pregnant.”Other countries, like the U. K. and France, that once gave less stringent advice–pregnant women should not exceed 1-2 drinks per week– now state no amount of drinking is safe, and that women who are pregnant or trying to conceive should abstain entirely. At the heart of this debate is the research itself. So, what do we actually know about light drinking during pregnancy? Let’s start with alcohol and the risk of miscarriage. Light drinking, the equivalent of 1-2 drinks per week, during the first trimester, boosts the odds of a first trimester miscarriage by about 30%, and the odds of a early second trimester miscarriage (between 13-16 weeks) by about 70%, according to a large study of over 90,000 pregnancies in Denmark. The risk rose with greater intakes. Drinking 4 or more drinks per week during the first trimester more than doubled the odds of a miscarriage.",
@@ -1769,7 +1769,7 @@
                 "automatic_rewritten_utterance": "So you mean that the US suggestion may be too strict? What is the French government's attitude?"
             },
             {
-                "number": 7,
+                "number": 8,
                 "raw_utterance": "Tell me about the findings from the Lancet study you mentioned. What advice did it give for safety?",
                 "canonical_result_id": "WAPO_QI5GX3FGFUI6RD5MCLUYYE2SRU",
                 "passage": "To minimize health risks, the optimal amount of alcohol someone should consume is none. That’s the simple, surprising conclusion of a massive study, co-written by 512 researchers from 243 institutions, published Thursday in the prestigious journal the Lancet. The researchers built a database of more than a thousand alcohol studies and data sources, as well as death and disability records from 195 countries and territories between 1990 and 2016. The goal was to estimate how alcohol affects the risk of 23 health problems. The number that jumped out in the end was zero. Anything more than that was associated with health risks. “What has been underappreciated, what’s surprising, is that no amount of drinking is good for you,” said Emmanuela Gakidou, a professor of global health at the University of Washington and the senior author of the report. “People should no longer think that a drink or two a day is good for you. What’s best for you is to not drink at all,” she said.",
@@ -1777,7 +1777,7 @@
                 "automatic_rewritten_utterance": "What advice did the Lancet study give for safety?"
             },
             {
-                "number": 8,
+                "number": 9,
                 "raw_utterance": "I’d like to stop. What are some treatment options?",
                 "canonical_result_id": "MARCO_D688183",
                 "passage": "Page contents Nicotine replacement therapy (NRT)Varenicline (Champix)Bupropion (Zyban)E-cigarettes If you want to stop smoking, several different treatments are available from shops, pharmacies and on prescription to help you beat your addiction and reduce withdrawal symptoms. The best treatment for you will depend on your personal preference, your age, whether you're pregnant or breastfeeding and any medical conditions you have. Speak to your GP or an NHS stop smoking adviser for advice. Research has shown that all these methods can be effective. Importantly, evidence shows that they are most effective if used alongside support from an NHS stop smoking service. The treatments available are outlined below. Nicotine replacement therapy (NRT)The main reason that people smoke is because they are addicted to nicotine. NRT is a medication that provides you with a low level of nicotine, without the tar, carbon monoxide and other poisonous chemicals present in tobacco smoke. It can help reduce unpleasant withdrawal effects, such as bad moods and cravings, which may occur when you stop smoking.",
@@ -1785,7 +1785,7 @@
                 "automatic_rewritten_utterance": "What are some treatment options for light drinking during pregnancy?"
             },
             {
-                "number": 9,
+                "number": 10,
                 "raw_utterance": "No, I meant drinking alcohol. What are some rehab treatment options to consider?",
                 "canonical_result_id": "WAPO_3JZ5RHB6MQI6RF2PVLGZO2MM54",
                 "passage": "It’s important for us to be able to advise people what level of consumption is safe.” As for the threshold for low-risk drinking, White said, “there’s no magic number here. The effects of alcohol on health are very complicated. The effects are influenced by a wide range of factors, like body weight and sex, medications, rate of consumption, so it’s very hard to arrive at one single threshold below which everybody’s going to be safe from harm.” The new research does not suggest that a drinker who has just a little too much every day is falling off an epidemiological cliff. Instead, a little bit too much causes a little lower life expectancy. But as the drinker ventures further beyond the threshold, the life expectancy continues to erode in dramatic fashion. Wood and her colleagues found that the threshold for health risks is 100 grams per week (about the alcohol in seven standard American beers, though craft beers have higher alcohol content). The drop in life expectancy for a 40-year-old who drinks between 100 and 200 grams is six months, on average, compared with someone who drinks between zero and 100 grams, the study found.",

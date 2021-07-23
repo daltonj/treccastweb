@@ -1958,7 +1958,7 @@
                 "automatic_rewritten_utterance": "What do the guidelines say for pregnant women?"
             },
             {
-                "number": 5,
+                "number": 6,
                 "raw_utterance": "But I’ve heard that pregnant women in France drink wine with dinner. Is that true?",
                 "manual_rewritten_utterance": "But I’ve heard that pregnant women in France drink wine with dinner. Is that true?",
                 "canonical_result_id": "MARCO_D757820",
@@ -1967,7 +1967,7 @@
                 "automatic_rewritten_utterance": "I’ve heard that pregnant women in France drink wine with dinner. Is that true?"
             },
             {
-                "number": 6,
+                "number": 7,
                 "raw_utterance": "So you mean that the US suggestion may be too strict? What is the French government's attitude?",
                 "manual_rewritten_utterance": "So you mean that the US suggestion which prohibits pregnant women from drinking alcohol may be too strict? What is the French government's attitude towards pregnant women drinking?",
                 "canonical_result_id": "MARCO_D253045",
@@ -1976,7 +1976,7 @@
                 "automatic_rewritten_utterance": "So you mean that the US suggestion may be too strict? What is the French government's attitude?"
             },
             {
-                "number": 7,
+                "number": 8,
                 "raw_utterance": "Tell me about the findings from the Lancet study you mentioned. What advice did it give for safety?",
                 "manual_rewritten_utterance": "Tell me about the findings from the Lancet study you mentioned. What did  advise on safe consumption levels of alcohol?",
                 "canonical_result_id": "WAPO_QI5GX3FGFUI6RD5MCLUYYE2SRU",
@@ -1985,7 +1985,7 @@
                 "automatic_rewritten_utterance": "What advice did the Lancet study give for safety?"
             },
             {
-                "number": 8,
+                "number": 9,
                 "raw_utterance": "I’d like to stop. What are some treatment options?",
                 "manual_rewritten_utterance": "I’d like to stop. What are some treatment options for alcoholism?",
                 "canonical_result_id": "MARCO_D688183",
@@ -1994,7 +1994,7 @@
                 "automatic_rewritten_utterance": "What are some treatment options for light drinking during pregnancy?"
             },
             {
-                "number": 9,
+                "number": 10,
                 "raw_utterance": "No, I meant drinking alcohol. What are some rehab treatment options to consider?",
                 "manual_rewritten_utterance": "No, I meant drinking alcohol. What are some alcohol rehab treatment options to consider?",
                 "canonical_result_id": "WAPO_3JZ5RHB6MQI6RF2PVLGZO2MM54",
