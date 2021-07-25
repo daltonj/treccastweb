@@ -1,6 +1,6 @@
 ## Baseline run description
 
-The baseline system is a three-retrieval process where, given a query, (1) the top-n documents are retrieved from the index and (2) chunked into passages using Spacy's SentenceRecognizer pipeline. (3) Passages are then re-ranked using a neural re-ranker.
+The baseline system is a three-step retrieval process where, given a query, (1) the top-n documents are retrieved from the index and (2) chunked into passages using Spacy's SentenceRecognizer pipeline. (3) Passages are then re-ranked using a neural re-ranker.
 
 
 ![Baseline_architecture](https://user-images.githubusercontent.com/28223751/125435261-5568b1fb-472e-46b5-a264-c806b8d5f84a.png)
