@@ -2,14 +2,44 @@
 
 There are currently few datasets appropriate for training and evaluating models for Conversational Information Seeking (CIS). The main aim of TREC CAsT is to advance research on conversational search systems. The goal of the track is to create a reusable benchmark for open-domain information centric conversational dialogues. 
 
-The track will run in 2021 and establish a concrete and standard collection of data with information needs to make systems directly comparable. 
+The track will run in 2022 and establish a concrete and standard collection of data with information needs to make systems directly comparable. 
 
-This is the third year of TREC CAsT, which will run as a track in [TREC](https://trec.nist.gov/). This year we aim to focus on candidate information ranking in context:
+This is the fourth year of TREC CAsT, which will run as a track in [TREC](https://trec.nist.gov/). This year we aim to focus on candidate information ranking in context:
 * Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
-# Year 3 (TREC 2021)
+# Year 4 (TREC 2022)
 
+## Important Dates
+* Guidelines released: March, 2022
+* Evaluation topic release: Late Spring, 2022
+* Run submission deadline: August, 2022
+
+## Data
+* TBD
+
+### Baselines
+* TBD 
+
+## Guidelines
+* TBD 
+
+# Contact
+* Twitter: [@treccast](https://twitter.com/treccast)
+* Slack: [treccast.slack.com](https://join.slack.com/t/treccast/shared_invite/enQtNDgwOTE0NTY3MDQyLTljNTM0YmZmYzY0NzJiODNiYWYyMmZjMGRmZTNlNTZlZGVhY2JiNzlkMjc0ODc3NjU0NzkzMTlhYzFmNWFkNTk)
+* Google groups [trec-cast@googlegroups.com](https://groups.google.com/forum/#!forum/trec-cast)
+
+# Organizers
+ * Jeff Dalton, University of Glasgow
+ * Mohammad Aliannejadi, University of Amsterdam 
+ * Leif Azzopardi, University of Strathclyde
+ * Paul Owoicho University of Glasgow
+ * Johanne Trippas, The University of Melbourne
+ * Svitlana Vakulenko, University of Amsterdam / Amazon
+
+
+
+# Year 3 (TREC 2021)
 ## Important Dates
 * Test topic release: Available
 * Run submission deadline: August 18th, 2021
