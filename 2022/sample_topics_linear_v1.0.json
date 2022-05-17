@@ -1,0 +1,48 @@
+{
+    "number": "1",
+    "title": "Cities in California",
+    "paths": [
+        {
+            "turns": [
+                {
+                    "number": "1-1",
+                    "utterance": "What are some cool things to do in California?",
+                    "resolved_utterance": "What are some cool things to do in California?",
+                    "response": "So, there are lots of cool things to do. California is one of the most unique states on the US mainland. Most people who visit California think Hollywood and go south. But there are a lot more things to do in California, many more places to visit than just Hollywood. From beautiful cities to gorgeous countryside, from water sports to historical sites to raw nature at its finest, there is something for everyone in the state Americans affectionately refer to as the 'Left Coast'.",
+                    "provenance": [
+                        {
+                            "id": "WAPO_b2e89334-0-33f9-11e1-825f-dabc29fd7071-1",
+                            "text": "...",
+                            "score": 0.5
+                        }
+                    ]
+                },
+                {
+                    "number": "1-5",
+                    "utterance": "I like natural wines. Let's go north.",
+                    "resolved_utterance": "I like natural wines. Let's go north.",
+                    "response": "...",
+                    "provenance": []
+                }
+            ]
+        },
+        {
+            "turns": [
+                {
+                    "number": "1-1",
+                    "utterance": "What are some cool things to do in California?",
+                    "resolved_utterance": "What are some cool things to do in California?",
+                    "response": "What are some of your interests?",
+                    "provenance": []
+                },
+                {
+                    "number": "1-4",
+                    "utterance": "I like outdoor activities, biking in particular.",
+                    "resolved_utterance": "I like outdoor activities, biking in particular.",
+                    "response": "..",
+                    "provenance": []
+                }
+            ]
+        }
+    ]
+}

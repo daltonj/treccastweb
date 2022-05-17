@@ -1,0 +1,51 @@
+{
+    "number": 1,
+    "title": "Cities in California", 
+    "turn": [
+        {
+            "number": "1-1",
+            "parent_turn": "",
+            "raw_utterance": "What are some cool things to do in California?",
+            "resolved_utterance": "What are some cool things to do in California?",
+            "participant": "user"
+        },
+        {
+            "number": "1-2",
+            "parent_turn": "1-1",
+            "response": "So, there are lots of cool things to do. California is one of the most unique states on the US mainland. Most people who visit California think Hollywood and go south. But there are a lot more things to do in California, many more places to visit than just Hollywood. From beautiful cities to gorgeous countryside, from water sports to historical sites to raw nature at its finest, there is something for everyone in the state Americans affectionately refer to as the 'Left Coast'. San Diego, Los Angeles and San Francisco are all great places to start exploring California. Once you are done with them, work your way along the coast as you head into the mountainous northern regions. While there, take a trip along the scenic Pacific Coast Highway. It is a breath-taking drive you are bound to remember for the rest of your life.",
+            "response_type": "result",
+            "participant": "System",
+            "provenance": [
+                {
+                    "id": "WAPO_b2e89334-0-33f9-11e1-825f-dabc29fd7071-1",
+                    "text": "...",
+                    "score": 0.5
+                }
+            ]
+        },
+        {
+            "number": "1-3",
+            "parent_turn": "1-1",
+            "response": "What are some of your interests?",
+            "response_type": "elicitation",
+            "participant": "system",
+            "provenance": []
+        },
+        {
+            "number": "1-4",
+            "parent_turn": "1-3",
+            "raw_utterance": "I like outdoor activities, biking in particular.",
+            "resolved_utterance": "I like outdoor activities, biking in particular.",
+            "participant": "user"
+        },
+        {
+            "number": "1-5",
+            "parent_turn": "1-2",
+            "raw_utterance": "I like natural wines. Let's go north.",
+            "resolved_utterance": "I like natural wines. Let's go north.",
+            "participant": "user"
+        }
+    ]
+ }
+ 
+ 
