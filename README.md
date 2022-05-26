@@ -16,7 +16,11 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 * Run submission deadline: August, 2022
 
 ## Data
-* TBD
+
+### Corpora
+* [Washington Post 2020](https://trec.nist.gov/data/wapost/) - Same from Year 3.
+* [KILT Wikipedia](https://github.com/facebookresearch/KILT/) - Same from Year 3.
+* [MS MARCO V2 (Documents)](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021#document-ranking-dataset) - MS MARCO V2 document corpus used in 2021 TREC Deep Learning Track.
 
 ### Baselines
 * TBD 
