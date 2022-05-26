@@ -22,7 +22,8 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 * TBD 
 
 ## Guidelines
-* TBD 
+*  [Year 4 task guidelines](https://docs.google.com/document/d/1POtgCEBUf40c9Tm-qIQOnhWls1xgaNtB-YZtFIOHkf0/edit?usp=sharing)
+* Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit.
 
 # Contact
 * Twitter: [@treccast](https://twitter.com/treccast)
