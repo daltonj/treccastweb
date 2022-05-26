@@ -26,7 +26,7 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 * TBD 
 
 ### Duplicate handling
-* [Duplicate Files](https://github.com/daltonj/treccastweb/tree/master/2022/data/duplicate_files)
+* [Duplicate Files](https://github.com/daltonj/treccastweb/tree/master/2022/duplicate_files)
 
 ## Guidelines
 *  [Year 4 task guidelines](https://docs.google.com/document/d/1POtgCEBUf40c9Tm-qIQOnhWls1xgaNtB-YZtFIOHkf0/edit?usp=sharing)
