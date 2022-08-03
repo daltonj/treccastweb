@@ -22,6 +22,10 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 * [KILT Wikipedia](https://github.com/facebookresearch/KILT/) - Same from Year 3.
 * [MS MARCO V2 (Documents)](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021#document-ranking-dataset) - MS MARCO V2 document corpus used in 2021 TREC Deep Learning Track.
 
+Participants have the option of processing the collection (to generate passage splits) themselves using the [provided tools](https://github.com/grill-lab/trec-cast-tools/tree/master/src/main/python) or requesting the processed corpus from the organizers. You can make the request to the organization team via Slack or Google Groups (see below).
+
+If you processed the corpora yourself, please verfify that you have the right passage splits by comparing the hashes of each passage with the [master version](https://cast-y4-collection.s3.amazonaws.com/all_hashes.csv) to ensure that you have the right passage splits.
+
 ### Baselines
 * TBD 
 
