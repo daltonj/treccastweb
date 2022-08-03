@@ -1,6 +1,6 @@
-# 2022 Topic Files
+# 2022 Topics Overview
 
-In 2022, topics are represented as a tree containing one or more conversation paths. 
+For CAsT year 4, topics are represented as a tree containing one or more conversation paths. 
 Each turn within a topic (asides the first) have a `parent_turn` field through which each conversation path can be traced.
 
 The contents of this directory are as follows:
