@@ -24,6 +24,100 @@
                 ]
             },
             {
+                "number": "2-1",
+                "utterance": "That’s interesting. Tell me more.",
+                "manual_rewritten_utterance": "That’s interesting. Tell me more about how climate change affects developing countries.",
+                "response": "For several years, there have been concerns that climate change negotiations will essentially ignore a key principle of climate change negotiation frameworks: the common but differentiated responsibilities. Realizing that greenhouse emissions remain in the atmosphere for a very long time, this principle recognizes that historically: Industrialized nations have emitted far more greenhouse gas emissions (even if some developing nations are only now increasing theirs); Rich countries, therefore, face the biggest responsibility and burden for action to address climate change; and Rich countries, therefore, must support developing nations adapt—through financing and technology transfer, for example. This notion of climate justice is typically ignored by many rich nations and their mainstream media, making it easy to blame China, India and other developing countries for failures in climate change mitigation negotiations.",
+                "provenance": [
+                    "MARCO_06_772219573-9"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "Okay, but how does it affect developing countries?",
+                "manual_rewritten_utterance": "Okay, but how does climate change affect developing countries?",
+                "response": "Developing countries are the least able to adapt to climate change (and therefore called \"highly climate vulnerable\") due to their low levels of wealth, technology, education, and access to resources. Climate change causes 400,000 deaths on average each year, mainly due to hunger and diseases in developing countries. Interestingly, many people in developing nations who had never been educated about climate change have noticed local changes in temperature and precipitation patterns according to a study published in the journal Nature Climate Change.",
+                "provenance": [
+                    "KILT_78449-18",
+                    "WAPO_c514bdc9df22c43dfb344c58a3ea8197-5"
+                ]
+            },
+            {
+                "number": "2-5",
+                "utterance": "How are developed countries helping with that?",
+                "manual_rewritten_utterance": "How are developed countries helping developing countries adapt to climate change?",
+                "response": "Well, according to the Paris Agreement, every two years, developed countries are to communicate the projected levels of public climate finance they provide to developing countries to mitigate and adapt to climate change. Some developing countries also contribute to climate finance too. Already, Brazil’s President Dilma Rousseff said the country is considering contributing to climate finance, joining other emerging economies like China, which pledged to provide $3.1 billion over three years.",
+                "provenance": [
+                    "MARCO_48_1250272123-2",
+                    "MARCO_10_1485046460-2"
+                ]
+            },
+            {
+                "number": "2-7",
+                "utterance": "Are they meeting them?",
+                "manual_rewritten_utterance": "Are developed countries meeting their pledges to provide climate financial support to developing countries in the Paris Agreement?",
+                "response": "Developed countries will communicate every two years on projected levels of public climate finance to be provided to developing countries. Developing countries will report on climate finance they will provide voluntarily. Developed countries are not obligated to provide climate finance, but they are welcome to contribute financing for climate activities.",
+                "provenance": [
+                    "MARCO_30_1666507691-2",
+                    "MARCO_25_570836921-8",
+                    "MARCO_48_1250272123-2"
+                ]
+            },
+            {
+                "number": "2-9",
+                "utterance": "That’s not too relevant to my question. By the way, is that related to last year’s conference?",
+                "manual_rewritten_utterance": "That’s not too relevant to my question. By the way, is the Paris Agreement related to COP26 in Glasgow?",
+                "response": "The Paris Agreement is a big international agreement to tackle climate change. 195 countries signed the agreement in December 2015 at the 21st Conference of the Parties (COP21) and 186 have become party to it. The long-term goal is to keep the global average temperature well below 2C above pre-industrial levels. In June 2017, U.S. President Donald Trump announced his intention to withdraw the United States from the agreement.",
+                "provenance": [
+                    "KILT_30242372-1",
+                    "MARCO_33_1621342262-3"
+                ]
+            },
+            {
+                "number": "2-11",
+                "utterance": "So what happens at each COP?",
+                "manual_rewritten_utterance": "So what happens at each Conference of Parties?",
+                "response": "The United Nations Climate Change Conference are yearly conferences held in the framework of the UNFCCC. They serve as the formal meeting of the UNFCCC Parties ( Conferences of the Parties) (COP) to assess progress in dealing with climate change and beginning in the mid-1990s, to negotiate the Kyoto Protocol to establish legally binding obligations for developed countries to reduce their greenhouse gas emissions. The first conference (COP1) was held in 1995 in Berlin. Negotiations for the Paris Agreement took place during COP22 in Marrakech, Morocco.",
+                "provenance": [
+                    "MARCO_19_204123815-20"
+                ]
+            },
+            {
+                "number": "2-13",
+                "utterance": "How are the two different?",
+                "manual_rewritten_utterance": "How are the Kyoto Protocol and Paris Agreement different?",
+                "response": "While the Kyoto Protocol and Paris Agreement both set out to address climate change, there are some key differences between them. The Kyoto Protocol established top-down legally binding emissions reduction targets for developed nations. On the other hand, the Paris Agreement requires that all countries do their part to slash greenhouse gas emissions. No language is included about the commitments countries should make; nations can set their own emissions targets consistent with their level of development and technological advancement.",
+                "provenance": [
+                    "MARCO_48_1251187189-20"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 132,
+        "title": "Climate Change",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I remember Glasgow hosting COP26 last year, but unfortunately I was out of the loop. What was it about?",
+                "manual_rewritten_utterance": "I remember Glasgow hosting COP26 last year, but unfortunately I was out of the loop. What was the conference about?",
+                "response": "The COP26 event is a global united Nations summit about climate change and how countries are planning to tackle it. The term “climate change” is often used as if it means the same thing as the term “global warming”. The National Academy of Sciences says “climate change” is growing in favor of “global warming” because it helps convey that there are other changes in addition to rising temperatures. In fact, “climate change” means major changes in temperature, rainfall, snow, or wind patterns lasting for decades or longer.",
+                "provenance": [
+                    "MARCO_26_222804180-1",
+                    "MARCO_26_222804180-2",
+                    "MARCO_33_1621342262-1"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "Interesting. What are the effects of these changes?",
+                "manual_rewritten_utterance": "Interesting. What are the effects of these climate changes?",
+                "response": "Climate change is very likely having an impact now on our planet and its life, according to the latest instalment of a report published by the Intergovernmental Panel on Climate Change (IPCC). And the future problems caused by rising seas, growing deserts, and more frequent droughts all look set to affect the developing world more than rich countries, they add.",
+                "provenance": [
+                    "MARCO_02_1687136851-3"
+                ]
+            },
+            {
                 "number": "1-5",
                 "utterance": "That’s rather vague. Can you be more specific?",
                 "manual_rewritten_utterance": "That’s rather vague. Can you be more specific about the effects of climate change?",
@@ -160,95 +254,86 @@
         ]
     },
     {
-        "number": 132,
-        "title": "Climate Change",
+        "number": 133,
+        "title": "Homemade Beauty Pampers",
         "turn": [
             {
                 "number": "1-1",
-                "utterance": "I remember Glasgow hosting COP26 last year, but unfortunately I was out of the loop. What was it about?",
-                "manual_rewritten_utterance": "I remember Glasgow hosting COP26 last year, but unfortunately I was out of the loop. What was the conference about?",
-                "response": "The COP26 event is a global united Nations summit about climate change and how countries are planning to tackle it. The term “climate change” is often used as if it means the same thing as the term “global warming”. The National Academy of Sciences says “climate change” is growing in favor of “global warming” because it helps convey that there are other changes in addition to rising temperatures. In fact, “climate change” means major changes in temperature, rainfall, snow, or wind patterns lasting for decades or longer.",
+                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
+                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
+                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
                 "provenance": [
-                    "MARCO_26_222804180-1",
-                    "MARCO_26_222804180-2",
-                    "MARCO_33_1621342262-1"
+                    "MARCO_41_1847614301-2"
                 ]
             },
             {
                 "number": "1-3",
-                "utterance": "Interesting. What are the effects of these changes?",
-                "manual_rewritten_utterance": "Interesting. What are the effects of these climate changes?",
-                "response": "Climate change is very likely having an impact now on our planet and its life, according to the latest instalment of a report published by the Intergovernmental Panel on Climate Change (IPCC). And the future problems caused by rising seas, growing deserts, and more frequent droughts all look set to affect the developing world more than rich countries, they add.",
+                "utterance": "Can I make them at home?",
+                "manual_rewritten_utterance": "Can I make the beauty products at home?",
+                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
                 "provenance": [
-                    "MARCO_02_1687136851-3"
+                    "MARCO_23_34363864-4"
                 ]
             },
             {
                 "number": "2-1",
-                "utterance": "That’s interesting. Tell me more.",
-                "manual_rewritten_utterance": "That’s interesting. Tell me more about how climate change affects developing countries.",
-                "response": "For several years, there have been concerns that climate change negotiations will essentially ignore a key principle of climate change negotiation frameworks: the common but differentiated responsibilities. Realizing that greenhouse emissions remain in the atmosphere for a very long time, this principle recognizes that historically: Industrialized nations have emitted far more greenhouse gas emissions (even if some developing nations are only now increasing theirs); Rich countries, therefore, face the biggest responsibility and burden for action to address climate change; and Rich countries, therefore, must support developing nations adapt—through financing and technology transfer, for example. This notion of climate justice is typically ignored by many rich nations and their mainstream media, making it easy to blame China, India and other developing countries for failures in climate change mitigation negotiations.",
+                "utterance": "Can you tell me how to make the first one at home?",
+                "manual_rewritten_utterance": "Can you tell me how to make a body scrub at home?",
+                "response": "Making your body scrub is so simple and inexpensive, it just makes sense. A homemade body scrub helps moisturize and exfoliate the skin, and with cold weather approaching it will make a killer gift this winter. It is simple to make and you can experiment with different sugars, Epsom salt, a variety of carrier oils, and essential oils. Feel free to get creative and fancy when making these scrubs; here is the basic recipe you can use to make a few batches. You’ll need 2 cups Epsom salts or sugar (use organic cane sugar, brown sugar, or regular granulated), 1 cup carrier oil (grapeseed, olive, sweet almond, sesame, and safflower are all good), and 8-10 drops of your favourite essential oil. First, add Epsom salts or sugar to a bowl and slowly begin stirring in the oil until the mixture is smooth, but not goopy (You may not need the full cup of oil). Then, add essential oil and any other fun additions and mix well. Spoon into a decorative container or glass jar with a tight-fitting lid. You should choose sugar for fine grain homemade body scrub, and Epsom salts for a larger grain scrub. The oil will separate in some of these scrubs, so it’s a good idea to attach a small spoon if giving away as a gift.",
                 "provenance": [
-                    "MARCO_06_772219573-9"
+                    "MARCO_38_286379417-3",
+                    "MARCO_38_286379417-2"
                 ]
             },
             {
                 "number": "2-3",
-                "utterance": "Okay, but how does it affect developing countries?",
-                "manual_rewritten_utterance": "Okay, but how does climate change affect developing countries?",
-                "response": "Developing countries are the least able to adapt to climate change (and therefore called \"highly climate vulnerable\") due to their low levels of wealth, technology, education, and access to resources. Climate change causes 400,000 deaths on average each year, mainly due to hunger and diseases in developing countries. Interestingly, many people in developing nations who had never been educated about climate change have noticed local changes in temperature and precipitation patterns according to a study published in the journal Nature Climate Change.",
+                "utterance": "Cool. What about the second one?",
+                "manual_rewritten_utterance": "Cool. Can you tell me how to make a moisturizer at home?",
+                "response": "To make a natural face moisturizer using essential oils, add 1 ounce of carrot seed oil to 1 ounce of shea butter and 3 ounces of argan oil. To this, add 5 drops of lemongrass oil, 10 drops of lavender essential oil, and 6 drops of chamomile oil. Add shea butter and argan oil to a bowl and place it in warm water. After the butter melts, add carrot seed oil and the rest of the essential oils and blend. Never heat shea butter directly and use a double boiler to melt butter. You can use this natural face moisturizer daily for excellent results.",
                 "provenance": [
-                    "KILT_78449-18",
-                    "WAPO_c514bdc9df22c43dfb344c58a3ea8197-5"
+                    "MARCO_54_2017241781-5"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 133,
+        "title": "Homemade Beauty Pampers",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
+                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
+                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
+                "provenance": [
+                    "MARCO_41_1847614301-2"
                 ]
             },
             {
-                "number": "2-5",
-                "utterance": "How are developed countries helping with that?",
-                "manual_rewritten_utterance": "How are developed countries helping developing countries adapt to climate change?",
-                "response": "Well, according to the Paris Agreement, every two years, developed countries are to communicate the projected levels of public climate finance they provide to developing countries to mitigate and adapt to climate change. Some developing countries also contribute to climate finance too. Already, Brazil’s President Dilma Rousseff said the country is considering contributing to climate finance, joining other emerging economies like China, which pledged to provide $3.1 billion over three years.",
+                "number": "1-3",
+                "utterance": "Can I make them at home?",
+                "manual_rewritten_utterance": "Can I make the beauty products at home?",
+                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
                 "provenance": [
-                    "MARCO_48_1250272123-2",
-                    "MARCO_10_1485046460-2"
+                    "MARCO_23_34363864-4"
                 ]
             },
             {
-                "number": "2-7",
-                "utterance": "Are they meeting them?",
-                "manual_rewritten_utterance": "Are developed countries meeting their pledges to provide climate financial support to developing countries in the Paris Agreement?",
-                "response": "Developed countries will communicate every two years on projected levels of public climate finance to be provided to developing countries. Developing countries will report on climate finance they will provide voluntarily. Developed countries are not obligated to provide climate finance, but they are welcome to contribute financing for climate activities.",
+                "number": "1-5",
+                "utterance": "I’ve never done something like this before. Can you tell me how to make one?",
+                "manual_rewritten_utterance": "I’ve never made a beauty product at home before. Can you tell me how to make one?",
+                "response": "Well there are a lot of recipes to make deodorants on the web, but this one called How to Make Your Own Deodorant by Angry Chicken is my favourite. You’ll need: 3 Tablespoons shea butter, 3 Tablespoons baking soda, 2 Tablespoons arrowroot powder, 2 Tablespoons cocoa butter, 2 vitamin E oil gel caps (puncture and squeeze out the oil), and 7 drops of lavender essential oil. Simply place the shea butter and the cocoa butter in a glass bowl and microwave for about 30 seconds until melted. Stir in the arrowroot powder and baking soda, then add the oils and stir again. Use a small measuring cup or small ladle to pour into a deodorant tube. Note that this recipe will almost overfill one tube, so be careful! Let it solidify at room temperature, or if it’s a hot day, in the refrigerator. Once solid, you can use it!",
                 "provenance": [
-                    "MARCO_30_1666507691-2",
-                    "MARCO_25_570836921-8",
-                    "MARCO_48_1250272123-2"
+                    "MARCO_30_194675946-2"
                 ]
             },
             {
-                "number": "2-9",
-                "utterance": "That’s not too relevant to my question. By the way, is that related to last year’s conference?",
-                "manual_rewritten_utterance": "That’s not too relevant to my question. By the way, is the Paris Agreement related to COP26 in Glasgow?",
-                "response": "The Paris Agreement is a big international agreement to tackle climate change. 195 countries signed the agreement in December 2015 at the 21st Conference of the Parties (COP21) and 186 have become party to it. The long-term goal is to keep the global average temperature well below 2C above pre-industrial levels. In June 2017, U.S. President Donald Trump announced his intention to withdraw the United States from the agreement.",
+                "number": "1-7",
+                "utterance": "How much would this cost?",
+                "manual_rewritten_utterance": "How much would making my own deodorant cost?",
+                "response": "There are deodorants for women that cost from $5 to $20 and more, but there’s no reason to spend more than a few dollars. While you can certainly spend more – there are designer, speciality, and natural products that cost more than $20 – most women can find an effective deodorant at the drugstore that costs about $5.",
                 "provenance": [
-                    "KILT_30242372-1",
-                    "MARCO_33_1621342262-3"
-                ]
-            },
-            {
-                "number": "2-11",
-                "utterance": "So what happens at each COP?",
-                "manual_rewritten_utterance": "So what happens at each Conference of Parties?",
-                "response": "The United Nations Climate Change Conference are yearly conferences held in the framework of the UNFCCC. They serve as the formal meeting of the UNFCCC Parties ( Conferences of the Parties) (COP) to assess progress in dealing with climate change and beginning in the mid-1990s, to negotiate the Kyoto Protocol to establish legally binding obligations for developed countries to reduce their greenhouse gas emissions. The first conference (COP1) was held in 1995 in Berlin. Negotiations for the Paris Agreement took place during COP22 in Marrakech, Morocco.",
-                "provenance": [
-                    "MARCO_19_204123815-20"
-                ]
-            },
-            {
-                "number": "2-13",
-                "utterance": "How are the two different?",
-                "manual_rewritten_utterance": "How are the Kyoto Protocol and Paris Agreement different?",
-                "response": "While the Kyoto Protocol and Paris Agreement both set out to address climate change, there are some key differences between them. The Kyoto Protocol established top-down legally binding emissions reduction targets for developed nations. On the other hand, the Paris Agreement requires that all countries do their part to slash greenhouse gas emissions. No language is included about the commitments countries should make; nations can set their own emissions targets consistent with their level of development and technological advancement.",
-                "provenance": [
-                    "MARCO_48_1251187189-20"
+                    "MARCO_12_1385660336-6"
                 ]
             }
         ]
@@ -323,87 +408,53 @@
         ]
     },
     {
-        "number": 133,
-        "title": "Homemade Beauty Pampers",
+        "number": 134,
+        "title": "Buying a phone",
         "turn": [
             {
                 "number": "1-1",
-                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
-                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
-                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
+                "utterance": "What should I consider when buying a phone?",
+                "manual_rewritten_utterance": "What should I consider when buying a phone?",
+                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
                 "provenance": [
-                    "MARCO_41_1847614301-2"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "Can I make them at home?",
-                "manual_rewritten_utterance": "Can I make the beauty products at home?",
-                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
-                "provenance": [
-                    "MARCO_23_34363864-4"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "I’ve never done something like this before. Can you tell me how to make one?",
-                "manual_rewritten_utterance": "I’ve never made a beauty product at home before. Can you tell me how to make one?",
-                "response": "Well there are a lot of recipes to make deodorants on the web, but this one called How to Make Your Own Deodorant by Angry Chicken is my favourite. You’ll need: 3 Tablespoons shea butter, 3 Tablespoons baking soda, 2 Tablespoons arrowroot powder, 2 Tablespoons cocoa butter, 2 vitamin E oil gel caps (puncture and squeeze out the oil), and 7 drops of lavender essential oil. Simply place the shea butter and the cocoa butter in a glass bowl and microwave for about 30 seconds until melted. Stir in the arrowroot powder and baking soda, then add the oils and stir again. Use a small measuring cup or small ladle to pour into a deodorant tube. Note that this recipe will almost overfill one tube, so be careful! Let it solidify at room temperature, or if it’s a hot day, in the refrigerator. Once solid, you can use it!",
-                "provenance": [
-                    "MARCO_30_194675946-2"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "How much would this cost?",
-                "manual_rewritten_utterance": "How much would making my own deodorant cost?",
-                "response": "There are deodorants for women that cost from $5 to $20 and more, but there’s no reason to spend more than a few dollars. While you can certainly spend more – there are designer, speciality, and natural products that cost more than $20 – most women can find an effective deodorant at the drugstore that costs about $5.",
-                "provenance": [
-                    "MARCO_12_1385660336-6"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 133,
-        "title": "Homemade Beauty Pampers",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
-                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
-                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
-                "provenance": [
-                    "MARCO_41_1847614301-2"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "Can I make them at home?",
-                "manual_rewritten_utterance": "Can I make the beauty products at home?",
-                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
-                "provenance": [
-                    "MARCO_23_34363864-4"
+                    "MARCO_11_1166150088-3",
+                    "MARCO_33_69096130-9"
                 ]
             },
             {
                 "number": "2-1",
-                "utterance": "Can you tell me how to make the first one at home?",
-                "manual_rewritten_utterance": "Can you tell me how to make a body scrub at home?",
-                "response": "Making your body scrub is so simple and inexpensive, it just makes sense. A homemade body scrub helps moisturize and exfoliate the skin, and with cold weather approaching it will make a killer gift this winter. It is simple to make and you can experiment with different sugars, Epsom salt, a variety of carrier oils, and essential oils. Feel free to get creative and fancy when making these scrubs; here is the basic recipe you can use to make a few batches. You’ll need 2 cups Epsom salts or sugar (use organic cane sugar, brown sugar, or regular granulated), 1 cup carrier oil (grapeseed, olive, sweet almond, sesame, and safflower are all good), and 8-10 drops of your favourite essential oil. First, add Epsom salts or sugar to a bowl and slowly begin stirring in the oil until the mixture is smooth, but not goopy (You may not need the full cup of oil). Then, add essential oil and any other fun additions and mix well. Spoon into a decorative container or glass jar with a tight-fitting lid. You should choose sugar for fine grain homemade body scrub, and Epsom salts for a larger grain scrub. The oil will separate in some of these scrubs, so it’s a good idea to attach a small spoon if giving away as a gift.",
+                "utterance": "I've heard iPhones look and feel great. Should I get one?",
+                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
+                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
                 "provenance": [
-                    "MARCO_38_286379417-3",
-                    "MARCO_38_286379417-2"
+                    "MARCO_43_1521332427-1",
+                    "MARCO_43_1521332427-2"
                 ]
             },
             {
-                "number": "2-3",
-                "utterance": "Cool. What about the second one?",
-                "manual_rewritten_utterance": "Cool. Can you tell me how to make a moisturizer at home?",
-                "response": "To make a natural face moisturizer using essential oils, add 1 ounce of carrot seed oil to 1 ounce of shea butter and 3 ounces of argan oil. To this, add 5 drops of lemongrass oil, 10 drops of lavender essential oil, and 6 drops of chamomile oil. Add shea butter and argan oil to a bowl and place it in warm water. After the butter melts, add carrot seed oil and the rest of the essential oils and blend. Never heat shea butter directly and use a double boiler to melt butter. You can use this natural face moisturizer daily for excellent results.",
+                "number": "3-1",
+                "utterance": "Okay, what other types are out there?",
+                "manual_rewritten_utterance": "Besides iPhones and Android phones, what other types of phones are out there?",
+                "response": "Whenever I read an Android or iPhone article, several commenters go off about the lack of mention of Windows Phone or Nokia, BlackBerry, or some other random platform. To be honest, these phones haven't hit the penetration level for people to pay that much attention to them. For example, while by all indications, Windows Phone 7 is excellent, there are just not that many out there. That's a shame, but it's true. They are not discussed because few people ask whether they should get a Windows Phone instead of an iPhone or Android phone. If you like to dance with the devil in the pale moonlight, go for one of these fringe phones. Otherwise, you're probably choosing Android or iPhone. Wrap-up So, as you can see, there's no clear winner.",
                 "provenance": [
-                    "MARCO_54_2017241781-5"
+                    "MARCO_10_1605638999-9"
                 ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "Why not? Aren’t they as good?",
+                "manual_rewritten_utterance": "Why not?  Aren’t other mobile platforms as good as Android or iOS?",
+                "response": "If you care about having the best apps on your phone, you're better off with iPhone. They're better looking and, with a few exceptions like the gorgeous HTC One and Xiaomi Mi Note, there aren't many great-looking Android phones out there. Many are chunky and plasticky. The iPhone consistently has a better design than Android phones. Apple Pay is quickly becoming the best mobile payments system. Furthermore, You can't beat the Apple Store for customer support. Claudio Villa/Getty Images Where do you go if you have a problem with your Android phone? For many people, it's their carrier. But carriers don't have the same kind of support Apple provides at the Apple Store. If something goes wrong with your iPhone, or you just want to learn how to use it, Apple has you covered better than any Android phone maker.",
+                "provenance": [
+                    "MARCO_35_286262730-2"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "That’s more about phones than mobile platforms.",
+                "manual_rewritten_utterance": "That’s more about phones than mobile platforms.",
+                "response": "Okay. Thanks for the feedback.",
+                "provenance": []
             }
         ]
     },
@@ -434,6 +485,41 @@
                 "response": "Most extra large smartphones come with exceptional battery life (by comparison, at least). For example, the iPhone 6 Plus averages about a day and a half of usage, even on heavier days. So if you find yourself struggling to make it a full day with your current phone, you might want to consider going up a size. Bigger phones are also better suited for consumption. Sure, most people still use smartphones to communicate, but fewer people are placing calls than a decade ago. Text-based communication, in many cases, is more convenient and timely. With larger displays and more capable processors, however, multimedia consumption has become a major part of mobile users’ daily habits. Reading the web, watching videos, playing games, and listening to music have all become a primary function of smartphones for mobile users. In many ways, a larger display is better suited for consumption. More data can be displayed at any given time on a web page or in a social feed, which means less scrolling.",
                 "provenance": [
                     "MARCO_02_1027497681-3"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 134,
+        "title": "Buying a phone",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I consider when buying a phone?",
+                "manual_rewritten_utterance": "What should I consider when buying a phone?",
+                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
+                "provenance": [
+                    "MARCO_11_1166150088-3",
+                    "MARCO_33_69096130-9"
+                ]
+            },
+            {
+                "number": "2-1",
+                "utterance": "I've heard iPhones look and feel great. Should I get one?",
+                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
+                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
+                "provenance": [
+                    "MARCO_43_1521332427-1",
+                    "MARCO_43_1521332427-2"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "Which one should I get?",
+                "manual_rewritten_utterance": "Which iPhone should I get?",
+                "response": "Unless you need the screen size or additional battery life of the iPhone XS Max, I'd actually recommend the iPhone XS for most people. That being said, if you do find yourself needing more battery, or you just want the biggest display that Apple's ever used on an iPhone, you'll love the iPhone XS Max. One of the great things about Apple's flagship iPhone lineup is that both phones are mostly the same, except for battery life and screen size. If you get the iPhone XS, for instance, you won't be missing out on any extra performance that the iPhone XS Max might have, because they have the exact same A12 Bionic system-on-a-chip.",
+                "provenance": [
+                    "MARCO_43_1549898976-3"
                 ]
             }
         ]
@@ -512,92 +598,6 @@
                     "MARCO_36_945717607-1",
                     "MARCO_36_945711051-6"
                 ]
-            }
-        ]
-    },
-    {
-        "number": 134,
-        "title": "Buying a phone",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I consider when buying a phone?",
-                "manual_rewritten_utterance": "What should I consider when buying a phone?",
-                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
-                "provenance": [
-                    "MARCO_11_1166150088-3",
-                    "MARCO_33_69096130-9"
-                ]
-            },
-            {
-                "number": "2-1",
-                "utterance": "I've heard iPhones look and feel great. Should I get one?",
-                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
-                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
-                "provenance": [
-                    "MARCO_43_1521332427-1",
-                    "MARCO_43_1521332427-2"
-                ]
-            },
-            {
-                "number": "2-3",
-                "utterance": "Which one should I get?",
-                "manual_rewritten_utterance": "Which iPhone should I get?",
-                "response": "Unless you need the screen size or additional battery life of the iPhone XS Max, I'd actually recommend the iPhone XS for most people. That being said, if you do find yourself needing more battery, or you just want the biggest display that Apple's ever used on an iPhone, you'll love the iPhone XS Max. One of the great things about Apple's flagship iPhone lineup is that both phones are mostly the same, except for battery life and screen size. If you get the iPhone XS, for instance, you won't be missing out on any extra performance that the iPhone XS Max might have, because they have the exact same A12 Bionic system-on-a-chip.",
-                "provenance": [
-                    "MARCO_43_1549898976-3"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 134,
-        "title": "Buying a phone",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I consider when buying a phone?",
-                "manual_rewritten_utterance": "What should I consider when buying a phone?",
-                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
-                "provenance": [
-                    "MARCO_11_1166150088-3",
-                    "MARCO_33_69096130-9"
-                ]
-            },
-            {
-                "number": "2-1",
-                "utterance": "I've heard iPhones look and feel great. Should I get one?",
-                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
-                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
-                "provenance": [
-                    "MARCO_43_1521332427-1",
-                    "MARCO_43_1521332427-2"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "Okay, what other types are out there?",
-                "manual_rewritten_utterance": "Besides iPhones and Android phones, what other types of phones are out there?",
-                "response": "Whenever I read an Android or iPhone article, several commenters go off about the lack of mention of Windows Phone or Nokia, BlackBerry, or some other random platform. To be honest, these phones haven't hit the penetration level for people to pay that much attention to them. For example, while by all indications, Windows Phone 7 is excellent, there are just not that many out there. That's a shame, but it's true. They are not discussed because few people ask whether they should get a Windows Phone instead of an iPhone or Android phone. If you like to dance with the devil in the pale moonlight, go for one of these fringe phones. Otherwise, you're probably choosing Android or iPhone. Wrap-up So, as you can see, there's no clear winner.",
-                "provenance": [
-                    "MARCO_10_1605638999-9"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "Why not? Aren’t they as good?",
-                "manual_rewritten_utterance": "Why not?  Aren’t other mobile platforms as good as Android or iOS?",
-                "response": "If you care about having the best apps on your phone, you're better off with iPhone. They're better looking and, with a few exceptions like the gorgeous HTC One and Xiaomi Mi Note, there aren't many great-looking Android phones out there. Many are chunky and plasticky. The iPhone consistently has a better design than Android phones. Apple Pay is quickly becoming the best mobile payments system. Furthermore, You can't beat the Apple Store for customer support. Claudio Villa/Getty Images Where do you go if you have a problem with your Android phone? For many people, it's their carrier. But carriers don't have the same kind of support Apple provides at the Apple Store. If something goes wrong with your iPhone, or you just want to learn how to use it, Apple has you covered better than any Android phone maker.",
-                "provenance": [
-                    "MARCO_35_286262730-2"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "That’s more about phones than mobile platforms.",
-                "manual_rewritten_utterance": "That’s more about phones than mobile platforms.",
-                "response": "Okay. Thanks for the feedback.",
-                "provenance": []
             }
         ]
     },
@@ -684,49 +684,6 @@
                 ]
             },
             {
-                "number": "1-3",
-                "utterance": "Cool. What exercises can I mix with it?",
-                "manual_rewritten_utterance": "Cool. What exercises can I mix with running?",
-                "response": "If you want to lift heavier weights in the gym, that can be done twice per week. Strength workouts should complement your running, not detract from it. If you’re so sore from strength exercises that your long run or faster workout is compromised, tone down the intensity. You can lift less weight or reduce the number of reps or sets that you’re completing. But no matter what, remember that strength exercises should make your running better.",
-                "provenance": [
-                    "MARCO_28_1759557920-4"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "Which ones do you recommend?",
-                "manual_rewritten_utterance": "What strength exercises do you recommend to mix with running?",
-                "response": "Strength Training increases your running speed Weight lifting helps you build strength or improve your muscle strength, which helps you run faster. Your legs get more robust with these exercises. You can cover a longer distance with each stride if you have stronger legs. Sufficient muscle strength will act as a foundation for power training, which depends on this strength and converts it into speed. Specialized weight training improves your running performance. Half Marathon Training with Weight Lifting You need at least two weight training sessions per week. Here is a list of great strength training exercises for runners. Compound workouts such as Trap Bar and Squats and single-leg workouts such as lunges are great ways to work out multiple muscle groups at the same time. The lunge matrix is a great strength training exercise that can be done with or without weights. To start, your body’s weight is sufficient enough as a great starting point for the lunge matrix. Take complete rest for at least 45 seconds up to 3 minutes between sets. Strength training needs a longer rest period because it is more exhausting and demanding on your overall body.",
-                "provenance": [
-                    "MARCO_21_237282101-4"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Awesome. Can I do these and run on the same day?",
-                "manual_rewritten_utterance": "Awesome. Can I do these strength routines and run on the same day?",
-                "response": "You can combine your strength training and easy run or long run sessions on the same day. Give yourself a 6-hour break between the exercises if possible. Remember that running is a priority and when push comes to shove you need to select runner-specific training (i.e. running) over strength training and cross-training. However, I would make it mandatory that you strength train at least once per week.",
-                "provenance": [
-                    "MARCO_21_237282101-4",
-                    "MARCO_21_237282101-5"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 135,
-        "title": "Running",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
-                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
-                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
-                "provenance": [
-                    "MARCO_47_276165332-5"
-                ]
-            },
-            {
                 "number": "3-1",
                 "utterance": "Okay. Are there better calorie-burning alternatives to try?",
                 "manual_rewritten_utterance": "Okay. Are there better calorie-burning exercises to try asides from running?",
@@ -738,7 +695,7 @@
             {
                 "number": "3-3",
                 "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
-                "manual_rewritten_utterance": "What good alternative to running is there asides from indoor cycling and cross-country skiing?",
+                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
                 "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
                 "provenance": [
                     "MARCO_52_368117471-5",
@@ -781,7 +738,7 @@
             {
                 "number": "3-3",
                 "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
-                "manual_rewritten_utterance": "What good alternative to running is there asides from indoor cycling and cross-country skiing?",
+                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
                 "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
                 "provenance": [
                     "MARCO_52_368117471-5",
@@ -795,6 +752,49 @@
                 "response": "You can try outdoor bicycling. It burns approximately 680 calories per hour. Biking at a fast, vigorous pace gets your heart rate soaring, whether you're indoors or outdoors. If you add in some mountainous terrain and hills, the calorie burn goes up even more.",
                 "provenance": [
                     "MARCO_52_368117471-6"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 135,
+        "title": "Running",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
+                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
+                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
+                "provenance": [
+                    "MARCO_47_276165332-5"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "Cool. What exercises can I mix with it?",
+                "manual_rewritten_utterance": "Cool. What exercises can I mix with running?",
+                "response": "If you want to lift heavier weights in the gym, that can be done twice per week. Strength workouts should complement your running, not detract from it. If you’re so sore from strength exercises that your long run or faster workout is compromised, tone down the intensity. You can lift less weight or reduce the number of reps or sets that you’re completing. But no matter what, remember that strength exercises should make your running better.",
+                "provenance": [
+                    "MARCO_28_1759557920-4"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "Which ones do you recommend?",
+                "manual_rewritten_utterance": "What strength exercises do you recommend to mix with running?",
+                "response": "Strength Training increases your running speed Weight lifting helps you build strength or improve your muscle strength, which helps you run faster. Your legs get more robust with these exercises. You can cover a longer distance with each stride if you have stronger legs. Sufficient muscle strength will act as a foundation for power training, which depends on this strength and converts it into speed. Specialized weight training improves your running performance. Half Marathon Training with Weight Lifting You need at least two weight training sessions per week. Here is a list of great strength training exercises for runners. Compound workouts such as Trap Bar and Squats and single-leg workouts such as lunges are great ways to work out multiple muscle groups at the same time. The lunge matrix is a great strength training exercise that can be done with or without weights. To start, your body’s weight is sufficient enough as a great starting point for the lunge matrix. Take complete rest for at least 45 seconds up to 3 minutes between sets. Strength training needs a longer rest period because it is more exhausting and demanding on your overall body.",
+                "provenance": [
+                    "MARCO_21_237282101-4"
+                ]
+            },
+            {
+                "number": "1-7",
+                "utterance": "Awesome. Can I do these and run on the same day?",
+                "manual_rewritten_utterance": "Awesome. Can I do these strength routines and run on the same day?",
+                "response": "You can combine your strength training and easy run or long run sessions on the same day. Give yourself a 6-hour break between the exercises if possible. Remember that running is a priority and when push comes to shove you need to select runner-specific training (i.e. running) over strength training and cross-training. However, I would make it mandatory that you strength train at least once per week.",
+                "provenance": [
+                    "MARCO_21_237282101-4",
+                    "MARCO_21_237282101-5"
                 ]
             }
         ]
@@ -1050,48 +1050,6 @@
                 ]
             },
             {
-                "number": "1-3",
-                "utterance": "Why?",
-                "manual_rewritten_utterance": "Why did Larry Newton dislike “What a wonderful world” by Louis Armstrong?",
-                "response": "Armstrong had recently signed to ABC Records, and ABC president Larry Newton showed up to photograph Armstrong. Newton wanted a swingy pop song like \" Hello, Dolly! \", a big hit for Armstrong when he was with Kapp Records, so when Newton heard the slow pace of \"What a Wonderful World\", he tried to stop the session. Newton was locked out of the studio for his disruption, but a second problem arose: nearby freight train whistles interrupted the session twice, forcing the recording to start over. Armstrong shook his head and laughed off the distractions, keeping his composure. The session ended around 6 am, going longer than expected. To make sure the orchestra members were paid extra for their overtime, Armstrong accepted only $250 musicians union scale for his work.",
-                "provenance": [
-                    "MARCO_19_685468020-3"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "Did sales ever get better in the US?",
-                "manual_rewritten_utterance": "Did sales of “What a Wonderful World” by Louis Armstrong ever get better in the US?",
-                "response": "\"What a Wonderful World\" didn't make a splash in the U.S. until well after Louis Armstrong's death. The first recording of “What a Wonderful World” was produced by ABC Records, which made no attempt to advertise it domestically. Although the ballad topped the 1968 charts in Great Britain, American sales were abysmal. When Pops (who adored Thiele and Weiss’ masterwork) passed away on July 6, 1971, “What a Wonderful World” seemed destined for stateside obscurity. Then along came a bare-knuckled comedy called Good Morning, Vietnam (1987). The joyous tune perfectly and ironically clashed with the wartime horrors depicted in one montage, so director Barry Levinson added it to his film’s soundtrack.",
-                "provenance": [
-                    "MARCO_46_1298228224-7"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Okay, but how did that help?",
-                "manual_rewritten_utterance": "Okay, but how did “Good Morning, Vietnam” help the sales of What a Wonderful World”",
-                "response": "“What a Wonderful World” struck a chord with moviegoers and was re-released that year, becoming an oft-requested radio hit.",
-                "provenance": [
-                    "MARCO_46_1298228224-8"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 139,
-        "title": "Wonders of the World",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
-                "manual_rewritten_utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
-                "response": "“What a Wonderful World” is a song written by Bob Thiele (as \"George Douglas\") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom, though it performed poorly in the United States because Larry Newton, the president of ABC Records, disliked the song and refused to promote it.",
-                "provenance": [
-                    "MARCO_19_685468020-1"
-                ]
-            },
-            {
                 "number": "2-1",
                 "utterance": "No, not the song. I’m talking about the world's most spectacular natural features and human-built structures.",
                 "manual_rewritten_utterance": "No, not the song. I’m talking about the world's most spectacular natural features and human-built structures.",
@@ -1185,88 +1143,43 @@
         ]
     },
     {
-        "number": 140,
-        "title": "Nigeria",
+        "number": 139,
+        "title": "Wonders of the World",
         "turn": [
             {
                 "number": "1-1",
-                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "response": "What does your friend what to know about specifically?",
-                "provenance": []
-            },
-            {
-                "number": "4-2",
-                "utterance": "Well, tell me about the food.",
-                "manual_rewritten_utterance": "Well, tell me about Nigerian food.",
-                "response": "Nigerian food consists mainly of rice, yam, plantain and beans. These are prepared and eaten with various soup and stew recipes. They can also be prepared in Jollof or porridge form. The most common Nigerian food eaten in homes are fufu recipes. These are food you swallow without chewing them. You make a lump of the food, dip the lump in the soup or sauce and swallow. They include Cassava Fufu, Pounded Yam, Garri (Eba), Amala and Semolina. They are eaten with the Nigerian Soups recipes.",
+                "utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
+                "manual_rewritten_utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
+                "response": "“What a Wonderful World” is a song written by Bob Thiele (as \"George Douglas\") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom, though it performed poorly in the United States because Larry Newton, the president of ABC Records, disliked the song and refused to promote it.",
                 "provenance": [
-                    "MARCO_32_1002710668-3"
+                    "MARCO_19_685468020-1"
                 ]
             },
             {
-                "number": "4-4",
-                "utterance": "Is that safe?",
-                "manual_rewritten_utterance": "Is eating fufu without chewing safe?",
-                "response": "Swallowing it is preferred because its texture is smooth and is coated with soup to help it go down easily. That's not to say you can't chew fufu if you want to. You just need to cut it into really small pieces and thoroughly coat it with the soup before chewing, so you can really savor the flavor.",
+                "number": "1-3",
+                "utterance": "Why?",
+                "manual_rewritten_utterance": "Why did Larry Newton dislike “What a wonderful world” by Louis Armstrong?",
+                "response": "Armstrong had recently signed to ABC Records, and ABC president Larry Newton showed up to photograph Armstrong. Newton wanted a swingy pop song like \" Hello, Dolly! \", a big hit for Armstrong when he was with Kapp Records, so when Newton heard the slow pace of \"What a Wonderful World\", he tried to stop the session. Newton was locked out of the studio for his disruption, but a second problem arose: nearby freight train whistles interrupted the session twice, forcing the recording to start over. Armstrong shook his head and laughed off the distractions, keeping his composure. The session ended around 6 am, going longer than expected. To make sure the orchestra members were paid extra for their overtime, Armstrong accepted only $250 musicians union scale for his work.",
                 "provenance": [
-                    "MARCO_23_1375999528-5"
+                    "MARCO_19_685468020-3"
                 ]
             },
             {
-                "number": "4-6",
-                "utterance": "Fair enough. As a tourist, what are some must-try recipes?",
-                "manual_rewritten_utterance": "Fair enough. As a tourist, what are some Nigerian recipes I must try?",
-                "response": "Consisting of delicious stews, starchy vegetables, and aromatic spices all around, Nigerian cuisine is home to some of the tastiest savory flavors in the world. Whether you're looking to cook more this year, are curious about West African dishes, or simply want a break from your usual weeknight dinner routine, you'll want to read this primer on Nigerian food. From Jollof rice and pounded yams to pepper soup and beef stew, here are the classic Nigerian dishes every aspiring home chef needs to try. The first one is Jollof rice. What is it? Rice made with tomatoes, onions, scotch bonnets, and chili peppers. There are endless variations on this recipe, but those five ingredients are usual constants. No list of Nigerian foods can be complete without a mention of Jollof rice. It's a party dish brought out at celebrations, a signature regional dish, and the recipe with which many West African communities — and countries — like to stir up friendly rivalries.",
+                "number": "1-5",
+                "utterance": "Did sales ever get better in the US?",
+                "manual_rewritten_utterance": "Did sales of “What a Wonderful World” by Louis Armstrong ever get better in the US?",
+                "response": "\"What a Wonderful World\" didn't make a splash in the U.S. until well after Louis Armstrong's death. The first recording of “What a Wonderful World” was produced by ABC Records, which made no attempt to advertise it domestically. Although the ballad topped the 1968 charts in Great Britain, American sales were abysmal. When Pops (who adored Thiele and Weiss’ masterwork) passed away on July 6, 1971, “What a Wonderful World” seemed destined for stateside obscurity. Then along came a bare-knuckled comedy called Good Morning, Vietnam (1987). The joyous tune perfectly and ironically clashed with the wartime horrors depicted in one montage, so director Barry Levinson added it to his film’s soundtrack.",
                 "provenance": [
-                    "MARCO_29_710618272-1"
+                    "MARCO_46_1298228224-7"
                 ]
             },
             {
-                "number": "4-8",
-                "utterance": "That’s very cool. Who’s recipe is the best?",
-                "manual_rewritten_utterance": "That’s very cool. Which country or community’s jollof rice recipe is the best?",
-                "response": "Anyone in West Africa knows there is a great debate between Nigerian and Ghanian Jollof rice. The debate is so serious that on Jollof Rice Day (August 22), Nigerian and Ghanian Jollof rice are sampled to decide which tastes better. Interestingly, no one has given a definite answer as to which Jollof rice tastes better. Ghanaians say the grains in Nigerian Jollof rice are too fat and tasteless. Nigerians say the grains in Ghanian Jollof rice are too starchy. Nigerians are a bit forward and loud in their debate. On social media, they use a lot of videos, memes, gifs and pictures to throw a lot of shade on Ghanaian Jollof. Sometime in 2016, they even tried to get Facebook owner Mark Zuckerberg to decide which Jollof tastes better. Hilarious! The Ghanaians are more on the defensive, trying to block and counteract the attack from Nigerians on social media. You won’t blame them. With the ferocity of attack they get from Nigerians on social media, it’s pretty easy to think Nigerian Jollof rice tastes better. Both dishes taste great, however, and it will be unfair to rate a dish above the other. Why? Both dishes are unique and they can’t or shouldn’t be compared. We should instead celebrate both countries for putting Jollof rice on international menus.",
+                "number": "1-7",
+                "utterance": "Okay, but how did that help?",
+                "manual_rewritten_utterance": "Okay, but how did “Good Morning, Vietnam” help the sales of What a Wonderful World”",
+                "response": "“What a Wonderful World” struck a chord with moviegoers and was re-released that year, becoming an oft-requested radio hit.",
                 "provenance": [
-                    "MARCO_37_1107517688-1",
-                    "MARCO_37_1107517688-4"
-                ]
-            },
-            {
-                "number": "4-10",
-                "utterance": "Wow! Tell me how they’re different.",
-                "manual_rewritten_utterance": "Wow. Tell me how Nigerian and Ghanaian Jollof rice are different",
-                "response": "Nigerian Jollof is made with long grain parboiled rice. Long grain rice is not native to Nigeria but imported from Asian countries. A second difference is the method of cooking. The grains used in Nigerian Jollof have to be parboiled and washed a second time to remove the starchy content. Party Jollof rice is a popular trademark in most Nigerian parties and celebrations. This dish is legendary for its smoky taste. This dish is cooked over firewood and allowed to burn at the bottom to give it a smoky flavor. A significant spice used in cooking the Nigerian Jollof is the bay leaf, which also adds to its rich smoky flavor. Ghanian Jollof is made with basmati rice which is also known as Thai Jasmine rice. Basmati is a long slender grained rice with a higher starch content than the long grain parboiled rice. Basmati also has a characteristic aromatic smell. Like the long grain rice, basmati is not native to Ghana but imported from Asian countries, especially India. The basmati rice is not parboiled. Parboiling makes it soggy.  To prevent this, Ghanaians prepare the tomato stew and meat stock and use that to cook the rice at once. Ghanian Jollof rice is also spicier than Nigerian Jollof. While Nigerians use bay leaf as a key spice, Ghanaians use shito, an oily condiment made with hot peppers, ginger, shrimps and onion. Ghanian Jollof rice doesn’t have a party version that is cooked over firewood.",
-                "provenance": [
-                    "MARCO_37_1107517688-3",
-                    "MARCO_37_1107517688-4"
-                ]
-            },
-            {
-                "number": "4-12",
-                "utterance": "They’re quite different, aren’t they? So what region did it originate from?",
-                "manual_rewritten_utterance": "Nigerian and Ghanaian Jollof are quite different, aren’t they? What region did Jollof rice originate from?",
-                "response": "Surprisingly, Jollof rice didn’t originate from any of these two noise makers. Ouch! Origins of Jollof Rice Jollof rice originates from Senegal and the Gambia where the Wolof people of that region invented the dish. No wonder Jollof sounds similar to Wolof. The Wolof people were also called the Djolof or Jolof tribe. It is believed that Jollof was invented by a woman who lived near the Senegal river delta. It is said that this woman substituted rice for barley during a barley shortage. Using rice, fish, vegetables and tomatoes she created a tasty dish which was called Jollof. The Senegalese also have another name for this dish, Thieboudienne. In Gambia, it is called Benachim (One pot). The Jollof recipe travelled from Senegal to the Gambia, Mauritania then to other West African countries. The Ghanaians and Nigerians mastered the recipe, became experts and are struggling for copyrights. A poll done in 2013 revealed that 40% thought Jollof originated from Ghana, 21% thought it originated from Nigeria, while 23% thought Jollof originated from Senegal.",
-                "provenance": [
-                    "MARCO_37_1107517688-2"
-                ]
-            },
-            {
-                "number": "4-14",
-                "utterance": "That’s a great Jollof discussion. Tell me the other dishes.",
-                "manual_rewritten_utterance": "That’s a great jollof rice discussion. Tell me the other must try Nigerian dishes.",
-                "response": "The second one is pounded yam. What is it? Yams that have been crushed or stirred to a creamy, dough-like consistency. Pounded yams are considered fufu (a kind of starchy side dish) usually served with a stew or efo. One could compare pounded yams to mashed potatoes, but that'd be doing a disservice to the magically pull-apart dough-like texture attained by this dish. And you don't need a mortar and pestle to cook pounded yams — you can make them with a hand mixer, a blender, or yam flour.",
-                "provenance": [
-                    "MARCO_37_1107517688-2"
-                ]
-            },
-            {
-                "number": "4-16",
-                "utterance": "Sounds yummy! Is there a third?",
-                "manual_rewritten_utterance": "Sounds yummy! Is there a third Nigerian dish that I need to try?",
-                "response": "You should also try Pepper Soup. What is it? Light and spicy soup traditionally made with goat meat, but often with fish or other meat, as well as herbs and Nigerian spices. Pepper soup is West Africa's version of chicken soup (many Nigerian grocery stores even carry instant Peppersoup cubes!), and is known for its comforting, restorative, and universally delicious powers. While it has dozens of variations, no recipe is complete without its classic seasoning mix made up of spices like ataiko (Alligator pepper), uda, and gbafilo. You can buy a ready-made spice mix online, or you can make your own with non-Nigerian ingredients. Get a pack of pepper soup seasoning on Amazon for $4.99.",
-                "provenance": [
-                    "MARCO_37_1107517688-3"
+                    "MARCO_46_1298228224-8"
                 ]
             }
         ]
@@ -1309,50 +1222,6 @@
                 "response": "Since 2005, a cable car climbing from the base to the top of the plateau gives visitors a scenic view while bypassing the extremely winding road to the top. The resort is found on the Obudu Plateau, close to the Cameroon border in the northeastern part of Cross River State, approximately east of the town of Ogoja and from the town of Obudu in Obanliku Local Government Area of Cross River State. It is about a 30 minutes drive from Obudu town and is about a drive from Calabar, the Cross River State capital. Charter air service is available to the Bebi Airport which lies between the village of Obudu and the resort.",
                 "provenance": [
                     "KILT_28832499-1"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 140,
-        "title": "Nigeria",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
-                "provenance": [
-                    "MARCO_54_575373635-1"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "As a tourist, what’s the best place to visit?",
-                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
-                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
-                "provenance": [
-                    "MARCO_54_575373635-2"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "What’s another place worth visiting?",
-                "manual_rewritten_utterance": "What’s another place worth visiting in Nigeria aside from Calabar?",
-                "response": "Lagos is not only the largest city in Nigeria, but also the single largest on the entire African continent. Yep, nearly 18 million people call this one home, and boy does it show! Throbbing streets of beer bars and clubs pepper the districts of Ikeja and Victoria Island, where expats and sailors and locals alike chat over frothy brews. There are also salt-washed promenades on the coast and the beautiful reaches of Lagos Bar Beach – a sloping stretch of golden sand that meets the waves of the Atlantic Ocean in style. Meanwhile, jet skis purr across Tarkwa Bay, and the sobering histories of the slave trade continue to move at the Point of No Return.",
-                "provenance": [
-                    "MARCO_54_575373635-3",
-                    "MARCO_54_575373635-2"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "I used to work there and it was crazy and chaotic. Abuja is better I think",
-                "manual_rewritten_utterance": "I used to work there and it was crazy and chaotic. Abuja is better than Lagos, I think.",
-                "response": "Okay, so Abuja ain’t no Lagos. Purpose-built, enfolded by the soft topography of the inland hills, and formed from clearly delineated districts that house business-suited men and politicians, there’s no grit or grime here (or at least not relatively). That means the capital is a nice place to relax and unwind following the energy and action of the megalopolis on the coast. And there are other interesting sights too, like the Abuja Millennium Park and the quad of spear-like minarets that heralds the beautiful Abuja National Mosque. Meanwhile, Wuse Market is great for shoppers, and the National Assembly Complex offers a glimpse into the country’s modern political system.",
-                "provenance": [
-                    "MARCO_54_575373635-4",
-                    "MARCO_54_575373635-5"
                 ]
             }
         ]
@@ -1444,34 +1313,132 @@
         ]
     },
     {
-        "number": 141,
-        "title": "Investment Scams",
+        "number": 140,
+        "title": "Nigeria",
         "turn": [
             {
                 "number": "1-1",
-                "utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
-                "manual_rewritten_utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
-                "response": "Scams are targeted to insight human greed and desperation. However, there are red flags you can pick up from the way they pitch it. For example, guaranteed returns that are too good to be true in a short time period. Unless they’re predicting the future, it’s unlikely you can get these guaranteed returns of higher percentages (10%++) consistently.",
+                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
                 "provenance": [
-                    "MARCO_27_1202500253-7"
+                    "MARCO_54_575373635-1"
                 ]
             },
             {
                 "number": "1-3",
-                "utterance": "What else should I be aware of?",
-                "manual_rewritten_utterance": "What else about scams should I be aware of asides from guaranteed returns?",
-                "response": "Look out for roundabout or “secret” investment strategies. They should at least be able to explain how they make money and what they invest in. Furthermore, if they use terms like “significantly better than market rate” and “zero risk”, that’s a red flag. All investments carry the risk of losing money, low risk doesn’t mean any risk. While some investments can perform better than the market, consider if there are other red flags to what they’re selling. They could get aggressive when challenged. The scammers may show signs of aggression like blocking out people with many questions.",
+                "utterance": "As a tourist, what’s the best place to visit?",
+                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
+                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
                 "provenance": [
-                    "MARCO_27_1202500253-7"
+                    "MARCO_54_575373635-2"
                 ]
             },
             {
-                "number": "1-5",
-                "utterance": "Sounds like the guy I talked to actually. What do you suggest I do next?",
-                "manual_rewritten_utterance": "What should I do next if I have been approached by an investment scam?",
-                "response": "If from the red flags, you believe an individual or company is not as legit as they seem, you should do your research. Check online if the company is really what they seem. Note that they might have created a website to make it more believable. Do not be pressured to join or invest. They will usually want you to take action almost immediately. Better to lose the opportunity rather than lose all your money. If you have been cheated, report the case to your nearest police station.",
+                "number": "3-1",
+                "utterance": "What’s another place worth visiting?",
+                "manual_rewritten_utterance": "What’s another place worth visiting in Nigeria aside from Calabar?",
+                "response": "Lagos is not only the largest city in Nigeria, but also the single largest on the entire African continent. Yep, nearly 18 million people call this one home, and boy does it show! Throbbing streets of beer bars and clubs pepper the districts of Ikeja and Victoria Island, where expats and sailors and locals alike chat over frothy brews. There are also salt-washed promenades on the coast and the beautiful reaches of Lagos Bar Beach – a sloping stretch of golden sand that meets the waves of the Atlantic Ocean in style. Meanwhile, jet skis purr across Tarkwa Bay, and the sobering histories of the slave trade continue to move at the Point of No Return.",
                 "provenance": [
-                    "MARCO_27_1202500253-8"
+                    "MARCO_54_575373635-3",
+                    "MARCO_54_575373635-2"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "I used to work there and it was crazy and chaotic. Abuja is better I think",
+                "manual_rewritten_utterance": "I used to work there and it was crazy and chaotic. Abuja is better than Lagos, I think.",
+                "response": "Okay, so Abuja ain’t no Lagos. Purpose-built, enfolded by the soft topography of the inland hills, and formed from clearly delineated districts that house business-suited men and politicians, there’s no grit or grime here (or at least not relatively). That means the capital is a nice place to relax and unwind following the energy and action of the megalopolis on the coast. And there are other interesting sights too, like the Abuja Millennium Park and the quad of spear-like minarets that heralds the beautiful Abuja National Mosque. Meanwhile, Wuse Market is great for shoppers, and the National Assembly Complex offers a glimpse into the country’s modern political system.",
+                "provenance": [
+                    "MARCO_54_575373635-4",
+                    "MARCO_54_575373635-5"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 140,
+        "title": "Nigeria",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "response": "What does your friend what to know about specifically?",
+                "provenance": []
+            },
+            {
+                "number": "4-2",
+                "utterance": "Well, tell me about the food.",
+                "manual_rewritten_utterance": "Well, tell me about Nigerian food.",
+                "response": "Nigerian food consists mainly of rice, yam, plantain and beans. These are prepared and eaten with various soup and stew recipes. They can also be prepared in Jollof or porridge form. The most common Nigerian food eaten in homes are fufu recipes. These are food you swallow without chewing them. You make a lump of the food, dip the lump in the soup or sauce and swallow. They include Cassava Fufu, Pounded Yam, Garri (Eba), Amala and Semolina. They are eaten with the Nigerian Soups recipes.",
+                "provenance": [
+                    "MARCO_32_1002710668-3"
+                ]
+            },
+            {
+                "number": "4-4",
+                "utterance": "Is that safe?",
+                "manual_rewritten_utterance": "Is eating fufu without chewing safe?",
+                "response": "Swallowing it is preferred because its texture is smooth and is coated with soup to help it go down easily. That's not to say you can't chew fufu if you want to. You just need to cut it into really small pieces and thoroughly coat it with the soup before chewing, so you can really savor the flavor.",
+                "provenance": [
+                    "MARCO_23_1375999528-5"
+                ]
+            },
+            {
+                "number": "4-6",
+                "utterance": "Fair enough. As a tourist, what are some must-try recipes?",
+                "manual_rewritten_utterance": "Fair enough. As a tourist, what are some Nigerian recipes I must try?",
+                "response": "Consisting of delicious stews, starchy vegetables, and aromatic spices all around, Nigerian cuisine is home to some of the tastiest savory flavors in the world. Whether you're looking to cook more this year, are curious about West African dishes, or simply want a break from your usual weeknight dinner routine, you'll want to read this primer on Nigerian food. From Jollof rice and pounded yams to pepper soup and beef stew, here are the classic Nigerian dishes every aspiring home chef needs to try. The first one is Jollof rice. What is it? Rice made with tomatoes, onions, scotch bonnets, and chili peppers. There are endless variations on this recipe, but those five ingredients are usual constants. No list of Nigerian foods can be complete without a mention of Jollof rice. It's a party dish brought out at celebrations, a signature regional dish, and the recipe with which many West African communities — and countries — like to stir up friendly rivalries.",
+                "provenance": [
+                    "MARCO_29_710618272-1"
+                ]
+            },
+            {
+                "number": "4-8",
+                "utterance": "That’s very cool. Who’s recipe is the best?",
+                "manual_rewritten_utterance": "That’s very cool. Which country or community’s jollof rice recipe is the best?",
+                "response": "Anyone in West Africa knows there is a great debate between Nigerian and Ghanian Jollof rice. The debate is so serious that on Jollof Rice Day (August 22), Nigerian and Ghanian Jollof rice are sampled to decide which tastes better. Interestingly, no one has given a definite answer as to which Jollof rice tastes better. Ghanaians say the grains in Nigerian Jollof rice are too fat and tasteless. Nigerians say the grains in Ghanian Jollof rice are too starchy. Nigerians are a bit forward and loud in their debate. On social media, they use a lot of videos, memes, gifs and pictures to throw a lot of shade on Ghanaian Jollof. Sometime in 2016, they even tried to get Facebook owner Mark Zuckerberg to decide which Jollof tastes better. Hilarious! The Ghanaians are more on the defensive, trying to block and counteract the attack from Nigerians on social media. You won’t blame them. With the ferocity of attack they get from Nigerians on social media, it’s pretty easy to think Nigerian Jollof rice tastes better. Both dishes taste great, however, and it will be unfair to rate a dish above the other. Why? Both dishes are unique and they can’t or shouldn’t be compared. We should instead celebrate both countries for putting Jollof rice on international menus.",
+                "provenance": [
+                    "MARCO_37_1107517688-1",
+                    "MARCO_37_1107517688-4"
+                ]
+            },
+            {
+                "number": "4-10",
+                "utterance": "Wow! Tell me how they’re different.",
+                "manual_rewritten_utterance": "Wow. Tell me how Nigerian and Ghanaian Jollof rice are different",
+                "response": "Nigerian Jollof is made with long grain parboiled rice. Long grain rice is not native to Nigeria but imported from Asian countries. A second difference is the method of cooking. The grains used in Nigerian Jollof have to be parboiled and washed a second time to remove the starchy content. Party Jollof rice is a popular trademark in most Nigerian parties and celebrations. This dish is legendary for its smoky taste. This dish is cooked over firewood and allowed to burn at the bottom to give it a smoky flavor. A significant spice used in cooking the Nigerian Jollof is the bay leaf, which also adds to its rich smoky flavor. Ghanian Jollof is made with basmati rice which is also known as Thai Jasmine rice. Basmati is a long slender grained rice with a higher starch content than the long grain parboiled rice. Basmati also has a characteristic aromatic smell. Like the long grain rice, basmati is not native to Ghana but imported from Asian countries, especially India. The basmati rice is not parboiled. Parboiling makes it soggy.  To prevent this, Ghanaians prepare the tomato stew and meat stock and use that to cook the rice at once. Ghanian Jollof rice is also spicier than Nigerian Jollof. While Nigerians use bay leaf as a key spice, Ghanaians use shito, an oily condiment made with hot peppers, ginger, shrimps and onion. Ghanian Jollof rice doesn’t have a party version that is cooked over firewood.",
+                "provenance": [
+                    "MARCO_37_1107517688-3",
+                    "MARCO_37_1107517688-4"
+                ]
+            },
+            {
+                "number": "4-12",
+                "utterance": "They’re quite different, aren’t they? So what region did it originate from?",
+                "manual_rewritten_utterance": "Nigerian and Ghanaian Jollof are quite different, aren’t they? What region did Jollof rice originate from?",
+                "response": "Surprisingly, Jollof rice didn’t originate from any of these two noise makers. Ouch! Origins of Jollof Rice Jollof rice originates from Senegal and the Gambia where the Wolof people of that region invented the dish. No wonder Jollof sounds similar to Wolof. The Wolof people were also called the Djolof or Jolof tribe. It is believed that Jollof was invented by a woman who lived near the Senegal river delta. It is said that this woman substituted rice for barley during a barley shortage. Using rice, fish, vegetables and tomatoes she created a tasty dish which was called Jollof. The Senegalese also have another name for this dish, Thieboudienne. In Gambia, it is called Benachim (One pot). The Jollof recipe travelled from Senegal to the Gambia, Mauritania then to other West African countries. The Ghanaians and Nigerians mastered the recipe, became experts and are struggling for copyrights. A poll done in 2013 revealed that 40% thought Jollof originated from Ghana, 21% thought it originated from Nigeria, while 23% thought Jollof originated from Senegal.",
+                "provenance": [
+                    "MARCO_37_1107517688-2"
+                ]
+            },
+            {
+                "number": "4-14",
+                "utterance": "That’s a great Jollof discussion. Tell me the other dishes.",
+                "manual_rewritten_utterance": "That’s a great jollof rice discussion. Tell me the other must try Nigerian dishes.",
+                "response": "The second one is pounded yam. What is it? Yams that have been crushed or stirred to a creamy, dough-like consistency. Pounded yams are considered fufu (a kind of starchy side dish) usually served with a stew or efo. One could compare pounded yams to mashed potatoes, but that'd be doing a disservice to the magically pull-apart dough-like texture attained by this dish. And you don't need a mortar and pestle to cook pounded yams — you can make them with a hand mixer, a blender, or yam flour.",
+                "provenance": [
+                    "MARCO_37_1107517688-2"
+                ]
+            },
+            {
+                "number": "4-16",
+                "utterance": "Sounds yummy! Is there a third?",
+                "manual_rewritten_utterance": "Sounds yummy! Is there a third Nigerian dish that I need to try?",
+                "response": "You should also try Pepper Soup. What is it? Light and spicy soup traditionally made with goat meat, but often with fish or other meat, as well as herbs and Nigerian spices. Pepper soup is West Africa's version of chicken soup (many Nigerian grocery stores even carry instant Peppersoup cubes!), and is known for its comforting, restorative, and universally delicious powers. While it has dozens of variations, no recipe is complete without its classic seasoning mix made up of spices like ataiko (Alligator pepper), uda, and gbafilo. You can buy a ready-made spice mix online, or you can make your own with non-Nigerian ingredients. Get a pack of pepper soup seasoning on Amazon for $4.99.",
+                "provenance": [
+                    "MARCO_37_1107517688-3"
                 ]
             }
         ]
@@ -1557,6 +1524,39 @@
         ]
     },
     {
+        "number": 141,
+        "title": "Investment Scams",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
+                "manual_rewritten_utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
+                "response": "Scams are targeted to insight human greed and desperation. However, there are red flags you can pick up from the way they pitch it. For example, guaranteed returns that are too good to be true in a short time period. Unless they’re predicting the future, it’s unlikely you can get these guaranteed returns of higher percentages (10%++) consistently.",
+                "provenance": [
+                    "MARCO_27_1202500253-7"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "What else should I be aware of?",
+                "manual_rewritten_utterance": "What else about scams should I be aware of asides from guaranteed returns?",
+                "response": "Look out for roundabout or “secret” investment strategies. They should at least be able to explain how they make money and what they invest in. Furthermore, if they use terms like “significantly better than market rate” and “zero risk”, that’s a red flag. All investments carry the risk of losing money, low risk doesn’t mean any risk. While some investments can perform better than the market, consider if there are other red flags to what they’re selling. They could get aggressive when challenged. The scammers may show signs of aggression like blocking out people with many questions.",
+                "provenance": [
+                    "MARCO_27_1202500253-7"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "Sounds like the guy I talked to actually. What do you suggest I do next?",
+                "manual_rewritten_utterance": "What should I do next if I have been approached by an investment scam?",
+                "response": "If from the red flags, you believe an individual or company is not as legit as they seem, you should do your research. Check online if the company is really what they seem. Note that they might have created a website to make it more believable. Do not be pressured to join or invest. They will usually want you to take action almost immediately. Better to lose the opportunity rather than lose all your money. If you have been cheated, report the case to your nearest police station.",
+                "provenance": [
+                    "MARCO_27_1202500253-8"
+                ]
+            }
+        ]
+    },
+    {
         "number": 142,
         "title": "South American culture",
         "turn": [
@@ -1572,9 +1572,83 @@
                 ]
             },
             {
-                "number": "7-1",
-                "utterance": "I like hiking and Malbec. You mentioned some high peaks. How can I explore both?",
-                "manual_rewritten_utterance": "I like hiking and Malbec wine. You mentioned some high peaks. How can I hike some high mountains and visit some wineries famous for Malbec?"
+                "number": "5-1",
+                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
+                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
+                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
+                "provenance": [
+                    "MARCO_36_259036096-1"
+                ]
+            },
+            {
+                "number": "5-3",
+                "utterance": "No, what are some popular dishes?",
+                "manual_rewritten_utterance": "What are some popular meat dishes?",
+                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
+                "provenance": [
+                    "MARCO_16_2206432408-11"
+                ]
+            },
+            {
+                "number": "8-1",
+                "utterance": "How about in Chile?",
+                "manual_rewritten_utterance": "What are some popular meat dishes in Chile?"
+            }
+        ]
+    },
+    {
+        "number": 142,
+        "title": "South American culture",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I know about Argentina?",
+                "manual_rewritten_utterance": "What should I know about Argentina?",
+                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
+                "provenance": [
+                    "MARCO_29_1447088347-1",
+                    "MARCO_29_1447088347-2",
+                    "MARCO_29_1447088347-5"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "What makes it the capital?",
+                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
+                "response": "Buenos Aires is a grandiose city with wide avenues and a vibrant cosmopolitan flair that is more generally European than Latin American in character. Having little colonial architecture and few landmark buildings, Buenos Aires is chiefly a city of distinctive neighbourhoods that have their own meeting places, generally coffeehouses or bars. This is a tradition rooted in the colonial period when the centre of each neighbourhood was a general store and bar known as a pulpería. The energy and bustle of modern Buenos Aires is most evident in the city centre—the locus of entertainment, shopping, and café-going. Porteños relish politics, football (soccer), and the city’s cultural offerings. At night Buenos Aires’s boites (nightclubs) swell with revellers dancing the tango, the emotional dance that originated in the lower-class areas of the city and that is said to reflect the essence of the soul of the porteño.",
+                "provenance": [
+                    "MARCO_34_1754594337-3"
+                ]
+            },
+            {
+                "number": "2-2",
+                "utterance": "What makes their culture distinct from the rest of the country?",
+                "manual_rewritten_utterance": "What makes the culture of Porteños distinct from the rest of Argentina?",
+                "response": "The Argentine people take great pride in the fact that Pope Francis is from Buenos Aires, Argentina, and the country boasts one of the highest literacy rates in South America with women leading the way. Argentina has a rich cultural history with lifestyles uniquely their own. The Tango, Merienda, and Gauchos are just a few examples.",
+                "provenance": [
+                    "MARCO_55_1245662540-1"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "You’ve mentioned that several times now. Tell me more.",
+                "manual_rewritten_utterance": "You’ve mentioned the tango several times now. Tell me more.",
+                "response": "I’m not sure I understand. What would you like more information about?",
+                "provenance": []
+            },
+            {
+                "number": "3-3",
+                "utterance": "I meant the tango.",
+                "manual_rewritten_utterance": "Tell me more about the tango.",
+                "response": "What kind of clothing women should wear for dancing Tango? A nice option for Tango clothing: Dress at knee-length combined with leggings. Many tango ladies today wear long wide trousers with slits and/or trousers with ribbons swinging around the ankles. This looks nice but time and again creates problems while dancing Tango because they get easily caught in their own heels. Especially when the heels are high. Actually, I see it happen almost every time I go out dancing Tango.",
+                "provenance": [
+                    "MARCO_16_2206432408-20"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "Thanks, but I’m not asking about clothing. Why is it important historically?",
+                "manual_rewritten_utterance": "Thanks, but I’m not asking about clothing. Why is tango important to the history of Argentina?"
             }
         ]
     },
@@ -1625,46 +1699,6 @@
                 ]
             },
             {
-                "number": "5-1",
-                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
-                "manual_rewritten_utterance": "I like meat. What dishes are popular?",
-                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
-                "provenance": [
-                    "MARCO_36_259036096-1"
-                ]
-            },
-            {
-                "number": "5-3",
-                "utterance": "No, what are some popular dishes?",
-                "manual_rewritten_utterance": "What are some popular meat dishes?",
-                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
-                "provenance": [
-                    "MARCO_16_2206432408-11"
-                ]
-            },
-            {
-                "number": "8-1",
-                "utterance": "How about in Chile?",
-                "manual_rewritten_utterance": "What are some popular meat dishes in Chile?"
-            }
-        ]
-    },
-    {
-        "number": 142,
-        "title": "South American culture",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I know about Argentina?",
-                "manual_rewritten_utterance": "What should I know about Argentina?",
-                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
-                "provenance": [
-                    "MARCO_29_1447088347-1",
-                    "MARCO_29_1447088347-2",
-                    "MARCO_29_1447088347-5"
-                ]
-            },
-            {
                 "number": "1-3",
                 "utterance": "What makes it the capital?",
                 "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
@@ -1694,6 +1728,28 @@
                 "number": "6-3",
                 "utterance": "I meant mate.",
                 "manual_rewritten_utterance": "How do I prepare mate?"
+            }
+        ]
+    },
+    {
+        "number": 142,
+        "title": "South American culture",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I know about Argentina?",
+                "manual_rewritten_utterance": "What should I know about Argentina?",
+                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
+                "provenance": [
+                    "MARCO_29_1447088347-1",
+                    "MARCO_29_1447088347-2",
+                    "MARCO_29_1447088347-5"
+                ]
+            },
+            {
+                "number": "7-1",
+                "utterance": "I like hiking and Malbec. You mentioned some high peaks. How can I explore both?",
+                "manual_rewritten_utterance": "I like hiking and Malbec wine. You mentioned some high peaks. How can I hike some high mountains and visit some wineries famous for Malbec?"
             }
         ]
     },
@@ -1781,7 +1837,7 @@
             {
                 "number": "5-1",
                 "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
-                "manual_rewritten_utterance": "I like meat. What dishes are popular?",
+                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
                 "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
                 "provenance": [
                     "MARCO_36_259036096-1"
@@ -1818,62 +1874,6 @@
                 "number": "5-9",
                 "utterance": "That’s sad to hear. Is there more on how the impact it’s had on its quality?",
                 "manual_rewritten_utterance": "That’s sad to hear. Is there more on how the shift away from pampas-raised beef has had on its quality?"
-            }
-        ]
-    },
-    {
-        "number": 142,
-        "title": "South American culture",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I know about Argentina?",
-                "manual_rewritten_utterance": "What should I know about Argentina?",
-                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
-                "provenance": [
-                    "MARCO_29_1447088347-1",
-                    "MARCO_29_1447088347-2",
-                    "MARCO_29_1447088347-5"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "What makes it the capital?",
-                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
-                "response": "Buenos Aires is a grandiose city with wide avenues and a vibrant cosmopolitan flair that is more generally European than Latin American in character. Having little colonial architecture and few landmark buildings, Buenos Aires is chiefly a city of distinctive neighbourhoods that have their own meeting places, generally coffeehouses or bars. This is a tradition rooted in the colonial period when the centre of each neighbourhood was a general store and bar known as a pulpería. The energy and bustle of modern Buenos Aires is most evident in the city centre—the locus of entertainment, shopping, and café-going. Porteños relish politics, football (soccer), and the city’s cultural offerings. At night Buenos Aires’s boites (nightclubs) swell with revellers dancing the tango, the emotional dance that originated in the lower-class areas of the city and that is said to reflect the essence of the soul of the porteño.",
-                "provenance": [
-                    "MARCO_34_1754594337-3"
-                ]
-            },
-            {
-                "number": "2-2",
-                "utterance": "What makes their culture distinct from the rest of the country?",
-                "manual_rewritten_utterance": "What makes the culture of Porteños distinct from the rest of Argentina?",
-                "response": "The Argentine people take great pride in the fact that Pope Francis is from Buenos Aires, Argentina, and the country boasts one of the highest literacy rates in South America with women leading the way. Argentina has a rich cultural history with lifestyles uniquely their own. The Tango, Merienda, and Gauchos are just a few examples.",
-                "provenance": [
-                    "MARCO_55_1245662540-1"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "You’ve mentioned that several times now. Tell me more.",
-                "manual_rewritten_utterance": "You’ve mentioned the tango several times now. Tell me more.",
-                "response": "I’m not sure I understand. What would you like more information about?",
-                "provenance": []
-            },
-            {
-                "number": "3-3",
-                "utterance": "I meant the tango.",
-                "manual_rewritten_utterance": "Tell me more about the tango.",
-                "response": "What kind of clothing women should wear for dancing Tango? A nice option for Tango clothing: Dress at knee-length combined with leggings. Many tango ladies today wear long wide trousers with slits and/or trousers with ribbons swinging around the ankles. This looks nice but time and again creates problems while dancing Tango because they get easily caught in their own heels. Especially when the heels are high. Actually, I see it happen almost every time I go out dancing Tango.",
-                "provenance": [
-                    "MARCO_16_2206432408-20"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "Thanks, but I’m not asking about clothing. Why is it important historically?",
-                "manual_rewritten_utterance": "Thanks, but I’m not asking about clothing. Why is tango important to the history of Argentina?"
             }
         ]
     },
@@ -1921,7 +1921,7 @@
             {
                 "number": "1-9",
                 "utterance": "No, I just meant in general.",
-                "manual_rewritten_utterance": "What kind of product innovation has happened based on Open Banking?",
+                "manual_rewritten_utterance": "No, I meant what kind of product innovation has happened based on Open Banking in general?",
                 "response": "Open banking APIs accelerate innovation and collaboration, leading to expanded banking ecosystems that could include more than just financial services to make a consumer’s lifestyle better. By making account and payment data available through secure application programming interfaces (APIs), consumers have greater freedom and control in how they interact with their financial service providers.",
                 "provenance": [
                     "MARCO_35_236182561-5",
@@ -2027,7 +2027,7 @@
             },
             {
                 "number": "2-5",
-                "utterance": "how come methane?",
+                "utterance": "How come methane?",
                 "manual_rewritten_utterance": "How come Spacex is using methane as their new rocket engine propellant?",
                 "response": "Methane (CH4) is cheap, a passive cooling system is enough to store Methane in liquid form, significantly denser than Hydrogen, storable for a more extended period, does not leak, does not require insulation on the fuel tank, and the rocket design is less complex compared to Hydrogen-powered rockets. Methane is also more commonly available on other planets making refuelling on them possible.",
                 "provenance": [
@@ -2038,7 +2038,7 @@
             {
                 "number": "2-7",
                 "utterance": "Wait, why is hydrogen so problematic for engines?",
-                "manual_rewritten_utterance": "why are hydrogen-based rocket engines difficult to build?",
+                "manual_rewritten_utterance": "Why are hydrogen-based rocket engines difficult to build?",
                 "response": "Hydrogen boils at -423°F (-253°C); therefore, we must store it at -423°F, and to store and transport it, it needs a highly specialized storage container. LH2 rocket fuel is 12 times less dense than Kerosene. Therefore, an LH2 tank would be bigger in volume for the necessary propellant than an RP-1 rocket tank. Moreover, to prevent liquid Hydrogen from boiling off, the rockets need insulation from all heat sources, such as rocket engine exhaust, air friction during launch, and radiant heat from the sun. Hydrogen rockets need advanced metallurgy to prevent hydrogen embrittlement. Metals become brittle when exposed to the extreme cold of liquid Hydrogen. It also leaks very easily. Liquid Hydrogen can leak through tiny pores in welded joints. Liquid Hydrogen is costly too. An enormous amount of technical expertise is necessary to solve all these problems. SpaceX was starting a new space program with a clean-sheet design. Because of all these problems related to LH2, SpaceX did not choose Hydrogen for their Falcon rockets.",
                 "provenance": [
                     "MARCO_26_1067150539-4",
@@ -2068,7 +2068,7 @@
             {
                 "number": "2-13",
                 "utterance": "By cycles, what and which do you mean?",
-                "manual_rewritten_utterance": "what is a rocket engine powering cycle and which are there?",
+                "manual_rewritten_utterance": "What is a rocket engine powering cycle and which are there?",
                 "response": "The type of power cycle a rocket engine has determined how fuel is pressurized and fed to the combustion chamber of an engine to produce thrust. There are many different types of power cycles that tradeoff weight, complexity, and efficiency. At a high-level rocket engines can have the following cycles: Pressure-Fed, Electric Pump-Fed, Open Cycle (Gas Generator), Closed (Staged Combustion) Engine Cycle.",
                 "provenance": [
                     "MARCO_17_1351854116",
@@ -2094,8 +2094,8 @@
             },
             {
                 "number": "3-1",
-                "utterance": "Are the last two the same, how do they compare roughly?",
-                "manual_rewritten_utterance": "What are the main differences between the RD-270 and SpaceX Raptor rocket engines?",
+                "utterance": "Are the last two the same? how do they compare roughly?",
+                "manual_rewritten_utterance": "Are RD-270 and SpaceX Raptor rocket engines the same? How do they compare roughly?",
                 "response": "Both the RD-270 and Raptor engines are closed cycle engines that use all fuel and oxidizers to propel the rocket. They differ in the types of propellant they use. The RD-270 uses hypergolic unsymmetrical propellants: dimethylhydrazine (UDMH) and nitrogen tetroxide (NO). Raptors use liquid methane (CH4) and liquid oxygen. In addition, these two engines were developed in very different technological eras with the RD-270 being developed between 1960 and 1970 yet never flew due to the program being cancelled. Raptor is still currently being developed but has already flown on sub-orbital tests.",
                 "provenance": [
                     "KILT_11463948",
@@ -2189,7 +2189,7 @@
             },
             {
                 "number": "2-5",
-                "utterance": "how come methane?",
+                "utterance": "How come methane?",
                 "manual_rewritten_utterance": "How come Spacex is using methane as their new rocket engine propellant?",
                 "response": "Methane (CH4) is cheap, a passive cooling system is enough to store Methane in liquid form, significantly denser than Hydrogen, storable for a more extended period, does not leak, does not require insulation on the fuel tank, and the rocket design is less complex compared to Hydrogen-powered rockets. Methane is also more commonly available on other planets making refuelling on them possible.",
                 "provenance": [
@@ -2200,7 +2200,7 @@
             {
                 "number": "2-7",
                 "utterance": "Wait, why is hydrogen so problematic for engines?",
-                "manual_rewritten_utterance": "why are hydrogen-based rocket engines difficult to build?",
+                "manual_rewritten_utterance": "Why are hydrogen-based rocket engines difficult to build?",
                 "response": "Hydrogen boils at -423°F (-253°C); therefore, we must store it at -423°F, and to store and transport it, it needs a highly specialized storage container. LH2 rocket fuel is 12 times less dense than Kerosene. Therefore, an LH2 tank would be bigger in volume for the necessary propellant than an RP-1 rocket tank. Moreover, to prevent liquid Hydrogen from boiling off, the rockets need insulation from all heat sources, such as rocket engine exhaust, air friction during launch, and radiant heat from the sun. Hydrogen rockets need advanced metallurgy to prevent hydrogen embrittlement. Metals become brittle when exposed to the extreme cold of liquid Hydrogen. It also leaks very easily. Liquid Hydrogen can leak through tiny pores in welded joints. Liquid Hydrogen is costly too. An enormous amount of technical expertise is necessary to solve all these problems. SpaceX was starting a new space program with a clean-sheet design. Because of all these problems related to LH2, SpaceX did not choose Hydrogen for their Falcon rockets.",
                 "provenance": [
                     "MARCO_26_1067150539-4",
@@ -2230,7 +2230,7 @@
             {
                 "number": "2-13",
                 "utterance": "By cycles, what and which do you mean?",
-                "manual_rewritten_utterance": "what is a rocket engine powering cycle and which are there?",
+                "manual_rewritten_utterance": "What is a rocket engine powering cycle and which are there?",
                 "response": "The type of power cycle a rocket engine has determined how fuel is pressurized and fed to the combustion chamber of an engine to produce thrust. There are many different types of power cycles that tradeoff weight, complexity, and efficiency. At a high-level rocket engines can have the following cycles: Pressure-Fed, Electric Pump-Fed, Open Cycle (Gas Generator), Closed (Staged Combustion) Engine Cycle.",
                 "provenance": [
                     "MARCO_17_1351854116",
@@ -2710,6 +2710,229 @@
                     "MARCO_46_705334403-6",
                     "MARCO_46_705334403-5"
                 ]
+            }
+        ]
+    },
+    {
+        "number": 149,
+        "title": "Search Engine Bias",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Are search engines biased?",
+                "manual_rewritten_utterance": "Are search engines biased?",
+                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_14_257204425-2",
+                    "MARCO_53_1448548338-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "In what ways can they be biased?",
+                "manual_rewritten_utterance": "In what ways can search engines be biased?",
+                "response": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                "provenance": [
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
+                ]
+            },
+            {
+                "number": "2-1",
+                "utterance": "Yes, racially.",
+                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased racially?",
+                "response": "The relationship between search engines and discriminatory biases. Noble argues that search algorithms are racist and perpetuate societal problems because they reflect the negative biases that exist in society and the people who create them. Noble dismantles the idea that search engines are inherently neutral by explaining how algorithms in search engines privilege whiteness by depicting positive cues when key words like “white” are searched as opposed to “asian,” “hispanic,” or “Black.” Her main example surrounds the search results of \"Black girls\" versus \"white girls\" and the biases that are depicted in the results. These algorithms can then have negative biases against women of color and other marginalized populations, while also affecting Internet users in general by leading to \"racial and gender profiling, misrepresentation, and even economic redlining.\" The book argues that algorithms perpetuate oppression and discriminate against People of Color, specifically women of color.",
+                "provenance": [
+                    "MARCO_16_1884092099-1",
+                    "MARCO_16_1884092099-2"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "But how does that happen?",
+                "manual_rewritten_utterance": "But how are search engines racist?",
+                "response": "For example,  Author of the book “algorithms of oppression”, Safiya U. Noble was looking for websites to share with her stepdaughter and nieces. She searched \"black girls\" on Google, expecting to be directed to educational sites, historical information, or pop culture sites for young people. Instead, the first hit was the site HotBlackPussy.com. The first page was filled with similar results. According to Google in 2010, \"black girls\" were defined not by history, interests, or aspirations. They were defined as porn. What accounts for such racist, sexist search results? Most people tend to attribute Google failures or glitches like this to public search patterns; search engines return porn for \"black girls\" because those are the sites that people click on most.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099",
+                    "-2"
+                ]
+            },
+            {
+                "number": "2-5",
+                "utterance": "Are algorithms really biased against people of colour?",
+                "manual_rewritten_utterance": "Are algorithms really biased against people of colour",
+                "response": "When you use a search engine, relevant results are extracted from the index and ranked using an algorithm. Algorithms may seem like “objectively” mathematic processes, but this is far from the truth. Racial bias seeps into algorithms in several subtle and not-so-subtle ways, leading to discriminatory results and outcomes. Let’s take a deeper look. The danger of automation Algorithms can get the results you want for the wrong reasons. By automating an algorithm, it often finds patterns that you could not have predicted. The legend of the neural net tank experiment demonstrates this limitation of algorithms. ​ ​ Automation poses dangers when data is imperfect, messy, or biased. An algorithm might latch onto unimportant data and reinforce unintentional implicit biases. For example, data scientist Daphne Koller explained that an algorithm designed to recognize fractures from X-rays ended up instead recognizing which hospital generated the image. That algorithm now incorporates irrelevant data and skews results.​ ​ Imagine if an algorithm is exposed to racially biased data sets: it will continue to incorporate those biases, even in a completely different context. By training an algorithm on that dataset, it learned to automatically filter out any “black-sounding” names. The algorithm selected candidates on purely subjective criteria, perpetuating racial discrimination. This same form of automated discrimination prevents people of color from getting access to employment, housing, even student loans. Automation means we will create blind spots and racist biases in our so-called objective algorithms.",
+                "provenance": [
+                    "MARCO_11_775487494-1",
+                    "MARCO_24_415846148-2",
+                    "MARCO_24_415846148-3"
+                ]
+            },
+            {
+                "number": "2-7",
+                "utterance": "In terms of their ranking though, how does it work?",
+                "manual_rewritten_utterance": "In terms of their ranking though, how do search engines rank items?",
+                "response": "Search engines have become part of our daily life.We use them as a learning tool, a shopping tool, for fun and leisure but also for business. It’s not an exaggeration to say that we reached a point that we depend on search engines for almost anything we do. And the reason this is happening is very simple. We know that search engines and in particular, Google has answers to all our questions and queries. What happens though when you type a query and click search? How do search engines work internally and how do they decide what to show in the search results and in what order? Watch the video tutorial to learn how do search engines work. How Do Search Engines Work Search engines are complex computer programs. Before they even allow you to type a query and search the web, they have to do a lot of preparation work so that when you click “Search”, you are presented with a set of precise and quality results that answer your question or query. What does ‘preparation work’ includes? Three main stages. The first stage is the process of discovering the information, the second stage is organizing the information, and the third stage is ranking. This is generally known in the Internet World as Crawling, Indexing, and ranking.",
+                "provenance": [
+                    "MARCO_33_1616650488-1",
+                    "MARCO_51_260588399-2",
+                    "MARCO_51_260588399-3"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 149,
+        "title": "Search Engine Bias",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Are search engines biased?",
+                "manual_rewritten_utterance": "Are search engines biased?",
+                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_14_257204425-2",
+                    "MARCO_53_1448548338-2"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "How do you get impartial results?",
+                "manual_rewritten_utterance": "How do you get impartial results from search engines?",
+                "response": "Do you mean, search neutrality?",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "Um, what is search neutrality?",
+                "manual_rewritten_utterance": "Um, what is search neutrality?",
+                "response": "Search neutrality is the idea that a search engine does not limit or influence a person’s ability to access information on the internet. The search engine market is very one sided with just a couple companies controlling the entire market. “ Search neutrality is a principle that search engines should have no editorial policies other than that their results be comprehensive, impartial and based solely on relevance. This means that when a user queries a search engine, the engine should return the most relevant results found in the provider’s domain (those sites which the engine has knowledge of), without manipulating the order of the results (except to rank them by relevance), excluding results, or in any other way manipulating the results to a certain bias .”",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "No, I want to know how to get unbiased results.",
+                "manual_rewritten_utterance": "No, I want to know how to get unbiased results from a search engine.",
+                "response": "There are various alternative search engines that you could try that could give you more unbiased results. Would you like to know about them?",
+                "provenance": []
+            },
+            {
+                "number": "3-7",
+                "utterance": "Yes, what alternatives are there?",
+                "manual_rewritten_utterance": "Yes, what alternative search engines are there?",
+                "response": "There is Google, Bing, DuckDuckGo, Ecosia, Ask and many more. Would you like to know more about any of these?",
+                "provenance": [
+                    "MARCO_23_183358734-1",
+                    "MARCO_23_183358734-2",
+                    "MARCO_23_183358734-3"
+                ]
+            },
+            {
+                "number": "3-9",
+                "utterance": "I’ve never heard of ecosia. What does that do?",
+                "manual_rewritten_utterance": "I’ve never heard of the ecosia search engine. What does that do?",
+                "response": "What Is Ecosia? Meet a Google Alternative That Plants Trees What Is Ecosia? Meet a Google Alternative That Plants Trees Ecosia Ecosia is a not-for-profit search engine that uses advertising revenue gained from searches to plant trees. It doesn’t have the privacy-focus of DuckDuckGo, nor does it have the search results of Google. But it does have a unique mission. This search engine is getting bigger and more widely recognized. For example, starting with Apple’s iOS 14 and iPadOS 14, Ecosia is one of the few options you can use as your default search engine in Safari. Google Chrome also includes it as a built-in option. Ecosia’s Main Mission Is to Plant Trees Ecosia is a not-for-profit search engine that aims to help the environment by planting trees. The search engine’s mission is to absorb as much CO2 as possible by planting trees to try and reduce the impact of climate change. This is done for the planet, for people, and for animals.",
+                "provenance": [
+                    "MARCO_43_236748055-1",
+                    "KILT_45138227-1"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 149,
+        "title": "Search Engine Bias",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Are search engines biased?",
+                "manual_rewritten_utterance": "Are search engines biased?",
+                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_14_257204425-2",
+                    "MARCO_53_1448548338-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "In what ways can they be biased?",
+                "manual_rewritten_utterance": "In what ways can search engines be biased?",
+                "response": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                "provenance": [
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "Yes, ideologically.",
+                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased ideologically?",
+                "response": "There are major search engine companies who intentionally steer users toward their ideology—more accurately they intentionally steer away from ideologies they don’t espouse and away from data and opinion that’s inconvenient to their own preferred narrative.",
+                "provenance": [
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 149,
+        "title": "Search Engine Bias",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Are search engines biased?",
+                "manual_rewritten_utterance": "Are search engines biased?",
+                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_14_257204425-2",
+                    "MARCO_53_1448548338-2"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "How do you get impartial results?",
+                "manual_rewritten_utterance": "How do you get impartial results from search engines?",
+                "response": "Do you mean, search neutrality?",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "Um, what is search neutrality?",
+                "manual_rewritten_utterance": "Um, what is search neutrality?",
+                "response": "Search neutrality is the idea that a search engine does not limit or influence a person’s ability to access information on the internet. The search engine market is very one sided with just a couple companies controlling the entire market. “ Search neutrality is a principle that search engines should have no editorial policies other than that their results be comprehensive, impartial and based solely on relevance. This means that when a user queries a search engine, the engine should return the most relevant results found in the provider’s domain (those sites which the engine has knowledge of), without manipulating the order of the results (except to rank them by relevance), excluding results, or in any other way manipulating the results to a certain bias .”",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "No, I want to know how to get unbiased results.",
+                "manual_rewritten_utterance": "No, I want to know how to get unbiased results from a search engine.",
+                "response": "There are various alternative search engines that you could try that could give you more unbiased results. Would you like to know about them?",
+                "provenance": []
+            },
+            {
+                "number": "4-1",
+                "utterance": "No, how can i get less biased search results?",
+                "manual_rewritten_utterance": "No, how can i get less biased search results from a search engine?"
             }
         ]
     }

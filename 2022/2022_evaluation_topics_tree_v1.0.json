@@ -854,7 +854,7 @@
                 "parent": "3-2",
                 "participant": "User",
                 "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
-                "manual_rewritten_utterance": "What good alternative to running is there asides from indoor cycling and cross-country skiing?"
+                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?"
             },
             {
                 "number": "3-4",
@@ -2120,7 +2120,7 @@
                 "parent": "1-2",
                 "participant": "User",
                 "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
-                "manual_rewritten_utterance": "I like meat. What dishes are popular?"
+                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?"
             },
             {
                 "number": "5-2",
@@ -2311,7 +2311,7 @@
                 "parent": "1-8",
                 "participant": "User",
                 "utterance": "No, I just meant in general.",
-                "manual_rewritten_utterance": "What kind of product innovation has happened based on Open Banking?"
+                "manual_rewritten_utterance": "No, I meant what kind of product innovation has happened based on Open Banking in general?"
             },
             {
                 "number": "1-10",
@@ -2503,7 +2503,7 @@
                 "number": "2-5",
                 "parent": "2-4",
                 "participant": "User",
-                "utterance": "how come methane?",
+                "utterance": "How come methane?",
                 "manual_rewritten_utterance": "How come Spacex is using methane as their new rocket engine propellant?"
             },
             {
@@ -2521,7 +2521,7 @@
                 "parent": "2-6",
                 "participant": "User",
                 "utterance": "Wait, why is hydrogen so problematic for engines?",
-                "manual_rewritten_utterance": "why are hydrogen-based rocket engines difficult to build?"
+                "manual_rewritten_utterance": "Why are hydrogen-based rocket engines difficult to build?"
             },
             {
                 "number": "2-8",
@@ -2572,7 +2572,7 @@
                 "parent": "2-12",
                 "participant": "User",
                 "utterance": "By cycles, what and which do you mean?",
-                "manual_rewritten_utterance": "what is a rocket engine powering cycle and which are there?"
+                "manual_rewritten_utterance": "What is a rocket engine powering cycle and which are there?"
             },
             {
                 "number": "2-14",
@@ -2629,8 +2629,8 @@
                 "number": "3-1",
                 "parent": "2-16",
                 "participant": "User",
-                "utterance": "Are the last two the same, how do they compare roughly?",
-                "manual_rewritten_utterance": "What are the main differences between the RD-270 and SpaceX Raptor rocket engines?"
+                "utterance": "Are the last two the same? how do they compare roughly?",
+                "manual_rewritten_utterance": "Are RD-270 and SpaceX Raptor rocket engines the same? How do they compare roughly?"
             },
             {
                 "number": "3-2",
@@ -3174,6 +3174,225 @@
                 "provenance": [
                     "MARCO_13_387296822-3"
                 ]
+            }
+        ]
+    },
+    {
+        "number": 149,
+        "turn": [
+            {
+                "number": "1-1",
+                "participant": "User",
+                "utterance": "Are search engines biased?",
+                "manual_rewritten_utterance": "Are search engines biased?"
+            },
+            {
+                "number": "1-2",
+                "parent": "1-1",
+                "participant": "System",
+                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_14_257204425-2",
+                    "MARCO_53_1448548338-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "parent": "1-2",
+                "participant": "User",
+                "utterance": "In what ways can they be biased?",
+                "manual_rewritten_utterance": "In what ways can search engines be biased?"
+            },
+            {
+                "number": "1-4",
+                "parent": "1-3",
+                "participant": "System",
+                "response": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                "provenance": [
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
+                ]
+            },
+            {
+                "number": "1-5",
+                "parent": "1-4",
+                "participant": "User",
+                "utterance": "Yes, ideologically.",
+                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased ideologically?"
+            },
+            {
+                "number": "1-6",
+                "parent": "1-5",
+                "participant": "System",
+                "response": "There are major search engine companies who intentionally steer users toward their ideology—more accurately they intentionally steer away from ideologies they don’t espouse and away from data and opinion that’s inconvenient to their own preferred narrative.",
+                "provenance": [
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
+                ]
+            },
+            {
+                "number": "2-1",
+                "parent": "1-4",
+                "participant": "User",
+                "utterance": "Yes, racially.",
+                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased racially?"
+            },
+            {
+                "number": "2-2",
+                "parent": "2-1",
+                "participant": "System",
+                "response": "The relationship between search engines and discriminatory biases. Noble argues that search algorithms are racist and perpetuate societal problems because they reflect the negative biases that exist in society and the people who create them. Noble dismantles the idea that search engines are inherently neutral by explaining how algorithms in search engines privilege whiteness by depicting positive cues when key words like “white” are searched as opposed to “asian,” “hispanic,” or “Black.” Her main example surrounds the search results of \"Black girls\" versus \"white girls\" and the biases that are depicted in the results. These algorithms can then have negative biases against women of color and other marginalized populations, while also affecting Internet users in general by leading to \"racial and gender profiling, misrepresentation, and even economic redlining.\" The book argues that algorithms perpetuate oppression and discriminate against People of Color, specifically women of color.",
+                "provenance": [
+                    "MARCO_16_1884092099-1",
+                    "MARCO_16_1884092099-2"
+                ]
+            },
+            {
+                "number": "2-3",
+                "parent": "2-2",
+                "participant": "User",
+                "utterance": "But how does that happen?",
+                "manual_rewritten_utterance": "But how are search engines racist?"
+            },
+            {
+                "number": "2-4",
+                "parent": "2-3",
+                "participant": "System",
+                "response": "For example,  Author of the book “algorithms of oppression”, Safiya U. Noble was looking for websites to share with her stepdaughter and nieces. She searched \"black girls\" on Google, expecting to be directed to educational sites, historical information, or pop culture sites for young people. Instead, the first hit was the site HotBlackPussy.com. The first page was filled with similar results. According to Google in 2010, \"black girls\" were defined not by history, interests, or aspirations. They were defined as porn. What accounts for such racist, sexist search results? Most people tend to attribute Google failures or glitches like this to public search patterns; search engines return porn for \"black girls\" because those are the sites that people click on most.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099",
+                    "-2"
+                ]
+            },
+            {
+                "number": "2-5",
+                "parent": "2-4",
+                "participant": "User",
+                "utterance": "Are algorithms really biased against people of colour?",
+                "manual_rewritten_utterance": "Are algorithms really biased against people of colour"
+            },
+            {
+                "number": "2-6",
+                "parent": "2-5",
+                "participant": "System",
+                "response": "When you use a search engine, relevant results are extracted from the index and ranked using an algorithm. Algorithms may seem like “objectively” mathematic processes, but this is far from the truth. Racial bias seeps into algorithms in several subtle and not-so-subtle ways, leading to discriminatory results and outcomes. Let’s take a deeper look. The danger of automation Algorithms can get the results you want for the wrong reasons. By automating an algorithm, it often finds patterns that you could not have predicted. The legend of the neural net tank experiment demonstrates this limitation of algorithms. ​ ​ Automation poses dangers when data is imperfect, messy, or biased. An algorithm might latch onto unimportant data and reinforce unintentional implicit biases. For example, data scientist Daphne Koller explained that an algorithm designed to recognize fractures from X-rays ended up instead recognizing which hospital generated the image. That algorithm now incorporates irrelevant data and skews results.​ ​ Imagine if an algorithm is exposed to racially biased data sets: it will continue to incorporate those biases, even in a completely different context. By training an algorithm on that dataset, it learned to automatically filter out any “black-sounding” names. The algorithm selected candidates on purely subjective criteria, perpetuating racial discrimination. This same form of automated discrimination prevents people of color from getting access to employment, housing, even student loans. Automation means we will create blind spots and racist biases in our so-called objective algorithms.",
+                "provenance": [
+                    "MARCO_11_775487494-1",
+                    "MARCO_24_415846148-2",
+                    "MARCO_24_415846148-3"
+                ]
+            },
+            {
+                "number": "2-7",
+                "parent": "2-6",
+                "participant": "User",
+                "utterance": "In terms of their ranking though, how does it work?",
+                "manual_rewritten_utterance": "In terms of their ranking though, how do search engines rank items?"
+            },
+            {
+                "number": "2-8",
+                "parent": "2-7",
+                "participant": "System",
+                "response": "Search engines have become part of our daily life.We use them as a learning tool, a shopping tool, for fun and leisure but also for business. It’s not an exaggeration to say that we reached a point that we depend on search engines for almost anything we do. And the reason this is happening is very simple. We know that search engines and in particular, Google has answers to all our questions and queries. What happens though when you type a query and click search? How do search engines work internally and how do they decide what to show in the search results and in what order? Watch the video tutorial to learn how do search engines work. How Do Search Engines Work Search engines are complex computer programs. Before they even allow you to type a query and search the web, they have to do a lot of preparation work so that when you click “Search”, you are presented with a set of precise and quality results that answer your question or query. What does ‘preparation work’ includes? Three main stages. The first stage is the process of discovering the information, the second stage is organizing the information, and the third stage is ranking. This is generally known in the Internet World as Crawling, Indexing, and ranking.",
+                "provenance": [
+                    "MARCO_33_1616650488-1",
+                    "MARCO_51_260588399-2",
+                    "MARCO_51_260588399-3"
+                ]
+            },
+            {
+                "number": "3-1",
+                "parent": "1-2",
+                "participant": "User",
+                "utterance": "How do you get impartial results?",
+                "manual_rewritten_utterance": "How do you get impartial results from search engines?"
+            },
+            {
+                "number": "3-2",
+                "parent": "3-1",
+                "participant": "System",
+                "response": "Do you mean, search neutrality?",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-3",
+                "parent": "3-2",
+                "participant": "User",
+                "utterance": "Um, what is search neutrality?",
+                "manual_rewritten_utterance": "Um, what is search neutrality?"
+            },
+            {
+                "number": "3-4",
+                "parent": "3-3",
+                "participant": "System",
+                "response": "Search neutrality is the idea that a search engine does not limit or influence a person’s ability to access information on the internet. The search engine market is very one sided with just a couple companies controlling the entire market. “ Search neutrality is a principle that search engines should have no editorial policies other than that their results be comprehensive, impartial and based solely on relevance. This means that when a user queries a search engine, the engine should return the most relevant results found in the provider’s domain (those sites which the engine has knowledge of), without manipulating the order of the results (except to rank them by relevance), excluding results, or in any other way manipulating the results to a certain bias .”",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-5",
+                "parent": "3-4",
+                "participant": "User",
+                "utterance": "No, I want to know how to get unbiased results.",
+                "manual_rewritten_utterance": "No, I want to know how to get unbiased results from a search engine."
+            },
+            {
+                "number": "3-6",
+                "parent": "3-5",
+                "participant": "System",
+                "response": "There are various alternative search engines that you could try that could give you more unbiased results. Would you like to know about them?",
+                "provenance": []
+            },
+            {
+                "number": "3-7",
+                "parent": "3-6",
+                "participant": "User",
+                "utterance": "Yes, what alternatives are there?",
+                "manual_rewritten_utterance": "Yes, what alternative search engines are there?"
+            },
+            {
+                "number": "3-8",
+                "parent": "3-7",
+                "participant": "System",
+                "response": "There is Google, Bing, DuckDuckGo, Ecosia, Ask and many more. Would you like to know more about any of these?",
+                "provenance": [
+                    "MARCO_23_183358734-1",
+                    "MARCO_23_183358734-2",
+                    "MARCO_23_183358734-3"
+                ]
+            },
+            {
+                "number": "3-9",
+                "parent": "3-8",
+                "participant": "User",
+                "utterance": "I’ve never heard of ecosia. What does that do?",
+                "manual_rewritten_utterance": "I’ve never heard of the ecosia search engine. What does that do?"
+            },
+            {
+                "number": "3-10",
+                "parent": "3-9",
+                "participant": "System",
+                "response": "What Is Ecosia? Meet a Google Alternative That Plants Trees What Is Ecosia? Meet a Google Alternative That Plants Trees Ecosia Ecosia is a not-for-profit search engine that uses advertising revenue gained from searches to plant trees. It doesn’t have the privacy-focus of DuckDuckGo, nor does it have the search results of Google. But it does have a unique mission. This search engine is getting bigger and more widely recognized. For example, starting with Apple’s iOS 14 and iPadOS 14, Ecosia is one of the few options you can use as your default search engine in Safari. Google Chrome also includes it as a built-in option. Ecosia’s Main Mission Is to Plant Trees Ecosia is a not-for-profit search engine that aims to help the environment by planting trees. The search engine’s mission is to absorb as much CO2 as possible by planting trees to try and reduce the impact of climate change. This is done for the planet, for people, and for animals.",
+                "provenance": [
+                    "MARCO_43_236748055-1",
+                    "KILT_45138227-1"
+                ]
+            },
+            {
+                "number": "4-1",
+                "parent": "3-6",
+                "participant": "User",
+                "utterance": "No, how can i get less biased search results?",
+                "manual_rewritten_utterance": "No, how can i get less biased search results from a search engine?"
             }
         ]
     }
