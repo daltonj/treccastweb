@@ -11,9 +11,9 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 # Year 4 (TREC 2022)
 
 ## Important Dates
-* Guidelines released: May, 2022
-* Evaluation topic release: June, 2022
-* Run submission deadline: August, 2022
+* Guidelines release: Available
+* Evaluation topics release: Available
+* Run submission deadline: September, 2022
 
 ## Data
 
