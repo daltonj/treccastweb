@@ -1,7 +1,6 @@
 [
     {
         "number": 132,
-        "title": "Climate Change",
         "turn": [
             {
                 "number": "1-1",
@@ -95,7 +94,6 @@
     },
     {
         "number": 132,
-        "title": "Climate Change",
         "turn": [
             {
                 "number": "1-1",
@@ -143,7 +141,6 @@
     },
     {
         "number": 132,
-        "title": "Climate Change",
         "turn": [
             {
                 "number": "1-1",
@@ -255,7 +252,47 @@
     },
     {
         "number": 133,
-        "title": "Homemade Beauty Pampers",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
+                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
+                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
+                "provenance": [
+                    "MARCO_41_1847614301-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "Can I make them at home?",
+                "manual_rewritten_utterance": "Can I make the beauty products at home?",
+                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
+                "provenance": [
+                    "MARCO_23_34363864-4"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "I’ve never done something like this before. Can you tell me how to make one?",
+                "manual_rewritten_utterance": "I’ve never made a beauty product at home before. Can you tell me how to make one?",
+                "response": "Well there are a lot of recipes to make deodorants on the web, but this one called How to Make Your Own Deodorant by Angry Chicken is my favourite. You’ll need: 3 Tablespoons shea butter, 3 Tablespoons baking soda, 2 Tablespoons arrowroot powder, 2 Tablespoons cocoa butter, 2 vitamin E oil gel caps (puncture and squeeze out the oil), and 7 drops of lavender essential oil. Simply place the shea butter and the cocoa butter in a glass bowl and microwave for about 30 seconds until melted. Stir in the arrowroot powder and baking soda, then add the oils and stir again. Use a small measuring cup or small ladle to pour into a deodorant tube. Note that this recipe will almost overfill one tube, so be careful! Let it solidify at room temperature, or if it’s a hot day, in the refrigerator. Once solid, you can use it!",
+                "provenance": [
+                    "MARCO_30_194675946-2"
+                ]
+            },
+            {
+                "number": "1-7",
+                "utterance": "How much would this cost?",
+                "manual_rewritten_utterance": "How much would making my own deodorant cost?",
+                "response": "There are deodorants for women that cost from $5 to $20 and more, but there’s no reason to spend more than a few dollars. While you can certainly spend more – there are designer, speciality, and natural products that cost more than $20 – most women can find an effective deodorant at the drugstore that costs about $5.",
+                "provenance": [
+                    "MARCO_12_1385660336-6"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 133,
         "turn": [
             {
                 "number": "1-1",
@@ -298,49 +335,6 @@
     },
     {
         "number": 133,
-        "title": "Homemade Beauty Pampers",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
-                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
-                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
-                "provenance": [
-                    "MARCO_41_1847614301-2"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "Can I make them at home?",
-                "manual_rewritten_utterance": "Can I make the beauty products at home?",
-                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
-                "provenance": [
-                    "MARCO_23_34363864-4"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "I’ve never done something like this before. Can you tell me how to make one?",
-                "manual_rewritten_utterance": "I’ve never made a beauty product at home before. Can you tell me how to make one?",
-                "response": "Well there are a lot of recipes to make deodorants on the web, but this one called How to Make Your Own Deodorant by Angry Chicken is my favourite. You’ll need: 3 Tablespoons shea butter, 3 Tablespoons baking soda, 2 Tablespoons arrowroot powder, 2 Tablespoons cocoa butter, 2 vitamin E oil gel caps (puncture and squeeze out the oil), and 7 drops of lavender essential oil. Simply place the shea butter and the cocoa butter in a glass bowl and microwave for about 30 seconds until melted. Stir in the arrowroot powder and baking soda, then add the oils and stir again. Use a small measuring cup or small ladle to pour into a deodorant tube. Note that this recipe will almost overfill one tube, so be careful! Let it solidify at room temperature, or if it’s a hot day, in the refrigerator. Once solid, you can use it!",
-                "provenance": [
-                    "MARCO_30_194675946-2"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "How much would this cost?",
-                "manual_rewritten_utterance": "How much would making my own deodorant cost?",
-                "response": "There are deodorants for women that cost from $5 to $20 and more, but there’s no reason to spend more than a few dollars. While you can certainly spend more – there are designer, speciality, and natural products that cost more than $20 – most women can find an effective deodorant at the drugstore that costs about $5.",
-                "provenance": [
-                    "MARCO_12_1385660336-6"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 133,
-        "title": "Homemade Beauty Pampers",
         "turn": [
             {
                 "number": "1-1",
@@ -409,58 +403,6 @@
     },
     {
         "number": 134,
-        "title": "Buying a phone",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I consider when buying a phone?",
-                "manual_rewritten_utterance": "What should I consider when buying a phone?",
-                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
-                "provenance": [
-                    "MARCO_11_1166150088-3",
-                    "MARCO_33_69096130-9"
-                ]
-            },
-            {
-                "number": "2-1",
-                "utterance": "I've heard iPhones look and feel great. Should I get one?",
-                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
-                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
-                "provenance": [
-                    "MARCO_43_1521332427-1",
-                    "MARCO_43_1521332427-2"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "Okay, what other types are out there?",
-                "manual_rewritten_utterance": "Besides iPhones and Android phones, what other types of phones are out there?",
-                "response": "Whenever I read an Android or iPhone article, several commenters go off about the lack of mention of Windows Phone or Nokia, BlackBerry, or some other random platform. To be honest, these phones haven't hit the penetration level for people to pay that much attention to them. For example, while by all indications, Windows Phone 7 is excellent, there are just not that many out there. That's a shame, but it's true. They are not discussed because few people ask whether they should get a Windows Phone instead of an iPhone or Android phone. If you like to dance with the devil in the pale moonlight, go for one of these fringe phones. Otherwise, you're probably choosing Android or iPhone. Wrap-up So, as you can see, there's no clear winner.",
-                "provenance": [
-                    "MARCO_10_1605638999-9"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "Why not? Aren’t they as good?",
-                "manual_rewritten_utterance": "Why not?  Aren’t other mobile platforms as good as Android or iOS?",
-                "response": "If you care about having the best apps on your phone, you're better off with iPhone. They're better looking and, with a few exceptions like the gorgeous HTC One and Xiaomi Mi Note, there aren't many great-looking Android phones out there. Many are chunky and plasticky. The iPhone consistently has a better design than Android phones. Apple Pay is quickly becoming the best mobile payments system. Furthermore, You can't beat the Apple Store for customer support. Claudio Villa/Getty Images Where do you go if you have a problem with your Android phone? For many people, it's their carrier. But carriers don't have the same kind of support Apple provides at the Apple Store. If something goes wrong with your iPhone, or you just want to learn how to use it, Apple has you covered better than any Android phone maker.",
-                "provenance": [
-                    "MARCO_35_286262730-2"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "That’s more about phones than mobile platforms.",
-                "manual_rewritten_utterance": "That’s more about phones than mobile platforms.",
-                "response": "Okay. Thanks for the feedback.",
-                "provenance": []
-            }
-        ]
-    },
-    {
-        "number": 134,
-        "title": "Buying a phone",
         "turn": [
             {
                 "number": "1-1",
@@ -491,7 +433,6 @@
     },
     {
         "number": 134,
-        "title": "Buying a phone",
         "turn": [
             {
                 "number": "1-1",
@@ -526,7 +467,6 @@
     },
     {
         "number": 134,
-        "title": "Buying a phone",
         "turn": [
             {
                 "number": "1-1",
@@ -602,8 +542,183 @@
         ]
     },
     {
+        "number": 134,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I consider when buying a phone?",
+                "manual_rewritten_utterance": "What should I consider when buying a phone?",
+                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
+                "provenance": [
+                    "MARCO_11_1166150088-3",
+                    "MARCO_33_69096130-9"
+                ]
+            },
+            {
+                "number": "2-1",
+                "utterance": "I've heard iPhones look and feel great. Should I get one?",
+                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
+                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
+                "provenance": [
+                    "MARCO_43_1521332427-1",
+                    "MARCO_43_1521332427-2"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "Okay, what other types are out there?",
+                "manual_rewritten_utterance": "Besides iPhones and Android phones, what other types of phones are out there?",
+                "response": "Whenever I read an Android or iPhone article, several commenters go off about the lack of mention of Windows Phone or Nokia, BlackBerry, or some other random platform. To be honest, these phones haven't hit the penetration level for people to pay that much attention to them. For example, while by all indications, Windows Phone 7 is excellent, there are just not that many out there. That's a shame, but it's true. They are not discussed because few people ask whether they should get a Windows Phone instead of an iPhone or Android phone. If you like to dance with the devil in the pale moonlight, go for one of these fringe phones. Otherwise, you're probably choosing Android or iPhone. Wrap-up So, as you can see, there's no clear winner.",
+                "provenance": [
+                    "MARCO_10_1605638999-9"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "Why not? Aren’t they as good?",
+                "manual_rewritten_utterance": "Why not?  Aren’t other mobile platforms as good as Android or iOS?",
+                "response": "If you care about having the best apps on your phone, you're better off with iPhone. They're better looking and, with a few exceptions like the gorgeous HTC One and Xiaomi Mi Note, there aren't many great-looking Android phones out there. Many are chunky and plasticky. The iPhone consistently has a better design than Android phones. Apple Pay is quickly becoming the best mobile payments system. Furthermore, You can't beat the Apple Store for customer support. Claudio Villa/Getty Images Where do you go if you have a problem with your Android phone? For many people, it's their carrier. But carriers don't have the same kind of support Apple provides at the Apple Store. If something goes wrong with your iPhone, or you just want to learn how to use it, Apple has you covered better than any Android phone maker.",
+                "provenance": [
+                    "MARCO_35_286262730-2"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "That’s more about phones than mobile platforms.",
+                "manual_rewritten_utterance": "That’s more about phones than mobile platforms.",
+                "response": "Okay. Thanks for the feedback.",
+                "provenance": []
+            }
+        ]
+    },
+    {
         "number": 135,
-        "title": "Running",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
+                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
+                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
+                "provenance": [
+                    "MARCO_47_276165332-5"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "Cool. What exercises can I mix with it?",
+                "manual_rewritten_utterance": "Cool. What exercises can I mix with running?",
+                "response": "If you want to lift heavier weights in the gym, that can be done twice per week. Strength workouts should complement your running, not detract from it. If you’re so sore from strength exercises that your long run or faster workout is compromised, tone down the intensity. You can lift less weight or reduce the number of reps or sets that you’re completing. But no matter what, remember that strength exercises should make your running better.",
+                "provenance": [
+                    "MARCO_28_1759557920-4"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "Which ones do you recommend?",
+                "manual_rewritten_utterance": "What strength exercises do you recommend to mix with running?",
+                "response": "Strength Training increases your running speed Weight lifting helps you build strength or improve your muscle strength, which helps you run faster. Your legs get more robust with these exercises. You can cover a longer distance with each stride if you have stronger legs. Sufficient muscle strength will act as a foundation for power training, which depends on this strength and converts it into speed. Specialized weight training improves your running performance. Half Marathon Training with Weight Lifting You need at least two weight training sessions per week. Here is a list of great strength training exercises for runners. Compound workouts such as Trap Bar and Squats and single-leg workouts such as lunges are great ways to work out multiple muscle groups at the same time. The lunge matrix is a great strength training exercise that can be done with or without weights. To start, your body’s weight is sufficient enough as a great starting point for the lunge matrix. Take complete rest for at least 45 seconds up to 3 minutes between sets. Strength training needs a longer rest period because it is more exhausting and demanding on your overall body.",
+                "provenance": [
+                    "MARCO_21_237282101-4"
+                ]
+            },
+            {
+                "number": "1-7",
+                "utterance": "Awesome. Can I do these and run on the same day?",
+                "manual_rewritten_utterance": "Awesome. Can I do these strength routines and run on the same day?",
+                "response": "You can combine your strength training and easy run or long run sessions on the same day. Give yourself a 6-hour break between the exercises if possible. Remember that running is a priority and when push comes to shove you need to select runner-specific training (i.e. running) over strength training and cross-training. However, I would make it mandatory that you strength train at least once per week.",
+                "provenance": [
+                    "MARCO_21_237282101-4",
+                    "MARCO_21_237282101-5"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 135,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
+                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
+                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
+                "provenance": [
+                    "MARCO_47_276165332-5"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "Okay. Are there better calorie-burning alternatives to try?",
+                "manual_rewritten_utterance": "Okay. Are there better calorie-burning exercises to try asides from running?",
+                "response": "I calculated the calories that a 150-pound person would typically expend running a 10-minute-per-mile pace - 666 calories per hour. Then, compared this to a handful of other activities. What I found is that the big calorie burners on this list have a few things in common - they use a lot of muscles throughout the body, and they can be really challenging. Here are some exercises you might want to add to your routine if you're trying to burn more calories: 1. Indoor cycling: Approximately 952 calories per hour. The intensity should be at 200 watts or greater. 2. Cross-country skiing: Approximately 850 calories per hour. This all depends on your experience as a skier. Slow, light effort won't burn nearly as many calories as a brisk-speed, vigorous effort will. To really challenge yourself and burn up energy? Try uphill skiing.",
+                "provenance": [
+                    "MARCO_52_368117471-4"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
+                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
+                "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
+                "provenance": [
+                    "MARCO_52_368117471-5",
+                    "MARCO_52_368117471-4"
+                ]
+            },
+            {
+                "number": "4-1",
+                "utterance": "I live in a flat on the third floor. How do I do the second one at home?",
+                "manual_rewritten_utterance": "I live in a flat on the third floor. How do I do jump rope at home?",
+                "response": "If you plan to jump rope in your apartment for regular exercise, you need to do so fairly quietly, unless you live on the ground floor of your building. Although jumping rope makes significantly less noise than tap dancing or playing loud music with your sound system speakers on the floor, it can create a slight disturbance. Even the muffled thud of your feet jumping steadily in your sneakers or other sports training shoes can become a nuisance to other apartment dwellers living below you. For this reason, you may need to invest in a mat or even some soundproofing installation for your floor. Some people jump rope on thin, closely woven carpeting, although jumping on carpets is not usually recommended. Wood flooring is really the best to jump rope on, but you need to make sure your jumping does not disturb your neighbours before starting your regular jumping routine at home. If you happen to have concrete floor tiling in your apartment, you should find another space for exercising since jumping rope on a concrete surface can cause pain and injury to your knees. If you must jump on such hard flooring sometimes, be sure to use a good jump rope mat to absorb most of the impact of your jumping.",
+                "provenance": [
+                    "MARCO_34_1311087552-8"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 135,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
+                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
+                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
+                "provenance": [
+                    "MARCO_47_276165332-5"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "Okay. Are there better calorie-burning alternatives to try?",
+                "manual_rewritten_utterance": "Okay. Are there better calorie-burning exercises to try asides from running?",
+                "response": "I calculated the calories that a 150-pound person would typically expend running a 10-minute-per-mile pace - 666 calories per hour. Then, compared this to a handful of other activities. What I found is that the big calorie burners on this list have a few things in common - they use a lot of muscles throughout the body, and they can be really challenging. Here are some exercises you might want to add to your routine if you're trying to burn more calories: 1. Indoor cycling: Approximately 952 calories per hour. The intensity should be at 200 watts or greater. 2. Cross-country skiing: Approximately 850 calories per hour. This all depends on your experience as a skier. Slow, light effort won't burn nearly as many calories as a brisk-speed, vigorous effort will. To really challenge yourself and burn up energy? Try uphill skiing.",
+                "provenance": [
+                    "MARCO_52_368117471-4"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
+                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
+                "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
+                "provenance": [
+                    "MARCO_52_368117471-5",
+                    "MARCO_52_368117471-4"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "I suppose I could do jump rope, that sounds fun and accessible. I like the outdoors though.",
+                "manual_rewritten_utterance": "I suppose I could do jumping rope or kickboxing, but I like the outdoors and would like to work out there.",
+                "response": "You can try outdoor bicycling. It burns approximately 680 calories per hour. Biking at a fast, vigorous pace gets your heart rate soaring, whether you're indoors or outdoors. If you add in some mountainous terrain and hills, the calorie burn goes up even more.",
+                "provenance": [
+                    "MARCO_52_368117471-6"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 135,
         "turn": [
             {
                 "number": "1-1",
@@ -671,181 +786,7 @@
         ]
     },
     {
-        "number": 135,
-        "title": "Running",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
-                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
-                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
-                "provenance": [
-                    "MARCO_47_276165332-5"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "Okay. Are there better calorie-burning alternatives to try?",
-                "manual_rewritten_utterance": "Okay. Are there better calorie-burning exercises to try asides from running?",
-                "response": "I calculated the calories that a 150-pound person would typically expend running a 10-minute-per-mile pace - 666 calories per hour. Then, compared this to a handful of other activities. What I found is that the big calorie burners on this list have a few things in common - they use a lot of muscles throughout the body, and they can be really challenging. Here are some exercises you might want to add to your routine if you're trying to burn more calories: 1. Indoor cycling: Approximately 952 calories per hour. The intensity should be at 200 watts or greater. 2. Cross-country skiing: Approximately 850 calories per hour. This all depends on your experience as a skier. Slow, light effort won't burn nearly as many calories as a brisk-speed, vigorous effort will. To really challenge yourself and burn up energy? Try uphill skiing.",
-                "provenance": [
-                    "MARCO_52_368117471-4"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
-                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
-                "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
-                "provenance": [
-                    "MARCO_52_368117471-5",
-                    "MARCO_52_368117471-4"
-                ]
-            },
-            {
-                "number": "4-1",
-                "utterance": "I live in a flat on the third floor. How do I do the second one at home?",
-                "manual_rewritten_utterance": "I live in a flat on the third floor. How do I do jump rope at home?",
-                "response": "If you plan to jump rope in your apartment for regular exercise, you need to do so fairly quietly, unless you live on the ground floor of your building. Although jumping rope makes significantly less noise than tap dancing or playing loud music with your sound system speakers on the floor, it can create a slight disturbance. Even the muffled thud of your feet jumping steadily in your sneakers or other sports training shoes can become a nuisance to other apartment dwellers living below you. For this reason, you may need to invest in a mat or even some soundproofing installation for your floor. Some people jump rope on thin, closely woven carpeting, although jumping on carpets is not usually recommended. Wood flooring is really the best to jump rope on, but you need to make sure your jumping does not disturb your neighbours before starting your regular jumping routine at home. If you happen to have concrete floor tiling in your apartment, you should find another space for exercising since jumping rope on a concrete surface can cause pain and injury to your knees. If you must jump on such hard flooring sometimes, be sure to use a good jump rope mat to absorb most of the impact of your jumping.",
-                "provenance": [
-                    "MARCO_34_1311087552-8"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 135,
-        "title": "Running",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
-                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
-                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
-                "provenance": [
-                    "MARCO_47_276165332-5"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "Okay. Are there better calorie-burning alternatives to try?",
-                "manual_rewritten_utterance": "Okay. Are there better calorie-burning exercises to try asides from running?",
-                "response": "I calculated the calories that a 150-pound person would typically expend running a 10-minute-per-mile pace - 666 calories per hour. Then, compared this to a handful of other activities. What I found is that the big calorie burners on this list have a few things in common - they use a lot of muscles throughout the body, and they can be really challenging. Here are some exercises you might want to add to your routine if you're trying to burn more calories: 1. Indoor cycling: Approximately 952 calories per hour. The intensity should be at 200 watts or greater. 2. Cross-country skiing: Approximately 850 calories per hour. This all depends on your experience as a skier. Slow, light effort won't burn nearly as many calories as a brisk-speed, vigorous effort will. To really challenge yourself and burn up energy? Try uphill skiing.",
-                "provenance": [
-                    "MARCO_52_368117471-4"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
-                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
-                "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
-                "provenance": [
-                    "MARCO_52_368117471-5",
-                    "MARCO_52_368117471-4"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "I suppose I could do jump rope, that sounds fun and accessible. I like the outdoors though.",
-                "manual_rewritten_utterance": "I suppose I could do jumping rope or kickboxing, but I like the outdoors and would like to work out there.",
-                "response": "You can try outdoor bicycling. It burns approximately 680 calories per hour. Biking at a fast, vigorous pace gets your heart rate soaring, whether you're indoors or outdoors. If you add in some mountainous terrain and hills, the calorie burn goes up even more.",
-                "provenance": [
-                    "MARCO_52_368117471-6"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 135,
-        "title": "Running",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
-                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
-                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
-                "provenance": [
-                    "MARCO_47_276165332-5"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "Cool. What exercises can I mix with it?",
-                "manual_rewritten_utterance": "Cool. What exercises can I mix with running?",
-                "response": "If you want to lift heavier weights in the gym, that can be done twice per week. Strength workouts should complement your running, not detract from it. If you’re so sore from strength exercises that your long run or faster workout is compromised, tone down the intensity. You can lift less weight or reduce the number of reps or sets that you’re completing. But no matter what, remember that strength exercises should make your running better.",
-                "provenance": [
-                    "MARCO_28_1759557920-4"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "Which ones do you recommend?",
-                "manual_rewritten_utterance": "What strength exercises do you recommend to mix with running?",
-                "response": "Strength Training increases your running speed Weight lifting helps you build strength or improve your muscle strength, which helps you run faster. Your legs get more robust with these exercises. You can cover a longer distance with each stride if you have stronger legs. Sufficient muscle strength will act as a foundation for power training, which depends on this strength and converts it into speed. Specialized weight training improves your running performance. Half Marathon Training with Weight Lifting You need at least two weight training sessions per week. Here is a list of great strength training exercises for runners. Compound workouts such as Trap Bar and Squats and single-leg workouts such as lunges are great ways to work out multiple muscle groups at the same time. The lunge matrix is a great strength training exercise that can be done with or without weights. To start, your body’s weight is sufficient enough as a great starting point for the lunge matrix. Take complete rest for at least 45 seconds up to 3 minutes between sets. Strength training needs a longer rest period because it is more exhausting and demanding on your overall body.",
-                "provenance": [
-                    "MARCO_21_237282101-4"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Awesome. Can I do these and run on the same day?",
-                "manual_rewritten_utterance": "Awesome. Can I do these strength routines and run on the same day?",
-                "response": "You can combine your strength training and easy run or long run sessions on the same day. Give yourself a 6-hour break between the exercises if possible. Remember that running is a priority and when push comes to shove you need to select runner-specific training (i.e. running) over strength training and cross-training. However, I would make it mandatory that you strength train at least once per week.",
-                "provenance": [
-                    "MARCO_21_237282101-4",
-                    "MARCO_21_237282101-5"
-                ]
-            }
-        ]
-    },
-    {
         "number": 136,
-        "title": "Watergate Scandal",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What was the basis of the Watergate scandal?",
-                "manual_rewritten_utterance": "What was the basis of the Watergate scandal?",
-                "response": "The Watergate Scandal erupted due to the Nixon administration’s attempts to cover up its involvement in the break-in at the Democratic National Committee (DNC) on June 17, 1972, in the headquarters of the party’s office at the Watergate complex in Washington, D.C. Details of the Watergate Scandal were exposed in investigations prompted by the media, especially by two reporters from the Washington Post, Bob Woodward and Carl Bernstein, along with their mysterious informant, \"Deep Throat\". The scandal surrounding the Watergate break-in and the subsequent cover-up by Nixon and his aides culminated in the president's resignation on August 9, 1974.",
-                "provenance": [
-                    "MARCO_03_1463867408-1"
-                ]
-            },
-            {
-                "number": "2-1",
-                "utterance": "Interesting name. What’s the story behind it?",
-                "manual_rewritten_utterance": "Interesting name. What’s the story behind Bob Woodward and Carl Bernstein’s informant’s name “Deep Throat”?",
-                "response": "Deep Throat was first introduced to the public in the February 1974 book \"All the President's Men\" by \"Washington Post\" reporters Bob Woodward and Carl Bernstein, which was adapted as a film two years later. According to the authors, Deep Throat was a key source of information behind a series of articles which introduced the misdeeds of the Nixon administration to the general public. Howard Simons was the managing editor of the \"Post\" during Watergate and he dubbed the secret informant \"Deep Throat\", alluding to both the deep background status of his information and the widely publicized 1972 pornographic film \"Deep Throat\". For more than 30 years, Deep Throat's identity was one of the biggest mysteries of American politics and journalism and the source of much public curiosity and speculation.",
-                "provenance": [
-                    "KILT_461561-1",
-                    "KILT_461561-2"
-                ]
-            },
-            {
-                "number": "2-3",
-                "utterance": "Did the public ever find out who it was?",
-                "manual_rewritten_utterance": "Did the public ever find out who Deep Throat was?",
-                "response": "In 2005, 31 years after Nixon's resignation and 11 years after Nixon's death, a family attorney wrote an article in Vanity Fair stating that former Federal Bureau of Investigation (FBI) Associate Director Mark Felt was Deep Throat. By then, Felt was suffering from dementia and had previously denied being Deep Throat, but Woodward and Bernstein confirmed the attorney's claim. L. Patrick Gray, former acting Director of the FBI and Felt's boss, disputed Felt's claim in his book \"In Nixon's Web\", co-written with his son Ed Gray. Gray and others have argued that Deep Throat was a compilation of sources characterized as one person in order to improve book and movie sales.",
-                "provenance": [
-                    "KILT_461561-1",
-                    "KILT_461561-3"
-                ]
-            },
-            {
-                "number": "2-5",
-                "utterance": "Let’s say it was Felt. Why did he do it?",
-                "manual_rewritten_utterance": "Let’s say Deep Throat was Mark Felt. Why did he decide to be an informant for Bob Woodward and Carl Bernstein?",
-                "response": "In public statements following the disclosure of his identity, Felt's family called him an \"American hero\", stating that he leaked information about the Watergate scandal to \"The Washington Post\" for moral and patriotic reasons. Other commentators, however, have speculated that Felt may have had more personal reasons for leaking information to Woodward. In his book \"The Secret Man\", Woodward describes Felt as a loyalist and admirer of J. Edgar Hoover. After Hoover's death, Felt became angry and disgusted when L. Patrick Gray, a career naval officer and lawyer from the Civil Division of the Department of Justice, with no law enforcement experience, was appointed Director of the FBI over Felt, a 30-year veteran of the FBI. Felt was particularly unhappy with Gray's management style at the FBI, which was markedly different from Hoover's. Felt selected Woodward because he knew Woodward and Bernstein were assigned to investigate the burglary.",
-                "provenance": [
-                    "KILT_461561-7"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 136,
-        "title": "Watergate Scandal",
         "turn": [
             {
                 "number": "1-1",
@@ -915,8 +856,50 @@
         ]
     },
     {
+        "number": 136,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What was the basis of the Watergate scandal?",
+                "manual_rewritten_utterance": "What was the basis of the Watergate scandal?",
+                "response": "The Watergate Scandal erupted due to the Nixon administration’s attempts to cover up its involvement in the break-in at the Democratic National Committee (DNC) on June 17, 1972, in the headquarters of the party’s office at the Watergate complex in Washington, D.C. Details of the Watergate Scandal were exposed in investigations prompted by the media, especially by two reporters from the Washington Post, Bob Woodward and Carl Bernstein, along with their mysterious informant, \"Deep Throat\". The scandal surrounding the Watergate break-in and the subsequent cover-up by Nixon and his aides culminated in the president's resignation on August 9, 1974.",
+                "provenance": [
+                    "MARCO_03_1463867408-1"
+                ]
+            },
+            {
+                "number": "2-1",
+                "utterance": "Interesting name. What’s the story behind it?",
+                "manual_rewritten_utterance": "Interesting name. What’s the story behind Bob Woodward and Carl Bernstein’s informant’s name “Deep Throat”?",
+                "response": "Deep Throat was first introduced to the public in the February 1974 book \"All the President's Men\" by \"Washington Post\" reporters Bob Woodward and Carl Bernstein, which was adapted as a film two years later. According to the authors, Deep Throat was a key source of information behind a series of articles which introduced the misdeeds of the Nixon administration to the general public. Howard Simons was the managing editor of the \"Post\" during Watergate and he dubbed the secret informant \"Deep Throat\", alluding to both the deep background status of his information and the widely publicized 1972 pornographic film \"Deep Throat\". For more than 30 years, Deep Throat's identity was one of the biggest mysteries of American politics and journalism and the source of much public curiosity and speculation.",
+                "provenance": [
+                    "KILT_461561-1",
+                    "KILT_461561-2"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "Did the public ever find out who it was?",
+                "manual_rewritten_utterance": "Did the public ever find out who Deep Throat was?",
+                "response": "In 2005, 31 years after Nixon's resignation and 11 years after Nixon's death, a family attorney wrote an article in Vanity Fair stating that former Federal Bureau of Investigation (FBI) Associate Director Mark Felt was Deep Throat. By then, Felt was suffering from dementia and had previously denied being Deep Throat, but Woodward and Bernstein confirmed the attorney's claim. L. Patrick Gray, former acting Director of the FBI and Felt's boss, disputed Felt's claim in his book \"In Nixon's Web\", co-written with his son Ed Gray. Gray and others have argued that Deep Throat was a compilation of sources characterized as one person in order to improve book and movie sales.",
+                "provenance": [
+                    "KILT_461561-1",
+                    "KILT_461561-3"
+                ]
+            },
+            {
+                "number": "2-5",
+                "utterance": "Let’s say it was Felt. Why did he do it?",
+                "manual_rewritten_utterance": "Let’s say Deep Throat was Mark Felt. Why did he decide to be an informant for Bob Woodward and Carl Bernstein?",
+                "response": "In public statements following the disclosure of his identity, Felt's family called him an \"American hero\", stating that he leaked information about the Watergate scandal to \"The Washington Post\" for moral and patriotic reasons. Other commentators, however, have speculated that Felt may have had more personal reasons for leaking information to Woodward. In his book \"The Secret Man\", Woodward describes Felt as a loyalist and admirer of J. Edgar Hoover. After Hoover's death, Felt became angry and disgusted when L. Patrick Gray, a career naval officer and lawyer from the Civil Division of the Department of Justice, with no law enforcement experience, was appointed Director of the FBI over Felt, a 30-year veteran of the FBI. Felt was particularly unhappy with Gray's management style at the FBI, which was markedly different from Hoover's. Felt selected Woodward because he knew Woodward and Bernstein were assigned to investigate the burglary.",
+                "provenance": [
+                    "KILT_461561-7"
+                ]
+            }
+        ]
+    },
+    {
         "number": 137,
-        "title": "Simulated Reality",
         "turn": [
             {
                 "number": "1-1",
@@ -977,7 +960,6 @@
     },
     {
         "number": 138,
-        "title": "Self-esteem",
         "turn": [
             {
                 "number": "1-1",
@@ -1038,7 +1020,47 @@
     },
     {
         "number": 139,
-        "title": "Wonders of the World",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
+                "manual_rewritten_utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
+                "response": "“What a Wonderful World” is a song written by Bob Thiele (as \"George Douglas\") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom, though it performed poorly in the United States because Larry Newton, the president of ABC Records, disliked the song and refused to promote it.",
+                "provenance": [
+                    "MARCO_19_685468020-1"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "Why?",
+                "manual_rewritten_utterance": "Why did Larry Newton dislike “What a wonderful world” by Louis Armstrong?",
+                "response": "Armstrong had recently signed to ABC Records, and ABC president Larry Newton showed up to photograph Armstrong. Newton wanted a swingy pop song like \" Hello, Dolly! \", a big hit for Armstrong when he was with Kapp Records, so when Newton heard the slow pace of \"What a Wonderful World\", he tried to stop the session. Newton was locked out of the studio for his disruption, but a second problem arose: nearby freight train whistles interrupted the session twice, forcing the recording to start over. Armstrong shook his head and laughed off the distractions, keeping his composure. The session ended around 6 am, going longer than expected. To make sure the orchestra members were paid extra for their overtime, Armstrong accepted only $250 musicians union scale for his work.",
+                "provenance": [
+                    "MARCO_19_685468020-3"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "Did sales ever get better in the US?",
+                "manual_rewritten_utterance": "Did sales of “What a Wonderful World” by Louis Armstrong ever get better in the US?",
+                "response": "\"What a Wonderful World\" didn't make a splash in the U.S. until well after Louis Armstrong's death. The first recording of “What a Wonderful World” was produced by ABC Records, which made no attempt to advertise it domestically. Although the ballad topped the 1968 charts in Great Britain, American sales were abysmal. When Pops (who adored Thiele and Weiss’ masterwork) passed away on July 6, 1971, “What a Wonderful World” seemed destined for stateside obscurity. Then along came a bare-knuckled comedy called Good Morning, Vietnam (1987). The joyous tune perfectly and ironically clashed with the wartime horrors depicted in one montage, so director Barry Levinson added it to his film’s soundtrack.",
+                "provenance": [
+                    "MARCO_46_1298228224-7"
+                ]
+            },
+            {
+                "number": "1-7",
+                "utterance": "Okay, but how did that help?",
+                "manual_rewritten_utterance": "Okay, but how did “Good Morning, Vietnam” help the sales of What a Wonderful World”",
+                "response": "“What a Wonderful World” struck a chord with moviegoers and was re-released that year, becoming an oft-requested radio hit.",
+                "provenance": [
+                    "MARCO_46_1298228224-8"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 139,
         "turn": [
             {
                 "number": "1-1",
@@ -1143,92 +1165,7 @@
         ]
     },
     {
-        "number": 139,
-        "title": "Wonders of the World",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
-                "manual_rewritten_utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
-                "response": "“What a Wonderful World” is a song written by Bob Thiele (as \"George Douglas\") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom, though it performed poorly in the United States because Larry Newton, the president of ABC Records, disliked the song and refused to promote it.",
-                "provenance": [
-                    "MARCO_19_685468020-1"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "Why?",
-                "manual_rewritten_utterance": "Why did Larry Newton dislike “What a wonderful world” by Louis Armstrong?",
-                "response": "Armstrong had recently signed to ABC Records, and ABC president Larry Newton showed up to photograph Armstrong. Newton wanted a swingy pop song like \" Hello, Dolly! \", a big hit for Armstrong when he was with Kapp Records, so when Newton heard the slow pace of \"What a Wonderful World\", he tried to stop the session. Newton was locked out of the studio for his disruption, but a second problem arose: nearby freight train whistles interrupted the session twice, forcing the recording to start over. Armstrong shook his head and laughed off the distractions, keeping his composure. The session ended around 6 am, going longer than expected. To make sure the orchestra members were paid extra for their overtime, Armstrong accepted only $250 musicians union scale for his work.",
-                "provenance": [
-                    "MARCO_19_685468020-3"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "Did sales ever get better in the US?",
-                "manual_rewritten_utterance": "Did sales of “What a Wonderful World” by Louis Armstrong ever get better in the US?",
-                "response": "\"What a Wonderful World\" didn't make a splash in the U.S. until well after Louis Armstrong's death. The first recording of “What a Wonderful World” was produced by ABC Records, which made no attempt to advertise it domestically. Although the ballad topped the 1968 charts in Great Britain, American sales were abysmal. When Pops (who adored Thiele and Weiss’ masterwork) passed away on July 6, 1971, “What a Wonderful World” seemed destined for stateside obscurity. Then along came a bare-knuckled comedy called Good Morning, Vietnam (1987). The joyous tune perfectly and ironically clashed with the wartime horrors depicted in one montage, so director Barry Levinson added it to his film’s soundtrack.",
-                "provenance": [
-                    "MARCO_46_1298228224-7"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Okay, but how did that help?",
-                "manual_rewritten_utterance": "Okay, but how did “Good Morning, Vietnam” help the sales of What a Wonderful World”",
-                "response": "“What a Wonderful World” struck a chord with moviegoers and was re-released that year, becoming an oft-requested radio hit.",
-                "provenance": [
-                    "MARCO_46_1298228224-8"
-                ]
-            }
-        ]
-    },
-    {
         "number": 140,
-        "title": "Nigeria",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
-                "provenance": [
-                    "MARCO_54_575373635-1"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "As a tourist, what’s the best place to visit?",
-                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
-                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
-                "provenance": [
-                    "MARCO_54_575373635-2"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "That’s where the Ranch is, no?",
-                "manual_rewritten_utterance": "Cross River is where Obudu Cattle Ranch is located, no?",
-                "response": "Yes. Obudu Mountain Resort (formerly known as the Obudu Cattle Ranch) is a ranch and resort on the Obudu Plateau in Cross River State, Nigeria. It was developed in 1951 by M. McCaughley, a Scot who first explored the mountain ranges in 1949. He camped on the mountaintop of the Oshie Ridge on the Sankwala Mountains for a month before returning with Mr. Hugh Jones, a fellow rancher, in 1951. Together with Dr Crawfeild, they developed the Obudu Cattle Ranch.",
-                "provenance": [
-                    "KILT_28832499-1"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Tell me more about it.",
-                "manual_rewritten_utterance": "Tell me more about the Obudu Mountain Resort (formerly Obudu Cattle Ranch).",
-                "response": "Since 2005, a cable car climbing from the base to the top of the plateau gives visitors a scenic view while bypassing the extremely winding road to the top. The resort is found on the Obudu Plateau, close to the Cameroon border in the northeastern part of Cross River State, approximately east of the town of Ogoja and from the town of Obudu in Obanliku Local Government Area of Cross River State. It is about a 30 minutes drive from Obudu town and is about a drive from Calabar, the Cross River State capital. Charter air service is available to the Bebi Airport which lies between the village of Obudu and the resort.",
-                "provenance": [
-                    "KILT_28832499-1"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 140,
-        "title": "Nigeria",
         "turn": [
             {
                 "number": "1-1",
@@ -1271,7 +1208,6 @@
     },
     {
         "number": 140,
-        "title": "Nigeria",
         "turn": [
             {
                 "number": "1-1",
@@ -1314,7 +1250,47 @@
     },
     {
         "number": 140,
-        "title": "Nigeria",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
+                "provenance": [
+                    "MARCO_54_575373635-1"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "As a tourist, what’s the best place to visit?",
+                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
+                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
+                "provenance": [
+                    "MARCO_54_575373635-2"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "That’s where the Ranch is, no?",
+                "manual_rewritten_utterance": "Cross River is where Obudu Cattle Ranch is located, no?",
+                "response": "Yes. Obudu Mountain Resort (formerly known as the Obudu Cattle Ranch) is a ranch and resort on the Obudu Plateau in Cross River State, Nigeria. It was developed in 1951 by M. McCaughley, a Scot who first explored the mountain ranges in 1949. He camped on the mountaintop of the Oshie Ridge on the Sankwala Mountains for a month before returning with Mr. Hugh Jones, a fellow rancher, in 1951. Together with Dr Crawfeild, they developed the Obudu Cattle Ranch.",
+                "provenance": [
+                    "KILT_28832499-1"
+                ]
+            },
+            {
+                "number": "1-7",
+                "utterance": "Tell me more about it.",
+                "manual_rewritten_utterance": "Tell me more about the Obudu Mountain Resort (formerly Obudu Cattle Ranch).",
+                "response": "Since 2005, a cable car climbing from the base to the top of the plateau gives visitors a scenic view while bypassing the extremely winding road to the top. The resort is found on the Obudu Plateau, close to the Cameroon border in the northeastern part of Cross River State, approximately east of the town of Ogoja and from the town of Obudu in Obanliku Local Government Area of Cross River State. It is about a 30 minutes drive from Obudu town and is about a drive from Calabar, the Cross River State capital. Charter air service is available to the Bebi Airport which lies between the village of Obudu and the resort.",
+                "provenance": [
+                    "KILT_28832499-1"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 140,
         "turn": [
             {
                 "number": "1-1",
@@ -1358,7 +1334,6 @@
     },
     {
         "number": 140,
-        "title": "Nigeria",
         "turn": [
             {
                 "number": "1-1",
@@ -1445,7 +1420,6 @@
     },
     {
         "number": 141,
-        "title": "Investment Scams",
         "turn": [
             {
                 "number": "1-1",
@@ -1525,7 +1499,6 @@
     },
     {
         "number": 141,
-        "title": "Investment Scams",
         "turn": [
             {
                 "number": "1-1",
@@ -1558,47 +1531,6 @@
     },
     {
         "number": 142,
-        "title": "South American culture",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I know about Argentina?",
-                "manual_rewritten_utterance": "What should I know about Argentina?",
-                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
-                "provenance": [
-                    "MARCO_29_1447088347-1",
-                    "MARCO_29_1447088347-2",
-                    "MARCO_29_1447088347-5"
-                ]
-            },
-            {
-                "number": "5-1",
-                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
-                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
-                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
-                "provenance": [
-                    "MARCO_36_259036096-1"
-                ]
-            },
-            {
-                "number": "5-3",
-                "utterance": "No, what are some popular dishes?",
-                "manual_rewritten_utterance": "What are some popular meat dishes?",
-                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
-                "provenance": [
-                    "MARCO_16_2206432408-11"
-                ]
-            },
-            {
-                "number": "8-1",
-                "utterance": "How about in Chile?",
-                "manual_rewritten_utterance": "What are some popular meat dishes in Chile?"
-            }
-        ]
-    },
-    {
-        "number": 142,
-        "title": "South American culture",
         "turn": [
             {
                 "number": "1-1",
@@ -1621,40 +1553,14 @@
                 ]
             },
             {
-                "number": "2-2",
-                "utterance": "What makes their culture distinct from the rest of the country?",
-                "manual_rewritten_utterance": "What makes the culture of Porteños distinct from the rest of Argentina?",
-                "response": "The Argentine people take great pride in the fact that Pope Francis is from Buenos Aires, Argentina, and the country boasts one of the highest literacy rates in South America with women leading the way. Argentina has a rich cultural history with lifestyles uniquely their own. The Tango, Merienda, and Gauchos are just a few examples.",
-                "provenance": [
-                    "MARCO_55_1245662540-1"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "You’ve mentioned that several times now. Tell me more.",
-                "manual_rewritten_utterance": "You’ve mentioned the tango several times now. Tell me more.",
-                "response": "I’m not sure I understand. What would you like more information about?",
-                "provenance": []
-            },
-            {
-                "number": "3-3",
-                "utterance": "I meant the tango.",
-                "manual_rewritten_utterance": "Tell me more about the tango.",
-                "response": "What kind of clothing women should wear for dancing Tango? A nice option for Tango clothing: Dress at knee-length combined with leggings. Many tango ladies today wear long wide trousers with slits and/or trousers with ribbons swinging around the ankles. This looks nice but time and again creates problems while dancing Tango because they get easily caught in their own heels. Especially when the heels are high. Actually, I see it happen almost every time I go out dancing Tango.",
-                "provenance": [
-                    "MARCO_16_2206432408-20"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "Thanks, but I’m not asking about clothing. Why is it important historically?",
-                "manual_rewritten_utterance": "Thanks, but I’m not asking about clothing. Why is tango important to the history of Argentina?"
+                "number": "4-1",
+                "utterance": "What are they known for?",
+                "manual_rewritten_utterance": "What are portenos known for?"
             }
         ]
     },
     {
         "number": 142,
-        "title": "South American culture",
         "turn": [
             {
                 "number": "1-1",
@@ -1668,24 +1574,14 @@
                 ]
             },
             {
-                "number": "1-3",
-                "utterance": "What makes it the capital?",
-                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
-                "response": "The United Provinces of the Rio de la Plata became independent from Spain in 1816. The union was made up of numerous provinces that now form the following countries: Argentina, Paraguay, Bolivia, and Uruguay. After a battle for independence, a group of provinces united to form the Argentine Republic. The culture and population of Argentina were shaped by immigrants from different parts of Europe. Spain and Italy were the biggest contributors of newcomers between 1806 and 1930. Fun Facts About Argentina The belief that the country held a great wealth of silver deposits resulted in the name \"Argentina.\" With an area of 1,073,500 square miles, Argentina is the second largest country in Latin America, the eighth largest country in the world, and the largest Spanish-speaking country in the world.",
-                "provenance": [
-                    "MARCO_58_1484971106-1"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires.",
-                "manual_rewritten_utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires."
+                "number": "7-1",
+                "utterance": "I like hiking and Malbec. You mentioned some high peaks. How can I explore both?",
+                "manual_rewritten_utterance": "I like hiking and Malbec wine. You mentioned some high peaks. How can I hike some high mountains and visit some wineries famous for Malbec?"
             }
         ]
     },
     {
         "number": 142,
-        "title": "South American culture",
         "turn": [
             {
                 "number": "1-1",
@@ -1733,7 +1629,6 @@
     },
     {
         "number": 142,
-        "title": "South American culture",
         "turn": [
             {
                 "number": "1-1",
@@ -1747,46 +1642,32 @@
                 ]
             },
             {
-                "number": "7-1",
-                "utterance": "I like hiking and Malbec. You mentioned some high peaks. How can I explore both?",
-                "manual_rewritten_utterance": "I like hiking and Malbec wine. You mentioned some high peaks. How can I hike some high mountains and visit some wineries famous for Malbec?"
+                "number": "5-1",
+                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
+                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
+                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
+                "provenance": [
+                    "MARCO_36_259036096-1"
+                ]
+            },
+            {
+                "number": "5-3",
+                "utterance": "No, what are some popular dishes?",
+                "manual_rewritten_utterance": "What are some popular meat dishes?",
+                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
+                "provenance": [
+                    "MARCO_16_2206432408-11"
+                ]
+            },
+            {
+                "number": "8-1",
+                "utterance": "How about in Chile?",
+                "manual_rewritten_utterance": "What are some popular meat dishes in Chile?"
             }
         ]
     },
     {
         "number": 142,
-        "title": "South American culture",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I know about Argentina?",
-                "manual_rewritten_utterance": "What should I know about Argentina?",
-                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
-                "provenance": [
-                    "MARCO_29_1447088347-1",
-                    "MARCO_29_1447088347-2",
-                    "MARCO_29_1447088347-5"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "What makes it the capital?",
-                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
-                "response": "Buenos Aires is a grandiose city with wide avenues and a vibrant cosmopolitan flair that is more generally European than Latin American in character. Having little colonial architecture and few landmark buildings, Buenos Aires is chiefly a city of distinctive neighbourhoods that have their own meeting places, generally coffeehouses or bars. This is a tradition rooted in the colonial period when the centre of each neighbourhood was a general store and bar known as a pulpería. The energy and bustle of modern Buenos Aires is most evident in the city centre—the locus of entertainment, shopping, and café-going. Porteños relish politics, football (soccer), and the city’s cultural offerings. At night Buenos Aires’s boites (nightclubs) swell with revellers dancing the tango, the emotional dance that originated in the lower-class areas of the city and that is said to reflect the essence of the soul of the porteño.",
-                "provenance": [
-                    "MARCO_34_1754594337-3"
-                ]
-            },
-            {
-                "number": "4-1",
-                "utterance": "What are they known for?",
-                "manual_rewritten_utterance": "What are portenos known for?"
-            }
-        ]
-    },
-    {
-        "number": 142,
-        "title": "South American culture",
         "turn": [
             {
                 "number": "1-1",
@@ -1821,7 +1702,6 @@
     },
     {
         "number": 142,
-        "title": "South American culture",
         "turn": [
             {
                 "number": "1-1",
@@ -1878,8 +1758,92 @@
         ]
     },
     {
+        "number": 142,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I know about Argentina?",
+                "manual_rewritten_utterance": "What should I know about Argentina?",
+                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
+                "provenance": [
+                    "MARCO_29_1447088347-1",
+                    "MARCO_29_1447088347-2",
+                    "MARCO_29_1447088347-5"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "What makes it the capital?",
+                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
+                "response": "Buenos Aires is a grandiose city with wide avenues and a vibrant cosmopolitan flair that is more generally European than Latin American in character. Having little colonial architecture and few landmark buildings, Buenos Aires is chiefly a city of distinctive neighbourhoods that have their own meeting places, generally coffeehouses or bars. This is a tradition rooted in the colonial period when the centre of each neighbourhood was a general store and bar known as a pulpería. The energy and bustle of modern Buenos Aires is most evident in the city centre—the locus of entertainment, shopping, and café-going. Porteños relish politics, football (soccer), and the city’s cultural offerings. At night Buenos Aires’s boites (nightclubs) swell with revellers dancing the tango, the emotional dance that originated in the lower-class areas of the city and that is said to reflect the essence of the soul of the porteño.",
+                "provenance": [
+                    "MARCO_34_1754594337-3"
+                ]
+            },
+            {
+                "number": "2-2",
+                "utterance": "What makes their culture distinct from the rest of the country?",
+                "manual_rewritten_utterance": "What makes the culture of Porteños distinct from the rest of Argentina?",
+                "response": "The Argentine people take great pride in the fact that Pope Francis is from Buenos Aires, Argentina, and the country boasts one of the highest literacy rates in South America with women leading the way. Argentina has a rich cultural history with lifestyles uniquely their own. The Tango, Merienda, and Gauchos are just a few examples.",
+                "provenance": [
+                    "MARCO_55_1245662540-1"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "You’ve mentioned that several times now. Tell me more.",
+                "manual_rewritten_utterance": "You’ve mentioned the tango several times now. Tell me more.",
+                "response": "I’m not sure I understand. What would you like more information about?",
+                "provenance": []
+            },
+            {
+                "number": "3-3",
+                "utterance": "I meant the tango.",
+                "manual_rewritten_utterance": "Tell me more about the tango.",
+                "response": "What kind of clothing women should wear for dancing Tango? A nice option for Tango clothing: Dress at knee-length combined with leggings. Many tango ladies today wear long wide trousers with slits and/or trousers with ribbons swinging around the ankles. This looks nice but time and again creates problems while dancing Tango because they get easily caught in their own heels. Especially when the heels are high. Actually, I see it happen almost every time I go out dancing Tango.",
+                "provenance": [
+                    "MARCO_16_2206432408-20"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "Thanks, but I’m not asking about clothing. Why is it important historically?",
+                "manual_rewritten_utterance": "Thanks, but I’m not asking about clothing. Why is tango important to the history of Argentina?"
+            }
+        ]
+    },
+    {
+        "number": 142,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I know about Argentina?",
+                "manual_rewritten_utterance": "What should I know about Argentina?",
+                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
+                "provenance": [
+                    "MARCO_29_1447088347-1",
+                    "MARCO_29_1447088347-2",
+                    "MARCO_29_1447088347-5"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "What makes it the capital?",
+                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
+                "response": "The United Provinces of the Rio de la Plata became independent from Spain in 1816. The union was made up of numerous provinces that now form the following countries: Argentina, Paraguay, Bolivia, and Uruguay. After a battle for independence, a group of provinces united to form the Argentine Republic. The culture and population of Argentina were shaped by immigrants from different parts of Europe. Spain and Italy were the biggest contributors of newcomers between 1806 and 1930. Fun Facts About Argentina The belief that the country held a great wealth of silver deposits resulted in the name \"Argentina.\" With an area of 1,073,500 square miles, Argentina is the second largest country in Latin America, the eighth largest country in the world, and the largest Spanish-speaking country in the world.",
+                "provenance": [
+                    "MARCO_58_1484971106-1"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires.",
+                "manual_rewritten_utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires."
+            }
+        ]
+    },
+    {
         "number": 143,
-        "title": "Open Banking",
         "turn": [
             {
                 "number": "1-1",
@@ -1982,7 +1946,43 @@
     },
     {
         "number": 144,
-        "title": "Rocket engines",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I wish I saw the launch of falcon heavy in person, those two booster engines landing were incredible. They mentioned reusability though, what does that mean here and why do they care?",
+                "manual_rewritten_utterance": "What does SpaceX's rocket engine reusability mean and why do they care?",
+                "response": "Reusability in the context of space flight is when one or more components of a rocket after a launch can be used for future missions. This can dramatically reduce the cost of repeated launches if little maintenance is needed for the reused components. It is beneficial to the company since it means they can make more launches at a reduced cost.",
+                "provenance": [
+                    "MARCO_39_444862558-2",
+                    "MARCO_44_613784868-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "Wow, how come it’s not more important? When did people first start caring?",
+                "manual_rewritten_utterance": "When did people first start caring about rocket engine reusability?",
+                "response": "People have always cared about rocket reusability since it is a great way to drive down cost. Reusable rockets are only valuable if the frequency of launches is great enough to outweigh the cost of developing and utilizing the technology. In 1981, NASA’s Space Shuttle was the first reusable system to reach orbit but it failed to reach its goal to drive down the cost of repeated spaceflight and was decommissioned.",
+                "provenance": [
+                    "MARCO_40_1275785480-2",
+                    "KILT_336014-1",
+                    "MARCO_27_1287682760-2"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "That’s a shame, what made it so hard to reuse?",
+                "manual_rewritten_utterance": "What made the space shuttle so hard to reuse?",
+                "response": "The space shuttle was made up of three parts: the shuttle itself, an external fuel tank, and two solid rocket booster engines. The External Tank was not reusable. A new one was built for every flight. The solid rocket boosters were recovered from their water landing, broken into their segments and shipped back to Utah where they were cleaned out, repaired if necessary, and refuelled. Estimates suggest that the cost of refurbishment was about the same as if they had built new ones each time.  The orbiter was re-usable, but the amount of time it took between flights to refurbish it was quite lengthy and costly. The original claimed goal was a 1-week turnaround. But the reality was on the order of months.",
+                "provenance": [
+                    "MARCO_04_214047203-2",
+                    "MARCO_52_1604550369-2",
+                    "MARCO_52_1604550369-3"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 144,
         "turn": [
             {
                 "number": "1-1",
@@ -2106,45 +2106,6 @@
     },
     {
         "number": 144,
-        "title": "Rocket engines",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I wish I saw the launch of falcon heavy in person, those two booster engines landing were incredible. They mentioned reusability though, what does that mean here and why do they care?",
-                "manual_rewritten_utterance": "What does SpaceX's rocket engine reusability mean and why do they care?",
-                "response": "Reusability in the context of space flight is when one or more components of a rocket after a launch can be used for future missions. This can dramatically reduce the cost of repeated launches if little maintenance is needed for the reused components. It is beneficial to the company since it means they can make more launches at a reduced cost.",
-                "provenance": [
-                    "MARCO_39_444862558-2",
-                    "MARCO_44_613784868-2"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "Wow, how come it’s not more important? When did people first start caring?",
-                "manual_rewritten_utterance": "When did people first start caring about rocket engine reusability?",
-                "response": "People have always cared about rocket reusability since it is a great way to drive down cost. Reusable rockets are only valuable if the frequency of launches is great enough to outweigh the cost of developing and utilizing the technology. In 1981, NASA’s Space Shuttle was the first reusable system to reach orbit but it failed to reach its goal to drive down the cost of repeated spaceflight and was decommissioned.",
-                "provenance": [
-                    "MARCO_40_1275785480-2",
-                    "KILT_336014-1",
-                    "MARCO_27_1287682760-2"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "That’s a shame, what made it so hard to reuse?",
-                "manual_rewritten_utterance": "What made the space shuttle so hard to reuse?",
-                "response": "The space shuttle was made up of three parts: the shuttle itself, an external fuel tank, and two solid rocket booster engines. The External Tank was not reusable. A new one was built for every flight. The solid rocket boosters were recovered from their water landing, broken into their segments and shipped back to Utah where they were cleaned out, repaired if necessary, and refuelled. Estimates suggest that the cost of refurbishment was about the same as if they had built new ones each time.  The orbiter was re-usable, but the amount of time it took between flights to refurbish it was quite lengthy and costly. The original claimed goal was a 1-week turnaround. But the reality was on the order of months.",
-                "provenance": [
-                    "MARCO_04_214047203-2",
-                    "MARCO_52_1604550369-2",
-                    "MARCO_52_1604550369-3"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 144,
-        "title": "Rocket engines",
         "turn": [
             {
                 "number": "1-1",
@@ -2268,7 +2229,49 @@
     },
     {
         "number": 145,
-        "title": "coral reefs",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What is happening to the corals?",
+                "manual_rewritten_utterance": "What is happening to the corals?",
+                "response": "coral reefs are one of the most valuable ecosystems on Earth. They provide billions of dollars in economic and environmental services, such as food, coastal protection and tourism. However, coral ecosystems face serious threats, mainly from the effects of global climate change, unsustainable fishing and land-based pollution. Today, these important habitats are threatened by a range of human activities. Many of the world’s reefs have already been destroyed or severely damaged by pollution, unsustainable fishing practices, disease, global climate change, ship groundings and other impacts.",
+                "provenance": [
+                    "MARCO_48_932996886-1",
+                    "MARCO_48_932996886-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "What happens if they all die?",
+                "manual_rewritten_utterance": "What happens when all corals die?",
+                "response": "The day the reefs disappeared, marine biodiversity would suffer huge losses. The ocean bottom would be taken over by forests of seaweed. Maybe it’s time to give jellyfish soup a try since there would be plenty of them in the ocean. But for many unique species of fish in the ocean, corals are their only safe habitat. A lot of them would be lost for good. The same goes for sea turtles. Since corals are filter feeders, they clean the water. The remaining species, including dolphins, would be left to survive in very murky waters. They might soon disappear as well since when the corals disappear, there would be very little fish for them to feed on.",
+                "provenance": [
+                    "MARCO_22_1063811612-3"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "OK, so it’s not good for animals, but what is the impact on us?",
+                "manual_rewritten_utterance": "What is the impact of dead corals on humans?",
+                "response": "Degraded coral reefs are less able to provide the ecosystem services on which local human communities depend. For example, degraded reefs are less productive and may not be able to sustain accretion rates necessary to ensure reefs continue to provide shoreline protection services. Reefs damaged by coral bleaching can quickly lose many of the features that underpin the aesthetic appeal that is fundamental to reef tourism. The resultant loss of revenue from reduced tourist activity can threaten the livelihoods of local communities. Coral bleaching events that lead to significant coral mortality can drive large shifts in fish communities. This can translate into reduced catches for fishers targeting reef fish species, which in turn leads to impacts on food supply and associated economic activities. Cultural values of many tropical island communities (e.g., religious sites and traditional uses of marine resources) depend upon healthy coral reef ecosystems and can be adversely affected by coral bleaching. Coral reefs are a valuable source of pharmaceutical compounds.",
+                "provenance": [
+                    "MARCO_27_458412740-2"
+                ]
+            },
+            {
+                "number": "1-7",
+                "utterance": "Does coral also not do things to capture carbon?",
+                "manual_rewritten_utterance": "Do corals capture carbon?",
+                "response": "Much of the disagreement turns on where carbon in the corals is coming from. Roark, currently at Texas A&M University in College Station, now claims to have confirmed his earlier results by looking closely at how the corals obtain their carbon. Carbon capture and storage When growing their skeletons, corals use carbon that is found as either dissolved inorganic carbon or particulate organic carbon in the surrounding waters. As they get larger, corals grow in a tree-like fashion, forming growth rings. Coral reefs are important in determining the amount of carbon dioxide in the atmosphere. The zooxanthellae algae, through photosynthesis, remove carbon dioxide from the air and make carbohydrates available as food for both the zooxanthellae and the coral polyps.",
+                "provenance": [
+                    "MARCO_08_339400141-2",
+                    "MARCO_05_549260636-2"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 145,
         "turn": [
             {
                 "number": "1-1",
@@ -2328,52 +2331,7 @@
         ]
     },
     {
-        "number": 145,
-        "title": "coral reefs",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What is happening to the corals?",
-                "manual_rewritten_utterance": "What is happening to the corals?",
-                "response": "coral reefs are one of the most valuable ecosystems on Earth. They provide billions of dollars in economic and environmental services, such as food, coastal protection and tourism. However, coral ecosystems face serious threats, mainly from the effects of global climate change, unsustainable fishing and land-based pollution. Today, these important habitats are threatened by a range of human activities. Many of the world’s reefs have already been destroyed or severely damaged by pollution, unsustainable fishing practices, disease, global climate change, ship groundings and other impacts.",
-                "provenance": [
-                    "MARCO_48_932996886-1",
-                    "MARCO_48_932996886-2"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "What happens if they all die?",
-                "manual_rewritten_utterance": "What happens when all corals die?",
-                "response": "The day the reefs disappeared, marine biodiversity would suffer huge losses. The ocean bottom would be taken over by forests of seaweed. Maybe it’s time to give jellyfish soup a try since there would be plenty of them in the ocean. But for many unique species of fish in the ocean, corals are their only safe habitat. A lot of them would be lost for good. The same goes for sea turtles. Since corals are filter feeders, they clean the water. The remaining species, including dolphins, would be left to survive in very murky waters. They might soon disappear as well since when the corals disappear, there would be very little fish for them to feed on.",
-                "provenance": [
-                    "MARCO_22_1063811612-3"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "OK, so it’s not good for animals, but what is the impact on us?",
-                "manual_rewritten_utterance": "What is the impact of dead corals on humans?",
-                "response": "Degraded coral reefs are less able to provide the ecosystem services on which local human communities depend. For example, degraded reefs are less productive and may not be able to sustain accretion rates necessary to ensure reefs continue to provide shoreline protection services. Reefs damaged by coral bleaching can quickly lose many of the features that underpin the aesthetic appeal that is fundamental to reef tourism. The resultant loss of revenue from reduced tourist activity can threaten the livelihoods of local communities. Coral bleaching events that lead to significant coral mortality can drive large shifts in fish communities. This can translate into reduced catches for fishers targeting reef fish species, which in turn leads to impacts on food supply and associated economic activities. Cultural values of many tropical island communities (e.g., religious sites and traditional uses of marine resources) depend upon healthy coral reef ecosystems and can be adversely affected by coral bleaching. Coral reefs are a valuable source of pharmaceutical compounds.",
-                "provenance": [
-                    "MARCO_27_458412740-2"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Does coral also not do things to capture carbon?",
-                "manual_rewritten_utterance": "Do corals capture carbon?",
-                "response": "Much of the disagreement turns on where carbon in the corals is coming from. Roark, currently at Texas A&M University in College Station, now claims to have confirmed his earlier results by looking closely at how the corals obtain their carbon. Carbon capture and storage When growing their skeletons, corals use carbon that is found as either dissolved inorganic carbon or particulate organic carbon in the surrounding waters. As they get larger, corals grow in a tree-like fashion, forming growth rings. Coral reefs are important in determining the amount of carbon dioxide in the atmosphere. The zooxanthellae algae, through photosynthesis, remove carbon dioxide from the air and make carbohydrates available as food for both the zooxanthellae and the coral polyps.",
-                "provenance": [
-                    "MARCO_08_339400141-2",
-                    "MARCO_05_549260636-2"
-                ]
-            }
-        ]
-    },
-    {
         "number": 146,
-        "title": "bikepacking",
         "turn": [
             {
                 "number": "1-1",
@@ -2431,7 +2389,86 @@
     },
     {
         "number": 147,
-        "title": "Marvel Cinematic Universe",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Marvel movies are all the rage now. What do you think is the best one?",
+                "manual_rewritten_utterance": "What do you think is the best Marvel movie?",
+                "response": "Captain America: The Winter Soldier (2014) is the best Marvel movie. The Winter Soldier set a new precedent for the MCU. The Captain America sequel is a totally different take on the universe – a ’70s Cold War thriller that doesn't put a foot wrong. Hell, The Winter Soldier should be named one of the best Marvel movies of all time for the elevator scene alone; a moment so memorable it was homaged in Avengers: Endgame. The movie also has far-reaching implications for the rest of the Marvel universe – such as that SHIELD reveal – and establishes the resurrected Bucky Barnes as a major piece in the puzzle for years to come.",
+                "provenance": [
+                    "MARCO_41_107614308-20"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "I’ve never considered that one. It’s been a while since I saw it too. Remind me of the iconic scene.",
+                "manual_rewritten_utterance": "Remind me of the elevator scene from Captain America: The Winter Soldier (2014)",
+                "response": "The famous elevator sequence finds Cap gradually surrounded by enemies in a tight space. However, he quickly proves that he's not the one in danger as he brutally and effectively takes out the room full of mercenaries in a thrilling scene. This fight is great partially because the choreography is a badass masterpiece (badassterpiece?), but more importantly because it inspired Community to do an incredible parody with Dean Pelton.",
+                "provenance": [
+                    "MARCO_35_1383480701-4",
+                    "MARCO_40_89064169-3"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "I found other fight scenes more powerful. Like the “Avengers Assemble” scene in Endgame.",
+                "manual_rewritten_utterance": "I found the “Avengers Assemble” scene in Endgame more powerful than the elevator scene in Winter Soldier",
+                "response": "That was an iconic scene as well. When Captain America finally said \"Avengers Assemble!\" in Endgame, he made every hero standing beside him an Avenger. Cap did say it at the end of Avengers: Age of Ultron when he and Black Widow put together a new Avengers team, but Joss Whedon's film cheekily cut off the second half of the phrase. In Infinity War, Rogers had spent two years as a fugitive, and the heroes who joined King T'Challa's army defending Wakanda couldn't be really considered a true Avengers team. But in Endgame, Captain America had the authority to make the call and by declaring every hero standing with him an Avenger, he unified the gigantic fighting force to the singular cause of beating Thanos once and for all. Cap making everyone fighting Thanos an Avenger in Endgame is a spiritual successor to Clint Barton's speech to Wanda Maximoff at the Battle of Sokovia in Age of Ultron. Terrified for her life, Hawkeye motivated Scarlet Witch to find her courage and fight, telling her, \"If you walk out that door, you are an Avenger.\" In Endgame, everyone who walked through a magic portal and joined the superheroes who travelled through time to resurrect them was an Avenger by Captain America's decree. The moment is so rousing and iconic, Cap's words also brought the audience into the fight so that every fan who felt uplifted could also imagine themselves as Avengers.",
+                "provenance": [
+                    "MARCO_27_1437608994-1",
+                    "MARCO_27_1437608994-4"
+                ]
+            },
+            {
+                "number": "1-7",
+                "utterance": "Agreed. Let’s talk about some of the movie’s implications for the MCU.",
+                "manual_rewritten_utterance": "Let’s talk about Captain America The Winter Soldier’s far-reaching implications for the Marvel Cinematic Universe.",
+                "response": "The Winter Soldier not only marked a seismic shift in the very fabric of the MCU with its reveal that Hydra was part of SHIELD's very inception, but it was also a Marvel movie unlike any other: a gritty, action yarn stepped in the paranoid conspiracy of a 1970s Cold War political thriller - and it worked like gangbusters. The Winter Soldier brought back the tragic Bucky Barnes/The Winter Soldier (Sebastian Stan) and introduced Sam Wilson/The Falcon (Anthony Mackie) while simultaneously deepening the characters of Steve Rogers and Natasha Romanoff/Black Widow (Scarlett Johansson), making them all flawed but admirable flesh-and-blood people.",
+                "provenance": [
+                    "MARCO_27_1456317022-6"
+                ]
+            },
+            {
+                "number": "1-9",
+                "utterance": "That’s a fair point, but I would argue that Iron man and Thor had great arcs in their movies as well.",
+                "manual_rewritten_utterance": "That’s a fair point, but I would argue that Iron man and Thor had great arcs like Captain America in their own movies.",
+                "response": "I disagree. The Winter Soldier and Civil War, together, truly forged Steve Rogers into a hero who fans could believe in, despite his doubts and mistakes, and they both rank among the finest superhero movies ever made. Captain America Has The MCU's Best Character Arc There's no finer character arc in the MCU than Captain America's and not even Iron Man's growth from egotist to world saviour holds quite the same impact as Steve Rogers' journey. Captain America: The First Avenger introduced Steve as a man weak of body but strong in fortitude and purity who was transformed into a paragon of human perfection yet remained, at his core, a good man. Steve was torn out of his own time and his hopes for a life with Peggy into the present day where he was a fish out of water fighting aliens as the ideal of \"Captain America\". The Winter Soldier forced Steve to connect with the people and world around him, forge friendships, and proved his absolute loyalty to Bucky even in the face of a global cataclysm.",
+                "provenance": [
+                    "MARCO_27_1456317022-7"
+                ]
+            },
+            {
+                "number": "1-11",
+                "utterance": "Okay, what is the future for the franchise?",
+                "manual_rewritten_utterance": "Okay, what is the future of the Marvel Cinematic Universe franchise?",
+                "response": "The answer to this question holds the possibility of a very fun, fantastical future for the MCU. Namor the Sub-Mariner would be a great addition to the Universe as he is one of the most prominent and long-running Avengers in the comics. He predates DC’s Aquaman by two years and like the orange-scaled Justice Leaguer, Namor is the son of a human man and an Atlantean princess. That character would be a great chance for Marvel to cast a South-Asian actor in a lead role.",
+                "provenance": [
+                    "MARCO_52_1094877669-2"
+                ]
+            },
+            {
+                "number": "1-13",
+                "utterance": "That’s a great point. What is their approach to diversity?",
+                "manual_rewritten_utterance": "That’s a great point. What is Marvel Studios’ approach to diversity?",
+                "response": "The past four films from the Marvel Cinematic Universe have featured a female lead of color. “Black Panther”, for example, spotlights the Oscar-winning Lupita Nyong’o as Nakia, a Wakandan spy. ComicsVerse CEO, Justin Gilbert Alba, said the push from fans for diversity in creators and characters only represents a loud minority.",
+                "provenance": [
+                    "MARCO_43_353595745-9",
+                    "WAPO_C6IMP7MJ3ZEQZJPNSY27GJGIQY-1"
+                ]
+            },
+            {
+                "number": "1-15",
+                "utterance": "Could you expand on that?",
+                "manual_rewritten_utterance": "Could you expand on Justin Gilbert Alba’s comments that the push from fans for diversity in creators and characters only represents a loud minority?",
+                "response": "When asking ComicsVerse CEO, Justin Gilbert Alba, how the recent outspoken push from fans for diversity in writers and characters affected the industry. He said: “Unfortunately, the push from fans for diversity in creators and characters only represents a loud minority. All too often, comics with diverse characters and creators are cancelled due to sagging sales despite critical acclaim. In regards to Marvel particularly, I applaud their attempts to make comics mirror the people who read them. That isn’t to say there isn’t a lot more that can’t be done, there definitely is. In my opinion, if we want real change in terms of minority representation in comics and comic book creators, there’s going to need to be a perfect storm of the right creator, the right characters, organic change, and a great marketing campaign with a definitive push for comics to reach new markets who, maybe, didn’t feel fully included in the past.”",
+                "provenance": [
+                    "MARCO_43_353595745-9"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 147,
         "turn": [
             {
                 "number": "1-1",
@@ -2530,140 +2567,7 @@
         ]
     },
     {
-        "number": 147,
-        "title": "Marvel Cinematic Universe",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "Marvel movies are all the rage now. What do you think is the best one?",
-                "manual_rewritten_utterance": "What do you think is the best Marvel movie?",
-                "response": "Captain America: The Winter Soldier (2014) is the best Marvel movie. The Winter Soldier set a new precedent for the MCU. The Captain America sequel is a totally different take on the universe – a ’70s Cold War thriller that doesn't put a foot wrong. Hell, The Winter Soldier should be named one of the best Marvel movies of all time for the elevator scene alone; a moment so memorable it was homaged in Avengers: Endgame. The movie also has far-reaching implications for the rest of the Marvel universe – such as that SHIELD reveal – and establishes the resurrected Bucky Barnes as a major piece in the puzzle for years to come.",
-                "provenance": [
-                    "MARCO_41_107614308-20"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "I’ve never considered that one. It’s been a while since I saw it too. Remind me of the iconic scene.",
-                "manual_rewritten_utterance": "Remind me of the elevator scene from Captain America: The Winter Soldier (2014)",
-                "response": "The famous elevator sequence finds Cap gradually surrounded by enemies in a tight space. However, he quickly proves that he's not the one in danger as he brutally and effectively takes out the room full of mercenaries in a thrilling scene. This fight is great partially because the choreography is a badass masterpiece (badassterpiece?), but more importantly because it inspired Community to do an incredible parody with Dean Pelton.",
-                "provenance": [
-                    "MARCO_35_1383480701-4",
-                    "MARCO_40_89064169-3"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "I found other fight scenes more powerful. Like the “Avengers Assemble” scene in Endgame.",
-                "manual_rewritten_utterance": "I found the “Avengers Assemble” scene in Endgame more powerful than the elevator scene in Winter Soldier",
-                "response": "That was an iconic scene as well. When Captain America finally said \"Avengers Assemble!\" in Endgame, he made every hero standing beside him an Avenger. Cap did say it at the end of Avengers: Age of Ultron when he and Black Widow put together a new Avengers team, but Joss Whedon's film cheekily cut off the second half of the phrase. In Infinity War, Rogers had spent two years as a fugitive, and the heroes who joined King T'Challa's army defending Wakanda couldn't be really considered a true Avengers team. But in Endgame, Captain America had the authority to make the call and by declaring every hero standing with him an Avenger, he unified the gigantic fighting force to the singular cause of beating Thanos once and for all. Cap making everyone fighting Thanos an Avenger in Endgame is a spiritual successor to Clint Barton's speech to Wanda Maximoff at the Battle of Sokovia in Age of Ultron. Terrified for her life, Hawkeye motivated Scarlet Witch to find her courage and fight, telling her, \"If you walk out that door, you are an Avenger.\" In Endgame, everyone who walked through a magic portal and joined the superheroes who travelled through time to resurrect them was an Avenger by Captain America's decree. The moment is so rousing and iconic, Cap's words also brought the audience into the fight so that every fan who felt uplifted could also imagine themselves as Avengers.",
-                "provenance": [
-                    "MARCO_27_1437608994-1",
-                    "MARCO_27_1437608994-4"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Agreed. Let’s talk about some of the movie’s implications for the MCU.",
-                "manual_rewritten_utterance": "Let’s talk about Captain America The Winter Soldier’s far-reaching implications for the Marvel Cinematic Universe.",
-                "response": "The Winter Soldier not only marked a seismic shift in the very fabric of the MCU with its reveal that Hydra was part of SHIELD's very inception, but it was also a Marvel movie unlike any other: a gritty, action yarn stepped in the paranoid conspiracy of a 1970s Cold War political thriller - and it worked like gangbusters. The Winter Soldier brought back the tragic Bucky Barnes/The Winter Soldier (Sebastian Stan) and introduced Sam Wilson/The Falcon (Anthony Mackie) while simultaneously deepening the characters of Steve Rogers and Natasha Romanoff/Black Widow (Scarlett Johansson), making them all flawed but admirable flesh-and-blood people.",
-                "provenance": [
-                    "MARCO_27_1456317022-6"
-                ]
-            },
-            {
-                "number": "1-9",
-                "utterance": "That’s a fair point, but I would argue that Iron man and Thor had great arcs in their movies as well.",
-                "manual_rewritten_utterance": "That’s a fair point, but I would argue that Iron man and Thor had great arcs like Captain America in their own movies.",
-                "response": "I disagree. The Winter Soldier and Civil War, together, truly forged Steve Rogers into a hero who fans could believe in, despite his doubts and mistakes, and they both rank among the finest superhero movies ever made. Captain America Has The MCU's Best Character Arc There's no finer character arc in the MCU than Captain America's and not even Iron Man's growth from egotist to world saviour holds quite the same impact as Steve Rogers' journey. Captain America: The First Avenger introduced Steve as a man weak of body but strong in fortitude and purity who was transformed into a paragon of human perfection yet remained, at his core, a good man. Steve was torn out of his own time and his hopes for a life with Peggy into the present day where he was a fish out of water fighting aliens as the ideal of \"Captain America\". The Winter Soldier forced Steve to connect with the people and world around him, forge friendships, and proved his absolute loyalty to Bucky even in the face of a global cataclysm.",
-                "provenance": [
-                    "MARCO_27_1456317022-7"
-                ]
-            },
-            {
-                "number": "1-11",
-                "utterance": "Okay, what is the future for the franchise?",
-                "manual_rewritten_utterance": "Okay, what is the future of the Marvel Cinematic Universe franchise?",
-                "response": "The answer to this question holds the possibility of a very fun, fantastical future for the MCU. Namor the Sub-Mariner would be a great addition to the Universe as he is one of the most prominent and long-running Avengers in the comics. He predates DC’s Aquaman by two years and like the orange-scaled Justice Leaguer, Namor is the son of a human man and an Atlantean princess. That character would be a great chance for Marvel to cast a South-Asian actor in a lead role.",
-                "provenance": [
-                    "MARCO_52_1094877669-2"
-                ]
-            },
-            {
-                "number": "1-13",
-                "utterance": "That’s a great point. What is their approach to diversity?",
-                "manual_rewritten_utterance": "That’s a great point. What is Marvel Studios’ approach to diversity?",
-                "response": "The past four films from the Marvel Cinematic Universe have featured a female lead of color. “Black Panther”, for example, spotlights the Oscar-winning Lupita Nyong’o as Nakia, a Wakandan spy. ComicsVerse CEO, Justin Gilbert Alba, said the push from fans for diversity in creators and characters only represents a loud minority.",
-                "provenance": [
-                    "MARCO_43_353595745-9",
-                    "WAPO_C6IMP7MJ3ZEQZJPNSY27GJGIQY-1"
-                ]
-            },
-            {
-                "number": "1-15",
-                "utterance": "Could you expand on that?",
-                "manual_rewritten_utterance": "Could you expand on Justin Gilbert Alba’s comments that the push from fans for diversity in creators and characters only represents a loud minority?",
-                "response": "When asking ComicsVerse CEO, Justin Gilbert Alba, how the recent outspoken push from fans for diversity in writers and characters affected the industry. He said: “Unfortunately, the push from fans for diversity in creators and characters only represents a loud minority. All too often, comics with diverse characters and creators are cancelled due to sagging sales despite critical acclaim. In regards to Marvel particularly, I applaud their attempts to make comics mirror the people who read them. That isn’t to say there isn’t a lot more that can’t be done, there definitely is. In my opinion, if we want real change in terms of minority representation in comics and comic book creators, there’s going to need to be a perfect storm of the right creator, the right characters, organic change, and a great marketing campaign with a definitive push for comics to reach new markets who, maybe, didn’t feel fully included in the past.”",
-                "provenance": [
-                    "MARCO_43_353595745-9"
-                ]
-            }
-        ]
-    },
-    {
         "number": 148,
-        "title": "Working in Tech",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "Tech salaries are all the rave now. How do I break in?",
-                "manual_rewritten_utterance": "Tech salaries are all the rave now. How do I break into the tech industry?",
-                "response": "Are you wanting to pursue a career in technology or engineering? If so, here are some tips for breaking into the industry and landing the job of your dreams. 1) Have relevant qualifications and experience. Do you need a degree to land a tech or engineering job? Well, according to Technology Director at reed.co.uk, Mark Ridley, the short answer is “No. Maybe.” He goes on to say that whilst mindset, personality and capacity to learn will put you in a favourable position, education will support you in advancing your own skills and knowledge which will, of course, have a positive impact on your career.",
-                "provenance": [
-                    "MARCO_19_1519183645-1"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "How so?",
-                "manual_rewritten_utterance": "How would education have a positive impact on my tech career?",
-                "response": "Having a degree, doing an apprenticeship or just simply carrying out work experience could all give you a way into the tech and engineering industries. If you’re just starting out in your career, why not consider studying a technology or engineering-related subject at University, such as Computer Science? Alternatively, study at college whilst working as an apprentice at a local company? Remember, breaking into the tech and engineering industries isn’t only possible for young people at the beginning of their careers. Those who are looking to change careers could consider studying at evening or weekend classes, or, if it is financially feasible, work part-time whilst studying.",
-                "provenance": [
-                    "MARCO_19_1519183645-2"
-                ]
-            },
-            {
-                "number": "2-1",
-                "utterance": "That’s not quite right. I’ve heard that it’s not as important as it used to be",
-                "manual_rewritten_utterance": "That’s not quite right. I’ve heard that having a degree is not as important as it used to be for breaking into the tech industry.",
-                "response": "That’s true. The days of jobs always requiring college degrees are over. Tech companies also care about what you can do and whether you know your stuff. That’s why step one is building a foundation of technical knowledge. The good news is that this has never been easier. Some resources can teach you whatever kind of technical skills you want to learn, ranging from web programming to machine learning algorithms.",
-                "provenance": [
-                    "MARCO_13_387296822-1"
-                ]
-            },
-            {
-                "number": "2-3",
-                "utterance": "How can I demonstrate this?",
-                "manual_rewritten_utterance": "How can I demonstrate my skills and expertise to tech companies?",
-                "response": "Build something. Learning something new is great, but the best way to show off your newfound tech prowess is by actually doing it. Companies are interested in seeing what you can make. The real-world projects part of each Udacity Nanodegree program will give you hands-on practice executing what you’ve learned. Coursework, personal projects (like scripts, mobile apps, and websites), and contributions to open source projects on websites like GitHub, are all great ways to market yourself. Does building a project alone sound daunting? Try checking out a local hackathon. There, you will work as part of a team to build something centered around a common goal or cause.",
-                "provenance": [
-                    "MARCO_13_387296822-2"
-                ]
-            },
-            {
-                "number": "2-5",
-                "utterance": "Say I’ve done all that and I get an interview. What next?",
-                "manual_rewritten_utterance": "What should I do next after getting an interview with a tech company?",
-                "response": "Tech industry interviews are usually a combination of discussing previous projects and then proving your coding and algorithm skills with some kind of paired programming or whiteboard walk-through. To prepare, review all of your coursework and check out the book Cracking the Coding Interview for practice problems. To get over the nerves of coding while someone watches, try asking a friend or family member to do a mock interview with you.",
-                "provenance": [
-                    "MARCO_13_387296822-3"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 148,
-        "title": "Working in Tech",
         "turn": [
             {
                 "number": "1-1",
@@ -2714,8 +2618,97 @@
         ]
     },
     {
+        "number": 148,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Tech salaries are all the rave now. How do I break in?",
+                "manual_rewritten_utterance": "Tech salaries are all the rave now. How do I break into the tech industry?",
+                "response": "Are you wanting to pursue a career in technology or engineering? If so, here are some tips for breaking into the industry and landing the job of your dreams. 1) Have relevant qualifications and experience. Do you need a degree to land a tech or engineering job? Well, according to Technology Director at reed.co.uk, Mark Ridley, the short answer is “No. Maybe.” He goes on to say that whilst mindset, personality and capacity to learn will put you in a favourable position, education will support you in advancing your own skills and knowledge which will, of course, have a positive impact on your career.",
+                "provenance": [
+                    "MARCO_19_1519183645-1"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "How so?",
+                "manual_rewritten_utterance": "How would education have a positive impact on my tech career?",
+                "response": "Having a degree, doing an apprenticeship or just simply carrying out work experience could all give you a way into the tech and engineering industries. If you’re just starting out in your career, why not consider studying a technology or engineering-related subject at University, such as Computer Science? Alternatively, study at college whilst working as an apprentice at a local company? Remember, breaking into the tech and engineering industries isn’t only possible for young people at the beginning of their careers. Those who are looking to change careers could consider studying at evening or weekend classes, or, if it is financially feasible, work part-time whilst studying.",
+                "provenance": [
+                    "MARCO_19_1519183645-2"
+                ]
+            },
+            {
+                "number": "2-1",
+                "utterance": "That’s not quite right. I’ve heard that it’s not as important as it used to be",
+                "manual_rewritten_utterance": "That’s not quite right. I’ve heard that having a degree is not as important as it used to be for breaking into the tech industry.",
+                "response": "That’s true. The days of jobs always requiring college degrees are over. Tech companies also care about what you can do and whether you know your stuff. That’s why step one is building a foundation of technical knowledge. The good news is that this has never been easier. Some resources can teach you whatever kind of technical skills you want to learn, ranging from web programming to machine learning algorithms.",
+                "provenance": [
+                    "MARCO_13_387296822-1"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "How can I demonstrate this?",
+                "manual_rewritten_utterance": "How can I demonstrate my skills and expertise to tech companies?",
+                "response": "Build something. Learning something new is great, but the best way to show off your newfound tech prowess is by actually doing it. Companies are interested in seeing what you can make. The real-world projects part of each Udacity Nanodegree program will give you hands-on practice executing what you’ve learned. Coursework, personal projects (like scripts, mobile apps, and websites), and contributions to open source projects on websites like GitHub, are all great ways to market yourself. Does building a project alone sound daunting? Try checking out a local hackathon. There, you will work as part of a team to build something centered around a common goal or cause.",
+                "provenance": [
+                    "MARCO_13_387296822-2"
+                ]
+            },
+            {
+                "number": "2-5",
+                "utterance": "Say I’ve done all that and I get an interview. What next?",
+                "manual_rewritten_utterance": "What should I do next after getting an interview with a tech company?",
+                "response": "Tech industry interviews are usually a combination of discussing previous projects and then proving your coding and algorithm skills with some kind of paired programming or whiteboard walk-through. To prepare, review all of your coursework and check out the book Cracking the Coding Interview for practice problems. To get over the nerves of coding while someone watches, try asking a friend or family member to do a mock interview with you.",
+                "provenance": [
+                    "MARCO_13_387296822-3"
+                ]
+            }
+        ]
+    },
+    {
         "number": 149,
-        "title": "Search Engine Bias",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Are search engines biased?",
+                "manual_rewritten_utterance": "Are search engines biased?",
+                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_14_257204425-2",
+                    "MARCO_53_1448548338-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "In what ways can they be biased?",
+                "manual_rewritten_utterance": "In what ways can search engines be biased?",
+                "response": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                "provenance": [
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "Yes, ideologically.",
+                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased ideologically?",
+                "response": "There are major search engine companies who intentionally steer users toward their ideology—more accurately they intentionally steer away from ideologies they don’t espouse and away from data and opinion that’s inconvenient to their own preferred narrative.",
+                "provenance": [
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 149,
         "turn": [
             {
                 "number": "1-1",
@@ -2787,7 +2780,52 @@
     },
     {
         "number": 149,
-        "title": "Search Engine Bias",
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "Are search engines biased?",
+                "manual_rewritten_utterance": "Are search engines biased?",
+                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
+                "provenance": [
+                    "MARCO_48_119371286-1",
+                    "MARCO_14_257204425-2",
+                    "MARCO_53_1448548338-2"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "How do you get impartial results?",
+                "manual_rewritten_utterance": "How do you get impartial results from search engines?",
+                "response": "Do you mean, search neutrality?",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "Um, what is search neutrality?",
+                "manual_rewritten_utterance": "Um, what is search neutrality?",
+                "response": "Search neutrality is the idea that a search engine does not limit or influence a person’s ability to access information on the internet. The search engine market is very one sided with just a couple companies controlling the entire market. “ Search neutrality is a principle that search engines should have no editorial policies other than that their results be comprehensive, impartial and based solely on relevance. This means that when a user queries a search engine, the engine should return the most relevant results found in the provider’s domain (those sites which the engine has knowledge of), without manipulating the order of the results (except to rank them by relevance), excluding results, or in any other way manipulating the results to a certain bias .”",
+                "provenance": [
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "No, I want to know how to get unbiased results.",
+                "manual_rewritten_utterance": "No, I want to know how to get unbiased results from a search engine.",
+                "response": "There are various alternative search engines that you could try that could give you more unbiased results. Would you like to know about them?",
+                "provenance": []
+            },
+            {
+                "number": "4-1",
+                "utterance": "No, how can i get less biased search results?",
+                "manual_rewritten_utterance": "No, how can i get less biased search results from a search engine?"
+            }
+        ]
+    },
+    {
+        "number": 149,
         "turn": [
             {
                 "number": "1-1",
@@ -2845,94 +2883,6 @@
                     "MARCO_43_236748055-1",
                     "KILT_45138227-1"
                 ]
-            }
-        ]
-    },
-    {
-        "number": 149,
-        "title": "Search Engine Bias",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "Are search engines biased?",
-                "manual_rewritten_utterance": "Are search engines biased?",
-                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
-                "provenance": [
-                    "MARCO_48_119371286-1",
-                    "MARCO_14_257204425-2",
-                    "MARCO_53_1448548338-2"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "In what ways can they be biased?",
-                "manual_rewritten_utterance": "In what ways can search engines be biased?",
-                "response": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
-                "provenance": [
-                    "MARCO_14_257204425-2",
-                    "MARCO_50_2268879788 -3",
-                    "MARCO_48_119371286-1",
-                    "MARCO_16_1884092099-3"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "Yes, ideologically.",
-                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased ideologically?",
-                "response": "There are major search engine companies who intentionally steer users toward their ideology—more accurately they intentionally steer away from ideologies they don’t espouse and away from data and opinion that’s inconvenient to their own preferred narrative.",
-                "provenance": [
-                    "MARCO_14_257204425-2",
-                    "MARCO_50_2268879788 -3",
-                    "MARCO_48_119371286-1",
-                    "MARCO_16_1884092099-3"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 149,
-        "title": "Search Engine Bias",
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "Are search engines biased?",
-                "manual_rewritten_utterance": "Are search engines biased?",
-                "response": "Search engines are not magically impartial arbiters. Search algorithms are not impartial. They can be biased, just like their designers. Search algorithms do not use objective criteria in generating their lists of results for search queries. Search engines may have completely positive intentions, but if their algorithms fail to give people objective and neutral results, they are failing. 93 percent of online experiences begin with a search engine. If the majority of people’s browsing is determined by a search engine, the search engines have a big responsibility to deliver a complete and accurate representation of information. Major search engines systematically favor some sites (and some kind of sites) over others in the lists of results they return in response to user search queries. Search algorithms do not use objective criteria in generating their lists of results for search queries.",
-                "provenance": [
-                    "MARCO_48_119371286-1",
-                    "MARCO_14_257204425-2",
-                    "MARCO_53_1448548338-2"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "How do you get impartial results?",
-                "manual_rewritten_utterance": "How do you get impartial results from search engines?",
-                "response": "Do you mean, search neutrality?",
-                "provenance": [
-                    "MARCO_14_257204425-1"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "Um, what is search neutrality?",
-                "manual_rewritten_utterance": "Um, what is search neutrality?",
-                "response": "Search neutrality is the idea that a search engine does not limit or influence a person’s ability to access information on the internet. The search engine market is very one sided with just a couple companies controlling the entire market. “ Search neutrality is a principle that search engines should have no editorial policies other than that their results be comprehensive, impartial and based solely on relevance. This means that when a user queries a search engine, the engine should return the most relevant results found in the provider’s domain (those sites which the engine has knowledge of), without manipulating the order of the results (except to rank them by relevance), excluding results, or in any other way manipulating the results to a certain bias .”",
-                "provenance": [
-                    "MARCO_14_257204425-1"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "No, I want to know how to get unbiased results.",
-                "manual_rewritten_utterance": "No, I want to know how to get unbiased results from a search engine.",
-                "response": "There are various alternative search engines that you could try that could give you more unbiased results. Would you like to know about them?",
-                "provenance": []
-            },
-            {
-                "number": "4-1",
-                "utterance": "No, how can i get less biased search results?",
-                "manual_rewritten_utterance": "No, how can i get less biased search results from a search engine?"
             }
         ]
     }
