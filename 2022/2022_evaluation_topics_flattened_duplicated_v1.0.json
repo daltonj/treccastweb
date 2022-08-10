@@ -120,39 +120,21 @@
                 ]
             },
             {
-                "number": "3-1",
-                "utterance": "Why?",
-                "manual_rewritten_utterance": "Why did President Trump intend to withdraw the US from the Paris Agreement?",
-                "response": "President Trump has long criticized the 2015 accord and insisted that the United States would exit it as soon as possible. As recently as last month, Trump called the agreement “a total disaster” and argued that the Obama administration’s pledges to cut carbon emissions under the deal would have “hurt the competitiveness” of the United States.",
+                "number": "2-11",
+                "utterance": "So what happens at each COP?",
+                "manual_rewritten_utterance": "So what happens at each Conference of Parties?",
+                "response": "The United Nations Climate Change Conference are yearly conferences held in the framework of the UNFCCC. They serve as the formal meeting of the UNFCCC Parties ( Conferences of the Parties) (COP) to assess progress in dealing with climate change and beginning in the mid-1990s, to negotiate the Kyoto Protocol to establish legally binding obligations for developed countries to reduce their greenhouse gas emissions. The first conference (COP1) was held in 1995 in Berlin. Negotiations for the Paris Agreement took place during COP22 in Marrakech, Morocco.",
                 "provenance": [
-                    "WAPO_BOUVWAKS4BEUNAH5I62TGMUQQQ-1"
+                    "MARCO_19_204123815-20"
                 ]
             },
             {
-                "number": "3-3",
-                "utterance": "How did other parties respond?",
-                "manual_rewritten_utterance": "How did other parties to the Paris Agreement feel about Trump’s intention of withdrawing the US from it?",
-                "response": "Several governments around the world expressed their disappointment at the withdrawal. Argentina’s President Mauricio Macri was \"deeply disappointed\" by the withdrawal, and ratified the Argentine support to the treaty. Australia’s Prime Minister Malcolm Turnbull said that the decision was \"disappointing\" and that \"we would prefer the United States to remain part of the agreement\". The opposition Australian Labor Party expressed similar sentiments. Austria’s President Alexander Van der Bellen said that US President Donald Trump's decision to leave the Paris accord only challenges Europe to double its efforts to do everything possible to protect the planet and save it for future generations. Belgium’s Prime Minister Charles Michel called the decision \"a brutal act\". Bangladeshi foreign ministry stated they were disappointed in Trump's decision, while Brazil's Federal ministries for foreign affairs and the environment issued a joint statement describing their \"profound concern and disappointment\".",
+                "number": "2-13",
+                "utterance": "How are the two different?",
+                "manual_rewritten_utterance": "How are the Kyoto Protocol and Paris Agreement different?",
+                "response": "While the Kyoto Protocol and Paris Agreement both set out to address climate change, there are some key differences between them. The Kyoto Protocol established top-down legally binding emissions reduction targets for developed nations. On the other hand, the Paris Agreement requires that all countries do their part to slash greenhouse gas emissions. No language is included about the commitments countries should make; nations can set their own emissions targets consistent with their level of development and technological advancement.",
                 "provenance": [
-                    "MARCO_19_26647369-20"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "Where does the US stand now that Biden is president?",
-                "manual_rewritten_utterance": "Where does the US stand on the Paris Agreement now that Biden is the President?",
-                "response": "President-elect Joe Biden has pledged to begin the process of rejoining the Paris agreement with the stroke of a pen. As important as this will be, a more significant demonstration of Biden’s determination to rejoin the international fight against climate change will come in the form of the target the United States then puts on the table as its contribution toward meeting the goals of the agreement. In 2015, the Obama administration committed to reducing U.S. emissions by 26 to 28 per cent below 2005 levels by 2025. The beating heart of the Paris agreement is its requirement that countries ratchet up their ambition every five years. And even though the rollbacks of the Trump administration mean the United States will now miss this target, Biden has committed to quickly put the country on an even steeper trajectory of cuts by 2030, en route to achieving net-zero emissions by 2050. The new 2030 target will be an early signal of where the rubber hits the road internationally for the Biden administration.",
-                "provenance": [
-                    "WAPO_4NDWLDDE4NBK3GY5STTAS5EYQQ-1"
-                ]
-            },
-            {
-                "number": "3-7",
-                "utterance": "And how are they doing?",
-                "manual_rewritten_utterance": "How is Biden's administration doing in regards to achieving its emissions targets?",
-                "response": "And, along with the administration’s willingness to use trade policy as a lever for climate action, it will be a key arrow in the United States’ diplomatic quiver for rallying other major emitters to increase their own targets. Analysis by the Asia Society Policy Institute and Climate Analytics shows that this target is likely to be somewhere between a 38 to 54 per cent cut in emissions below 2005 levels by 2030. This is based on an assessment of the Biden campaign’s clean energy and climate package, including his commitment to decarbonize the U.S. energy system by 2035 — the biggest element of the package by far. While this will not be enough to immediately align the United States with the Paris agreement’s goal of limiting global temperature increases to 1.5 degrees Celsius, it would represent a huge first restorative step within a relatively short period. Importantly, given uncertainties about the makeup of the Senate, the report also finds that around half of Biden’s plans could be achieved without the need for congressional support.",
-                "provenance": [
-                    "WAPO_4NDWLDDE4NBK3GY5STTAS5EYQQ-2"
+                    "MARCO_48_1251187189-20"
                 ]
             }
         ]
@@ -231,21 +213,39 @@
                 ]
             },
             {
-                "number": "2-11",
-                "utterance": "So what happens at each COP?",
-                "manual_rewritten_utterance": "So what happens at each Conference of Parties?",
-                "response": "The United Nations Climate Change Conference are yearly conferences held in the framework of the UNFCCC. They serve as the formal meeting of the UNFCCC Parties ( Conferences of the Parties) (COP) to assess progress in dealing with climate change and beginning in the mid-1990s, to negotiate the Kyoto Protocol to establish legally binding obligations for developed countries to reduce their greenhouse gas emissions. The first conference (COP1) was held in 1995 in Berlin. Negotiations for the Paris Agreement took place during COP22 in Marrakech, Morocco.",
+                "number": "3-1",
+                "utterance": "Why?",
+                "manual_rewritten_utterance": "Why did President Trump intend to withdraw the US from the Paris Agreement?",
+                "response": "President Trump has long criticized the 2015 accord and insisted that the United States would exit it as soon as possible. As recently as last month, Trump called the agreement “a total disaster” and argued that the Obama administration’s pledges to cut carbon emissions under the deal would have “hurt the competitiveness” of the United States.",
                 "provenance": [
-                    "MARCO_19_204123815-20"
+                    "WAPO_BOUVWAKS4BEUNAH5I62TGMUQQQ-1"
                 ]
             },
             {
-                "number": "2-13",
-                "utterance": "How are the two different?",
-                "manual_rewritten_utterance": "How are the Kyoto Protocol and Paris Agreement different?",
-                "response": "While the Kyoto Protocol and Paris Agreement both set out to address climate change, there are some key differences between them. The Kyoto Protocol established top-down legally binding emissions reduction targets for developed nations. On the other hand, the Paris Agreement requires that all countries do their part to slash greenhouse gas emissions. No language is included about the commitments countries should make; nations can set their own emissions targets consistent with their level of development and technological advancement.",
+                "number": "3-3",
+                "utterance": "How did other parties respond?",
+                "manual_rewritten_utterance": "How did other parties to the Paris Agreement feel about Trump’s intention of withdrawing the US from it?",
+                "response": "Several governments around the world expressed their disappointment at the withdrawal. Argentina’s President Mauricio Macri was \"deeply disappointed\" by the withdrawal, and ratified the Argentine support to the treaty. Australia’s Prime Minister Malcolm Turnbull said that the decision was \"disappointing\" and that \"we would prefer the United States to remain part of the agreement\". The opposition Australian Labor Party expressed similar sentiments. Austria’s President Alexander Van der Bellen said that US President Donald Trump's decision to leave the Paris accord only challenges Europe to double its efforts to do everything possible to protect the planet and save it for future generations. Belgium’s Prime Minister Charles Michel called the decision \"a brutal act\". Bangladeshi foreign ministry stated they were disappointed in Trump's decision, while Brazil's Federal ministries for foreign affairs and the environment issued a joint statement describing their \"profound concern and disappointment\".",
                 "provenance": [
-                    "MARCO_48_1251187189-20"
+                    "MARCO_19_26647369-20"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "Where does the US stand now that Biden is president?",
+                "manual_rewritten_utterance": "Where does the US stand on the Paris Agreement now that Biden is the President?",
+                "response": "President-elect Joe Biden has pledged to begin the process of rejoining the Paris agreement with the stroke of a pen. As important as this will be, a more significant demonstration of Biden’s determination to rejoin the international fight against climate change will come in the form of the target the United States then puts on the table as its contribution toward meeting the goals of the agreement. In 2015, the Obama administration committed to reducing U.S. emissions by 26 to 28 per cent below 2005 levels by 2025. The beating heart of the Paris agreement is its requirement that countries ratchet up their ambition every five years. And even though the rollbacks of the Trump administration mean the United States will now miss this target, Biden has committed to quickly put the country on an even steeper trajectory of cuts by 2030, en route to achieving net-zero emissions by 2050. The new 2030 target will be an early signal of where the rubber hits the road internationally for the Biden administration.",
+                "provenance": [
+                    "WAPO_4NDWLDDE4NBK3GY5STTAS5EYQQ-1"
+                ]
+            },
+            {
+                "number": "3-7",
+                "utterance": "And how are they doing?",
+                "manual_rewritten_utterance": "How is Biden's administration doing in regards to achieving its emissions targets?",
+                "response": "And, along with the administration’s willingness to use trade policy as a lever for climate action, it will be a key arrow in the United States’ diplomatic quiver for rallying other major emitters to increase their own targets. Analysis by the Asia Society Policy Institute and Climate Analytics shows that this target is likely to be somewhere between a 38 to 54 per cent cut in emissions below 2005 levels by 2030. This is based on an assessment of the Biden campaign’s clean energy and climate package, including his commitment to decarbonize the U.S. energy system by 2035 — the biggest element of the package by far. While this will not be enough to immediately align the United States with the Paris agreement’s goal of limiting global temperature increases to 1.5 degrees Celsius, it would represent a huge first restorative step within a relatively short period. Importantly, given uncertainties about the makeup of the Senate, the report also finds that around half of Biden’s plans could be achieved without the need for congressional support.",
+                "provenance": [
+                    "WAPO_4NDWLDDE4NBK3GY5STTAS5EYQQ-2"
                 ]
             }
         ]
@@ -287,48 +287,6 @@
                 "response": "There are deodorants for women that cost from $5 to $20 and more, but there’s no reason to spend more than a few dollars. While you can certainly spend more – there are designer, speciality, and natural products that cost more than $20 – most women can find an effective deodorant at the drugstore that costs about $5.",
                 "provenance": [
                     "MARCO_12_1385660336-6"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 133,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
-                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
-                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
-                "provenance": [
-                    "MARCO_41_1847614301-2"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "Can I make them at home?",
-                "manual_rewritten_utterance": "Can I make the beauty products at home?",
-                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
-                "provenance": [
-                    "MARCO_23_34363864-4"
-                ]
-            },
-            {
-                "number": "2-1",
-                "utterance": "Can you tell me how to make the first one at home?",
-                "manual_rewritten_utterance": "Can you tell me how to make a body scrub at home?",
-                "response": "Making your body scrub is so simple and inexpensive, it just makes sense. A homemade body scrub helps moisturize and exfoliate the skin, and with cold weather approaching it will make a killer gift this winter. It is simple to make and you can experiment with different sugars, Epsom salt, a variety of carrier oils, and essential oils. Feel free to get creative and fancy when making these scrubs; here is the basic recipe you can use to make a few batches. You’ll need 2 cups Epsom salts or sugar (use organic cane sugar, brown sugar, or regular granulated), 1 cup carrier oil (grapeseed, olive, sweet almond, sesame, and safflower are all good), and 8-10 drops of your favourite essential oil. First, add Epsom salts or sugar to a bowl and slowly begin stirring in the oil until the mixture is smooth, but not goopy (You may not need the full cup of oil). Then, add essential oil and any other fun additions and mix well. Spoon into a decorative container or glass jar with a tight-fitting lid. You should choose sugar for fine grain homemade body scrub, and Epsom salts for a larger grain scrub. The oil will separate in some of these scrubs, so it’s a good idea to attach a small spoon if giving away as a gift.",
-                "provenance": [
-                    "MARCO_38_286379417-3",
-                    "MARCO_38_286379417-2"
-                ]
-            },
-            {
-                "number": "2-3",
-                "utterance": "Cool. What about the second one?",
-                "manual_rewritten_utterance": "Cool. Can you tell me how to make a moisturizer at home?",
-                "response": "To make a natural face moisturizer using essential oils, add 1 ounce of carrot seed oil to 1 ounce of shea butter and 3 ounces of argan oil. To this, add 5 drops of lemongrass oil, 10 drops of lavender essential oil, and 6 drops of chamomile oil. Add shea butter and argan oil to a bowl and place it in warm water. After the butter melts, add carrot seed oil and the rest of the essential oils and blend. Never heat shea butter directly and use a double boiler to melt butter. You can use this natural face moisturizer daily for excellent results.",
-                "provenance": [
-                    "MARCO_54_2017241781-5"
                 ]
             }
         ]
@@ -397,6 +355,128 @@
                 "response": "Add fragrance or essential oil to unscented lotion. Allow for approximately 1/4 to 1/2 oz. of fragrance or essential oil per 16 oz. of lotion. Use a whisk or non-absorbent spoon to mix your lotion thoroughly. You can also add FDA-approved colorants at this time.",
                 "provenance": [
                     "MARCO_47_521703086-2"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 133,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I’d like to appreciate my mom by making her a pamper pack. What do you put in one?",
+                "manual_rewritten_utterance": "I’d like to appreciate my mum by making her a beauty pamper pack. What do you put in one?",
+                "response": "Beauty Products. Mother’s Day is a day to encourage your mom to pamper herself. There’s no better way to do this than with beauty products! You can fill her basket with those if you know what her favourites are—otherwise, select universal things, such as body cream and bubble baths.",
+                "provenance": [
+                    "MARCO_41_1847614301-2"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "Can I make them at home?",
+                "manual_rewritten_utterance": "Can I make the beauty products at home?",
+                "response": "Yes. You can make body scrubs, moisturizers, and make-up removers at home. Best of all, the ingredients you need, such as brown sugar, honey and olive oil, are all easy to come by. It might interest you to know that olive oil is the simplest, purest moisturizer in the world. It can be used anywhere on your body, including the extra dry spots like your elbows, knees and feet. It is also an excellent facial moisturizer, and if you decide to use it on your face, keep in mind that very little olive oil is needed. Too much will leave your skin feeling greasy and you may smell like an Italian restaurant.",
+                "provenance": [
+                    "MARCO_23_34363864-4"
+                ]
+            },
+            {
+                "number": "2-1",
+                "utterance": "Can you tell me how to make the first one at home?",
+                "manual_rewritten_utterance": "Can you tell me how to make a body scrub at home?",
+                "response": "Making your body scrub is so simple and inexpensive, it just makes sense. A homemade body scrub helps moisturize and exfoliate the skin, and with cold weather approaching it will make a killer gift this winter. It is simple to make and you can experiment with different sugars, Epsom salt, a variety of carrier oils, and essential oils. Feel free to get creative and fancy when making these scrubs; here is the basic recipe you can use to make a few batches. You’ll need 2 cups Epsom salts or sugar (use organic cane sugar, brown sugar, or regular granulated), 1 cup carrier oil (grapeseed, olive, sweet almond, sesame, and safflower are all good), and 8-10 drops of your favourite essential oil. First, add Epsom salts or sugar to a bowl and slowly begin stirring in the oil until the mixture is smooth, but not goopy (You may not need the full cup of oil). Then, add essential oil and any other fun additions and mix well. Spoon into a decorative container or glass jar with a tight-fitting lid. You should choose sugar for fine grain homemade body scrub, and Epsom salts for a larger grain scrub. The oil will separate in some of these scrubs, so it’s a good idea to attach a small spoon if giving away as a gift.",
+                "provenance": [
+                    "MARCO_38_286379417-3",
+                    "MARCO_38_286379417-2"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "Cool. What about the second one?",
+                "manual_rewritten_utterance": "Cool. Can you tell me how to make a moisturizer at home?",
+                "response": "To make a natural face moisturizer using essential oils, add 1 ounce of carrot seed oil to 1 ounce of shea butter and 3 ounces of argan oil. To this, add 5 drops of lemongrass oil, 10 drops of lavender essential oil, and 6 drops of chamomile oil. Add shea butter and argan oil to a bowl and place it in warm water. After the butter melts, add carrot seed oil and the rest of the essential oils and blend. Never heat shea butter directly and use a double boiler to melt butter. You can use this natural face moisturizer daily for excellent results.",
+                "provenance": [
+                    "MARCO_54_2017241781-5"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 134,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I consider when buying a phone?",
+                "manual_rewritten_utterance": "What should I consider when buying a phone?",
+                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
+                "provenance": [
+                    "MARCO_11_1166150088-3",
+                    "MARCO_33_69096130-9"
+                ]
+            },
+            {
+                "number": "2-1",
+                "utterance": "I've heard iPhones look and feel great. Should I get one?",
+                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
+                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
+                "provenance": [
+                    "MARCO_43_1521332427-1",
+                    "MARCO_43_1521332427-2"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "Okay, what other types are out there?",
+                "manual_rewritten_utterance": "Besides iPhones and Android phones, what other types of phones are out there?",
+                "response": "Whenever I read an Android or iPhone article, several commenters go off about the lack of mention of Windows Phone or Nokia, BlackBerry, or some other random platform. To be honest, these phones haven't hit the penetration level for people to pay that much attention to them. For example, while by all indications, Windows Phone 7 is excellent, there are just not that many out there. That's a shame, but it's true. They are not discussed because few people ask whether they should get a Windows Phone instead of an iPhone or Android phone. If you like to dance with the devil in the pale moonlight, go for one of these fringe phones. Otherwise, you're probably choosing Android or iPhone. Wrap-up So, as you can see, there's no clear winner.",
+                "provenance": [
+                    "MARCO_10_1605638999-9"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "Why not? Aren’t they as good?",
+                "manual_rewritten_utterance": "Why not?  Aren’t other mobile platforms as good as Android or iOS?",
+                "response": "If you care about having the best apps on your phone, you're better off with iPhone. They're better looking and, with a few exceptions like the gorgeous HTC One and Xiaomi Mi Note, there aren't many great-looking Android phones out there. Many are chunky and plasticky. The iPhone consistently has a better design than Android phones. Apple Pay is quickly becoming the best mobile payments system. Furthermore, You can't beat the Apple Store for customer support. Claudio Villa/Getty Images Where do you go if you have a problem with your Android phone? For many people, it's their carrier. But carriers don't have the same kind of support Apple provides at the Apple Store. If something goes wrong with your iPhone, or you just want to learn how to use it, Apple has you covered better than any Android phone maker.",
+                "provenance": [
+                    "MARCO_35_286262730-2"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "That’s more about phones than mobile platforms.",
+                "manual_rewritten_utterance": "That’s more about phones than mobile platforms.",
+                "response": "Okay. Thanks for the feedback.",
+                "provenance": []
+            }
+        ]
+    },
+    {
+        "number": 134,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I consider when buying a phone?",
+                "manual_rewritten_utterance": "What should I consider when buying a phone?",
+                "response": "What would you like to do with one?",
+                "provenance": []
+            },
+            {
+                "number": "4-2",
+                "utterance": "To run most aspects of my day-to-day life.",
+                "manual_rewritten_utterance": "I would like to run most aspects of my day-to-day life with my new phone.",
+                "response": "If you are a serious athlete, then the Garmin Vivoactive is a better sports watch. However, if you are more of a recreation runner like me then the Apple Watch may be perfectly acceptable.  Usually, runners run with their phones in their hands or strapped to their arms. Some reasons for this include capturing photos or having the means to call loved ones or 911 in case of an emergency. Recreational runners tend to run with their phones which might be why Apple chose not to put a GPS receiver in it.",
+                "provenance": [
+                    "MARCO_59_416161055-7"
+                ]
+            },
+            {
+                "number": "4-4",
+                "utterance": "That’s about a watch. What phone should I get?",
+                "manual_rewritten_utterance": "Your answer is for a watch. What type of phone should I get to run my day-to-day life?",
+                "response": "Most extra large smartphones come with exceptional battery life (by comparison, at least). For example, the iPhone 6 Plus averages about a day and a half of usage, even on heavier days. So if you find yourself struggling to make it a full day with your current phone, you might want to consider going up a size. Bigger phones are also better suited for consumption. Sure, most people still use smartphones to communicate, but fewer people are placing calls than a decade ago. Text-based communication, in many cases, is more convenient and timely. With larger displays and more capable processors, however, multimedia consumption has become a major part of mobile users’ daily habits. Reading the web, watching videos, playing games, and listening to music have all become a primary function of smartphones for mobile users. In many ways, a larger display is better suited for consumption. More data can be displayed at any given time on a web page or in a social feed, which means less scrolling.",
+                "provenance": [
+                    "MARCO_02_1027497681-3"
                 ]
             }
         ]
@@ -484,36 +564,6 @@
                 "number": "1-1",
                 "utterance": "What should I consider when buying a phone?",
                 "manual_rewritten_utterance": "What should I consider when buying a phone?",
-                "response": "What would you like to do with one?",
-                "provenance": []
-            },
-            {
-                "number": "4-2",
-                "utterance": "To run most aspects of my day-to-day life.",
-                "manual_rewritten_utterance": "I would like to run most aspects of my day-to-day life with my new phone.",
-                "response": "If you are a serious athlete, then the Garmin Vivoactive is a better sports watch. However, if you are more of a recreation runner like me then the Apple Watch may be perfectly acceptable.  Usually, runners run with their phones in their hands or strapped to their arms. Some reasons for this include capturing photos or having the means to call loved ones or 911 in case of an emergency. Recreational runners tend to run with their phones which might be why Apple chose not to put a GPS receiver in it.",
-                "provenance": [
-                    "MARCO_59_416161055-7"
-                ]
-            },
-            {
-                "number": "4-4",
-                "utterance": "That’s about a watch. What phone should I get?",
-                "manual_rewritten_utterance": "Your answer is for a watch. What type of phone should I get to run my day-to-day life?",
-                "response": "Most extra large smartphones come with exceptional battery life (by comparison, at least). For example, the iPhone 6 Plus averages about a day and a half of usage, even on heavier days. So if you find yourself struggling to make it a full day with your current phone, you might want to consider going up a size. Bigger phones are also better suited for consumption. Sure, most people still use smartphones to communicate, but fewer people are placing calls than a decade ago. Text-based communication, in many cases, is more convenient and timely. With larger displays and more capable processors, however, multimedia consumption has become a major part of mobile users’ daily habits. Reading the web, watching videos, playing games, and listening to music have all become a primary function of smartphones for mobile users. In many ways, a larger display is better suited for consumption. More data can be displayed at any given time on a web page or in a social feed, which means less scrolling.",
-                "provenance": [
-                    "MARCO_02_1027497681-3"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 134,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I consider when buying a phone?",
-                "manual_rewritten_utterance": "What should I consider when buying a phone?",
                 "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
                 "provenance": [
                     "MARCO_11_1166150088-3",
@@ -538,56 +588,6 @@
                 "provenance": [
                     "MARCO_43_1549898976-3"
                 ]
-            }
-        ]
-    },
-    {
-        "number": 134,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I consider when buying a phone?",
-                "manual_rewritten_utterance": "What should I consider when buying a phone?",
-                "response": "The design of the phone and the overall look and feel of the phone are very important. You should be comfortable with the way the phone looks and feels when you hold it in your hand. In addition, don’t be afraid to get a phone from a different manufacturer than you’re used to. Consider an older, used, or refurbished phone to save money. Sometimes a year-old or even a two-year-old device might give you everything you need.",
-                "provenance": [
-                    "MARCO_11_1166150088-3",
-                    "MARCO_33_69096130-9"
-                ]
-            },
-            {
-                "number": "2-1",
-                "utterance": "I've heard iPhones look and feel great. Should I get one?",
-                "manual_rewritten_utterance": "I've heard iPhones look and feel great. Should I get an iPhone?",
-                "response": "When planning to buy a new smartphone, you might consider buying an iPhone or Android phone. Most people think iPhones are more expensive than Android phones, but there are a variety of Android phones, several of which could be more expensive than the iPhone. Generally, iPhones are beautifully made and reasonably priced.",
-                "provenance": [
-                    "MARCO_43_1521332427-1",
-                    "MARCO_43_1521332427-2"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "Okay, what other types are out there?",
-                "manual_rewritten_utterance": "Besides iPhones and Android phones, what other types of phones are out there?",
-                "response": "Whenever I read an Android or iPhone article, several commenters go off about the lack of mention of Windows Phone or Nokia, BlackBerry, or some other random platform. To be honest, these phones haven't hit the penetration level for people to pay that much attention to them. For example, while by all indications, Windows Phone 7 is excellent, there are just not that many out there. That's a shame, but it's true. They are not discussed because few people ask whether they should get a Windows Phone instead of an iPhone or Android phone. If you like to dance with the devil in the pale moonlight, go for one of these fringe phones. Otherwise, you're probably choosing Android or iPhone. Wrap-up So, as you can see, there's no clear winner.",
-                "provenance": [
-                    "MARCO_10_1605638999-9"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "Why not? Aren’t they as good?",
-                "manual_rewritten_utterance": "Why not?  Aren’t other mobile platforms as good as Android or iOS?",
-                "response": "If you care about having the best apps on your phone, you're better off with iPhone. They're better looking and, with a few exceptions like the gorgeous HTC One and Xiaomi Mi Note, there aren't many great-looking Android phones out there. Many are chunky and plasticky. The iPhone consistently has a better design than Android phones. Apple Pay is quickly becoming the best mobile payments system. Furthermore, You can't beat the Apple Store for customer support. Claudio Villa/Getty Images Where do you go if you have a problem with your Android phone? For many people, it's their carrier. But carriers don't have the same kind of support Apple provides at the Apple Store. If something goes wrong with your iPhone, or you just want to learn how to use it, Apple has you covered better than any Android phone maker.",
-                "provenance": [
-                    "MARCO_35_286262730-2"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "That’s more about phones than mobile platforms.",
-                "manual_rewritten_utterance": "That’s more about phones than mobile platforms.",
-                "response": "Okay. Thanks for the feedback.",
-                "provenance": []
             }
         ]
     },
@@ -688,48 +688,6 @@
                 ]
             },
             {
-                "number": "3-1",
-                "utterance": "Okay. Are there better calorie-burning alternatives to try?",
-                "manual_rewritten_utterance": "Okay. Are there better calorie-burning exercises to try asides from running?",
-                "response": "I calculated the calories that a 150-pound person would typically expend running a 10-minute-per-mile pace - 666 calories per hour. Then, compared this to a handful of other activities. What I found is that the big calorie burners on this list have a few things in common - they use a lot of muscles throughout the body, and they can be really challenging. Here are some exercises you might want to add to your routine if you're trying to burn more calories: 1. Indoor cycling: Approximately 952 calories per hour. The intensity should be at 200 watts or greater. 2. Cross-country skiing: Approximately 850 calories per hour. This all depends on your experience as a skier. Slow, light effort won't burn nearly as many calories as a brisk-speed, vigorous effort will. To really challenge yourself and burn up energy? Try uphill skiing.",
-                "provenance": [
-                    "MARCO_52_368117471-4"
-                ]
-            },
-            {
-                "number": "3-3",
-                "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
-                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
-                "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
-                "provenance": [
-                    "MARCO_52_368117471-5",
-                    "MARCO_52_368117471-4"
-                ]
-            },
-            {
-                "number": "4-1",
-                "utterance": "I live in a flat on the third floor. How do I do the second one at home?",
-                "manual_rewritten_utterance": "I live in a flat on the third floor. How do I do jump rope at home?",
-                "response": "If you plan to jump rope in your apartment for regular exercise, you need to do so fairly quietly, unless you live on the ground floor of your building. Although jumping rope makes significantly less noise than tap dancing or playing loud music with your sound system speakers on the floor, it can create a slight disturbance. Even the muffled thud of your feet jumping steadily in your sneakers or other sports training shoes can become a nuisance to other apartment dwellers living below you. For this reason, you may need to invest in a mat or even some soundproofing installation for your floor. Some people jump rope on thin, closely woven carpeting, although jumping on carpets is not usually recommended. Wood flooring is really the best to jump rope on, but you need to make sure your jumping does not disturb your neighbours before starting your regular jumping routine at home. If you happen to have concrete floor tiling in your apartment, you should find another space for exercising since jumping rope on a concrete surface can cause pain and injury to your knees. If you must jump on such hard flooring sometimes, be sure to use a good jump rope mat to absorb most of the impact of your jumping.",
-                "provenance": [
-                    "MARCO_34_1311087552-8"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 135,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
-                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
-                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
-                "provenance": [
-                    "MARCO_47_276165332-5"
-                ]
-            },
-            {
                 "number": "2-1",
                 "utterance": "Cool. I'd like to lose weight. Any tips?",
                 "manual_rewritten_utterance": "Cool. Do you have any tips to lose weight by running?",
@@ -781,6 +739,48 @@
                 "response": "Even if there are more effective methods of losing weight or improving endurance, running on an empty stomach can add some welcome variety to your training. This kind of training is particularly suited for morning people who want to get their workout in before breakfast. So if you want to run on an empty stomach, here is what we recommend: Depending on your fitness level, your run should last between 40 and 60 minutes. Choose a low intensity (at a recovery run or conversation pace), and drink a glass of water before your run.",
                 "provenance": [
                     "MARCO_51_971491333-4"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 135,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I took a year-long break from running due to work commitments. Tell me, how do I get back into it?",
+                "manual_rewritten_utterance": "How do I get back into running after a year-long break due to work commitments?",
+                "response": "Don't rush getting back into running and you'll drastically avoid injury. Better to start with a few months of short, easy runs rather than rushing straight in with long and hard runs. Re-asses yourself every month and then increase mileage slowly if you are feeling strong.",
+                "provenance": [
+                    "MARCO_47_276165332-5"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "Okay. Are there better calorie-burning alternatives to try?",
+                "manual_rewritten_utterance": "Okay. Are there better calorie-burning exercises to try asides from running?",
+                "response": "I calculated the calories that a 150-pound person would typically expend running a 10-minute-per-mile pace - 666 calories per hour. Then, compared this to a handful of other activities. What I found is that the big calorie burners on this list have a few things in common - they use a lot of muscles throughout the body, and they can be really challenging. Here are some exercises you might want to add to your routine if you're trying to burn more calories: 1. Indoor cycling: Approximately 952 calories per hour. The intensity should be at 200 watts or greater. 2. Cross-country skiing: Approximately 850 calories per hour. This all depends on your experience as a skier. Slow, light effort won't burn nearly as many calories as a brisk-speed, vigorous effort will. To really challenge yourself and burn up energy? Try uphill skiing.",
+                "provenance": [
+                    "MARCO_52_368117471-4"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "I don’t have an indoor bike and neither am I great at skiing. What else is there?",
+                "manual_rewritten_utterance": "I don’t have an indoor bike and neither am I great at skiing. What good alternative to running is there asides from indoor cycling and cross-country skiing?",
+                "response": "Well, there’s also rowing which burns approximately 816 calories per hour at vigorous effort, jumping rope which burns about 802 calories per hour at 100 skips per minute, Kickboxing which burns 700 calories per hour, and swimming which burns 680 calories per hour. With kickboxing, other types of martial arts like Muay Thai are valid as well. When it comes to regular boxing, the biggest calorie burn comes when you're legit in the ring (a.k.a. fighting another person). But a lot of boxing classes also incorporate cardio exercises like mountain climbers and burpees, so your heart rate ends up increasing more than you'd expect.",
+                "provenance": [
+                    "MARCO_52_368117471-5",
+                    "MARCO_52_368117471-4"
+                ]
+            },
+            {
+                "number": "4-1",
+                "utterance": "I live in a flat on the third floor. How do I do the second one at home?",
+                "manual_rewritten_utterance": "I live in a flat on the third floor. How do I do jump rope at home?",
+                "response": "If you plan to jump rope in your apartment for regular exercise, you need to do so fairly quietly, unless you live on the ground floor of your building. Although jumping rope makes significantly less noise than tap dancing or playing loud music with your sound system speakers on the floor, it can create a slight disturbance. Even the muffled thud of your feet jumping steadily in your sneakers or other sports training shoes can become a nuisance to other apartment dwellers living below you. For this reason, you may need to invest in a mat or even some soundproofing installation for your floor. Some people jump rope on thin, closely woven carpeting, although jumping on carpets is not usually recommended. Wood flooring is really the best to jump rope on, but you need to make sure your jumping does not disturb your neighbours before starting your regular jumping routine at home. If you happen to have concrete floor tiling in your apartment, you should find another space for exercising since jumping rope on a concrete surface can cause pain and injury to your knees. If you must jump on such hard flooring sometimes, be sure to use a good jump rope mat to absorb most of the impact of your jumping.",
+                "provenance": [
+                    "MARCO_34_1311087552-8"
                 ]
             }
         ]
@@ -1031,47 +1031,6 @@
                 ]
             },
             {
-                "number": "1-3",
-                "utterance": "Why?",
-                "manual_rewritten_utterance": "Why did Larry Newton dislike “What a wonderful world” by Louis Armstrong?",
-                "response": "Armstrong had recently signed to ABC Records, and ABC president Larry Newton showed up to photograph Armstrong. Newton wanted a swingy pop song like \" Hello, Dolly! \", a big hit for Armstrong when he was with Kapp Records, so when Newton heard the slow pace of \"What a Wonderful World\", he tried to stop the session. Newton was locked out of the studio for his disruption, but a second problem arose: nearby freight train whistles interrupted the session twice, forcing the recording to start over. Armstrong shook his head and laughed off the distractions, keeping his composure. The session ended around 6 am, going longer than expected. To make sure the orchestra members were paid extra for their overtime, Armstrong accepted only $250 musicians union scale for his work.",
-                "provenance": [
-                    "MARCO_19_685468020-3"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "Did sales ever get better in the US?",
-                "manual_rewritten_utterance": "Did sales of “What a Wonderful World” by Louis Armstrong ever get better in the US?",
-                "response": "\"What a Wonderful World\" didn't make a splash in the U.S. until well after Louis Armstrong's death. The first recording of “What a Wonderful World” was produced by ABC Records, which made no attempt to advertise it domestically. Although the ballad topped the 1968 charts in Great Britain, American sales were abysmal. When Pops (who adored Thiele and Weiss’ masterwork) passed away on July 6, 1971, “What a Wonderful World” seemed destined for stateside obscurity. Then along came a bare-knuckled comedy called Good Morning, Vietnam (1987). The joyous tune perfectly and ironically clashed with the wartime horrors depicted in one montage, so director Barry Levinson added it to his film’s soundtrack.",
-                "provenance": [
-                    "MARCO_46_1298228224-7"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Okay, but how did that help?",
-                "manual_rewritten_utterance": "Okay, but how did “Good Morning, Vietnam” help the sales of What a Wonderful World”",
-                "response": "“What a Wonderful World” struck a chord with moviegoers and was re-released that year, becoming an oft-requested radio hit.",
-                "provenance": [
-                    "MARCO_46_1298228224-8"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 139,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
-                "manual_rewritten_utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
-                "response": "“What a Wonderful World” is a song written by Bob Thiele (as \"George Douglas\") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom, though it performed poorly in the United States because Larry Newton, the president of ABC Records, disliked the song and refused to promote it.",
-                "provenance": [
-                    "MARCO_19_685468020-1"
-                ]
-            },
-            {
                 "number": "2-1",
                 "utterance": "No, not the song. I’m talking about the world's most spectacular natural features and human-built structures.",
                 "manual_rewritten_utterance": "No, not the song. I’m talking about the world's most spectacular natural features and human-built structures.",
@@ -1165,44 +1124,42 @@
         ]
     },
     {
-        "number": 140,
+        "number": 139,
         "turn": [
             {
                 "number": "1-1",
-                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
+                "utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
+                "manual_rewritten_utterance": "Hey! I’d love to learn something interesting about the wonders of the world",
+                "response": "“What a Wonderful World” is a song written by Bob Thiele (as \"George Douglas\") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom, though it performed poorly in the United States because Larry Newton, the president of ABC Records, disliked the song and refused to promote it.",
                 "provenance": [
-                    "MARCO_54_575373635-1"
+                    "MARCO_19_685468020-1"
                 ]
             },
             {
                 "number": "1-3",
-                "utterance": "As a tourist, what’s the best place to visit?",
-                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
-                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
+                "utterance": "Why?",
+                "manual_rewritten_utterance": "Why did Larry Newton dislike “What a wonderful world” by Louis Armstrong?",
+                "response": "Armstrong had recently signed to ABC Records, and ABC president Larry Newton showed up to photograph Armstrong. Newton wanted a swingy pop song like \" Hello, Dolly! \", a big hit for Armstrong when he was with Kapp Records, so when Newton heard the slow pace of \"What a Wonderful World\", he tried to stop the session. Newton was locked out of the studio for his disruption, but a second problem arose: nearby freight train whistles interrupted the session twice, forcing the recording to start over. Armstrong shook his head and laughed off the distractions, keeping his composure. The session ended around 6 am, going longer than expected. To make sure the orchestra members were paid extra for their overtime, Armstrong accepted only $250 musicians union scale for his work.",
                 "provenance": [
-                    "MARCO_54_575373635-2"
+                    "MARCO_19_685468020-3"
                 ]
             },
             {
-                "number": "3-1",
-                "utterance": "What’s another place worth visiting?",
-                "manual_rewritten_utterance": "What’s another place worth visiting in Nigeria aside from Calabar?",
-                "response": "Lagos is not only the largest city in Nigeria, but also the single largest on the entire African continent. Yep, nearly 18 million people call this one home, and boy does it show! Throbbing streets of beer bars and clubs pepper the districts of Ikeja and Victoria Island, where expats and sailors and locals alike chat over frothy brews. There are also salt-washed promenades on the coast and the beautiful reaches of Lagos Bar Beach – a sloping stretch of golden sand that meets the waves of the Atlantic Ocean in style. Meanwhile, jet skis purr across Tarkwa Bay, and the sobering histories of the slave trade continue to move at the Point of No Return.",
+                "number": "1-5",
+                "utterance": "Did sales ever get better in the US?",
+                "manual_rewritten_utterance": "Did sales of “What a Wonderful World” by Louis Armstrong ever get better in the US?",
+                "response": "\"What a Wonderful World\" didn't make a splash in the U.S. until well after Louis Armstrong's death. The first recording of “What a Wonderful World” was produced by ABC Records, which made no attempt to advertise it domestically. Although the ballad topped the 1968 charts in Great Britain, American sales were abysmal. When Pops (who adored Thiele and Weiss’ masterwork) passed away on July 6, 1971, “What a Wonderful World” seemed destined for stateside obscurity. Then along came a bare-knuckled comedy called Good Morning, Vietnam (1987). The joyous tune perfectly and ironically clashed with the wartime horrors depicted in one montage, so director Barry Levinson added it to his film’s soundtrack.",
                 "provenance": [
-                    "MARCO_54_575373635-3",
-                    "MARCO_54_575373635-2"
+                    "MARCO_46_1298228224-7"
                 ]
             },
             {
-                "number": "3-3",
-                "utterance": "I used to work there and it was crazy and chaotic. Abuja is better I think",
-                "manual_rewritten_utterance": "I used to work there and it was crazy and chaotic. Abuja is better than Lagos, I think.",
-                "response": "Okay, so Abuja ain’t no Lagos. Purpose-built, enfolded by the soft topography of the inland hills, and formed from clearly delineated districts that house business-suited men and politicians, there’s no grit or grime here (or at least not relatively). That means the capital is a nice place to relax and unwind following the energy and action of the megalopolis on the coast. And there are other interesting sights too, like the Abuja Millennium Park and the quad of spear-like minarets that heralds the beautiful Abuja National Mosque. Meanwhile, Wuse Market is great for shoppers, and the National Assembly Complex offers a glimpse into the country’s modern political system.",
+                "number": "1-7",
+                "utterance": "Okay, but how did that help?",
+                "manual_rewritten_utterance": "Okay, but how did “Good Morning, Vietnam” help the sales of What a Wonderful World”",
+                "response": "“What a Wonderful World” struck a chord with moviegoers and was re-released that year, becoming an oft-requested radio hit.",
                 "provenance": [
-                    "MARCO_54_575373635-4",
-                    "MARCO_54_575373635-5"
+                    "MARCO_46_1298228224-8"
                 ]
             }
         ]
@@ -1229,22 +1186,21 @@
                 ]
             },
             {
-                "number": "1-9",
-                "utterance": "Duke town. I’m intrigued. Tell me more.",
-                "manual_rewritten_utterance": "Duke town. I’m intrigued. Tell me more about Duke Town in Calabar.",
-                "response": "Akwa Akpa, known to European colonists as Old Calabar or Duke Town, was an Efik city-state that flourished in the 19th century in what is now southern Nigeria. Although it is now absorbed into Nigeria, traditional rulers of the state are still recognized. The state occupied what is now the modern city of Calabar. The city-state was also a center of slave trade. where slaves were exchanged for European goods. The main ethnic group took out of Calabar as slaves were the Igbo, although they were not the most populous ethnicity in the area. Most slave ships that transported slaves from Calabar were English; around 85% of these ships were from Bristol and Liverpool merchants. Conditions were brutal. In 1767, six British slaving vessels were lying in the Calabar river at a time when the people of Duke Town and Old Town were feuding. By prearrangement with the leaders of Duke Town, the leaders of Old Town were invited on board for a conference to settle the dispute, with guarantees of their safety. They were seized, with some kept as slaves and a few handed over to Duke Town, where they were executed.",
+                "number": "1-5",
+                "utterance": "That’s where the Ranch is, no?",
+                "manual_rewritten_utterance": "Cross River is where Obudu Cattle Ranch is located, no?",
+                "response": "Yes. Obudu Mountain Resort (formerly known as the Obudu Cattle Ranch) is a ranch and resort on the Obudu Plateau in Cross River State, Nigeria. It was developed in 1951 by M. McCaughley, a Scot who first explored the mountain ranges in 1949. He camped on the mountaintop of the Oshie Ridge on the Sankwala Mountains for a month before returning with Mr. Hugh Jones, a fellow rancher, in 1951. Together with Dr Crawfeild, they developed the Obudu Cattle Ranch.",
                 "provenance": [
-                    "KILT_28678189-1",
-                    "KILT_28678189-3"
+                    "KILT_28832499-1"
                 ]
             },
             {
-                "number": "1-11",
-                "utterance": "Where did the name Calabar come about then?",
-                "manual_rewritten_utterance": "Where did the name Calabar come about then?",
-                "response": "The coast in this region was named \"Calabar\" by the Portuguese explorer Diogo Cao. His reason for choosing this name is unknown since it was not used by the Efik people. The city of Akwa Akpa was founded by Efik families who had left Creek Town, further up the Calabar river, settling on the east bank in a position where they were able to dominate the slave trade with European vessels that anchored in the river. They soon became the most powerful people in the region.",
+                "number": "1-7",
+                "utterance": "Tell me more about it.",
+                "manual_rewritten_utterance": "Tell me more about the Obudu Mountain Resort (formerly Obudu Cattle Ranch).",
+                "response": "Since 2005, a cable car climbing from the base to the top of the plateau gives visitors a scenic view while bypassing the extremely winding road to the top. The resort is found on the Obudu Plateau, close to the Cameroon border in the northeastern part of Cross River State, approximately east of the town of Ogoja and from the town of Obudu in Obanliku Local Government Area of Cross River State. It is about a 30 minutes drive from Obudu town and is about a drive from Calabar, the Cross River State capital. Charter air service is available to the Bebi Airport which lies between the village of Obudu and the resort.",
                 "provenance": [
-                    "KILT_28678189-2"
+                    "KILT_28832499-1"
                 ]
             }
         ]
@@ -1348,47 +1304,6 @@
                 ]
             },
             {
-                "number": "1-3",
-                "utterance": "As a tourist, what’s the best place to visit?",
-                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
-                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
-                "provenance": [
-                    "MARCO_54_575373635-2"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "That’s where the Ranch is, no?",
-                "manual_rewritten_utterance": "Cross River is where Obudu Cattle Ranch is located, no?",
-                "response": "Yes. Obudu Mountain Resort (formerly known as the Obudu Cattle Ranch) is a ranch and resort on the Obudu Plateau in Cross River State, Nigeria. It was developed in 1951 by M. McCaughley, a Scot who first explored the mountain ranges in 1949. He camped on the mountaintop of the Oshie Ridge on the Sankwala Mountains for a month before returning with Mr. Hugh Jones, a fellow rancher, in 1951. Together with Dr Crawfeild, they developed the Obudu Cattle Ranch.",
-                "provenance": [
-                    "KILT_28832499-1"
-                ]
-            },
-            {
-                "number": "1-7",
-                "utterance": "Tell me more about it.",
-                "manual_rewritten_utterance": "Tell me more about the Obudu Mountain Resort (formerly Obudu Cattle Ranch).",
-                "response": "Since 2005, a cable car climbing from the base to the top of the plateau gives visitors a scenic view while bypassing the extremely winding road to the top. The resort is found on the Obudu Plateau, close to the Cameroon border in the northeastern part of Cross River State, approximately east of the town of Ogoja and from the town of Obudu in Obanliku Local Government Area of Cross River State. It is about a 30 minutes drive from Obudu town and is about a drive from Calabar, the Cross River State capital. Charter air service is available to the Bebi Airport which lies between the village of Obudu and the resort.",
-                "provenance": [
-                    "KILT_28832499-1"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 140,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
-                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
-                "provenance": [
-                    "MARCO_54_575373635-1"
-                ]
-            },
-            {
                 "number": "2-1",
                 "utterance": "I’m intrigued. Tell me about tourism there.",
                 "manual_rewritten_utterance": "Tell me about tourism in Nigeria.",
@@ -1414,6 +1329,123 @@
                 "provenance": [
                     "KILT_59101211-1",
                     "KILT_59101211-2"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 140,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
+                "provenance": [
+                    "MARCO_54_575373635-1"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "As a tourist, what’s the best place to visit?",
+                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
+                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
+                "provenance": [
+                    "MARCO_54_575373635-2"
+                ]
+            },
+            {
+                "number": "1-9",
+                "utterance": "Duke town. I’m intrigued. Tell me more.",
+                "manual_rewritten_utterance": "Duke town. I’m intrigued. Tell me more about Duke Town in Calabar.",
+                "response": "Akwa Akpa, known to European colonists as Old Calabar or Duke Town, was an Efik city-state that flourished in the 19th century in what is now southern Nigeria. Although it is now absorbed into Nigeria, traditional rulers of the state are still recognized. The state occupied what is now the modern city of Calabar. The city-state was also a center of slave trade. where slaves were exchanged for European goods. The main ethnic group took out of Calabar as slaves were the Igbo, although they were not the most populous ethnicity in the area. Most slave ships that transported slaves from Calabar were English; around 85% of these ships were from Bristol and Liverpool merchants. Conditions were brutal. In 1767, six British slaving vessels were lying in the Calabar river at a time when the people of Duke Town and Old Town were feuding. By prearrangement with the leaders of Duke Town, the leaders of Old Town were invited on board for a conference to settle the dispute, with guarantees of their safety. They were seized, with some kept as slaves and a few handed over to Duke Town, where they were executed.",
+                "provenance": [
+                    "KILT_28678189-1",
+                    "KILT_28678189-3"
+                ]
+            },
+            {
+                "number": "1-11",
+                "utterance": "Where did the name Calabar come about then?",
+                "manual_rewritten_utterance": "Where did the name Calabar come about then?",
+                "response": "The coast in this region was named \"Calabar\" by the Portuguese explorer Diogo Cao. His reason for choosing this name is unknown since it was not used by the Efik people. The city of Akwa Akpa was founded by Efik families who had left Creek Town, further up the Calabar river, settling on the east bank in a position where they were able to dominate the slave trade with European vessels that anchored in the river. They soon became the most powerful people in the region.",
+                "provenance": [
+                    "KILT_28678189-2"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 140,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "manual_rewritten_utterance": "A friend asked me to tell him something interesting about Nigeria. What should I say?",
+                "response": "There’s no question about it: Nigeria is huge. And just as the naysayers say size doesn’t matter, you realise that in West Africa, where just a couple of miles adds another fascinating tribal group or that journey over the Obudu Plateau makes the difference between Guinean savannah grasses and verdant tropical rainforest, it really, really does! The point is that Nigeria is a country of many colors and creeds. Its character morphs and shapeshifts almost as elegantly as a white-throated monkey swings between the boughs of the jungle. City-wise, it’s got the colossal sprawl of Abuja – one of the fastest-growing urban areas in the world. And then there’s Lagos – 17.5 million strong, but still finding time to chill on the Atlantic beaches. Moving away from the towns and to the country, Nigeria’s many faces continue. This time they peer like humans in the form of chimpanzees from the forest-clad gorges of the Gashaka Gumti. Or, they are plumed in pink like the black cranes of the Bade-Nguru Wetlands. It’s all very wonderful stuff.",
+                "provenance": [
+                    "MARCO_54_575373635-1"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "As a tourist, what’s the best place to visit?",
+                "manual_rewritten_utterance": "As a tourist, what’s the best place to visit in Nigeria?",
+                "response": "Okay, let's explore the best places to visit in Nigeria. 1: Calabar. The gateway to the reserves of the Cross River (the state of which Calabar is the capital), and the further-flung rainforests of the Afi Mountains (home to gorillas, chimps, rare rockfowl and craggy peaks of stone), the town of Calabar is a well-honed tourist stop-off on the way through to Cameroon or the southern Nigerian coast. Before making a beeline for the amazing primate sanctuaries outside of the town though, be sure to linger a little and case out the darker past of the city at the Calabar Museum – Calabar was once one of the principal slave trading ports in West Africa. Also worth a look is the Duke Town chapel, which is considered one of the oldest Christian worshipping houses in Nigeria.",
+                "provenance": [
+                    "MARCO_54_575373635-2"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "What’s another place worth visiting?",
+                "manual_rewritten_utterance": "What’s another place worth visiting in Nigeria aside from Calabar?",
+                "response": "Lagos is not only the largest city in Nigeria, but also the single largest on the entire African continent. Yep, nearly 18 million people call this one home, and boy does it show! Throbbing streets of beer bars and clubs pepper the districts of Ikeja and Victoria Island, where expats and sailors and locals alike chat over frothy brews. There are also salt-washed promenades on the coast and the beautiful reaches of Lagos Bar Beach – a sloping stretch of golden sand that meets the waves of the Atlantic Ocean in style. Meanwhile, jet skis purr across Tarkwa Bay, and the sobering histories of the slave trade continue to move at the Point of No Return.",
+                "provenance": [
+                    "MARCO_54_575373635-3",
+                    "MARCO_54_575373635-2"
+                ]
+            },
+            {
+                "number": "3-3",
+                "utterance": "I used to work there and it was crazy and chaotic. Abuja is better I think",
+                "manual_rewritten_utterance": "I used to work there and it was crazy and chaotic. Abuja is better than Lagos, I think.",
+                "response": "Okay, so Abuja ain’t no Lagos. Purpose-built, enfolded by the soft topography of the inland hills, and formed from clearly delineated districts that house business-suited men and politicians, there’s no grit or grime here (or at least not relatively). That means the capital is a nice place to relax and unwind following the energy and action of the megalopolis on the coast. And there are other interesting sights too, like the Abuja Millennium Park and the quad of spear-like minarets that heralds the beautiful Abuja National Mosque. Meanwhile, Wuse Market is great for shoppers, and the National Assembly Complex offers a glimpse into the country’s modern political system.",
+                "provenance": [
+                    "MARCO_54_575373635-4",
+                    "MARCO_54_575373635-5"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 141,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
+                "manual_rewritten_utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
+                "response": "Scams are targeted to insight human greed and desperation. However, there are red flags you can pick up from the way they pitch it. For example, guaranteed returns that are too good to be true in a short time period. Unless they’re predicting the future, it’s unlikely you can get these guaranteed returns of higher percentages (10%++) consistently.",
+                "provenance": [
+                    "MARCO_27_1202500253-7"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "What else should I be aware of?",
+                "manual_rewritten_utterance": "What else about scams should I be aware of asides from guaranteed returns?",
+                "response": "Look out for roundabout or “secret” investment strategies. They should at least be able to explain how they make money and what they invest in. Furthermore, if they use terms like “significantly better than market rate” and “zero risk”, that’s a red flag. All investments carry the risk of losing money, low risk doesn’t mean any risk. While some investments can perform better than the market, consider if there are other red flags to what they’re selling. They could get aggressive when challenged. The scammers may show signs of aggression like blocking out people with many questions.",
+                "provenance": [
+                    "MARCO_27_1202500253-7"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "Sounds like the guy I talked to actually. What do you suggest I do next?",
+                "manual_rewritten_utterance": "What should I do next if I have been approached by an investment scam?",
+                "response": "If from the red flags, you believe an individual or company is not as legit as they seem, you should do your research. Check online if the company is really what they seem. Note that they might have created a website to make it more believable. Do not be pressured to join or invest. They will usually want you to take action almost immediately. Better to lose the opportunity rather than lose all your money. If you have been cheated, report the case to your nearest police station.",
+                "provenance": [
+                    "MARCO_27_1202500253-8"
                 ]
             }
         ]
@@ -1498,107 +1530,6 @@
         ]
     },
     {
-        "number": 141,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
-                "manual_rewritten_utterance": "I’ve got an offer to make 20% monthly interest on my money. Do you think it’s legit?",
-                "response": "Scams are targeted to insight human greed and desperation. However, there are red flags you can pick up from the way they pitch it. For example, guaranteed returns that are too good to be true in a short time period. Unless they’re predicting the future, it’s unlikely you can get these guaranteed returns of higher percentages (10%++) consistently.",
-                "provenance": [
-                    "MARCO_27_1202500253-7"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "What else should I be aware of?",
-                "manual_rewritten_utterance": "What else about scams should I be aware of asides from guaranteed returns?",
-                "response": "Look out for roundabout or “secret” investment strategies. They should at least be able to explain how they make money and what they invest in. Furthermore, if they use terms like “significantly better than market rate” and “zero risk”, that’s a red flag. All investments carry the risk of losing money, low risk doesn’t mean any risk. While some investments can perform better than the market, consider if there are other red flags to what they’re selling. They could get aggressive when challenged. The scammers may show signs of aggression like blocking out people with many questions.",
-                "provenance": [
-                    "MARCO_27_1202500253-7"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "Sounds like the guy I talked to actually. What do you suggest I do next?",
-                "manual_rewritten_utterance": "What should I do next if I have been approached by an investment scam?",
-                "response": "If from the red flags, you believe an individual or company is not as legit as they seem, you should do your research. Check online if the company is really what they seem. Note that they might have created a website to make it more believable. Do not be pressured to join or invest. They will usually want you to take action almost immediately. Better to lose the opportunity rather than lose all your money. If you have been cheated, report the case to your nearest police station.",
-                "provenance": [
-                    "MARCO_27_1202500253-8"
-                ]
-            }
-        ]
-    },
-    {
-        "number": 142,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I know about Argentina?",
-                "manual_rewritten_utterance": "What should I know about Argentina?",
-                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
-                "provenance": [
-                    "MARCO_29_1447088347-1",
-                    "MARCO_29_1447088347-2",
-                    "MARCO_29_1447088347-5"
-                ]
-            },
-            {
-                "number": "5-1",
-                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
-                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
-                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
-                "provenance": [
-                    "MARCO_36_259036096-1"
-                ]
-            },
-            {
-                "number": "5-3",
-                "utterance": "No, what are some popular dishes?",
-                "manual_rewritten_utterance": "What are some popular meat dishes?",
-                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
-                "provenance": [
-                    "MARCO_16_2206432408-11"
-                ]
-            },
-            {
-                "number": "8-1",
-                "utterance": "How about in Chile?",
-                "manual_rewritten_utterance": "What are some popular meat dishes in Chile?"
-            }
-        ]
-    },
-    {
-        "number": 142,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I know about Argentina?",
-                "manual_rewritten_utterance": "What should I know about Argentina?",
-                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
-                "provenance": [
-                    "MARCO_29_1447088347-1",
-                    "MARCO_29_1447088347-2",
-                    "MARCO_29_1447088347-5"
-                ]
-            },
-            {
-                "number": "1-3",
-                "utterance": "What makes it the capital?",
-                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
-                "response": "The United Provinces of the Rio de la Plata became independent from Spain in 1816. The union was made up of numerous provinces that now form the following countries: Argentina, Paraguay, Bolivia, and Uruguay. After a battle for independence, a group of provinces united to form the Argentine Republic. The culture and population of Argentina were shaped by immigrants from different parts of Europe. Spain and Italy were the biggest contributors of newcomers between 1806 and 1930. Fun Facts About Argentina The belief that the country held a great wealth of silver deposits resulted in the name \"Argentina.\" With an area of 1,073,500 square miles, Argentina is the second largest country in Latin America, the eighth largest country in the world, and the largest Spanish-speaking country in the world.",
-                "provenance": [
-                    "MARCO_58_1484971106-1"
-                ]
-            },
-            {
-                "number": "1-5",
-                "utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires.",
-                "manual_rewritten_utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires."
-            }
-        ]
-    },
-    {
         "number": 142,
         "turn": [
             {
@@ -1622,70 +1553,34 @@
                 ]
             },
             {
-                "number": "9-1",
-                "utterance": "That’s a bit general. What makes Argentina unique?",
-                "manual_rewritten_utterance": "That’s a bit general. What makes Argentina’s version of Merienda unique?",
-                "response": "Traditional serving of merienda in Café El Gato Negro, Buenos Aires. Medialunas (croissants), café en jarrito (a double espresso coffee) and a little glass of mineral water. Argentines enjoy a wide variety of non-alcoholic infusions (although now and then both \"families\" are mixed; the yerbiao for example, is mate mixed with caña or gin). Among these, mate has long been the most widely enjoyed; in 2006, over 700,000 metric tons were harvested in Argentina, mostly for domestic consumption. Mate is also one of the top exports from Argentina, as it is valued all over the world. The fact that mate is so prevalent in the Southern Cone, however, should not necessarily make visitors think that other infusions are rare in the region; in Argentina especially, given the strong European cultural imprint, the consumption of coffee is very common (141 cups per capita, annually). Chocolate infusions are also popular (the eating of chocolate is a Spanish influence, although the plant originated in Mesoamerica ).",
+                "number": "2-2",
+                "utterance": "What makes their culture distinct from the rest of the country?",
+                "manual_rewritten_utterance": "What makes the culture of Porteños distinct from the rest of Argentina?",
+                "response": "The Argentine people take great pride in the fact that Pope Francis is from Buenos Aires, Argentina, and the country boasts one of the highest literacy rates in South America with women leading the way. Argentina has a rich cultural history with lifestyles uniquely their own. The Tango, Merienda, and Gauchos are just a few examples.",
+                "provenance": [
+                    "MARCO_55_1245662540-1"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "You’ve mentioned that several times now. Tell me more.",
+                "manual_rewritten_utterance": "You’ve mentioned the tango several times now. Tell me more.",
+                "response": "I’m not sure I understand. What would you like more information about?",
+                "provenance": []
+            },
+            {
+                "number": "3-3",
+                "utterance": "I meant the tango.",
+                "manual_rewritten_utterance": "Tell me more about the tango.",
+                "response": "What kind of clothing women should wear for dancing Tango? A nice option for Tango clothing: Dress at knee-length combined with leggings. Many tango ladies today wear long wide trousers with slits and/or trousers with ribbons swinging around the ankles. This looks nice but time and again creates problems while dancing Tango because they get easily caught in their own heels. Especially when the heels are high. Actually, I see it happen almost every time I go out dancing Tango.",
                 "provenance": [
                     "MARCO_16_2206432408-20"
                 ]
-            }
-        ]
-    },
-    {
-        "number": 142,
-        "turn": [
-            {
-                "number": "1-1",
-                "utterance": "What should I know about Argentina?",
-                "manual_rewritten_utterance": "What should I know about Argentina?",
-                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
-                "provenance": [
-                    "MARCO_29_1447088347-1",
-                    "MARCO_29_1447088347-2",
-                    "MARCO_29_1447088347-5"
-                ]
             },
             {
-                "number": "5-1",
-                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
-                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
-                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
-                "provenance": [
-                    "MARCO_36_259036096-1"
-                ]
-            },
-            {
-                "number": "5-3",
-                "utterance": "No, what are some popular dishes?",
-                "manual_rewritten_utterance": "What are some popular meat dishes?",
-                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
-                "provenance": [
-                    "MARCO_16_2206432408-11"
-                ]
-            },
-            {
-                "number": "5-5",
-                "utterance": "What nationalities?",
-                "manual_rewritten_utterance": "What are the previously mentioned nationalities?",
-                "response": "Beef is the primary Argentine dish. Their version of the barbecue is called asado (beef grilled on an open fire pit) and it's a must when you gather with family and friends on weekends. Besides the meat itself, it's also very common to eat spicy sausages (chorizo), kidneys (riñones), sweetbreads (molleja) and small intestines (chinchulines): the famous parillada mixta. Bread and salad are the perfect side dishes. During the weekdays, they prefer to eat milanesas (breaded meat filets). Italian food and its traditional pasta are also quite common. The Pizza is always welcome and in Argentina, they taste really superb and there are lots of toppings. The traditional cuisine is called criolla and is represented by the empanadas - salty pastries which can be filled with meat, chicken, ham and cheese, etc. The regional cuisine offers dishes such as matambre (rolled stuffed steak cut in slices and served cold), locro and carbonada (meat and vegetable stews).",
-                "provenance": [
-                    "MARCO_03_1751773927-1"
-                ]
-            },
-            {
-                "number": "5-7",
-                "utterance": "I’ve heard it’s really good and would love to try it. What makes it special?",
-                "manual_rewritten_utterance": "I’ve heard it’s really good and would love to try it. What makes Argentinian beef special?",
-                "response": "Argentina has long been famous for its grilled beef. But that beef isn't what it was. When I think of Argentina, I think of beef from cows that graze on the endless pampas, tended by watchful gauchos. That grass-fed beef has been the centrepiece of Argentina's most famous dish, a slow-cooked asado on the parilla. But while in Buenos Aires last week, I discovered that the pampas-raised beef of my reveries is practically a thing of the past. Today, most cattle in Argentina are raised in feedlots, just like in the U.S. \"The Malbec and the beef,\" he recalls wistfully. \"That, to me, is Argentina.\"",
-                "provenance": [
-                    "MARCO_03_1751773927-1"
-                ]
-            },
-            {
-                "number": "5-9",
-                "utterance": "That’s sad to hear. Is there more on how the impact it’s had on its quality?",
-                "manual_rewritten_utterance": "That’s sad to hear. Is there more on how the shift away from pampas-raised beef has had on its quality?"
+                "number": "3-5",
+                "utterance": "Thanks, but I’m not asking about clothing. Why is it important historically?",
+                "manual_rewritten_utterance": "Thanks, but I’m not asking about clothing. Why is tango important to the history of Argentina?"
             }
         ]
     },
@@ -1768,6 +1663,15 @@
                 ]
             },
             {
+                "number": "2-2",
+                "utterance": "What makes their culture distinct from the rest of the country?",
+                "manual_rewritten_utterance": "What makes the culture of Porteños distinct from the rest of Argentina?",
+                "response": "The Argentine people take great pride in the fact that Pope Francis is from Buenos Aires, Argentina, and the country boasts one of the highest literacy rates in South America with women leading the way. Argentina has a rich cultural history with lifestyles uniquely their own. The Tango, Merienda, and Gauchos are just a few examples.",
+                "provenance": [
+                    "MARCO_55_1245662540-1"
+                ]
+            },
+            {
                 "number": "2-4",
                 "utterance": "What’s Merienda?",
                 "manual_rewritten_utterance": "What’s Merienda?",
@@ -1806,6 +1710,45 @@
                 ]
             },
             {
+                "number": "5-1",
+                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
+                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
+                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
+                "provenance": [
+                    "MARCO_36_259036096-1"
+                ]
+            },
+            {
+                "number": "5-3",
+                "utterance": "No, what are some popular dishes?",
+                "manual_rewritten_utterance": "What are some popular meat dishes?",
+                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
+                "provenance": [
+                    "MARCO_16_2206432408-11"
+                ]
+            },
+            {
+                "number": "8-1",
+                "utterance": "How about in Chile?",
+                "manual_rewritten_utterance": "What are some popular meat dishes in Chile?"
+            }
+        ]
+    },
+    {
+        "number": 142,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I know about Argentina?",
+                "manual_rewritten_utterance": "What should I know about Argentina?",
+                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
+                "provenance": [
+                    "MARCO_29_1447088347-1",
+                    "MARCO_29_1447088347-2",
+                    "MARCO_29_1447088347-5"
+                ]
+            },
+            {
                 "number": "1-3",
                 "utterance": "What makes it the capital?",
                 "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
@@ -1824,25 +1767,110 @@
                 ]
             },
             {
-                "number": "3-1",
-                "utterance": "You’ve mentioned that several times now. Tell me more.",
-                "manual_rewritten_utterance": "You’ve mentioned the tango several times now. Tell me more.",
-                "response": "I’m not sure I understand. What would you like more information about?",
-                "provenance": []
-            },
-            {
-                "number": "3-3",
-                "utterance": "I meant the tango.",
-                "manual_rewritten_utterance": "Tell me more about the tango.",
-                "response": "What kind of clothing women should wear for dancing Tango? A nice option for Tango clothing: Dress at knee-length combined with leggings. Many tango ladies today wear long wide trousers with slits and/or trousers with ribbons swinging around the ankles. This looks nice but time and again creates problems while dancing Tango because they get easily caught in their own heels. Especially when the heels are high. Actually, I see it happen almost every time I go out dancing Tango.",
+                "number": "2-4",
+                "utterance": "What’s Merienda?",
+                "manual_rewritten_utterance": "What’s Merienda?",
+                "response": "Merienda is a light meal in southern Europe, particularly Spain, Portugal (merenda), Andorra (berenar) and Italy (merenda), as well as Hispanic America, the Philippines and Morocco and Brazil (lanche or merenda). Usually taken in the afternoon or for brunch, it fills in the meal gap between the noontime meal and the evening meal, being the equivalent of afternoon tea in the English-speaking world; or between breakfast and lunch. It is a simple meal that often consists of a piece of fruit, cookies, yogurt, and other snacks paired with juice, milk, hot chocolate, coffee, spirits, or other beverages. It is typical for Argentines and Uruguayans to have once or merienda around 5 pm, between the midday meal and supper. It generally consists of an infusion ( tea, mate, coffee, mate cocido, etc.) and a baked snack ( scones, bread, toasts, cake, facturas, etc.), usually accompanied with dulce de leche, honey, butter or jam.",
                 "provenance": [
-                    "MARCO_16_2206432408-20"
+                    "MARCO_18_106335865-1",
+                    "MARCO_18_106335865-2"
                 ]
             },
             {
-                "number": "3-5",
-                "utterance": "Thanks, but I’m not asking about clothing. Why is it important historically?",
-                "manual_rewritten_utterance": "Thanks, but I’m not asking about clothing. Why is tango important to the history of Argentina?"
+                "number": "9-1",
+                "utterance": "That’s a bit general. What makes Argentina's unique?",
+                "manual_rewritten_utterance": "That’s a bit general. What makes Argentina’s version of Merienda unique?",
+                "response": "Traditional serving of merienda in Café El Gato Negro, Buenos Aires. Medialunas (croissants), café en jarrito (a double espresso coffee) and a little glass of mineral water. Argentines enjoy a wide variety of non-alcoholic infusions (although now and then both \"families\" are mixed; the yerbiao for example, is mate mixed with caña or gin). Among these, mate has long been the most widely enjoyed; in 2006, over 700,000 metric tons were harvested in Argentina, mostly for domestic consumption. Mate is also one of the top exports from Argentina, as it is valued all over the world. The fact that mate is so prevalent in the Southern Cone, however, should not necessarily make visitors think that other infusions are rare in the region; in Argentina especially, given the strong European cultural imprint, the consumption of coffee is very common (141 cups per capita, annually). Chocolate infusions are also popular (the eating of chocolate is a Spanish influence, although the plant originated in Mesoamerica ).",
+                "provenance": [
+                    "MARCO_16_2206432408-20"
+                ]
+            }
+        ]
+    },
+    {
+        "number": 142,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I know about Argentina?",
+                "manual_rewritten_utterance": "What should I know about Argentina?",
+                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
+                "provenance": [
+                    "MARCO_29_1447088347-1",
+                    "MARCO_29_1447088347-2",
+                    "MARCO_29_1447088347-5"
+                ]
+            },
+            {
+                "number": "5-1",
+                "utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more.",
+                "manual_rewritten_utterance": "Mmm, meat sweats. I’ve heard it’s good there, tell me more about what dishes are popular?",
+                "response": "The history of Argentina dates back thousands of years, with the first human settlements beginning on the southern tip of Patagonia 13,000 years ago. The indigenous people here and in the Pampas were advanced hunters and gatherers and included the Yamana and the Tehuelches. The country’s history has been tumultuous over the years with political instability, military coups, exiled presidents, territorial disputes and dictatorships. Spanish Settlers in Argentina. Photo credit: en.wikipedia.org Europeans first arrived in 1502, with the Spanish arriving in 1516 and discovering Rio de la Plata In 1536 a small settlement was established at the present-day location of Buenos Aires by Pedro de Mendoza. This was later abandoned in 1541 Buenos Aires was settled by the Spanish in 1580 and was part of the Viceroyalty of Peru The Spanish established the Viceroyalty of the Rio de la Plata in 1776 that including parts of Argentina, Uruguay, Paraguay and Bolivia British invasion of the Río de la Plata.",
+                "provenance": [
+                    "MARCO_36_259036096-1"
+                ]
+            },
+            {
+                "number": "5-3",
+                "utterance": "No, what are some popular dishes?",
+                "manual_rewritten_utterance": "What are some popular meat dishes?",
+                "response": "The deeply rooted bread, pastry, and dessert-making tradition derive from blending the above nationalities' products. Bakeries sell not only a wide scope of bread, cookies, and cakes, but also pastries. The latter resembles a sort of roll pastry whose main dough ingredient is either butter or fat and which may be simple or stuffed with dulce de leche, milk, jam, crema pastel, quince or apple jelly, among other fillings. The most popular type of pastry is said to be that of medialunas (singular: medialuna, literally half-moon, that is to say, crescent), based upon French croissants. Furthermore, sandwiches de miga are another type of bread product; they are made only with thin layers of white bread (generally referred to as crustless bread) and stuffed with food items ranging from ham and cheese to other more sophisticated combinations such as raw ham, tomatoes, olives, hard-boiled eggs, tuna, lettuce, red pepper, and the like. Desserts and sweets are usually stuffed or covered with dulce de leche. The latter can be eaten alone or on top of cakes, alfajores, panqueques ( crepes ), and pastries, or as a topping spread over flan de leche. Chantilly cream is widely consumed and used in preparing sweets and desserts.",
+                "provenance": [
+                    "MARCO_16_2206432408-11"
+                ]
+            },
+            {
+                "number": "5-5",
+                "utterance": "What nationalities?",
+                "manual_rewritten_utterance": "What are the previously mentioned nationalities?",
+                "response": "Beef is the primary Argentine dish. Their version of the barbecue is called asado (beef grilled on an open fire pit) and it's a must when you gather with family and friends on weekends. Besides the meat itself, it's also very common to eat spicy sausages (chorizo), kidneys (riñones), sweetbreads (molleja) and small intestines (chinchulines): the famous parillada mixta. Bread and salad are the perfect side dishes. During the weekdays, they prefer to eat milanesas (breaded meat filets). Italian food and its traditional pasta are also quite common. The Pizza is always welcome and in Argentina, they taste really superb and there are lots of toppings. The traditional cuisine is called criolla and is represented by the empanadas - salty pastries which can be filled with meat, chicken, ham and cheese, etc. The regional cuisine offers dishes such as matambre (rolled stuffed steak cut in slices and served cold), locro and carbonada (meat and vegetable stews).",
+                "provenance": [
+                    "MARCO_03_1751773927-1"
+                ]
+            },
+            {
+                "number": "5-7",
+                "utterance": "I’ve heard it’s really good and would love to try it. What makes it special?",
+                "manual_rewritten_utterance": "I’ve heard it’s really good and would love to try it. What makes Argentinian beef special?",
+                "response": "Argentina has long been famous for its grilled beef. But that beef isn't what it was. When I think of Argentina, I think of beef from cows that graze on the endless pampas, tended by watchful gauchos. That grass-fed beef has been the centrepiece of Argentina's most famous dish, a slow-cooked asado on the parilla. But while in Buenos Aires last week, I discovered that the pampas-raised beef of my reveries is practically a thing of the past. Today, most cattle in Argentina are raised in feedlots, just like in the U.S. \"The Malbec and the beef,\" he recalls wistfully. \"That, to me, is Argentina.\"",
+                "provenance": [
+                    "MARCO_03_1751773927-1"
+                ]
+            },
+            {
+                "number": "5-9",
+                "utterance": "That’s sad to hear. Is there more on how the impact it’s had on its quality?",
+                "manual_rewritten_utterance": "That’s sad to hear. Is there more on how the shift away from pampas-raised beef has had on its quality?"
+            }
+        ]
+    },
+    {
+        "number": 142,
+        "turn": [
+            {
+                "number": "1-1",
+                "utterance": "What should I know about Argentina?",
+                "manual_rewritten_utterance": "What should I know about Argentina?",
+                "response": "There’s a lot to know about Argentina. It is vast. Argentina is huge. 2.78 million km2 to be exact. Do you want to go north and see the incredible Iguazu Falls and the indigenous provinces of Salta and Jujuy with their amazing rock formations? Do you want to check out southern Patagonia and the Perito Moreno glacier and go trekking in El Calafate? Or hit northern Patagonia with Bariloche and the Lake District? Or drink wine for days in Mendoza? The choice is endless, so plan ahead. The Argentine capital of Buenos Aires is the cultural capital of South America, so beware, you might be one of the many who get sucked into the city by its charms. Also, get ready for the meat sweats and wine hangovers. It is a must-visit for any outdoor enthusiast and also claims the highest peak in the world outside Asia. It has a tumultuous and fascinating history with dictatorships, colonisation, economic crises, wars, and territorial battles. Argentina has seen it all.",
+                "provenance": [
+                    "MARCO_29_1447088347-1",
+                    "MARCO_29_1447088347-2",
+                    "MARCO_29_1447088347-5"
+                ]
+            },
+            {
+                "number": "1-3",
+                "utterance": "What makes it the capital?",
+                "manual_rewritten_utterance": "What makes Buenos Aires the culture capital of South America?",
+                "response": "The United Provinces of the Rio de la Plata became independent from Spain in 1816. The union was made up of numerous provinces that now form the following countries: Argentina, Paraguay, Bolivia, and Uruguay. After a battle for independence, a group of provinces united to form the Argentine Republic. The culture and population of Argentina were shaped by immigrants from different parts of Europe. Spain and Italy were the biggest contributors of newcomers between 1806 and 1930. Fun Facts About Argentina The belief that the country held a great wealth of silver deposits resulted in the name \"Argentina.\" With an area of 1,073,500 square miles, Argentina is the second largest country in Latin America, the eighth largest country in the world, and the largest Spanish-speaking country in the world.",
+                "provenance": [
+                    "MARCO_58_1484971106-1"
+                ]
+            },
+            {
+                "number": "1-5",
+                "utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires.",
+                "manual_rewritten_utterance": "That’s not what I meant. I’d like to know about the culture of Buenos Aires."
             }
         ]
     },
@@ -1973,100 +2001,14 @@
                 ]
             },
             {
-                "number": "2-1",
-                "utterance": "What are SpaceX's plans moving forward on this?",
-                "manual_rewritten_utterance": "What are SpaceX's plans for rocket reusability?",
-                "response": "SpaceX is developing a fully reusable rocket called Starship that it plans to use to replace its existing fleet used for satellite delivery and human transport—Falcon 9, Falcon Heavy and Dragon—and also eventually support flights to the Moon and Mars. The main idea is to reuse both stages of the rocket rather than only the first stage as is currently done.",
+                "number": "1-5",
+                "utterance": "That’s a shame, what made it so hard to reuse?",
+                "manual_rewritten_utterance": "What made the space shuttle so hard to reuse?",
+                "response": "The space shuttle was made up of three parts: the shuttle itself, an external fuel tank, and two solid rocket booster engines. The External Tank was not reusable. A new one was built for every flight. The solid rocket boosters were recovered from their water landing, broken into their segments and shipped back to Utah where they were cleaned out, repaired if necessary, and refuelled. Estimates suggest that the cost of refurbishment was about the same as if they had built new ones each time.  The orbiter was re-usable, but the amount of time it took between flights to refurbish it was quite lengthy and costly. The original claimed goal was a 1-week turnaround. But the reality was on the order of months.",
                 "provenance": [
-                    "MARCO_36_847077396-2",
-                    "MARCO_18_3116878569-3"
-                ]
-            },
-            {
-                "number": "2-3",
-                "utterance": "Tell me more about the engines.",
-                "manual_rewritten_utterance": "Tell me more about the rocket engines for Falcon 9, Falcon Heavy, Dragon, and Starship.",
-                "response": "SpaceX has developed several rocket engines over the years, most notably the Merlin 1 series which powers the Falcon 9 and Falcon Heavy launch vehicles. The Dragon capsule uses the Draco thruster with hypergolic propellants. More recently, the company has been working on methane-based engines which are more efficient than traditional kerosene-based engines.",
-                "provenance": [
-                    "MARCO_18_3116977530-1",
-                    "MARCO_18_3116977530-2"
-                ]
-            },
-            {
-                "number": "2-5",
-                "utterance": "How come methane?",
-                "manual_rewritten_utterance": "How come Spacex is using methane as their new rocket engine propellant?",
-                "response": "Methane (CH4) is cheap, a passive cooling system is enough to store Methane in liquid form, significantly denser than Hydrogen, storable for a more extended period, does not leak, does not require insulation on the fuel tank, and the rocket design is less complex compared to Hydrogen-powered rockets. Methane is also more commonly available on other planets making refuelling on them possible.",
-                "provenance": [
-                    "MARCO_26_1067160456-1",
-                    "MARCO_26_1067150539-7"
-                ]
-            },
-            {
-                "number": "2-7",
-                "utterance": "Wait, why is hydrogen so problematic for engines?",
-                "manual_rewritten_utterance": "Why are hydrogen-based rocket engines difficult to build?",
-                "response": "Hydrogen boils at -423°F (-253°C); therefore, we must store it at -423°F, and to store and transport it, it needs a highly specialized storage container. LH2 rocket fuel is 12 times less dense than Kerosene. Therefore, an LH2 tank would be bigger in volume for the necessary propellant than an RP-1 rocket tank. Moreover, to prevent liquid Hydrogen from boiling off, the rockets need insulation from all heat sources, such as rocket engine exhaust, air friction during launch, and radiant heat from the sun. Hydrogen rockets need advanced metallurgy to prevent hydrogen embrittlement. Metals become brittle when exposed to the extreme cold of liquid Hydrogen. It also leaks very easily. Liquid Hydrogen can leak through tiny pores in welded joints. Liquid Hydrogen is costly too. An enormous amount of technical expertise is necessary to solve all these problems. SpaceX was starting a new space program with a clean-sheet design. Because of all these problems related to LH2, SpaceX did not choose Hydrogen for their Falcon rockets.",
-                "provenance": [
-                    "MARCO_26_1067150539-4",
-                    "MARCO_26_1067160456-5"
-                ]
-            },
-            {
-                "number": "2-9",
-                "utterance": "I was thinking specifically of engines but that’s alright. Tell me specifically what makes hydrogen engines hard to build.",
-                "manual_rewritten_utterance": "Why are hydrogen-based rocket engines difficult to build?",
-                "response": "RS-25 main engines are called “liquid engines” because the fuel is liquid hydrogen (LH2) Liquid oxygen (LOX) serves as the oxidizer. Gases – especially lightweight hydrogen – are low-density, which means a little of it takes up a lot of space . To have enough to power a large combustion reaction would require an incredibly large tank to hold it.",
-                "provenance": [
-                    "MARCO_13_449259655-2",
-                    "MARCO_26_1067160456"
-                ]
-            },
-            {
-                "number": "2-11",
-                "utterance": "No, that’s not a good answer. Let’s move on. Tell me about the different types of rocket engines.",
-                "manual_rewritten_utterance": "Tell me about the different types of rocket engines.",
-                "response": "Just to clarify since there are multiple ways to talk about engine types. Do you want to know about the different types of rocket engine power cycles, or about the engines that are used in multiple stages of flight?",
-                "provenance": [
-                    "MARCO_17_575493501-2",
-                    "MARCO_17_1351854116"
-                ]
-            },
-            {
-                "number": "2-13",
-                "utterance": "By cycles, what and which do you mean?",
-                "manual_rewritten_utterance": "What is a rocket engine powering cycle and which are there?",
-                "response": "The type of power cycle a rocket engine has determined how fuel is pressurized and fed to the combustion chamber of an engine to produce thrust. There are many different types of power cycles that tradeoff weight, complexity, and efficiency. At a high-level rocket engines can have the following cycles: Pressure-Fed, Electric Pump-Fed, Open Cycle (Gas Generator), Closed (Staged Combustion) Engine Cycle.",
-                "provenance": [
-                    "MARCO_17_1351854116",
-                    "MARCO_17_575493501",
-                    "MARCO_18_1749944364",
-                    "MARCO_18_3233548707",
-                    "KILT_49315050"
-                ]
-            },
-            {
-                "number": "2-15",
-                "utterance": "Yeah let’s do that. Especially drill into the tradeoffs.",
-                "manual_rewritten_utterance": "What are the tradeoffs between Pressure-Fed, Electric Pump-Fed, Open Cycle, and closed cycle Rocket engines?",
-                "response": "Each engine cycle type pushes fuel and oxidizer together to allow them to burn, but they do so through different means to achieve higher levels of efficiency at the expense of complexity in terms of materials, weight, stability and start sequence complexity. Pressure-fed engines are the simplest but require an external tank to pressurize the components thus adding weight. All the other types use a pump to create pressure. The electric is the simplest of these being powered by a battery, but these can be heavy and are only recently becoming possible. Open cycle uses some of the fuel and oxidizer to run the pump and exhausts the rest at the expense of efficiency. Closed cycle reuses that exhaust and is the most efficient engine of all pioneered by the soviets with the RD-270 and developed nowadays with SpaceX’s Raptor engine.",
-                "provenance": [
-                    "MARCO_17_1351854116",
-                    "MARCO_17_575493501",
-                    "MARCO_18_1749944364",
-                    "MARCO_18_3233548707",
-                    "KILT_49315050",
-                    "KILT_23595810"
-                ]
-            },
-            {
-                "number": "3-1",
-                "utterance": "Are the last two the same? how do they compare roughly?",
-                "manual_rewritten_utterance": "Are RD-270 and SpaceX Raptor rocket engines the same? How do they compare roughly?",
-                "response": "Both the RD-270 and Raptor engines are closed cycle engines that use all fuel and oxidizers to propel the rocket. They differ in the types of propellant they use. The RD-270 uses hypergolic unsymmetrical propellants: dimethylhydrazine (UDMH) and nitrogen tetroxide (NO). Raptors use liquid methane (CH4) and liquid oxygen. In addition, these two engines were developed in very different technological eras with the RD-270 being developed between 1960 and 1970 yet never flew due to the program being cancelled. Raptor is still currently being developed but has already flown on sub-orbital tests.",
-                "provenance": [
-                    "KILT_11463948",
-                    "KILT_23595810"
+                    "MARCO_04_214047203-2",
+                    "MARCO_52_1604550369-2",
+                    "MARCO_52_1604550369-3"
                 ]
             }
         ]
@@ -2219,14 +2161,100 @@
                 ]
             },
             {
-                "number": "1-5",
-                "utterance": "That’s a shame, what made it so hard to reuse?",
-                "manual_rewritten_utterance": "What made the space shuttle so hard to reuse?",
-                "response": "The space shuttle was made up of three parts: the shuttle itself, an external fuel tank, and two solid rocket booster engines. The External Tank was not reusable. A new one was built for every flight. The solid rocket boosters were recovered from their water landing, broken into their segments and shipped back to Utah where they were cleaned out, repaired if necessary, and refuelled. Estimates suggest that the cost of refurbishment was about the same as if they had built new ones each time.  The orbiter was re-usable, but the amount of time it took between flights to refurbish it was quite lengthy and costly. The original claimed goal was a 1-week turnaround. But the reality was on the order of months.",
+                "number": "2-1",
+                "utterance": "What are SpaceX's plans moving forward on this?",
+                "manual_rewritten_utterance": "What are SpaceX's plans for rocket reusability?",
+                "response": "SpaceX is developing a fully reusable rocket called Starship that it plans to use to replace its existing fleet used for satellite delivery and human transport—Falcon 9, Falcon Heavy and Dragon—and also eventually support flights to the Moon and Mars. The main idea is to reuse both stages of the rocket rather than only the first stage as is currently done.",
                 "provenance": [
-                    "MARCO_04_214047203-2",
-                    "MARCO_52_1604550369-2",
-                    "MARCO_52_1604550369-3"
+                    "MARCO_36_847077396-2",
+                    "MARCO_18_3116878569-3"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "Tell me more about the engines.",
+                "manual_rewritten_utterance": "Tell me more about the rocket engines for Falcon 9, Falcon Heavy, Dragon, and Starship.",
+                "response": "SpaceX has developed several rocket engines over the years, most notably the Merlin 1 series which powers the Falcon 9 and Falcon Heavy launch vehicles. The Dragon capsule uses the Draco thruster with hypergolic propellants. More recently, the company has been working on methane-based engines which are more efficient than traditional kerosene-based engines.",
+                "provenance": [
+                    "MARCO_18_3116977530-1",
+                    "MARCO_18_3116977530-2"
+                ]
+            },
+            {
+                "number": "2-5",
+                "utterance": "How come methane?",
+                "manual_rewritten_utterance": "How come Spacex is using methane as their new rocket engine propellant?",
+                "response": "Methane (CH4) is cheap, a passive cooling system is enough to store Methane in liquid form, significantly denser than Hydrogen, storable for a more extended period, does not leak, does not require insulation on the fuel tank, and the rocket design is less complex compared to Hydrogen-powered rockets. Methane is also more commonly available on other planets making refuelling on them possible.",
+                "provenance": [
+                    "MARCO_26_1067160456-1",
+                    "MARCO_26_1067150539-7"
+                ]
+            },
+            {
+                "number": "2-7",
+                "utterance": "Wait, why is hydrogen so problematic for engines?",
+                "manual_rewritten_utterance": "Why are hydrogen-based rocket engines difficult to build?",
+                "response": "Hydrogen boils at -423°F (-253°C); therefore, we must store it at -423°F, and to store and transport it, it needs a highly specialized storage container. LH2 rocket fuel is 12 times less dense than Kerosene. Therefore, an LH2 tank would be bigger in volume for the necessary propellant than an RP-1 rocket tank. Moreover, to prevent liquid Hydrogen from boiling off, the rockets need insulation from all heat sources, such as rocket engine exhaust, air friction during launch, and radiant heat from the sun. Hydrogen rockets need advanced metallurgy to prevent hydrogen embrittlement. Metals become brittle when exposed to the extreme cold of liquid Hydrogen. It also leaks very easily. Liquid Hydrogen can leak through tiny pores in welded joints. Liquid Hydrogen is costly too. An enormous amount of technical expertise is necessary to solve all these problems. SpaceX was starting a new space program with a clean-sheet design. Because of all these problems related to LH2, SpaceX did not choose Hydrogen for their Falcon rockets.",
+                "provenance": [
+                    "MARCO_26_1067150539-4",
+                    "MARCO_26_1067160456-5"
+                ]
+            },
+            {
+                "number": "2-9",
+                "utterance": "I was thinking specifically of engines but that’s alright. Tell me specifically what makes hydrogen engines hard to build.",
+                "manual_rewritten_utterance": "Why are hydrogen-based rocket engines difficult to build?",
+                "response": "RS-25 main engines are called “liquid engines” because the fuel is liquid hydrogen (LH2) Liquid oxygen (LOX) serves as the oxidizer. Gases – especially lightweight hydrogen – are low-density, which means a little of it takes up a lot of space . To have enough to power a large combustion reaction would require an incredibly large tank to hold it.",
+                "provenance": [
+                    "MARCO_13_449259655-2",
+                    "MARCO_26_1067160456"
+                ]
+            },
+            {
+                "number": "2-11",
+                "utterance": "No, that’s not a good answer. Let’s move on. Tell me about the different types of rocket engines.",
+                "manual_rewritten_utterance": "Tell me about the different types of rocket engines.",
+                "response": "Just to clarify since there are multiple ways to talk about engine types. Do you want to know about the different types of rocket engine power cycles, or about the engines that are used in multiple stages of flight?",
+                "provenance": [
+                    "MARCO_17_575493501-2",
+                    "MARCO_17_1351854116"
+                ]
+            },
+            {
+                "number": "2-13",
+                "utterance": "By cycles, what and which do you mean?",
+                "manual_rewritten_utterance": "What is a rocket engine powering cycle and which are there?",
+                "response": "The type of power cycle a rocket engine has determined how fuel is pressurized and fed to the combustion chamber of an engine to produce thrust. There are many different types of power cycles that tradeoff weight, complexity, and efficiency. At a high-level rocket engines can have the following cycles: Pressure-Fed, Electric Pump-Fed, Open Cycle (Gas Generator), Closed (Staged Combustion) Engine Cycle.",
+                "provenance": [
+                    "MARCO_17_1351854116",
+                    "MARCO_17_575493501",
+                    "MARCO_18_1749944364",
+                    "MARCO_18_3233548707",
+                    "KILT_49315050"
+                ]
+            },
+            {
+                "number": "2-15",
+                "utterance": "Yeah let’s do that. Especially drill into the tradeoffs.",
+                "manual_rewritten_utterance": "What are the tradeoffs between Pressure-Fed, Electric Pump-Fed, Open Cycle, and closed cycle Rocket engines?",
+                "response": "Each engine cycle type pushes fuel and oxidizer together to allow them to burn, but they do so through different means to achieve higher levels of efficiency at the expense of complexity in terms of materials, weight, stability and start sequence complexity. Pressure-fed engines are the simplest but require an external tank to pressurize the components thus adding weight. All the other types use a pump to create pressure. The electric is the simplest of these being powered by a battery, but these can be heavy and are only recently becoming possible. Open cycle uses some of the fuel and oxidizer to run the pump and exhausts the rest at the expense of efficiency. Closed cycle reuses that exhaust and is the most efficient engine of all pioneered by the soviets with the RD-270 and developed nowadays with SpaceX’s Raptor engine.",
+                "provenance": [
+                    "MARCO_17_1351854116",
+                    "MARCO_17_575493501",
+                    "MARCO_18_1749944364",
+                    "MARCO_18_3233548707",
+                    "KILT_49315050",
+                    "KILT_23595810"
+                ]
+            },
+            {
+                "number": "3-1",
+                "utterance": "Are the last two the same? how do they compare roughly?",
+                "manual_rewritten_utterance": "Are RD-270 and SpaceX Raptor rocket engines the same? How do they compare roughly?",
+                "response": "Both the RD-270 and Raptor engines are closed cycle engines that use all fuel and oxidizers to propel the rocket. They differ in the types of propellant they use. The RD-270 uses hypergolic unsymmetrical propellants: dimethylhydrazine (UDMH) and nitrogen tetroxide (NO). Raptors use liquid methane (CH4) and liquid oxygen. In addition, these two engines were developed in very different technological eras with the RD-270 being developed between 1960 and 1970 yet never flew due to the program being cancelled. Raptor is still currently being developed but has already flown on sub-orbital tests.",
+                "provenance": [
+                    "KILT_11463948",
+                    "KILT_23595810"
                 ]
             }
         ]
@@ -2461,12 +2489,31 @@
                 ]
             },
             {
-                "number": "1-15",
-                "utterance": "Could you expand on that?",
-                "manual_rewritten_utterance": "Could you expand on Justin Gilbert Alba’s comments that the push from fans for diversity in creators and characters only represents a loud minority?",
-                "response": "When asking ComicsVerse CEO, Justin Gilbert Alba, how the recent outspoken push from fans for diversity in writers and characters affected the industry. He said: “Unfortunately, the push from fans for diversity in creators and characters only represents a loud minority. All too often, comics with diverse characters and creators are cancelled due to sagging sales despite critical acclaim. In regards to Marvel particularly, I applaud their attempts to make comics mirror the people who read them. That isn’t to say there isn’t a lot more that can’t be done, there definitely is. In my opinion, if we want real change in terms of minority representation in comics and comic book creators, there’s going to need to be a perfect storm of the right creator, the right characters, organic change, and a great marketing campaign with a definitive push for comics to reach new markets who, maybe, didn’t feel fully included in the past.”",
+                "number": "2-1",
+                "utterance": "What about people of color?",
+                "manual_rewritten_utterance": "What is Marvel Studios’ approach to diversity for people of color?",
+                "response": "Marvel Comics has made strides in including more female and minority main characters in its comic books. However,  the company faced backlash last month after a vice president suggested that diversity was causing sales to slide.",
                 "provenance": [
                     "MARCO_43_353595745-9"
+                ]
+            },
+            {
+                "number": "2-3",
+                "utterance": "Interesting. What was that about?",
+                "manual_rewritten_utterance": "Interesting. What was the basis of the backlash Marvel Studios faced for the Vice President’s suggestion that diversity was causing sales to slide?",
+                "response": "“What we heard was that people didn’t want any more diversity. They didn’t want female characters out there,” David Gabriel, Marvel Vice President, said at the Marvel Retailer Summit, according to Entertainment Weekly. “We saw the sales of any diverse character, any new character, our female characters, anything that was not a core Marvel character, people were turning their nose up against. That was difficult for us because we had a lot of fresh, new, exciting ideas that we were trying to get out and nothing new really worked.”",
+                "provenance": [
+                    "WAPO_49520e943a578fcd2bf2b5f2b0de785f-3",
+                    "WAPO_49520e943a578fcd2bf2b5f2b0de785f-4"
+                ]
+            },
+            {
+                "number": "2-5",
+                "utterance": "Is that really the case?",
+                "manual_rewritten_utterance": "Is it really the case that diversity is to blame for Marvel’s dwindling sales?",
+                "response": "Even though online, readers slammed Marvel for changing old characters rather than coming up with new ones — or reintroducing old ones — that reflected their communities, in an op-ed for the Guardian, comics critic J.A. Micheline rejected the idea that diversity could be blamed for poor sales and urged the comic-book industry to expand its audience. “I can promise you that it’s not women going into comic-book shops, sick of female characters,” Micheline wrote. “I can similarly promise you that people of color are not entering comic-book shops and turning their noses up at faces that look like theirs. By even making remarks like these, Marvel is seemingly conceding that its target audience, its ‘core’ audience — and their ‘core’ characters — are white and male.”Little wonder that Marvel Studios, a Disney subsidiary that owns such lucrative franchises as “The Avengers,” “Ant-Man” and “Guardians of the Galaxy,” has been slower to reflect diverse characters on the big screen.",
+                "provenance": [
+                    "WAPO_49520e943a578fcd2bf2b5f2b0de785f-4"
                 ]
             }
         ]
@@ -2541,31 +2588,12 @@
                 ]
             },
             {
-                "number": "2-1",
-                "utterance": "What about people of color?",
-                "manual_rewritten_utterance": "What is Marvel Studios’ approach to diversity for people of color?",
-                "response": "Marvel Comics has made strides in including more female and minority main characters in its comic books. However,  the company faced backlash last month after a vice president suggested that diversity was causing sales to slide.",
+                "number": "1-15",
+                "utterance": "Could you expand on that?",
+                "manual_rewritten_utterance": "Could you expand on Justin Gilbert Alba’s comments that the push from fans for diversity in creators and characters only represents a loud minority?",
+                "response": "When asking ComicsVerse CEO, Justin Gilbert Alba, how the recent outspoken push from fans for diversity in writers and characters affected the industry. He said: “Unfortunately, the push from fans for diversity in creators and characters only represents a loud minority. All too often, comics with diverse characters and creators are cancelled due to sagging sales despite critical acclaim. In regards to Marvel particularly, I applaud their attempts to make comics mirror the people who read them. That isn’t to say there isn’t a lot more that can’t be done, there definitely is. In my opinion, if we want real change in terms of minority representation in comics and comic book creators, there’s going to need to be a perfect storm of the right creator, the right characters, organic change, and a great marketing campaign with a definitive push for comics to reach new markets who, maybe, didn’t feel fully included in the past.”",
                 "provenance": [
                     "MARCO_43_353595745-9"
-                ]
-            },
-            {
-                "number": "2-3",
-                "utterance": "Interesting. What was that about?",
-                "manual_rewritten_utterance": "Interesting. What was the basis of the backlash Marvel Studios faced for the Vice President’s suggestion that diversity was causing sales to slide?",
-                "response": "“What we heard was that people didn’t want any more diversity. They didn’t want female characters out there,” David Gabriel, Marvel Vice President, said at the Marvel Retailer Summit, according to Entertainment Weekly. “We saw the sales of any diverse character, any new character, our female characters, anything that was not a core Marvel character, people were turning their nose up against. That was difficult for us because we had a lot of fresh, new, exciting ideas that we were trying to get out and nothing new really worked.”",
-                "provenance": [
-                    "WAPO_49520e943a578fcd2bf2b5f2b0de785f-3",
-                    "WAPO_49520e943a578fcd2bf2b5f2b0de785f-4"
-                ]
-            },
-            {
-                "number": "2-5",
-                "utterance": "Is that really the case?",
-                "manual_rewritten_utterance": "Is it really the case that diversity is to blame for Marvel’s dwindling sales?",
-                "response": "Even though online, readers slammed Marvel for changing old characters rather than coming up with new ones — or reintroducing old ones — that reflected their communities, in an op-ed for the Guardian, comics critic J.A. Micheline rejected the idea that diversity could be blamed for poor sales and urged the comic-book industry to expand its audience. “I can promise you that it’s not women going into comic-book shops, sick of female characters,” Micheline wrote. “I can similarly promise you that people of color are not entering comic-book shops and turning their noses up at faces that look like theirs. By even making remarks like these, Marvel is seemingly conceding that its target audience, its ‘core’ audience — and their ‘core’ characters — are white and male.”Little wonder that Marvel Studios, a Disney subsidiary that owns such lucrative franchises as “The Avengers,” “Ant-Man” and “Guardians of the Galaxy,” has been slower to reflect diverse characters on the big screen.",
-                "provenance": [
-                    "WAPO_49520e943a578fcd2bf2b5f2b0de785f-4"
                 ]
             }
         ]
@@ -2686,49 +2714,27 @@
                 ]
             },
             {
-                "number": "3-1",
-                "utterance": "How do you get impartial results?",
-                "manual_rewritten_utterance": "How do you get impartial results from search engines?",
-                "response": "Do you mean, search neutrality?",
+                "number": "1-3",
+                "utterance": "In what ways can they be biased?",
+                "manual_rewritten_utterance": "In what ways can search engines be biased?",
+                "response": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
                 "provenance": [
-                    "MARCO_14_257204425-1"
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
                 ]
             },
             {
-                "number": "3-3",
-                "utterance": "Um, what is search neutrality?",
-                "manual_rewritten_utterance": "Um, what is search neutrality?",
-                "response": "Search neutrality is the idea that a search engine does not limit or influence a person’s ability to access information on the internet. The search engine market is very one sided with just a couple companies controlling the entire market. “ Search neutrality is a principle that search engines should have no editorial policies other than that their results be comprehensive, impartial and based solely on relevance. This means that when a user queries a search engine, the engine should return the most relevant results found in the provider’s domain (those sites which the engine has knowledge of), without manipulating the order of the results (except to rank them by relevance), excluding results, or in any other way manipulating the results to a certain bias .”",
+                "number": "1-5",
+                "utterance": "Yes, ideologically.",
+                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased ideologically?",
+                "response": "There are major search engine companies who intentionally steer users toward their ideology—more accurately they intentionally steer away from ideologies they don’t espouse and away from data and opinion that’s inconvenient to their own preferred narrative.",
                 "provenance": [
-                    "MARCO_14_257204425-1"
-                ]
-            },
-            {
-                "number": "3-5",
-                "utterance": "No, I want to know how to get unbiased results.",
-                "manual_rewritten_utterance": "No, I want to know how to get unbiased results from a search engine.",
-                "response": "There are various alternative search engines that you could try that could give you more unbiased results. Would you like to know about them?",
-                "provenance": []
-            },
-            {
-                "number": "3-7",
-                "utterance": "Yes, what alternatives are there?",
-                "manual_rewritten_utterance": "Yes, what alternative search engines are there?",
-                "response": "There is Google, Bing, DuckDuckGo, Ecosia, Ask and many more. Would you like to know more about any of these?",
-                "provenance": [
-                    "MARCO_23_183358734-1",
-                    "MARCO_23_183358734-2",
-                    "MARCO_23_183358734-3"
-                ]
-            },
-            {
-                "number": "3-9",
-                "utterance": "I’ve never heard of ecosia. What does that do?",
-                "manual_rewritten_utterance": "I’ve never heard of the ecosia search engine. What does that do?",
-                "response": "What Is Ecosia? Meet a Google Alternative That Plants Trees What Is Ecosia? Meet a Google Alternative That Plants Trees Ecosia Ecosia is a not-for-profit search engine that uses advertising revenue gained from searches to plant trees. It doesn’t have the privacy-focus of DuckDuckGo, nor does it have the search results of Google. But it does have a unique mission. This search engine is getting bigger and more widely recognized. For example, starting with Apple’s iOS 14 and iPadOS 14, Ecosia is one of the few options you can use as your default search engine in Safari. Google Chrome also includes it as a built-in option. Ecosia’s Main Mission Is to Plant Trees Ecosia is a not-for-profit search engine that aims to help the environment by planting trees. The search engine’s mission is to absorb as much CO2 as possible by planting trees to try and reduce the impact of climate change. This is done for the planet, for people, and for animals.",
-                "provenance": [
-                    "MARCO_43_236748055-1",
-                    "KILT_45138227-1"
+                    "MARCO_14_257204425-2",
+                    "MARCO_50_2268879788 -3",
+                    "MARCO_48_119371286-1",
+                    "MARCO_16_1884092099-3"
                 ]
             }
         ]
@@ -2871,27 +2877,49 @@
                 ]
             },
             {
-                "number": "1-3",
-                "utterance": "In what ways can they be biased?",
-                "manual_rewritten_utterance": "In what ways can search engines be biased?",
-                "response": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                "number": "3-1",
+                "utterance": "How do you get impartial results?",
+                "manual_rewritten_utterance": "How do you get impartial results from search engines?",
+                "response": "Do you mean, search neutrality?",
                 "provenance": [
-                    "MARCO_14_257204425-2",
-                    "MARCO_50_2268879788 -3",
-                    "MARCO_48_119371286-1",
-                    "MARCO_16_1884092099-3"
+                    "MARCO_14_257204425-1"
                 ]
             },
             {
-                "number": "1-5",
-                "utterance": "Yes, ideologically.",
-                "manual_rewritten_utterance": "Yes, in what ways can search engines be biased ideologically?",
-                "response": "There are major search engine companies who intentionally steer users toward their ideology—more accurately they intentionally steer away from ideologies they don’t espouse and away from data and opinion that’s inconvenient to their own preferred narrative.",
+                "number": "3-3",
+                "utterance": "Um, what is search neutrality?",
+                "manual_rewritten_utterance": "Um, what is search neutrality?",
+                "response": "Search neutrality is the idea that a search engine does not limit or influence a person’s ability to access information on the internet. The search engine market is very one sided with just a couple companies controlling the entire market. “ Search neutrality is a principle that search engines should have no editorial policies other than that their results be comprehensive, impartial and based solely on relevance. This means that when a user queries a search engine, the engine should return the most relevant results found in the provider’s domain (those sites which the engine has knowledge of), without manipulating the order of the results (except to rank them by relevance), excluding results, or in any other way manipulating the results to a certain bias .”",
                 "provenance": [
-                    "MARCO_14_257204425-2",
-                    "MARCO_50_2268879788 -3",
-                    "MARCO_48_119371286-1",
-                    "MARCO_16_1884092099-3"
+                    "MARCO_14_257204425-1"
+                ]
+            },
+            {
+                "number": "3-5",
+                "utterance": "No, I want to know how to get unbiased results.",
+                "manual_rewritten_utterance": "No, I want to know how to get unbiased results from a search engine.",
+                "response": "There are various alternative search engines that you could try that could give you more unbiased results. Would you like to know about them?",
+                "provenance": []
+            },
+            {
+                "number": "3-7",
+                "utterance": "Yes, what alternatives are there?",
+                "manual_rewritten_utterance": "Yes, what alternative search engines are there?",
+                "response": "There is Google, Bing, DuckDuckGo, Ecosia, Ask and many more. Would you like to know more about any of these?",
+                "provenance": [
+                    "MARCO_23_183358734-1",
+                    "MARCO_23_183358734-2",
+                    "MARCO_23_183358734-3"
+                ]
+            },
+            {
+                "number": "3-9",
+                "utterance": "I’ve never heard of ecosia. What does that do?",
+                "manual_rewritten_utterance": "I’ve never heard of the ecosia search engine. What does that do?",
+                "response": "What Is Ecosia? Meet a Google Alternative That Plants Trees What Is Ecosia? Meet a Google Alternative That Plants Trees Ecosia Ecosia is a not-for-profit search engine that uses advertising revenue gained from searches to plant trees. It doesn’t have the privacy-focus of DuckDuckGo, nor does it have the search results of Google. But it does have a unique mission. This search engine is getting bigger and more widely recognized. For example, starting with Apple’s iOS 14 and iPadOS 14, Ecosia is one of the few options you can use as your default search engine in Safari. Google Chrome also includes it as a built-in option. Ecosia’s Main Mission Is to Plant Trees Ecosia is a not-for-profit search engine that aims to help the environment by planting trees. The search engine’s mission is to absorb as much CO2 as possible by planting trees to try and reduce the impact of climate change. This is done for the planet, for people, and for animals.",
+                "provenance": [
+                    "MARCO_43_236748055-1",
+                    "KILT_45138227-1"
                 ]
             }
         ]

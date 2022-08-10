@@ -2056,7 +2056,7 @@
             },
             {
                 "number": "2-4",
-                "parent": "2-2",
+                "parent": "2-3",
                 "participant": "User",
                 "utterance": "What’s Merienda?",
                 "manual_rewritten_utterance": "What’s Merienda?"
@@ -2232,9 +2232,9 @@
             },
             {
                 "number": "9-1",
-                "parent": "2-2",
+                "parent": "2-5",
                 "participant": "User",
-                "utterance": "That’s a bit general. What makes Argentina unique?",
+                "utterance": "That’s a bit general. What makes Argentina's unique?",
                 "manual_rewritten_utterance": "That’s a bit general. What makes Argentina’s version of Merienda unique?"
             },
             {
