@@ -8,16 +8,23 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 * Read the dialogue context: Track the evolution of the information need in the conversation, identifying salient information needed for the current turn in the conversation
 * Retrieve Candidate Response Information: Perform retrieval over a large collection of paragraphs (or knowledge base content) to identify relevant information
 
+This year, there's an optional mixed-Initiative sub-task that evaluates the ability of systems to use mixed-initiative for more effective conversations. For more information, see the guidelines linked below.
+
+
 # Year 4 (TREC 2022)
 
 ## Important Dates
 * Guidelines release: Available
 * Evaluation topics release: Available
-* Run submission deadline: September, 2022
+* MI task submission deadline: August 22nd, 2022
+* Main task submission deadline: September 1st, 2022
 
 ## Data
 ### Topics
- * [Evaluation topics for Year 4](2022/) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
+ * [Evaluation topics for Year 4](2022/) - Primary evaluation topics in JSON format.
+
+### Mixed Initiative Question Pool
+* [Question Pool](2022/2022_mixed_initiative_question_pool.json) - Over 4000 candidate questions to be used for the mixed-initiative subtask
 
 ### Corpora
 * [Washington Post 2020](https://trec.nist.gov/data/wapost/) - Same from Year 3.
@@ -26,7 +33,7 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 
 Participants have the option of processing the collection (to generate passage splits) themselves using the [provided tools](https://github.com/grill-lab/trec-cast-tools/tree/master/src/main/python) or requesting the processed corpus from the organizers. You can make the request to the organization team via Slack or Google Groups (see below).
 
-If you processed the corpora yourself, please verfify that you have the right passage splits by comparing the hashes of each passage with the [master version](https://cast-y4-collection.s3.amazonaws.com/all_hashes.csv) to ensure that you have the right passage splits.
+If you processed the corpora yourself, please verfify that you have the right passage splits by comparing the hashes of each passage with the [master version](https://cast-y4-collection.s3.amazonaws.com/all_hashes.csv).
 
 ### Baselines
 * TBD 

@@ -44,10 +44,6 @@
         "question": "What kind of bike are you looking to outfit with bags?"
     },
     {
-        "question_id": "Q0011",
-        "question": "lose weight fast, and then slow"
-    },
-    {
         "question_id": "Q0012",
         "question": "Would you like to know about the mythology or mysticism concerning mandrake?"
     },
@@ -69,7 +65,7 @@
     },
     {
         "question_id": "Q0017",
-        "question": "what information would you like about setting up a bike tour?"
+        "question": "What information would you like about setting up a bike tour?"
     },
     {
         "question_id": "Q0018",
@@ -238,10 +234,6 @@
     {
         "question_id": "Q0059",
         "question": "Are you looking for the phone or the accessories?"
-    },
-    {
-        "question_id": "Q0060",
-        "question": "Gear used in bikepacking"
     },
     {
         "question_id": "Q0061",
@@ -949,7 +941,7 @@
     },
     {
         "question_id": "Q0237",
-        "question": "are you intereted in the psycholgy behind the memroy of children?"
+        "question": "Are you intereted in the psycholgy behind the memroy of children?"
     },
     {
         "question_id": "Q0238",
@@ -1041,7 +1033,7 @@
     },
     {
         "question_id": "Q0260",
-        "question": "When did you get the degree or plan to."
+        "question": "When did you get the degree or plan to?"
     },
     {
         "question_id": "Q0261",
@@ -1069,7 +1061,7 @@
     },
     {
         "question_id": "Q0267",
-        "question": "Are you wanting to look for a phone based off the operating system"
+        "question": "Are you wanting to look for a phone based off the operating system?"
     },
     {
         "question_id": "Q0268",
@@ -1077,7 +1069,7 @@
     },
     {
         "question_id": "Q0269",
-        "question": "do you want information on guaranteed returns"
+        "question": "Do you want information on guaranteed returns?"
     },
     {
         "question_id": "Q0270",
@@ -1408,10 +1400,6 @@
         "question": "Are you asking if cryptocurrencies have an effect on economic bubbles?"
     },
     {
-        "question_id": "Q0352",
-        "question": "train smart on your off days"
-    },
-    {
         "question_id": "Q0353",
         "question": "What is your level of knowledge regarding the Taj Mahal?"
     },
@@ -1489,7 +1477,7 @@
     },
     {
         "question_id": "Q0372",
-        "question": "Do you want information about prevention of being scammed"
+        "question": "Do you want information about prevention of being scammed?"
     },
     {
         "question_id": "Q0373",
@@ -1837,7 +1825,7 @@
     },
     {
         "question_id": "Q0459",
-        "question": "which part of biden paris agreement will you like to know about?"
+        "question": "Which part of biden paris agreement will you like to know about?"
     },
     {
         "question_id": "Q0460",
@@ -2193,7 +2181,7 @@
     },
     {
         "question_id": "Q0548",
-        "question": "how many people will be affected by climate change?"
+        "question": "How many people will be affected by climate change?"
     },
     {
         "question_id": "Q0549",
@@ -2240,12 +2228,8 @@
         "question": "Do you believe you've been a victim of a Ponzi scheme?"
     },
     {
-        "question_id": "Q0560",
-        "question": "Would you like to know more news on violence in Ukraine"
-    },
-    {
         "question_id": "Q0561",
-        "question": "how quickly are you trying to lose weight?"
+        "question": "How quickly are you trying to lose weight?"
     },
     {
         "question_id": "Q0562",
@@ -2445,7 +2429,7 @@
     },
     {
         "question_id": "Q0611",
-        "question": "are in interested in how rocket fuel engine tanks are pressurized?"
+        "question": "Are in interested in how rocket fuel engine tanks are pressurized?"
     },
     {
         "question_id": "Q0612",
@@ -2461,7 +2445,7 @@
     },
     {
         "question_id": "Q0615",
-        "question": "are you curious about running on an empty stomach?"
+        "question": "Are you curious about running on an empty stomach?"
     },
     {
         "question_id": "Q0616",
@@ -2593,7 +2577,7 @@
     },
     {
         "question_id": "Q0648",
-        "question": "why does rocket need a engine?"
+        "question": "Why does rocket need a engine?"
     },
     {
         "question_id": "Q0649",
@@ -2817,7 +2801,7 @@
     },
     {
         "question_id": "Q0704",
-        "question": "are you talking about exercising?"
+        "question": "Are you talking about exercising?"
     },
     {
         "question_id": "Q0705",
@@ -3149,7 +3133,7 @@
     },
     {
         "question_id": "Q0787",
-        "question": "Are you looking for a list of possible scams"
+        "question": "Are you looking for a list of possible scams?"
     },
     {
         "question_id": "Q0788",
@@ -3173,7 +3157,7 @@
     },
     {
         "question_id": "Q0793",
-        "question": "would you like to know more about scandals where people lost a significant amount of money?"
+        "question": "Would you like to know more about scandals where people lost a significant amount of money?"
     },
     {
         "question_id": "Q0794",
@@ -3225,7 +3209,7 @@
     },
     {
         "question_id": "Q0806",
-        "question": "would you like to know about cases where someone was convicted?"
+        "question": "Would you like to know about cases where someone was convicted?"
     },
     {
         "question_id": "Q0807",
@@ -3249,11 +3233,11 @@
     },
     {
         "question_id": "Q0812",
-        "question": "are you changing your diet too?"
+        "question": "Are you changing your diet too?"
     },
     {
         "question_id": "Q0813",
-        "question": "are you interested in the memory of toddlers?"
+        "question": "Are you interested in the memory of toddlers?"
     },
     {
         "question_id": "Q0814",
@@ -3501,7 +3485,7 @@
     },
     {
         "question_id": "Q0875",
-        "question": "would you like to read an article on how biden cancel keystone pipeline and rejoin paris?"
+        "question": "Would you like to read an article on how biden cancel keystone pipeline and rejoin paris?"
     },
     {
         "question_id": "Q0876",
@@ -3589,7 +3573,7 @@
     },
     {
         "question_id": "Q0897",
-        "question": "are you interested in finding out Which countries participate in open banking regulation?"
+        "question": "Are you interested in finding out Which countries participate in open banking regulation?"
     },
     {
         "question_id": "Q0898",
@@ -3813,7 +3797,7 @@
     },
     {
         "question_id": "Q0953",
-        "question": "Are you interested in finding out which operating system is better."
+        "question": "Are you interested in finding out which operating system is better?"
     },
     {
         "question_id": "Q0954",
@@ -3828,10 +3812,6 @@
         "question": "Would you like to know how Android and iOS are better than other mobile platforms?"
     },
     {
-        "question_id": "Q0957",
-        "question": "be strategic when you hit a roadblock"
-    },
-    {
         "question_id": "Q0958",
         "question": "Would you like to know about the history of Ukraine?"
     },
@@ -3841,7 +3821,7 @@
     },
     {
         "question_id": "Q0960",
-        "question": "whats the top speed can a person run?"
+        "question": "Whats the top speed can a person run?"
     },
     {
         "question_id": "Q0961",
@@ -3949,7 +3929,7 @@
     },
     {
         "question_id": "Q0987",
-        "question": "Are you looking for a specific manufactorer."
+        "question": "Are you looking for a specific manufacturer?"
     },
     {
         "question_id": "Q0988",
@@ -4157,7 +4137,7 @@
     },
     {
         "question_id": "Q1039",
-        "question": "are you referring to other's memeories of children?"
+        "question": "Are you referring to other's memeories of children?"
     },
     {
         "question_id": "Q1040",
@@ -4400,10 +4380,6 @@
         "question": "Are you interested in mixing lotions and oils?"
     },
     {
-        "question_id": "Q1100",
-        "question": "How long did it take the degree to get."
-    },
-    {
         "question_id": "Q1101",
         "question": "What part of the body do you want to pamper?"
     },
@@ -4473,7 +4449,7 @@
     },
     {
         "question_id": "Q1118",
-        "question": "would you like to know thoeries of Bostrom's \"simulation argument\"?"
+        "question": "Would you like to know thoeries of Bostrom's \"simulation argument\"?"
     },
     {
         "question_id": "Q1119",
@@ -4481,7 +4457,7 @@
     },
     {
         "question_id": "Q1120",
-        "question": "want to know if people benefit from ponzi scheme?"
+        "question": "Want to know if people benefit from ponzi scheme?"
     },
     {
         "question_id": "Q1121",
@@ -4569,7 +4545,7 @@
     },
     {
         "question_id": "Q1142",
-        "question": "would you like to buy a book about history of Argentina?"
+        "question": "Would you like to buy a book about history of Argentina?"
     },
     {
         "question_id": "Q1143",
@@ -4648,10 +4624,6 @@
         "question": "Do you want to know if the degree impacts the tech industry financially or time wise?"
     },
     {
-        "question_id": "Q1162",
-        "question": "Name a ponzi scheme that you are aware of."
-    },
-    {
         "question_id": "Q1163",
         "question": "Would you like to see a list of the deserts in Africa?"
     },
@@ -4673,7 +4645,7 @@
     },
     {
         "question_id": "Q1168",
-        "question": "what type of exercise is best for weight loss?"
+        "question": "What type of exercise is best for weight loss?"
     },
     {
         "question_id": "Q1169",
@@ -5209,7 +5181,7 @@
     },
     {
         "question_id": "Q1302",
-        "question": "Are you referring to men's or womens."
+        "question": "Are you referring to men's or womens?"
     },
     {
         "question_id": "Q1303",
@@ -5286,10 +5258,6 @@
     {
         "question_id": "Q1321",
         "question": "Would you like to know what steps are necessary for admittance to the European Union?"
-    },
-    {
-        "question_id": "Q1322",
-        "question": "Where did the degree come from"
     },
     {
         "question_id": "Q1323",
@@ -5377,11 +5345,11 @@
     },
     {
         "question_id": "Q1344",
-        "question": "would you liek to know which operating system is easier to use?"
+        "question": "Would you liek to know which operating system is easier to use?"
     },
     {
         "question_id": "Q1345",
-        "question": "who thinks you're beautiful when you wake up in the morning?"
+        "question": "Who thinks you're beautiful when you wake up in the morning?"
     },
     {
         "question_id": "Q1346",
@@ -5389,7 +5357,7 @@
     },
     {
         "question_id": "Q1347",
-        "question": "Are you interested in countries seriously affected by climate change"
+        "question": "Are you interested in countries seriously affected by climate change?"
     },
     {
         "question_id": "Q1348",
@@ -5445,7 +5413,7 @@
     },
     {
         "question_id": "Q1361",
-        "question": "What type of degree"
+        "question": "What type of degree?"
     },
     {
         "question_id": "Q1362",
@@ -5593,7 +5561,7 @@
     },
     {
         "question_id": "Q1398",
-        "question": "do you want to know more about captin america?"
+        "question": "Do you want to know more about captin america?"
     },
     {
         "question_id": "Q1399",
@@ -5637,7 +5605,7 @@
     },
     {
         "question_id": "Q1409",
-        "question": "would you want the latest news about Calabar also?"
+        "question": "Would you want the latest news about Calabar also?"
     },
     {
         "question_id": "Q1410",
@@ -6057,7 +6025,7 @@
     },
     {
         "question_id": "Q1514",
-        "question": "is there a specific country where these scandals should have occurred?"
+        "question": "Is there a specific country where these scandals should have occurred?"
     },
     {
         "question_id": "Q1515",
@@ -6125,7 +6093,7 @@
     },
     {
         "question_id": "Q1531",
-        "question": "are you finding your dream job or are you creating it?"
+        "question": "Are you finding your dream job or are you creating it?"
     },
     {
         "question_id": "Q1532",
@@ -6161,7 +6129,7 @@
     },
     {
         "question_id": "Q1540",
-        "question": "are you looking for innovation examples?"
+        "question": "Are you looking for innovation examples?"
     },
     {
         "question_id": "Q1541",
@@ -6284,10 +6252,6 @@
         "question": "Would you like to know about the capital of South Africa?"
     },
     {
-        "question_id": "Q1571",
-        "question": "focus on consistency, not intensity"
-    },
-    {
         "question_id": "Q1572",
         "question": "Would you like to know where the Amazon CEO lives?"
     },
@@ -6349,7 +6313,7 @@
     },
     {
         "question_id": "Q1587",
-        "question": "any other alternatives to running on an empty stomach?"
+        "question": "Any other alternatives to running on an empty stomach?"
     },
     {
         "question_id": "Q1588",
@@ -6613,11 +6577,11 @@
     },
     {
         "question_id": "Q1653",
-        "question": "do you want to use a treadmill?"
+        "question": "Do you want to use a treadmill?"
     },
     {
         "question_id": "Q1654",
-        "question": "are you referring to children's memories?"
+        "question": "Are you referring to children's memories?"
     },
     {
         "question_id": "Q1655",
@@ -6641,7 +6605,7 @@
     },
     {
         "question_id": "Q1660",
-        "question": "do you want to talk about physical health?"
+        "question": "Do you want to talk about physical health?"
     },
     {
         "question_id": "Q1661",
@@ -6868,10 +6832,6 @@
         "question": "Would you like to know the negative effects of coral bleaching?"
     },
     {
-        "question_id": "Q1717",
-        "question": "Things needed to do bikepacking"
-    },
-    {
         "question_id": "Q1718",
         "question": "Are you wanting to know if Open Banking affects consumers?"
     },
@@ -6953,7 +6913,7 @@
     },
     {
         "question_id": "Q1738",
-        "question": "is it save to run under water?"
+        "question": "Is it save to run under water?"
     },
     {
         "question_id": "Q1739",
@@ -7273,7 +7233,7 @@
     },
     {
         "question_id": "Q1818",
-        "question": "what are tango dancers called?"
+        "question": "What are tango dancers called?"
     },
     {
         "question_id": "Q1819",
@@ -7305,7 +7265,7 @@
     },
     {
         "question_id": "Q1826",
-        "question": "would you like to know how a pressure-Fed rocket engine works?"
+        "question": "Would you like to know how a pressure-Fed rocket engine works?"
     },
     {
         "question_id": "Q1827",
@@ -7401,7 +7361,7 @@
     },
     {
         "question_id": "Q1850",
-        "question": "Do want want to ask about what it takes to keep a rocket engine powering cycle working"
+        "question": "Do want want to ask about what it takes to keep a rocket engine powering cycle working?"
     },
     {
         "question_id": "Q1851",
@@ -7601,7 +7561,7 @@
     },
     {
         "question_id": "Q1900",
-        "question": "would you like to know the history behind pressure-fed rocket engine?"
+        "question": "Would you like to know the history behind pressure-fed rocket engine?"
     },
     {
         "question_id": "Q1901",
@@ -7625,7 +7585,7 @@
     },
     {
         "question_id": "Q1906",
-        "question": "is there a specific year you'd like to focus on?"
+        "question": "Is there a specific year you'd like to focus on?"
     },
     {
         "question_id": "Q1907",
@@ -7717,7 +7677,7 @@
     },
     {
         "question_id": "Q1929",
-        "question": "will you need any shop with unscented lotion base?"
+        "question": "Will you need any shop with unscented lotion base?"
     },
     {
         "question_id": "Q1930",
@@ -7781,7 +7741,7 @@
     },
     {
         "question_id": "Q1945",
-        "question": "what are you interested in about Bostom's simulation argument?gc"
+        "question": "What are you interested in about Bostom's simulation argument?"
     },
     {
         "question_id": "Q1946",
@@ -7797,7 +7757,7 @@
     },
     {
         "question_id": "Q1949",
-        "question": "why does a rocket in space not need a engine ?"
+        "question": "Why does a rocket in space not need a engine ?"
     },
     {
         "question_id": "Q1950",
@@ -7838,10 +7798,6 @@
     {
         "question_id": "Q1959",
         "question": "Are you seeking a list of the best Marvel movies based on a specific category?"
-    },
-    {
-        "question_id": "Q1960",
-        "question": "How does climate change affect the economy of developing countries and the wealthy nations."
     },
     {
         "question_id": "Q1961",
@@ -7905,7 +7861,7 @@
     },
     {
         "question_id": "Q1976",
-        "question": "are you interested with unscented lotion base?"
+        "question": "Are you interested with unscented lotion base?"
     },
     {
         "question_id": "Q1977",
@@ -7969,7 +7925,7 @@
     },
     {
         "question_id": "Q1992",
-        "question": "would you like to know where to finid a talk about tech education and its importance?"
+        "question": "Would you like to know where to finid a talk about tech education and its importance?"
     },
     {
         "question_id": "Q1993",
@@ -7998,10 +7954,6 @@
     {
         "question_id": "Q1999",
         "question": "Are you searching for geographical information about Africa?"
-    },
-    {
-        "question_id": "Q2000",
-        "question": "mix up your movement"
     },
     {
         "question_id": "Q2001",
@@ -8185,7 +8137,7 @@
     },
     {
         "question_id": "Q2046",
-        "question": "are you looking for information about a specific type of scam"
+        "question": "Are you looking for information about a specific type of scam?"
     },
     {
         "question_id": "Q2047",
@@ -8421,7 +8373,7 @@
     },
     {
         "question_id": "Q2105",
-        "question": "wich armstrong song is named after a broadway musical?"
+        "question": "Wich armstrong song is named after a broadway musical?"
     },
     {
         "question_id": "Q2106",
@@ -8429,7 +8381,7 @@
     },
     {
         "question_id": "Q2107",
-        "question": "can i run every morning?"
+        "question": "Can i run every morning?"
     },
     {
         "question_id": "Q2108",
@@ -8557,7 +8509,7 @@
     },
     {
         "question_id": "Q2139",
-        "question": "are you interested in crypto scandals surrounding celebrities?"
+        "question": "Are you interested in crypto scandals surrounding celebrities?"
     },
     {
         "question_id": "Q2140",
@@ -8605,7 +8557,7 @@
     },
     {
         "question_id": "Q2151",
-        "question": "would you like to see the statistics for those who did and did not utilize networking in their job searching?"
+        "question": "Would you like to see the statistics for those who did and did not utilize networking in their job searching?"
     },
     {
         "question_id": "Q2152",
@@ -9025,7 +8977,7 @@
     },
     {
         "question_id": "Q2256",
-        "question": "do you like to know about biden environmental policy?"
+        "question": "Do you like to know about biden environmental policy?"
     },
     {
         "question_id": "Q2257",
@@ -9173,7 +9125,7 @@
     },
     {
         "question_id": "Q2293",
-        "question": "which  unscented lotion do you want to buy?"
+        "question": "Which  unscented lotion do you want to buy?"
     },
     {
         "question_id": "Q2294",
@@ -9205,7 +9157,7 @@
     },
     {
         "question_id": "Q2301",
-        "question": "who won the beiging marathon?"
+        "question": "Who won the beiging marathon?"
     },
     {
         "question_id": "Q2302",
@@ -9393,7 +9345,7 @@
     },
     {
         "question_id": "Q2348",
-        "question": "would you like to buy a book aboud this tapic?"
+        "question": "Would you like to buy a book aboud this tapic?"
     },
     {
         "question_id": "Q2349",
@@ -9413,7 +9365,7 @@
     },
     {
         "question_id": "Q2353",
-        "question": "what type of fuel need for rockrt engine?"
+        "question": "What type of fuel need for rockrt engine?"
     },
     {
         "question_id": "Q2354",
@@ -9533,7 +9485,7 @@
     },
     {
         "question_id": "Q2383",
-        "question": "What time of year will you be traveling to Nigeria"
+        "question": "What time of year will you be traveling to Nigeria?"
     },
     {
         "question_id": "Q2384",
@@ -9577,7 +9529,7 @@
     },
     {
         "question_id": "Q2394",
-        "question": "Are you interested in reactions to President's Trumps withdrawal from Paris Agreement"
+        "question": "Are you interested in reactions to President's Trumps withdrawal from Paris Agreement?"
     },
     {
         "question_id": "Q2395",
@@ -9621,7 +9573,7 @@
     },
     {
         "question_id": "Q2405",
-        "question": "are you interested in a specific age group?"
+        "question": "Are you interested in a specific age group?"
     },
     {
         "question_id": "Q2406",
@@ -9905,7 +9857,7 @@
     },
     {
         "question_id": "Q2476",
-        "question": "would you need any info on unscented lotion base?"
+        "question": "Would you need any info on unscented lotion base?"
     },
     {
         "question_id": "Q2477",
@@ -10105,7 +10057,7 @@
     },
     {
         "question_id": "Q2526",
-        "question": "do you need information about their cooling systems?"
+        "question": "Do you need information about their cooling systems?"
     },
     {
         "question_id": "Q2527",
@@ -10149,7 +10101,7 @@
     },
     {
         "question_id": "Q2537",
-        "question": "where are you making deodorant cost?"
+        "question": "Where are you making deodorant cost?"
     },
     {
         "question_id": "Q2538",
@@ -10253,7 +10205,7 @@
     },
     {
         "question_id": "Q2563",
-        "question": "want to know who runs ponzi schemes?"
+        "question": "Want to know who runs ponzi schemes?"
     },
     {
         "question_id": "Q2564",
@@ -10273,7 +10225,7 @@
     },
     {
         "question_id": "Q2568",
-        "question": "how many animals will be affected by climate change?"
+        "question": "How many animals will be affected by climate change?"
     },
     {
         "question_id": "Q2569",
@@ -10396,10 +10348,6 @@
         "question": "Are you interested in The Eiffel Tower in Paris, France?"
     },
     {
-        "question_id": "Q2599",
-        "question": "Places to learn bikepacking"
-    },
-    {
         "question_id": "Q2600",
         "question": "Would you like to know when people started reusing Rockets?"
     },
@@ -10421,7 +10369,7 @@
     },
     {
         "question_id": "Q2605",
-        "question": "What type of impact are you expecting."
+        "question": "What type of impact are you expecting?"
     },
     {
         "question_id": "Q2606",
@@ -10429,7 +10377,7 @@
     },
     {
         "question_id": "Q2607",
-        "question": "how many food projects do we need to sustain our people?"
+        "question": "How many food projects do we need to sustain our people?"
     },
     {
         "question_id": "Q2608",
@@ -10469,7 +10417,7 @@
     },
     {
         "question_id": "Q2617",
-        "question": "do you suggest any alternative to drinking water?"
+        "question": "Do you suggest any alternative to drinking water?"
     },
     {
         "question_id": "Q2618",
@@ -10585,7 +10533,7 @@
     },
     {
         "question_id": "Q2646",
-        "question": "would you like to know where each are made?"
+        "question": "Would you like to know where each are made?"
     },
     {
         "question_id": "Q2647",
@@ -10780,10 +10728,6 @@
         "question": "What smells are flavor are you interested in?"
     },
     {
-        "question_id": "Q2695",
-        "question": "Are you looking for cheap or expensive beatuty products."
-    },
-    {
         "question_id": "Q2696",
         "question": "Would you like to know the leading experts on climate change?"
     },
@@ -10945,7 +10889,7 @@
     },
     {
         "question_id": "Q2736",
-        "question": "Are you interested in the people who live in african deserts"
+        "question": "Are you interested in the people who live in african deserts?"
     },
     {
         "question_id": "Q2737",
@@ -11033,7 +10977,7 @@
     },
     {
         "question_id": "Q2758",
-        "question": "according with climate change will africa be affected ?"
+        "question": "According with climate change will africa be affected ?"
     },
     {
         "question_id": "Q2759",
@@ -11073,7 +11017,7 @@
     },
     {
         "question_id": "Q2768",
-        "question": "would you like to know more about the fuel each uses?"
+        "question": "Would you like to know more about the fuel each uses?"
     },
     {
         "question_id": "Q2769",
@@ -11169,7 +11113,7 @@
     },
     {
         "question_id": "Q2792",
-        "question": "do you want to know about investor returns?"
+        "question": "Do you want to know about investor returns?"
     },
     {
         "question_id": "Q2793",
@@ -11185,7 +11129,7 @@
     },
     {
         "question_id": "Q2796",
-        "question": "what are the causes of coral bleeching ?"
+        "question": "What are the causes of coral bleeching ?"
     },
     {
         "question_id": "Q2797",
@@ -11341,7 +11285,7 @@
     },
     {
         "question_id": "Q2835",
-        "question": "What type of tech"
+        "question": "What type of tech?"
     },
     {
         "question_id": "Q2836",
@@ -11373,7 +11317,7 @@
     },
     {
         "question_id": "Q2843",
-        "question": "want to know what ponzi schemes are all about?"
+        "question": "Want to know what ponzi schemes are all about?"
     },
     {
         "question_id": "Q2844",
@@ -11397,7 +11341,7 @@
     },
     {
         "question_id": "Q2849",
-        "question": "do you want to know the history of climate change?"
+        "question": "Do you want to know the history of climate change?"
     },
     {
         "question_id": "Q2850",
@@ -11585,7 +11529,7 @@
     },
     {
         "question_id": "Q2896",
-        "question": "are you refering to the types of pressure-Fed rocket engine?"
+        "question": "Are you refering to the types of pressure-Fed rocket engine?"
     },
     {
         "question_id": "Q2897",
@@ -11601,7 +11545,7 @@
     },
     {
         "question_id": "Q2900",
-        "question": "which colour results in coloral bleeching?"
+        "question": "Which colour results in coloral bleeching?"
     },
     {
         "question_id": "Q2901",
@@ -11629,7 +11573,7 @@
     },
     {
         "question_id": "Q2907",
-        "question": "Would you like to see open banking regulations in the US"
+        "question": "Would you like to see open banking regulations in the US?"
     },
     {
         "question_id": "Q2908",
@@ -11677,7 +11621,7 @@
     },
     {
         "question_id": "Q2919",
-        "question": "are you interested in the summary of Bostrom's \"simulation argument\"?"
+        "question": "Are you interested in the summary of Bostrom's \"simulation argument\"?"
     },
     {
         "question_id": "Q2920",
@@ -12069,7 +12013,7 @@
     },
     {
         "question_id": "Q3017",
-        "question": "do you want to know the differences in materials used for each?"
+        "question": "Do you want to know the differences in materials used for each?"
     },
     {
         "question_id": "Q3018",
@@ -12201,7 +12145,7 @@
     },
     {
         "question_id": "Q3050",
-        "question": "when was Nigeria tourism development corporation created?"
+        "question": "When was Nigeria tourism development corporation created?"
     },
     {
         "question_id": "Q3051",
@@ -12310,10 +12254,6 @@
     {
         "question_id": "Q3077",
         "question": "Are you looking for a single exercise or an entire workout regimen?"
-    },
-    {
-        "question_id": "Q3078",
-        "question": "Does it matter if the product was tested humainly."
     },
     {
         "question_id": "Q3079",
@@ -12473,7 +12413,7 @@
     },
     {
         "question_id": "Q3118",
-        "question": "would you like to hear about the types of rocket engine cycles?"
+        "question": "Would you like to hear about the types of rocket engine cycles?"
     },
     {
         "question_id": "Q3119",
@@ -12693,7 +12633,7 @@
     },
     {
         "question_id": "Q3173",
-        "question": "what can cause climate change?"
+        "question": "What can cause climate change?"
     },
     {
         "question_id": "Q3174",
@@ -12889,7 +12829,7 @@
     },
     {
         "question_id": "Q3222",
-        "question": "are you asking about the fees to sell deoderant online?"
+        "question": "Are you asking about the fees to sell deoderant online?"
     },
     {
         "question_id": "Q3223",
@@ -13105,7 +13045,7 @@
     },
     {
         "question_id": "Q3276",
-        "question": "Would you want to know the pros and cons of open banking regulation"
+        "question": "Would you want to know the pros and cons of open banking regulation?"
     },
     {
         "question_id": "Q3277",
@@ -13149,7 +13089,7 @@
     },
     {
         "question_id": "Q3287",
-        "question": "would you like an example of the people behind ponzi schemes?"
+        "question": "Would you like an example of the people behind ponzi schemes?"
     },
     {
         "question_id": "Q3288",
@@ -13217,15 +13157,11 @@
     },
     {
         "question_id": "Q3304",
-        "question": "what type of information do you want to know about paris climate agreement summary?"
+        "question": "What type of information do you want to know about paris climate agreement summary?"
     },
     {
         "question_id": "Q3305",
         "question": "Is an activity requiring equipment alright?"
-    },
-    {
-        "question_id": "Q3306",
-        "question": "What are used to reduce the cloral bleeching"
     },
     {
         "question_id": "Q3307",
@@ -13333,7 +13269,7 @@
     },
     {
         "question_id": "Q3333",
-        "question": "are you interested in the memory of infants?"
+        "question": "Are you interested in the memory of infants?"
     },
     {
         "question_id": "Q3334",
@@ -13609,7 +13545,7 @@
     },
     {
         "question_id": "Q3402",
-        "question": "do you need info on shops with  unscented lotion?"
+        "question": "Do you need info on shops with  unscented lotion?"
     },
     {
         "question_id": "Q3403",
@@ -13661,7 +13597,7 @@
     },
     {
         "question_id": "Q3415",
-        "question": "would you like to know what open rocket cycle engine is?"
+        "question": "Would you like to know what open rocket cycle engine is?"
     },
     {
         "question_id": "Q3416",
@@ -13705,7 +13641,7 @@
     },
     {
         "question_id": "Q3426",
-        "question": "we you like to know about biden returnning u.s  to paris climate agreement?"
+        "question": "We you like to know about biden returnning u.s  to paris climate agreement?"
     },
     {
         "question_id": "Q3427",
@@ -13948,10 +13884,6 @@
         "question": "Are you interested in knowing which came first, open banking vs PSD2?"
     },
     {
-        "question_id": "Q3487",
-        "question": "skip the music"
-    },
-    {
         "question_id": "Q3488",
         "question": "What makes you think that you are living in a simulation?"
     },
@@ -13969,7 +13901,7 @@
     },
     {
         "question_id": "Q3492",
-        "question": "Would you like to know if the reporter's source was ever identified after the given condition as being unidentifiable."
+        "question": "Would you like to know if the reporter's source was ever identified after the given condition as being unidentifiable?"
     },
     {
         "question_id": "Q3493",
@@ -14157,7 +14089,7 @@
     },
     {
         "question_id": "Q3539",
-        "question": "Do you want information about different types of scams"
+        "question": "Do you want information about different types of scams?"
     },
     {
         "question_id": "Q3540",
@@ -14185,7 +14117,7 @@
     },
     {
         "question_id": "Q3546",
-        "question": "are you asking what ingredients make deoderant work?"
+        "question": "Are you asking what ingredients make deoderant work?"
     },
     {
         "question_id": "Q3547",
@@ -14561,7 +14493,7 @@
     },
     {
         "question_id": "Q3640",
-        "question": "What type of scam are you referring to"
+        "question": "What type of scam are you referring to?"
     },
     {
         "question_id": "Q3641",
@@ -14681,7 +14613,7 @@
     },
     {
         "question_id": "Q3670",
-        "question": "how long do you want to run in one session?"
+        "question": "How long do you want to run in one session?"
     },
     {
         "question_id": "Q3671",
@@ -14797,7 +14729,7 @@
     },
     {
         "question_id": "Q3699",
-        "question": "will people need alot of water to survive?"
+        "question": "Will people need alot of water to survive?"
     },
     {
         "question_id": "Q3700",
@@ -15121,7 +15053,7 @@
     },
     {
         "question_id": "Q3780",
-        "question": "how many miles can i run?"
+        "question": "How many miles can i run?"
     },
     {
         "question_id": "Q3781",
@@ -15209,7 +15141,7 @@
     },
     {
         "question_id": "Q3802",
-        "question": "what type of unscented lotion do you want to buy?"
+        "question": "What type of unscented lotion do you want to buy?"
     },
     {
         "question_id": "Q3803",
@@ -15485,7 +15417,7 @@
     },
     {
         "question_id": "Q3871",
-        "question": "would you like to know which missions each are made for?"
+        "question": "Would you like to know which missions each are made for?"
     },
     {
         "question_id": "Q3872",
@@ -15549,7 +15481,7 @@
     },
     {
         "question_id": "Q3887",
-        "question": "would you want to know how much pressure is in a rocket engine"
+        "question": "Would you want to know how much pressure is in a rocket engine?"
     },
     {
         "question_id": "Q3888",
@@ -15573,7 +15505,7 @@
     },
     {
         "question_id": "Q3893",
-        "question": "Do you need a list of the differnt rock engine types."
+        "question": "Do you need a list of the differnt rock engine types?"
     },
     {
         "question_id": "Q3894",
@@ -15601,7 +15533,7 @@
     },
     {
         "question_id": "Q3900",
-        "question": "Are you wanting facial cleaners, hair or other face products."
+        "question": "Are you wanting facial cleaners, hair or other face products?"
     },
     {
         "question_id": "Q3901",
@@ -15621,7 +15553,7 @@
     },
     {
         "question_id": "Q3905",
-        "question": "what would you do if you knew you could not fail?"
+        "question": "What would you do if you knew you could not fail?"
     },
     {
         "question_id": "Q3906",
@@ -15752,12 +15684,8 @@
         "question": "WHAT PROBLEMS CAN FINTECH SOLVE ?"
     },
     {
-        "question_id": "Q3938",
-        "question": "Richard Nixon history"
-    },
-    {
         "question_id": "Q3939",
-        "question": "why is it so hard to get into tech?"
+        "question": "Why is it so hard to get into tech?"
     },
     {
         "question_id": "Q3940",
@@ -15821,7 +15749,7 @@
     },
     {
         "question_id": "Q3955",
-        "question": "what are three traditions in argentina?"
+        "question": "What are three traditions in argentina?"
     },
     {
         "question_id": "Q3956",
@@ -15829,7 +15757,7 @@
     },
     {
         "question_id": "Q3957",
-        "question": "why are bike seats uncomfortable for women?"
+        "question": "Why are bike seats uncomfortable for women?"
     },
     {
         "question_id": "Q3958",
@@ -15840,16 +15768,12 @@
         "question": "What color is coral when it dies?"
     },
     {
-        "question_id": "Q3960",
-        "question": "bikepacking bags for mountain bikes"
-    },
-    {
         "question_id": "Q3961",
-        "question": "who owns the yakuza ip?"
+        "question": "Who owns the yakuza ip?"
     },
     {
         "question_id": "Q3962",
-        "question": "what are the four type of rockrt engines?"
+        "question": "What are the four type of rockrt engines?"
     },
     {
         "question_id": "Q3963",
@@ -15857,7 +15781,7 @@
     },
     {
         "question_id": "Q3964",
-        "question": "why is beef so popular in argentina?"
+        "question": "Why is beef so popular in argentina?"
     },
     {
         "question_id": "Q3965",
@@ -15874,10 +15798,6 @@
     {
         "question_id": "Q3968",
         "question": "What are the best plants for stomach issues?"
-    },
-    {
-        "question_id": "Q3969",
-        "question": "Bikepacking bags for bike frames"
     },
     {
         "question_id": "Q3970",
@@ -15913,7 +15833,7 @@
     },
     {
         "question_id": "Q3978",
-        "question": "is spaceX raptor engine the king of rocket engines ?"
+        "question": "Is spaceX raptor engine the king of rocket engines ?"
     },
     {
         "question_id": "Q3979",
@@ -15929,7 +15849,7 @@
     },
     {
         "question_id": "Q3982",
-        "question": "how often does marvel studios hire people?"
+        "question": "How often does marvel studios hire people?"
     },
     {
         "question_id": "Q3983",
@@ -15940,28 +15860,20 @@
         "question": "What are the best cures for stomach aches?"
     },
     {
-        "question_id": "Q3985",
-        "question": "When did a ponzi scheme occur"
-    },
-    {
-        "question_id": "Q3986",
-        "question": "Collapse of ponzi schemes"
-    },
-    {
         "question_id": "Q3987",
         "question": "Which Amazon warehouse are you intersted in looking?"
     },
     {
         "question_id": "Q3988",
-        "question": "how do you choose the right sanddle?"
+        "question": "How do you choose the right sanddle?"
     },
     {
         "question_id": "Q3989",
-        "question": "who is the iron man ?"
+        "question": "Who is the iron man ?"
     },
     {
         "question_id": "Q3990",
-        "question": "what is marvels level of diversity?"
+        "question": "What is marvels level of diversity?"
     },
     {
         "question_id": "Q3991",
@@ -15973,15 +15885,11 @@
     },
     {
         "question_id": "Q3993",
-        "question": "would you like to know the letest news abuot how Congress and federal prosecution get Nixon's taped conversations in the Oval Office?"
+        "question": "Would you like to know the letest news abuot how Congress and federal prosecution get Nixon's taped conversations in the Oval Office?"
     },
     {
         "question_id": "Q3994",
         "question": "When did the memory loss begin?"
-    },
-    {
-        "question_id": "Q3995",
-        "question": "bikepacking bags for handlebars"
     },
     {
         "question_id": "Q3996",
@@ -15993,7 +15901,7 @@
     },
     {
         "question_id": "Q3998",
-        "question": "does marvel studios work appeal to a wide range of diverse people?"
+        "question": "Does marvel studios work appeal to a wide range of diverse people?"
     },
     {
         "question_id": "Q3999",
@@ -16032,12 +15940,8 @@
         "question": "What are the post Watergate reforms?"
     },
     {
-        "question_id": "Q4008",
-        "question": "Bikepacking bags for gear storage"
-    },
-    {
         "question_id": "Q4009",
-        "question": "whats the best way into the tech industry?"
+        "question": "Whats the best way into the tech industry?"
     },
     {
         "question_id": "Q4010",
@@ -16112,10 +16016,6 @@
         "question": "What is a simulation?"
     },
     {
-        "question_id": "Q4028",
-        "question": "Yes"
-    },
-    {
         "question_id": "Q4029",
         "question": "Why do children need to remember their memories?"
     },
@@ -16129,7 +16029,7 @@
     },
     {
         "question_id": "Q4032",
-        "question": "how did princess olga die?"
+        "question": "How did princess olga die?"
     },
     {
         "question_id": "Q4033",
@@ -16153,11 +16053,11 @@
     },
     {
         "question_id": "Q4038",
-        "question": "What kind of information are you looking for? News or general information about Vladimir the Great."
+        "question": "What kind of information are you looking for? News or general information about Vladimir the Great?"
     },
     {
         "question_id": "Q4039",
-        "question": "does marvel have a issue hiring people of color?"
+        "question": "Does marvel have a issue hiring people of color?"
     },
     {
         "question_id": "Q4040",
@@ -16173,7 +16073,7 @@
     },
     {
         "question_id": "Q4043",
-        "question": "how do you choose women's bike seat?"
+        "question": "How do you choose women's bike seat?"
     },
     {
         "question_id": "Q4044",
@@ -16181,7 +16081,7 @@
     },
     {
         "question_id": "Q4045",
-        "question": "how did vladdimir die?"
+        "question": "How did vladdimir die?"
     },
     {
         "question_id": "Q4046",
@@ -16245,7 +16145,7 @@
     },
     {
         "question_id": "Q4061",
-        "question": "why are Raptor engines Green ?"
+        "question": "Why are Raptor engines Green ?"
     },
     {
         "question_id": "Q4062",
@@ -16254,14 +16154,6 @@
     {
         "question_id": "Q4063",
         "question": "Which model did you get?"
-    },
-    {
-        "question_id": "Q4064",
-        "question": "How to spot a ponzi scheme."
-    },
-    {
-        "question_id": "Q4065",
-        "question": "How did life change after the Watergate scandal"
     },
     {
         "question_id": "Q4066",
@@ -16282,18 +16174,6 @@
     {
         "question_id": "Q4070",
         "question": "Is iron man is villain?"
-    },
-    {
-        "question_id": "Q4071",
-        "question": "Do you know how to tang"
-    },
-    {
-        "question_id": "Q4072",
-        "question": "lead the method typing"
-    },
-    {
-        "question_id": "Q4073",
-        "question": "Who can teach us  about the history of the tango"
     },
     {
         "question_id": "Q4074",
@@ -16338,10 +16218,6 @@
     {
         "question_id": "Q4084",
         "question": "What the top largest warehouses Amazon owns?"
-    },
-    {
-        "question_id": "Q4085",
-        "question": "Name places as great as the Great Wall in China."
     },
     {
         "question_id": "Q4086",
@@ -16389,7 +16265,7 @@
     },
     {
         "question_id": "Q4097",
-        "question": "whay course shoul i go ?"
+        "question": "Whay course shoul i go ?"
     },
     {
         "question_id": "Q4098",
@@ -16409,7 +16285,7 @@
     },
     {
         "question_id": "Q4102",
-        "question": "what is the old name of calabar?"
+        "question": "What is the old name of calabar?"
     },
     {
         "question_id": "Q4103",
@@ -16432,16 +16308,12 @@
         "question": "What do you think are the other landmarks on earth that are as good as the Great Wall in China?"
     },
     {
-        "question_id": "Q4108",
-        "question": "What part does Biden support in the Paris agreement"
-    },
-    {
         "question_id": "Q4109",
         "question": "When is it Andy Jassy's birthday?"
     },
     {
         "question_id": "Q4110",
-        "question": "what meat is argentina known for?"
+        "question": "What meat is argentina known for?"
     },
     {
         "question_id": "Q4111",
@@ -16450,10 +16322,6 @@
     {
         "question_id": "Q4112",
         "question": "Where is Amazon's main headquarters?"
-    },
-    {
-        "question_id": "Q4113",
-        "question": "bikepacking bags for touring"
     },
     {
         "question_id": "Q4114",
@@ -16465,7 +16333,7 @@
     },
     {
         "question_id": "Q4116",
-        "question": "how do you cook argentina beef?"
+        "question": "How do you cook argentina beef?"
     },
     {
         "question_id": "Q4117",
@@ -16477,11 +16345,11 @@
     },
     {
         "question_id": "Q4119",
-        "question": "what is simulation theory?"
+        "question": "What is simulation theory?"
     },
     {
         "question_id": "Q4120",
-        "question": "what is the iron man work ?"
+        "question": "What is the iron man work ?"
     },
     {
         "question_id": "Q4121",
@@ -16497,7 +16365,7 @@
     },
     {
         "question_id": "Q4124",
-        "question": "is the CEO of marvel named justin or gilbert possibly?"
+        "question": "Is the CEO of marvel named justin or gilbert possibly?"
     },
     {
         "question_id": "Q4125",
@@ -16521,19 +16389,15 @@
     },
     {
         "question_id": "Q4130",
-        "question": "what are the three types of propulsion rocket systems?"
+        "question": "What are the three types of propulsion rocket systems?"
     },
     {
         "question_id": "Q4131",
         "question": "What can be done to give children better memories?"
     },
     {
-        "question_id": "Q4132",
-        "question": "has someone written a book about how to tango"
-    },
-    {
         "question_id": "Q4133",
-        "question": "are rich countries contributing enough to help mitigate climate change?"
+        "question": "Are rich countries contributing enough to help mitigate climate change?"
     },
     {
         "question_id": "Q4134",
@@ -16553,11 +16417,11 @@
     },
     {
         "question_id": "Q4138",
-        "question": "does judgement use dragon engine?"
+        "question": "Does judgement use dragon engine?"
     },
     {
         "question_id": "Q4139",
-        "question": "who is involved in ponzi scams?"
+        "question": "Who is involved in ponzi scams?"
     },
     {
         "question_id": "Q4140",
@@ -16573,7 +16437,7 @@
     },
     {
         "question_id": "Q4143",
-        "question": "in what time period did vladdimir, princess olga's grandson live?"
+        "question": "In what time period did vladdimir, princess olga's grandson live?"
     },
     {
         "question_id": "Q4144",
@@ -16581,7 +16445,7 @@
     },
     {
         "question_id": "Q4145",
-        "question": "who is the owner of tango live app?"
+        "question": "Who is the owner of tango live app?"
     },
     {
         "question_id": "Q4146",
@@ -16597,11 +16461,11 @@
     },
     {
         "question_id": "Q4149",
-        "question": "what are the 3 types of rocket engines ?"
+        "question": "What are the 3 types of rocket engines ?"
     },
     {
         "question_id": "Q4150",
-        "question": "what do you mean by simulation?"
+        "question": "What do you mean by simulation?"
     },
     {
         "question_id": "Q4151",
@@ -16613,27 +16477,19 @@
     },
     {
         "question_id": "Q4153",
-        "question": "are you interested in this searching ?"
+        "question": "Are you interested in this searching ?"
     },
     {
         "question_id": "Q4154",
-        "question": "can you help with information about working in tech?"
+        "question": "Can you help with information about working in tech?"
     },
     {
         "question_id": "Q4155",
         "question": "In which character betty has own a dance with?"
     },
     {
-        "question_id": "Q4156",
-        "question": "when did a ponzi scheme fail"
-    },
-    {
         "question_id": "Q4157",
         "question": "Is a Ponzi scheme the same as an MLM?"
-    },
-    {
-        "question_id": "Q4158",
-        "question": "What is the main culture of south America"
     },
     {
         "question_id": "Q4159",
@@ -16665,7 +16521,7 @@
     },
     {
         "question_id": "Q4166",
-        "question": "how to the power in iron man ?"
+        "question": "How to the power in iron man ?"
     },
     {
         "question_id": "Q4167",
@@ -16684,10 +16540,6 @@
         "question": "What is the difference between PSD2 and PSD1?"
     },
     {
-        "question_id": "Q4171",
-        "question": "you also behind the scen"
-    },
-    {
         "question_id": "Q4172",
         "question": "What happened to the Nixon tapes?"
     },
@@ -16701,7 +16553,7 @@
     },
     {
         "question_id": "Q4175",
-        "question": "whats the besty way to get a tech job?"
+        "question": "Whats the besty way to get a tech job?"
     },
     {
         "question_id": "Q4176",
@@ -16720,10 +16572,6 @@
         "question": "What was Watergate?"
     },
     {
-        "question_id": "Q4180",
-        "question": "1536 x 824"
-    },
-    {
         "question_id": "Q4181",
         "question": "What are best way to build self-esteem among teen kid?"
     },
@@ -16737,11 +16585,11 @@
     },
     {
         "question_id": "Q4184",
-        "question": "how did duck get its name?"
+        "question": "How did duck get its name?"
     },
     {
         "question_id": "Q4185",
-        "question": "is yakuza 0 on the dragon engine?"
+        "question": "Is yakuza 0 on the dragon engine?"
     },
     {
         "question_id": "Q4186",
@@ -16753,7 +16601,7 @@
     },
     {
         "question_id": "Q4188",
-        "question": "why do woman's bike seats have holes?"
+        "question": "Why do woman's bike seats have holes?"
     },
     {
         "question_id": "Q4189",
@@ -16765,15 +16613,11 @@
     },
     {
         "question_id": "Q4191",
-        "question": "when marvel was first started, was the employees that worked there for a diverse set of backgrounds?"
+        "question": "When marvel was first started, was the employees that worked there for a diverse set of backgrounds?"
     },
     {
         "question_id": "Q4192",
         "question": "Where to buy Moto G7?"
-    },
-    {
-        "question_id": "Q4193",
-        "question": "Watergate scandal"
     },
     {
         "question_id": "Q4194",
@@ -16789,7 +16633,7 @@
     },
     {
         "question_id": "Q4197",
-        "question": "how did calabar get its name?"
+        "question": "How did calabar get its name?"
     },
     {
         "question_id": "Q4198",
@@ -16809,7 +16653,7 @@
     },
     {
         "question_id": "Q4202",
-        "question": "how many people of color have held executive positions at marvel?"
+        "question": "How many people of color have held executive positions at marvel?"
     },
     {
         "question_id": "Q4203",
@@ -16829,7 +16673,7 @@
     },
     {
         "question_id": "Q4207",
-        "question": "how many marvel movies has jessica alba been in?"
+        "question": "How many marvel movies has jessica alba been in?"
     },
     {
         "question_id": "Q4208",
@@ -16841,7 +16685,7 @@
     },
     {
         "question_id": "Q4210",
-        "question": "how did you clarifying questions ?"
+        "question": "How did you clarifying questions ?"
     },
     {
         "question_id": "Q4211",
@@ -16913,27 +16757,19 @@
     },
     {
         "question_id": "Q4228",
-        "question": "what engine is yakuza 5 in ?"
+        "question": "What engine is yakuza 5 in ?"
     },
     {
         "question_id": "Q4229",
-        "question": "ls yakuza:like  a dragon on the dragon engine?"
+        "question": "Ls yakuza:like  a dragon on the dragon engine?"
     },
     {
         "question_id": "Q4230",
         "question": "Are corals made of carbon?"
     },
     {
-        "question_id": "Q4231",
-        "question": "How Much essential Oil Do I Add To Unscented lotion"
-    },
-    {
         "question_id": "Q4232",
         "question": "How long does the Amazon River go far?"
-    },
-    {
-        "question_id": "Q4233",
-        "question": "its normal beter"
     },
     {
         "question_id": "Q4234",
@@ -16957,7 +16793,7 @@
     },
     {
         "question_id": "Q4239",
-        "question": "what are the five different types of rockets?"
+        "question": "What are the five different types of rockets?"
     },
     {
         "question_id": "Q4240",
@@ -16973,7 +16809,7 @@
     },
     {
         "question_id": "Q4243",
-        "question": "what is argentinian culture known for?"
+        "question": "What is argentinian culture known for?"
     },
     {
         "question_id": "Q4244",
@@ -17001,11 +16837,11 @@
     },
     {
         "question_id": "Q4250",
-        "question": "how many people of color does marvel studio have employed?"
+        "question": "How many people of color does marvel studio have employed?"
     },
     {
         "question_id": "Q4251",
-        "question": "what is so special about argentinian beef?"
+        "question": "What is so special about argentinian beef?"
     },
     {
         "question_id": "Q4252",
@@ -17013,7 +16849,7 @@
     },
     {
         "question_id": "Q4253",
-        "question": "how is like to the iron man?"
+        "question": "How is like to the iron man?"
     },
     {
         "question_id": "Q4254",
@@ -17081,7 +16917,7 @@
     },
     {
         "question_id": "Q4270",
-        "question": "why are hybrid rockets not used?"
+        "question": "Why are hybrid rockets not used?"
     },
     {
         "question_id": "Q4271",
@@ -17097,7 +16933,7 @@
     },
     {
         "question_id": "Q4274",
-        "question": "is duck campus open to public?"
+        "question": "Is duck campus open to public?"
     },
     {
         "question_id": "Q4275",
@@ -17105,7 +16941,7 @@
     },
     {
         "question_id": "Q4276",
-        "question": "which is the place in the iron man ?"
+        "question": "Which is the place in the iron man ?"
     },
     {
         "question_id": "Q4277",
@@ -17197,11 +17033,11 @@
     },
     {
         "question_id": "Q4299",
-        "question": "whats the level of diversity among employees at marvel studios?"
+        "question": "Whats the level of diversity among employees at marvel studios?"
     },
     {
         "question_id": "Q4300",
-        "question": "is bike touring hard?"
+        "question": "Is bike touring hard?"
     },
     {
         "question_id": "Q4301",
@@ -17228,10 +17064,6 @@
         "question": "Does lemon helps digestion?"
     },
     {
-        "question_id": "Q4307",
-        "question": "best my think noise no"
-    },
-    {
         "question_id": "Q4308",
         "question": "What should President Nixon be remembered for?"
     },
@@ -17241,11 +17073,11 @@
     },
     {
         "question_id": "Q4310",
-        "question": "how do plan a bike tour?"
+        "question": "How do plan a bike tour?"
     },
     {
         "question_id": "Q4311",
-        "question": "how long did princess olga live?"
+        "question": "How long did princess olga live?"
     },
     {
         "question_id": "Q4312",
@@ -17265,7 +17097,7 @@
     },
     {
         "question_id": "Q4316",
-        "question": "what ever happened to vladdimir, the grandson of princess olga?"
+        "question": "What ever happened to vladdimir, the grandson of princess olga?"
     },
     {
         "question_id": "Q4317",
@@ -17277,7 +17109,7 @@
     },
     {
         "question_id": "Q4319",
-        "question": "what are the cultures in argentina?"
+        "question": "What are the cultures in argentina?"
     },
     {
         "question_id": "Q4320",
@@ -17285,7 +17117,7 @@
     },
     {
         "question_id": "Q4321",
-        "question": "what the best beef in the world?"
+        "question": "What the best beef in the world?"
     },
     {
         "question_id": "Q4322",
@@ -17301,15 +17133,11 @@
     },
     {
         "question_id": "Q4325",
-        "question": "Do you want to know about Rocket engines."
-    },
-    {
-        "question_id": "Q4326",
-        "question": "Is the tango a dance"
+        "question": "Do you want to know about Rocket engines?"
     },
     {
         "question_id": "Q4327",
-        "question": "what to eat before or after running?"
+        "question": "What to eat before or after running?"
     },
     {
         "question_id": "Q4328",
@@ -17324,12 +17152,8 @@
         "question": "Why do we need to protect coral reefs?"
     },
     {
-        "question_id": "Q4331",
-        "question": "ponzi scam illustration"
-    },
-    {
         "question_id": "Q4332",
-        "question": "are you happy or not happy to participate in this activites ?"
+        "question": "Are you happy or not happy to participate in this activites ?"
     },
     {
         "question_id": "Q4333",
@@ -17337,7 +17161,7 @@
     },
     {
         "question_id": "Q4334",
-        "question": "what is ford dragon engine?"
+        "question": "What is ford dragon engine?"
     },
     {
         "question_id": "Q4335",
@@ -17354,10 +17178,6 @@
     {
         "question_id": "Q4338",
         "question": "Why are lemons good for stomach problems?"
-    },
-    {
-        "question_id": "Q4339",
-        "question": "ponzi scammers in the world"
     },
     {
         "question_id": "Q4340",
@@ -17377,7 +17197,7 @@
     },
     {
         "question_id": "Q4344",
-        "question": "what kind of questions are use to clarify informations ?"
+        "question": "What kind of questions are use to clarify informations ?"
     },
     {
         "question_id": "Q4345",
@@ -17405,7 +17225,7 @@
     },
     {
         "question_id": "Q4351",
-        "question": "what is the nature of reality?"
+        "question": "What is the nature of reality?"
     },
     {
         "question_id": "Q4352",
@@ -17441,11 +17261,11 @@
     },
     {
         "question_id": "Q4360",
-        "question": "what do calabar call their king?"
+        "question": "What do calabar call their king?"
     },
     {
         "question_id": "Q4361",
-        "question": "what does the dragon engine do?"
+        "question": "What does the dragon engine do?"
     },
     {
         "question_id": "Q4362",
@@ -17469,7 +17289,7 @@
     },
     {
         "question_id": "Q4367",
-        "question": "is there life after death?"
+        "question": "Is there life after death?"
     },
     {
         "question_id": "Q4368",
@@ -17477,7 +17297,7 @@
     },
     {
         "question_id": "Q4369",
-        "question": "what does portenos mean in english?"
+        "question": "What does portenos mean in english?"
     },
     {
         "question_id": "Q4370",
@@ -17485,15 +17305,11 @@
     },
     {
         "question_id": "Q4371",
-        "question": "how much is tango premium?"
+        "question": "How much is tango premium?"
     },
     {
         "question_id": "Q4372",
         "question": "How many countries are by the Amazon River?"
-    },
-    {
-        "question_id": "Q4373",
-        "question": "do you have a tango teacher"
     },
     {
         "question_id": "Q4374",
@@ -17517,7 +17333,7 @@
     },
     {
         "question_id": "Q4379",
-        "question": "is reincarnation real?"
+        "question": "Is reincarnation real?"
     },
     {
         "question_id": "Q4380",
@@ -17525,7 +17341,7 @@
     },
     {
         "question_id": "Q4381",
-        "question": "what are the top 10 questions to ask an interviewer ?"
+        "question": "What are the top 10 questions to ask an interviewer ?"
     },
     {
         "question_id": "Q4382",
@@ -17561,11 +17377,7 @@
     },
     {
         "question_id": "Q4390",
-        "question": "who made dragon engine?"
-    },
-    {
-        "question_id": "Q4391",
-        "question": "Biggest ponzi scheme collapse"
+        "question": "Who made dragon engine?"
     },
     {
         "question_id": "Q4392",
@@ -17585,7 +17397,7 @@
     },
     {
         "question_id": "Q4396",
-        "question": "how is argentinian steak different?"
+        "question": "How is argentinian steak different?"
     },
     {
         "question_id": "Q4397",
@@ -17620,20 +17432,16 @@
         "question": "What was the largest ponzi scheme in history?"
     },
     {
-        "question_id": "Q4405",
-        "question": "Ponzi scam definition"
-    },
-    {
         "question_id": "Q4406",
         "question": "Do poorer countries need additional financing to combat climate change?"
     },
     {
         "question_id": "Q4407",
-        "question": "has justin timberlake done any pieces for any of marvel's soundtracks?"
+        "question": "Has justin timberlake done any pieces for any of marvel's soundtracks?"
     },
     {
         "question_id": "Q4408",
-        "question": "what is calabar known for?"
+        "question": "What is calabar known for?"
     },
     {
         "question_id": "Q4409",
@@ -17650,10 +17458,6 @@
     {
         "question_id": "Q4412",
         "question": "Who was the secret informant who provided information and nicknamed Deep Throat?"
-    },
-    {
-        "question_id": "Q4413",
-        "question": "1024 x 738"
     },
     {
         "question_id": "Q4414",
@@ -17682,10 +17486,6 @@
     {
         "question_id": "Q4420",
         "question": "What is tango process?"
-    },
-    {
-        "question_id": "Q4421",
-        "question": "collapsse of ponzi schemes in hyistory"
     },
     {
         "question_id": "Q4422",
@@ -17717,11 +17517,7 @@
     },
     {
         "question_id": "Q4429",
-        "question": "who is the opposite character for red skull?"
-    },
-    {
-        "question_id": "Q4430",
-        "question": "to avaoid thepolitical"
+        "question": "Who is the opposite character for red skull?"
     },
     {
         "question_id": "Q4431",
@@ -17764,10 +17560,6 @@
         "question": "Was princess olga a good princess?"
     },
     {
-        "question_id": "Q4441",
-        "question": "Bikepacking bags for camping"
-    },
-    {
         "question_id": "Q4442",
         "question": "Did Biden express himself in the Paris agreement?"
     },
@@ -17785,7 +17577,7 @@
     },
     {
         "question_id": "Q4446",
-        "question": "are richer countries responsible for climate change?"
+        "question": "Are richer countries responsible for climate change?"
     },
     {
         "question_id": "Q4447",
@@ -17833,7 +17625,7 @@
     },
     {
         "question_id": "Q4458",
-        "question": "what are the basic elements in tech?"
+        "question": "What are the basic elements in tech?"
     },
     {
         "question_id": "Q4459",
@@ -17841,7 +17633,7 @@
     },
     {
         "question_id": "Q4460",
-        "question": "how many peoples participate in this study ?"
+        "question": "How many peoples participate in this study ?"
     },
     {
         "question_id": "Q4461",
@@ -17876,10 +17668,6 @@
         "question": "Are marshmallow roots edible?"
     },
     {
-        "question_id": "Q4469",
-        "question": "help me find any tech indusry around."
-    },
-    {
         "question_id": "Q4470",
         "question": "Which century introduced this?"
     },
@@ -17904,16 +17692,8 @@
         "question": "Did Nixon have to resign?"
     },
     {
-        "question_id": "Q4476",
-        "question": "where can we learn to tango"
-    },
-    {
-        "question_id": "Q4477",
-        "question": "beter think good"
-    },
-    {
         "question_id": "Q4478",
-        "question": "what character chris evans acted in marvel universe?"
+        "question": "What character chris evans acted in marvel universe?"
     },
     {
         "question_id": "Q4479",
@@ -17933,7 +17713,7 @@
     },
     {
         "question_id": "Q4483",
-        "question": "do female riders need women bikes sanddle?"
+        "question": "Do female riders need women bikes sanddle?"
     },
     {
         "question_id": "Q4484",
@@ -17945,7 +17725,7 @@
     },
     {
         "question_id": "Q4486",
-        "question": "is God a giant computer?"
+        "question": "Is God a giant computer?"
     },
     {
         "question_id": "Q4487",
@@ -17957,7 +17737,7 @@
     },
     {
         "question_id": "Q4489",
-        "question": "ls beef cheap in argentina?"
+        "question": "Ls beef cheap in argentina?"
     },
     {
         "question_id": "Q4490",
@@ -17965,7 +17745,7 @@
     },
     {
         "question_id": "Q4491",
-        "question": "does gilbert godfried approve of marvel movies?"
+        "question": "Does gilbert godfried approve of marvel movies?"
     },
     {
         "question_id": "Q4492",
@@ -17973,7 +17753,7 @@
     },
     {
         "question_id": "Q4493",
-        "question": "are poorer countries more affected by climate change?"
+        "question": "Are poorer countries more affected by climate change?"
     },
     {
         "question_id": "Q4494",
@@ -17985,7 +17765,7 @@
     },
     {
         "question_id": "Q4496",
-        "question": "what is the argentinian culture like?"
+        "question": "What is the argentinian culture like?"
     },
     {
         "question_id": "Q4497",
@@ -17993,7 +17773,7 @@
     },
     {
         "question_id": "Q4498",
-        "question": "what is the most effcient type of rocket angines?"
+        "question": "What is the most effcient type of rocket angines?"
     },
     {
         "question_id": "Q4499",
@@ -18005,7 +17785,7 @@
     },
     {
         "question_id": "Q4501",
-        "question": "how to get a big break in tech sector?"
+        "question": "How to get a big break in tech sector?"
     },
     {
         "question_id": "Q4502",
@@ -18017,7 +17797,7 @@
     },
     {
         "question_id": "Q4504",
-        "question": "do i need a degree to work in tech?"
+        "question": "Do i need a degree to work in tech?"
     },
     {
         "question_id": "Q4505",
@@ -18057,7 +17837,7 @@
     },
     {
         "question_id": "Q4514",
-        "question": "does tango work outside of browser?"
+        "question": "Does tango work outside of browser?"
     },
     {
         "question_id": "Q4515",
@@ -18081,11 +17861,11 @@
     },
     {
         "question_id": "Q4520",
-        "question": "what tips will help me land a tech job?"
+        "question": "What tips will help me land a tech job?"
     },
     {
         "question_id": "Q4521",
-        "question": "how do choose a bike for bike touring?"
+        "question": "How do choose a bike for bike touring?"
     },
     {
         "question_id": "Q4522",
@@ -18105,7 +17885,7 @@
     },
     {
         "question_id": "Q4526",
-        "question": "what is difference between road bike and touring?"
+        "question": "What is difference between road bike and touring?"
     },
     {
         "question_id": "Q4527",
@@ -18133,11 +17913,7 @@
     },
     {
         "question_id": "Q4533",
-        "question": "what games use dragon engin?"
-    },
-    {
-        "question_id": "Q4534",
-        "question": "what are the 2 facts about south America"
+        "question": "What games use dragon engin?"
     },
     {
         "question_id": "Q4535",
@@ -18202,10 +17978,6 @@
     {
         "question_id": "Q4550",
         "question": "What are best ways to avaoid scam on guarantee returns?"
-    },
-    {
-        "question_id": "Q4551",
-        "question": "No"
     },
     {
         "question_id": "Q4552",
