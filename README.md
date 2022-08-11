@@ -16,6 +16,8 @@ This is the fourth year of TREC CAsT, which will run as a track in [TREC](https:
 * Run submission deadline: September, 2022
 
 ## Data
+### Topics
+ * [Evaluation topics for Year 4](2022/) - 25 primary evaluation topics in JSON and Protocol Buffer format. There are two variants automatic and manual. 
 
 ### Corpora
 * [Washington Post 2020](https://trec.nist.gov/data/wapost/) - Same from Year 3.
