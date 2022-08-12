@@ -31,12 +31,12 @@ This year, there's an optional mixed-Initiative sub-task that evaluates the abil
 * [KILT Wikipedia](https://github.com/facebookresearch/KILT/) - Same from Year 3.
 * [MS MARCO V2 (Documents)](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021#document-ranking-dataset) - MS MARCO V2 document corpus used in 2021 TREC Deep Learning Track.
 
-Participants have the option of processing the collection (to generate passage splits) themselves using the [provided tools](https://github.com/grill-lab/trec-cast-tools/tree/master/src/main/python) or requesting the processed corpus from the organizers. You can make the request to the organization team via Slack or Google Groups (see below).
+Participants have the option of processing the collection (to generate passage splits) themselves using the [provided tools](https://github.com/grill-lab/trec-cast-tools/) or requesting the processed corpus from the organizers. You can make the request to the organization team via Slack or Google Groups (see below).
 
 If you processed the corpora yourself, please verfify that you have the right passage splits by comparing the hashes of each passage with the [master version](https://cast-y4-collection.s3.amazonaws.com/all_hashes.csv).
 
 ### Baselines
-* TBD 
+* [Question Ranking using Bm25](https://colab.research.google.com/drive/1wi5FwgAGhvXZ8EeWd1NCkVtYf0XdaUGH?usp=sharing) 
 
 ### Duplicate handling
 * [Duplicate Files](https://github.com/daltonj/treccastweb/tree/master/2022/duplicate_files)
@@ -44,6 +44,9 @@ If you processed the corpora yourself, please verfify that you have the right pa
 ## Guidelines
 *  [Year 4 task guidelines](https://docs.google.com/document/d/1POtgCEBUf40c9Tm-qIQOnhWls1xgaNtB-YZtFIOHkf0/edit?usp=sharing)
 * Note: Participants MUST [REGISTER](https://ir.nist.gov/trecsubmit.open/application.html) to submit.
+
+## Run Validations
+* Scripts are available in the [tools repository](https://github.com/grill-lab/trec-cast-tools/) to make sure that your main task and mixed initiative runs are in correct shape.
 
 # Contact
 * Twitter: [@treccast](https://twitter.com/treccast)
