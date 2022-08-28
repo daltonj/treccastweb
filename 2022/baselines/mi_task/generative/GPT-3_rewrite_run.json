@@ -1,0 +1,1247 @@
+{
+    "run_name": "GPT-3_rewrite",
+    "turns": [
+        {
+            "turn_id": "132_1-5",
+            "questions": [
+                {
+                    "question": "Can you specify which of these problems you would like to know more about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_1-7",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about search engines?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_1-3",
+            "questions": [
+                {
+                    "question": "What do you mean by effects?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-1",
+            "questions": [
+                {
+                    "question": "Are you interested in the future problems caused by rising seas, growing deserts and more frequent droughts set to affect the developing world more than rich countries?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-3",
+            "questions": [
+                {
+                    "question": "What do you want to know specifically about how COP26 affects developing countries?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-5",
+            "questions": [
+                {
+                    "question": "There are a number of ways in which developed countries are helping with local changes in temperature and precipitation patterns. Some examples include investing in renewable energy, planting trees, and reducing emissions. Would you like to know more about any of these methods?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-7",
+            "questions": [
+                {
+                    "question": "What do you specifically want to know about the Paris Agreement?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_3-5",
+            "questions": [
+                {
+                    "question": "What do you mean by \"stand\"? Are you asking about the US's current economic situation, political situation, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-3",
+            "questions": [
+                {
+                    "question": "What do you need to make the pamper packs?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-5",
+            "questions": [
+                {
+                    "question": "What type of pamper pack would you like to make?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-7",
+            "questions": [
+                {
+                    "question": "What type of deodorant do you want to make?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-1",
+            "questions": [
+                {
+                    "question": "There are a lot of things you can put in a pamper pack for mom. Would you like some ideas?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-2",
+            "questions": [
+                {
+                    "question": "What type of product would you like to make? A skincare product, makeup product, or fragrance?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-4",
+            "questions": [
+                {
+                    "question": "What do you already know about the first step to make scented lotion?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-6",
+            "questions": [
+                {
+                    "question": "What types of scents do you like?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_2-1",
+            "questions": [
+                {
+                    "question": "What would you like to make at home?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_2-3",
+            "questions": [
+                {
+                    "question": "What would you like to know about the second pamper pack?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_1-1",
+            "questions": [
+                {
+                    "question": "What type of phone do you want?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_2-1",
+            "questions": [
+                {
+                    "question": "What are you looking for in a phone?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_3-1",
+            "questions": [
+                {
+                    "question": "There are a number of other types of phones such as Windows phones, BlackBerry phones, and feature phones. Would you like to know more about a specific type?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_3-3",
+            "questions": [
+                {
+                    "question": "What do you think are the reasons Windows Phones and Android phones are not as good?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_3-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_4-2",
+            "questions": [
+                {
+                    "question": "What do you need help with?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_4-4",
+            "questions": [
+                {
+                    "question": "What type of phone are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_1-3",
+            "questions": [
+                {
+                    "question": "What type of phone are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're trying to ask. Could you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_1-3",
+            "questions": [
+                {
+                    "question": "You can mix a lot of different exercises with running. For example, you could do sprints, long-distance runs, or tempo runs. What type of exercise are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_1-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you mean by \"strength exercises.\" Do you mean exercises to improve your running speed, endurance, or form?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_1-7",
+            "questions": [
+                {
+                    "question": "What is your goal for working out?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_3-1",
+            "questions": [
+                {
+                    "question": "There are a number of different calorie-burning alternatives to running. Would you like to know about swimming, biking, or elliptical training?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_3-3",
+            "questions": [
+                {
+                    "question": "What other type of exercise are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_3-5",
+            "questions": [
+                {
+                    "question": "What type of outdoor activities do you like?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-1",
+            "questions": [
+                {
+                    "question": "What type of weight loss are you interested in? Are you looking to lose a lot of weight quickly or a little bit of weight gradually?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-3",
+            "questions": [
+                {
+                    "question": "What type of weight loss are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-5",
+            "questions": [
+                {
+                    "question": "What are the benefits of running on an empty stomach?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-11",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What are you talking about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_4-1",
+            "questions": [
+                {
+                    "question": "What type of cardio exercise are you trying to do?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-7",
+            "questions": [
+                {
+                    "question": "What do you mean by \"taped conversations\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-11",
+            "questions": [
+                {
+                    "question": "The Watergate scandal had a number of different effects on the country's politics. Would you like to know about the effect on the public's trust in government, the Nixon administration, or the media?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-13",
+            "questions": [
+                {
+                    "question": "What would you like to know specifically about Nixon's legacy after the Watergate scandal?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-1",
+            "questions": [
+                {
+                    "question": "I'm not sure what you mean by Bostrom's simulation argument. Could you explain it to me?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-3",
+            "questions": [
+                {
+                    "question": "Are you asking what the most likely interpretation of Bostrom's \"simulation argument\" is, or what the most likely outcome of the argument is?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-5",
+            "questions": [
+                {
+                    "question": "There are a variety of different opinions on Bostrom's \"simulation argument.\" Some philosophers agree with the argument, while others think it is flawed. Would you like to know more about a specific opinion?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-9",
+            "questions": [
+                {
+                    "question": "What do you mean by \"gaffe\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-11",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you mean. Would you like me to describe the plot of a specific Marvel movie?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-1",
+            "questions": [
+                {
+                    "question": "There are a few different things you can do to help build your son's self-esteem. Would you like some tips on how to praise him, how to encourage him, or how to help him deal with failure?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-3",
+            "questions": [
+                {
+                    "question": "What do you mean by \"unavoidable\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-5",
+            "questions": [
+                {
+                    "question": "Social skills are the abilities we use to interact with others. They include things like communication, cooperation, and empathy. Would you like to know more about how to improve your teenager's social skills?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're trying to ask. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-11",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand how to help you with that. Can you please clarify what you need?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_1-1",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about the wonders of the world. Would you like to know about the Seven Wonders of the Ancient World, the Seven Wonders of the Natural World, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-1",
+            "questions": [
+                {
+                    "question": "What would you like to know specifically about the world's most spectacular natural features and human-built structures?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-5",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about bees. Would you like to know about it's evolution, characteristics, or sociality?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-11",
+            "questions": [
+                {
+                    "question": "There are many different continents to choose from when travelling to Asia. What type of trip are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-13",
+            "questions": [
+                {
+                    "question": "What would you like to know about the other wonders of the world?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-17",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about the relationship between architecture and nature in the Grand Canyon. Would you like to know about the history, the different types of architecture, or how it compares to other places?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-19",
+            "questions": [
+                {
+                    "question": "I'm sorry, I'm not sure what you're asking. Could you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_1-5",
+            "questions": [
+                {
+                    "question": "What do you mean by better?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. How did Good Morning, Vietnam help what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-1",
+            "questions": [
+                {
+                    "question": "What would you like to say about Nigeria?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-3",
+            "questions": [
+                {
+                    "question": "What type of tourist are you?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-7",
+            "questions": [
+                {
+                    "question": "What would you like to know about Obudu Cattle Ranch?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-2",
+            "questions": [
+                {
+                    "question": "What type of food would you like to know about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-4",
+            "questions": [
+                {
+                    "question": "What do you mean by safe?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-6",
+            "questions": [
+                {
+                    "question": "What type of dish are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-8",
+            "questions": [
+                {
+                    "question": "There are a lot of different recipes for Jollof rice in Nigeria. What are you looking for specifically?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-10",
+            "questions": [
+                {
+                    "question": "What type of difference are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-14",
+            "questions": [
+                {
+                    "question": "What other dishes do Nigerians discuss?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-16",
+            "questions": [
+                {
+                    "question": "What type of Jollof rice dish are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-9",
+            "questions": [
+                {
+                    "question": "There are lots of things to say about Duke town. Would you like to know about its history, attractions, or events?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_3-1",
+            "questions": [
+                {
+                    "question": "There are many places worth visiting in Nigeria. What type of place are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_3-3",
+            "questions": [
+                {
+                    "question": "Abuja is the capital of Nigeria. Do you think it is better than Calabar in terms of infrastructure, safety, or opportunity?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_1-1",
+            "questions": [
+                {
+                    "question": "The offer to make 20% monthly interest on your money might not be legit. Ponzi schemes often offer high returns to early investors to attract more people into the scheme. Would you like me to look into this further for you?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_1-3",
+            "questions": [
+                {
+                    "question": "What type of awareness are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-1",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't know what you mean by a Ponzi. Could you explain it to me?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-5",
+            "questions": [
+                {
+                    "question": "What do you mean by \"unravel\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-9",
+            "questions": [
+                {
+                    "question": "There are a number of schemes that are similar to the ones mentioned above. Would you like me to compare them in terms of their features, benefits, or drawbacks?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-11",
+            "questions": [
+                {
+                    "question": "There are lots of different types of financial scams out there. Would you like to know about some of the most common ones?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-13",
+            "questions": [
+                {
+                    "question": "What do you think causes cryptocurrency bubbles?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_1-1",
+            "questions": [
+                {
+                    "question": "What would you like to know specifically about Argentina?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_1-3",
+            "questions": [
+                {
+                    "question": "What do you mean by capital?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_2-2",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about Argentine culture?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_3-1",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about Argentina?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_3-5",
+            "questions": [
+                {
+                    "question": "Clothing is important historically in Argentina because it is a way to express the country's identity. Would you like to know more about the history of clothing in Argentina, or why it is important today?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_7-1",
+            "questions": [
+                {
+                    "question": "What are you interested in exploring first, Malbec or Iguazu Falls?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_4-1",
+            "questions": [
+                {
+                    "question": "Some of the things that Buenos Aires is known for are its rich culture, diverse architecture, and vibrant nightlife. Is there a particular aspect of the city that you're interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_6-1",
+            "questions": [
+                {
+                    "question": "What would you like to make for merienda?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_6-3",
+            "questions": [
+                {
+                    "question": "What are some of the ingredients you have?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-1",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about meat sweats. Would you like to know about their evolution, characteristics, or sociality?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_8-1",
+            "questions": [
+                {
+                    "question": "What do you want to know about Chile?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_9-1",
+            "questions": [
+                {
+                    "question": "What do you want to know specifically about Argentina that makes it unique?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-5",
+            "questions": [
+                {
+                    "question": "The majority of the population in Argentina is of European descent. Would you like to know more about the demographics of Argentina?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-7",
+            "questions": [
+                {
+                    "question": "What do you mean by special?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-9",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking for. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_1-5",
+            "questions": [
+                {
+                    "question": "What would you like to know specifically about the culture of Buenos Aires?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-3",
+            "questions": [
+                {
+                    "question": "How does Open Banking in the UK compare to the European equivalent?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-7",
+            "questions": [
+                {
+                    "question": "There are lots of different types of product innovation that have happened in the U.S. Would you like to know about a specific type?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-9",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking for. Could you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-11",
+            "questions": [
+                {
+                    "question": "What types of retail products or services are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-13",
+            "questions": [
+                {
+                    "question": "There are a lot of cool startups out there. What type of startups are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-15",
+            "questions": [
+                {
+                    "question": "What do you want to know specifically about the regulatory environment for cryptocurrencies?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-17",
+            "questions": [
+                {
+                    "question": "What do you want to know about Europe?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_1-1",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-1",
+            "questions": [
+                {
+                    "question": "What are you specifically interested in knowing about SpaceX's plans for reusability? Are you interested in their technology, business model, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-3",
+            "questions": [
+                {
+                    "question": "SpaceX is developing several different types of engines, including the Merlin, Raptor, and Dragon. Would you like to know more about any specific engine?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-7",
+            "questions": [
+                {
+                    "question": "Hydrogen is problematic for rocket engines because it can cause explosions. Would you like to know more about the dangers of hydrogen or ways to prevent explosions?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-9",
+            "questions": [
+                {
+                    "question": "There are a number of reasons why hydrogen engines are hard to build. Would you like to know about the challenges with respect to storing hydrogen, producing hydrogen, or using hydrogen in an engine?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-13",
+            "questions": [
+                {
+                    "question": "There are four types of rocket engine power cycles: the closed cycle, the open cycle, the staged combustion cycle, and the regenerative cooling cycle. Which type are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-15",
+            "questions": [
+                {
+                    "question": "I'm not sure. Why do you think people have always cared about rocket reusability?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-11",
+            "questions": [
+                {
+                    "question": "There are four main types of rocket engines: solid, liquid, hybrid, and air-breathing. Each type has its own advantages and disadvantages. Are you interested in learning about a specific type of rocket engine?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_1-1",
+            "questions": [
+                {
+                    "question": "What do you mean by \"what is happening to the corals?\" Are you asking about the current state of coral reefs, or the reasons behind why they are dying?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_2-3",
+            "questions": [
+                {
+                    "question": "What is causing the bleaching of coral reefs?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_2-5",
+            "questions": [
+                {
+                    "question": "About 20% of the world's coral reefs have been bleached by global warming. Would you like to know more about this topic?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "146_1-5",
+            "questions": [
+                {
+                    "question": "What type of bike do you have?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "146_1-9",
+            "questions": [
+                {
+                    "question": "What type of bike are you using?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "146_1-11",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're trying to say. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-1",
+            "questions": [
+                {
+                    "question": "What do you think is the best Marvel movie?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-3",
+            "questions": [
+                {
+                    "question": "Which scene from Captain America would you like me to remind you of?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-5",
+            "questions": [
+                {
+                    "question": "What made the other fight scenes more powerful for you?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-7",
+            "questions": [
+                {
+                    "question": "In what ways do you think the movie's implications will affect the MCU?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-11",
+            "questions": [
+                {
+                    "question": "What do you mean by the future of the Marvel franchise? Are you talking about the movies, comics, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_2-1",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about the representation of people of color in the Marvel Cinematic Universe. Would you like to know about the portrayal of people of color in the movies, or the comics?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What was the backlash about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-9",
+            "questions": [
+                {
+                    "question": "What specifically did you like about their arcs?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-15",
+            "questions": [
+                {
+                    "question": "There has been a recent push from fans for diversity in creators and characters. This includes a push for more female creators and characters of color. Are you interested in this topic?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-1",
+            "questions": [
+                {
+                    "question": "What do you mean by \"break into tech salaries\"? Are you looking for ways to increase your salary in the tech industry, or are you trying to find out what the average tech salary is?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-3",
+            "questions": [
+                {
+                    "question": "What do you mean by \"education\"? Are you referring to formal education, like getting a degree? Or are you talking about learning new things in general?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-5",
+            "questions": [
+                {
+                    "question": "There are a number of ways to break into the tech and engineering industries. What are you specifically interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What's a lot like the first tip for breaking into the tech and engineering industries?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_2-1",
+            "questions": [
+                {
+                    "question": "In what ways do you think the tech and engineering industries have changed?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_2-3",
+            "questions": [
+                {
+                    "question": "There are a number of ways that you can demonstrate the technical skills you want to learn. You can take online courses, participate in online forums, or read technical books and articles. Would you like to know more about any of these methods?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_2-5",
+            "questions": [
+                {
+                    "question": "What is the next step to get an interview?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_1-1",
+            "questions": [
+                {
+                    "question": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_1-3",
+            "questions": [
+                {
+                    "question": "Search engines can be biased in a number of different ways, such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_2-1",
+            "questions": [
+                {
+                    "question": "In what ways can search engines be biased?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_2-5",
+            "questions": [
+                {
+                    "question": "There is a lot of debate surrounding whether algorithms are biased against people of colour. Some say that they are, while others claim that they're not. What is your opinion on this matter?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_3-5",
+            "questions": [
+                {
+                    "question": "There are a few ways you can get unbiased results on the internet. You can use multiple search engines, use a private browsing window, or clear your cookies and search history. Would you like to know more about any of these methods?",
+                    "score": 1.0
+                }
+            ]
+        }
+    ]
+}

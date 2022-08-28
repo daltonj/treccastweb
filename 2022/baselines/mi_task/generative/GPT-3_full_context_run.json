@@ -1,0 +1,257 @@
+{
+    "run_name": "GPT-3_full_context",
+    "turns": [
+        {
+            "turn_id": "133_1-1",
+            "questions": [
+                {
+                    "question": "There are a lot of different things you can put in a pamper pack for mom. Would you like me to give you some ideas?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-2",
+            "questions": [
+                {
+                    "question": "There are many different beauty products you can make for your mom. Would you like to make a body scrub, moisturizer, or make-up remover?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_1-1",
+            "questions": [
+                {
+                    "question": "What type of phone do you want?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_4-2",
+            "questions": [
+                {
+                    "question": "There are a lot of things to consider when buying a phone. What are your top priorities?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_1-1",
+            "questions": [
+                {
+                    "question": "It's great that you want to start running again! There are a few things you can do to ease yourself back into it. Would you like some tips on how to get started?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_3-1",
+            "questions": [
+                {
+                    "question": "There are many alternatives to running that can help you burn calories. Some examples include swimming, biking, and elliptical training. What type of activity are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-1",
+            "questions": [
+                {
+                    "question": "Bostrom's simulation argument is an interesting thought experiment that raises a lot of questions about the nature of reality. Are you interested in learning more about it?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-9",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What happened after the 2017 Oscars gaffe?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-1",
+            "questions": [
+                {
+                    "question": "There are a number of things you can do to help build your son's self-esteem. Would you like some specific suggestions?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_1-1",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about the wonders of the world. Would you like to know about the Great Pyramid of Giza, the Taj Mahal, or Machu Picchu?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-1",
+            "questions": [
+                {
+                    "question": "There are many spectacular natural features and human-built structures around the world. Would you like to learn about some specific ones?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-17",
+            "questions": [
+                {
+                    "question": "What do you mean by a relationship between architecture and nature in the Grand Canyon?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-1",
+            "questions": [
+                {
+                    "question": "What do you want to say about Nigeria?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_1-1",
+            "questions": [
+                {
+                    "question": "I'm sorry, I can't give you financial advice. Can you tell me more about the offer?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_1-1",
+            "questions": [
+                {
+                    "question": "What type of information are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_6-3",
+            "questions": [
+                {
+                    "question": "I'm not sure I understand. What would you like to make?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-13",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What are the coolest startups currently doing what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_1-1",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_1-1",
+            "questions": [
+                {
+                    "question": "What do you mean by \"what is happening to the corals?\" Are you asking about the effects of climate change on corals, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "146_1-9",
+            "questions": [
+                {
+                    "question": "What type of bike are you using?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-1",
+            "questions": [
+                {
+                    "question": "There are a lot of great Marvel movies! What are some of your favorites?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-5",
+            "questions": [
+                {
+                    "question": "What specifically did you find more powerful about the \"Avengers Assemble\" scene in Endgame?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-7",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about bees. Would you like to know about it's evolution, characteristics, or sociality?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-9",
+            "questions": [
+                {
+                    "question": "I agree that Iron Man and Thor had great character arcs in their movies. Would you like to discuss a specific movie?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-11",
+            "questions": [
+                {
+                    "question": "I'm not sure what you're asking. Are you interested in the future of the Marvel Cinematic Universe, or the future of Marvel Comics?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-1",
+            "questions": [
+                {
+                    "question": "What type of tech salary are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_1-1",
+            "questions": [
+                {
+                    "question": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_1-3",
+            "questions": [
+                {
+                    "question": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                    "score": 1.0
+                }
+            ]
+        }
+    ]
+}

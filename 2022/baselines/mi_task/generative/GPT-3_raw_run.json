@@ -1,0 +1,1346 @@
+{
+    "run_name": "GPT-3_raw",
+    "turns": [
+        {
+            "turn_id": "132_1-1",
+            "questions": [
+                {
+                    "question": "What do you want to know about COP26?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_1-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, can you please clarify what you would like to know specifically about search engines being biased?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_1-3",
+            "questions": [
+                {
+                    "question": "What type of changes are you referring to?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-1",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about bees. Would you like to know about it's evolution, characteristics, or sociality?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-3",
+            "questions": [
+                {
+                    "question": "How does what affect developing countries?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-5",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about how developed countries are helping?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Who is meeting whom?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-13",
+            "questions": [
+                {
+                    "question": "What are you referring to?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_2-9",
+            "questions": [
+                {
+                    "question": "What question would you like me to provide more information about? The conference or the relevance of the information?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_3-1",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Why what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_3-3",
+            "questions": [
+                {
+                    "question": "What do you mean by 'other parties'?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_3-5",
+            "questions": [
+                {
+                    "question": "What do you mean by \"stand\"? Do you mean in terms of domestic or foreign policy?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "132_3-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. How are who doing?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-1",
+            "questions": [
+                {
+                    "question": "What type of pamper pack would you like to make for your mom?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-3",
+            "questions": [
+                {
+                    "question": "What are you trying to make?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-5",
+            "questions": [
+                {
+                    "question": "What type of bomb are you trying to make?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_1-7",
+            "questions": [
+                {
+                    "question": "The cost of this product depends on a number of factors such as shipping, taxes, and discounts. Are you interested in a specific price?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-2",
+            "questions": [
+                {
+                    "question": "What type of scent does your mum like?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-4",
+            "questions": [
+                {
+                    "question": "What would you like to know about the first step?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-6",
+            "questions": [
+                {
+                    "question": "What are you looking to use the essential oils for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_3-8",
+            "questions": [
+                {
+                    "question": "What type of drink are you trying to make?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_2-1",
+            "questions": [
+                {
+                    "question": "What would you like to make at home?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "133_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What about the second one?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_1-1",
+            "questions": [
+                {
+                    "question": "What type of phone do you want?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_2-1",
+            "questions": [
+                {
+                    "question": "What are you looking for in a phone?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_3-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're trying to ask. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_4-2",
+            "questions": [
+                {
+                    "question": "What do you need help with?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_4-4",
+            "questions": [
+                {
+                    "question": "What type of phone are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Which one would you recommend for what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "134_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Which one should you get what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_1-3",
+            "questions": [
+                {
+                    "question": "What type of workout are you looking to do?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_1-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking for recommendations on. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_1-7",
+            "questions": [
+                {
+                    "question": "What type of exercise are you talking about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_3-1",
+            "questions": [
+                {
+                    "question": "What type of calorie-burning alternatives are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_3-3",
+            "questions": [
+                {
+                    "question": "What are you looking to do for exercise?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_3-5",
+            "questions": [
+                {
+                    "question": "What are you looking for in a workout?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-1",
+            "questions": [
+                {
+                    "question": "What type of weight loss are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. How often should you do what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-5",
+            "questions": [
+                {
+                    "question": "What are you trying to do?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What's a better alternative to what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-9",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Why what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_2-11",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Avoid what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "135_4-1",
+            "questions": [
+                {
+                    "question": "What do you need to do on the second floor?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Why did who break in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What happened next to what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Did who get what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-11",
+            "questions": [
+                {
+                    "question": "The country's politics were significantly affected by the all. Would you like to know more about the effects on the economy, social structure, or foreign relations?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_1-13",
+            "questions": [
+                {
+                    "question": "What would you like to know about Nixon's legacy?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Who are you talking about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "136_2-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Why did who do what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-1",
+            "questions": [
+                {
+                    "question": "I'm not sure what you're asking me specifically. Are you wondering if we're living in a simulated reality, or do you want to know my opinion on Bostrom's argument?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What's most likely?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "137_1-9",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-1",
+            "questions": [
+                {
+                    "question": "There are a lot of ways to help build self-esteem. Are you interested in activities, books, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-5",
+            "questions": [
+                {
+                    "question": "Do you mean how well he interacts with others?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry to hear that you're not confident in your appearance. Would you like some tips on how to improve your self-esteem?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "138_1-11",
+            "questions": [
+                {
+                    "question": "What are you trying to prevent?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_1-1",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about the wonders of the world. Would you like to know about the Seven Wonders of the Ancient World, the Seven Wonders of the Natural World, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-1",
+            "questions": [
+                {
+                    "question": "What would you like to know specifically about natural features and human-built structures?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-7",
+            "questions": [
+                {
+                    "question": "Another what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-11",
+            "questions": [
+                {
+                    "question": "What type of trip are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-13",
+            "questions": [
+                {
+                    "question": "What would you like to know about another wonder?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-17",
+            "questions": [
+                {
+                    "question": "What type of relationship are you curious about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_2-19",
+            "questions": [
+                {
+                    "question": "What do you think of the Indian mausoleum's form?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Why what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "139_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-1",
+            "questions": [
+                {
+                    "question": "There are lots of interesting things to say about Nigeria. Would you like to know about its history, culture, or geography?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're talking about. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Tell me more about what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-2",
+            "questions": [
+                {
+                    "question": "What would you like to know about the food?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-4",
+            "questions": [
+                {
+                    "question": "What are you referring to?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-6",
+            "questions": [
+                {
+                    "question": "Some must-try tourist recipes vary depending on the location. What country are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-8",
+            "questions": [
+                {
+                    "question": "What type of recipe are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-14",
+            "questions": [
+                {
+                    "question": "What other dishes would you like to know about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_4-16",
+            "questions": [
+                {
+                    "question": "What would you like to know about the third item on the menu?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_2-1",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about tourism in Thailand?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. How is what sector managed?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_2-5",
+            "questions": [
+                {
+                    "question": "What type of initiative are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-3",
+            "questions": [
+                {
+                    "question": "What type of tourist are you?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_1-9",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about Duke town?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_3-1",
+            "questions": [
+                {
+                    "question": "What type of place are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "140_3-3",
+            "questions": [
+                {
+                    "question": "What was your experience working in Lagos?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_1-5",
+            "questions": [
+                {
+                    "question": "What specifically would you like me to suggest?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-1",
+            "questions": [
+                {
+                    "question": "What do you mean by scam?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-5",
+            "questions": [
+                {
+                    "question": "What do you mean by \"they\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you mean by \"collapse.\" Could you explain further?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-9",
+            "questions": [
+                {
+                    "question": "There are a few different ways to compare the two schemes. Would you like to know about the benefits, investment options, or fees associated with each?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-11",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What else is there about what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "141_2-13",
+            "questions": [
+                {
+                    "question": "What do you want to know about cryptocurrency?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_1-1",
+            "questions": [
+                {
+                    "question": "What would you like to know specifically about Argentina?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_1-3",
+            "questions": [
+                {
+                    "question": "There are a number of reasons why a city might be chosen as the capital of a country. Some of these reasons could include historical significance, geographical location, or political importance. Which of these reasons are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_2-2",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about the culture?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_3-1",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What would you like me to tell you more about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_3-5",
+            "questions": [
+                {
+                    "question": "Why do you think it's important?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_4-1",
+            "questions": [
+                {
+                    "question": "What do you mean by \"they\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_6-1",
+            "questions": [
+                {
+                    "question": "What do you want to make?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_6-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I didn't understand what you meant. Did you want to know how to mate a bee or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-1",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about the meat sweats?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_8-1",
+            "questions": [
+                {
+                    "question": "What do you want to know about Chile?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_9-1",
+            "questions": [
+                {
+                    "question": "What would you like to know about Argentina that makes it unique?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-3",
+            "questions": [
+                {
+                    "question": "Would you like to know about some popular American dishes, or some popular dishes from a specific country?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-5",
+            "questions": [
+                {
+                    "question": "What do you mean by nationalities?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_5-9",
+            "questions": [
+                {
+                    "question": "What type of impact are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "142_1-5",
+            "questions": [
+                {
+                    "question": "What would you like to know specifically about the culture of Buenos Aires?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand how this relates to the European equivalent. Can you explain?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-5",
+            "questions": [
+                {
+                    "question": "What are you looking for?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-7",
+            "questions": [
+                {
+                    "question": "What kind of product innovation are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-11",
+            "questions": [
+                {
+                    "question": "What type of retail products or services are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-13",
+            "questions": [
+                {
+                    "question": "There are a lot of really cool startups out there right now. What type of startup are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-15",
+            "questions": [
+                {
+                    "question": "The regulatory environment for cryptocurrencies can be quite complex and varies from country to country. Are you interested in a specific country's regulatory environment?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "143_1-17",
+            "questions": [
+                {
+                    "question": "What would you like to know about Europe?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What exactly are you referring to?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-1",
+            "questions": [
+                {
+                    "question": "What do you mean by \"this\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-3",
+            "questions": [
+                {
+                    "question": "What type of engines are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Why is hydrogen problematic for engines?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-11",
+            "questions": [
+                {
+                    "question": "There are four different types of rocket engines: liquid-fueled, solid-fueled, hybrid, and electric. Which type are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-13",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-15",
+            "questions": [
+                {
+                    "question": "What specifically would you like to know about the tradeoffs?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_2-17",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Why exhaust the fuel?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "144_3-1",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_1-1",
+            "questions": [
+                {
+                    "question": "What do you mean by \"what is happening to the corals?\" Are you asking about the effects of climate change on corals, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_1-5",
+            "questions": [
+                {
+                    "question": "What do you mean by \"us\"?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What happens if who all die?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you mean by \"bleaching.\" Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "145_2-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're asking. Could you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "146_1-3",
+            "questions": [
+                {
+                    "question": "What type of bags are you referring to?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "146_1-5",
+            "questions": [
+                {
+                    "question": "What type of bike are you looking to use?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "146_1-11",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're trying to say. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-1",
+            "questions": [
+                {
+                    "question": "The best Marvel movie is a matter of opinion. What do you think is the best Marvel movie?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-3",
+            "questions": [
+                {
+                    "question": "What iconic scene are you talking about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-5",
+            "questions": [
+                {
+                    "question": "What made the other fight scenes more powerful for you?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-7",
+            "questions": [
+                {
+                    "question": "What implications for the MCU would you like to discuss?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-9",
+            "questions": [
+                {
+                    "question": "Can you elaborate on why you think Iron Man and Thor had great arcs in their movies?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-11",
+            "questions": [
+                {
+                    "question": "What do you mean by the future of the franchise? Are you asking about the financial future, the direction of the franchise, or something else?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-13",
+            "questions": [
+                {
+                    "question": "What do you mean by diversity?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_2-1",
+            "questions": [
+                {
+                    "question": "What do you want to know about people of color?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What would you like to know more about?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_2-5",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What is the case?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "147_1-15",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. Could you please clarify what you would like me to expand on?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-1",
+            "questions": [
+                {
+                    "question": "What type of tech salary are you interested in?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. How so what?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_1-7",
+            "questions": [
+                {
+                    "question": "I'm sorry, I've lost the context of the conversation. What tip are you referring to?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_2-1",
+            "questions": [
+                {
+                    "question": "What specifically are you referring to?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "148_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, I don't understand what you're trying to ask. Can you please clarify?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_1-1",
+            "questions": [
+                {
+                    "question": "Yes, search engines can be biased in a number of different ways. For example, they can be biased financially, politically, ideologically, racially, sexually, or ethically. Are you interested in a specific way?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_1-3",
+            "questions": [
+                {
+                    "question": "Search engines can be biased in a number of different ways such as financial, political, ideological, racial, sexual, ethical, etc. Are you interested in a specific way?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_3-1",
+            "questions": [
+                {
+                    "question": "User intent is not clear. Would you like to know how to get impartial results from a search engine?",
+                    "score": 1.0
+                }
+            ]
+        },
+        {
+            "turn_id": "149_2-3",
+            "questions": [
+                {
+                    "question": "I'm sorry, could you please clarify what you would like to know?",
+                    "score": 1.0
+                }
+            ]
+        }
+    ]
+}
