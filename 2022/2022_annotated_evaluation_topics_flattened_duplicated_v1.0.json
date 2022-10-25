@@ -16,7 +16,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "COP26 in Glasgow",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -30,7 +35,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "132_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Effects of Climate Change",
+                "requires_initiative?": true,
+                "result_dependence": "132_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -47,7 +57,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_1-4",
                 "Query Dependence": "132_1-3",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Effects of Climate Change",
+                "requires_initiative?": false,
+                "result_dependence": "132_1-4",
+                "query_dependence": "132_1-3",
+                "utterance_type": "Feedback"
             },
             {
                 "number": "1-7",
@@ -62,7 +77,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_1-6",
                 "Query Dependence": "132_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Effects of Climate Change",
+                "requires_initiative?": false,
+                "result_dependence": "132_1-6",
+                "query_dependence": "132_1-3",
+                "utterance_type": "Question"
             }
         ],
         "title": "Climate Change"
@@ -102,7 +122,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "132_1-4",
                 "Query Dependence": "132_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Effects of Climate Change",
+                "requires_initiative?": true,
+                "result_dependence": "132_1-4",
+                "query_dependence": "132_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -117,7 +142,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_1-4, 132_2-2",
                 "Query Dependence": "132_2-1",
-                "Utterance Type": "Feedback / Question"
+                "Utterance Type": "Feedback / Question",
+                "sub_topic": "Effects of Climate Change",
+                "requires_initiative?": false,
+                "result_dependence": "132_1-4, 132_2-2",
+                "query_dependence": "132_2-1",
+                "utterance_type": "Feedback / Question"
             },
             {
                 "number": "2-5",
@@ -132,7 +162,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_1-4, 132_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Climate Change Financing",
+                "requires_initiative?": false,
+                "result_dependence": "132_1-4, 132_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-7",
@@ -148,7 +183,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_2-6",
                 "Query Dependence": "132_2-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Paris Agreement",
+                "requires_initiative?": false,
+                "result_dependence": "132_2-6",
+                "query_dependence": "132_2-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-9",
@@ -163,7 +203,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "132_2-8",
                 "Query Dependence": "132_2-7",
-                "Utterance Type": "Feedback / Question"
+                "Utterance Type": "Feedback / Question",
+                "sub_topic": "Paris Agreement",
+                "requires_initiative?": true,
+                "result_dependence": "132_2-8",
+                "query_dependence": "132_2-7",
+                "utterance_type": "Feedback / Question"
             },
             {
                 "number": "2-11",
@@ -177,7 +222,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_2-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Paris Agreement",
+                "requires_initiative?": false,
+                "result_dependence": "132_2-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-13",
@@ -191,7 +241,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_2-12",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Paris Agreement",
+                "requires_initiative?": false,
+                "result_dependence": "132_2-12",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Climate Change"
@@ -281,7 +336,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_2-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "US Withdrawal from Paris Agreement",
+                "requires_initiative?": false,
+                "result_dependence": "132_2-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-3",
@@ -295,7 +355,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_2-8, 132_2-10, ",
                 "Query Dependence": "132_3-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "US Withdrawal from Paris Agreement",
+                "requires_initiative?": false,
+                "result_dependence": "132_2-8, 132_2-10, ",
+                "query_dependence": "132_3-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-5",
@@ -309,7 +374,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_2-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "US Withdrawal from Paris Agreement",
+                "requires_initiative?": false,
+                "result_dependence": "132_2-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-7",
@@ -323,7 +393,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "132_3-6",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "US Withdrawal from Paris Agreement",
+                "requires_initiative?": false,
+                "result_dependence": "132_3-6",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Climate Change"
@@ -343,7 +418,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making Beauty Pamper Products",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -357,7 +437,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "133_1-2",
                 "Query Dependence": "133_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making Beauty Pamper Products",
+                "requires_initiative?": true,
+                "result_dependence": "133_1-2",
+                "query_dependence": "133_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -371,7 +456,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "133_1-2, 133_1-4",
                 "Query Dependence": "133_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making a Beauty Pamper Products",
+                "requires_initiative?": false,
+                "result_dependence": "133_1-2, 133_1-4",
+                "query_dependence": "133_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -385,7 +475,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "133_1-6",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making a Beauty Pamper Products",
+                "requires_initiative?": false,
+                "result_dependence": "133_1-6",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Homemade Beauty Pampers"
@@ -431,7 +526,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making Scented Lotion",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-4",
@@ -445,7 +545,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "133_3-3",
                 "Query Dependence": "133_3-2",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Making Scented Lotion",
+                "requires_initiative?": false,
+                "result_dependence": "133_3-3",
+                "query_dependence": "133_3-2",
+                "utterance_type": "Feedback"
             },
             {
                 "number": "3-6",
@@ -460,7 +565,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "133_3-5",
                 "Query Dependence": "133_3-2",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making Scented Lotion",
+                "requires_initiative?": true,
+                "result_dependence": "133_3-5",
+                "query_dependence": "133_3-2",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-8",
@@ -474,7 +584,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "133_3-6",
                 "Query Dependence": "133_3-2, 133_3-6",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making Scented Lotion",
+                "requires_initiative?": false,
+                "result_dependence": "133_3-6",
+                "query_dependence": "133_3-2, 133_3-6",
+                "utterance_type": "Question"
             }
         ],
         "title": "Homemade Beauty Pampers"
@@ -513,7 +628,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "133_1-2, 133_1-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making Body Scrub",
+                "requires_initiative?": false,
+                "result_dependence": "133_1-2, 133_1-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -527,7 +647,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "133_1-2, 133_1-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Making Moisturizer",
+                "requires_initiative?": false,
+                "result_dependence": "133_1-2, 133_1-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Homemade Beauty Pampers"
@@ -548,7 +673,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Considerations",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-1",
@@ -563,7 +693,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "134_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "iPhones",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "134_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-1",
@@ -577,7 +712,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_1-2",
                 "Query Dependence": "134_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Types of Phones",
+                "requires_initiative?": false,
+                "result_dependence": "134_1-2",
+                "query_dependence": "134_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-3",
@@ -591,7 +731,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_3-2",
                 "Query Dependence": "134_3-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Types of Phones",
+                "requires_initiative?": false,
+                "result_dependence": "134_3-2",
+                "query_dependence": "134_3-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-5",
@@ -603,7 +748,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_3-4",
                 "Query Dependence": "134_3-3",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Types of Phones",
+                "requires_initiative?": false,
+                "result_dependence": "134_3-4",
+                "query_dependence": "134_3-3",
+                "utterance_type": "Feedback"
             }
         ],
         "title": "Buying a Phone"
@@ -630,7 +780,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_1-2",
                 "Query Dependence": "134_1-1",
-                "Utterance Type": "Follow-up"
+                "Utterance Type": "Follow-up",
+                "sub_topic": "Considerations",
+                "requires_initiative?": false,
+                "result_dependence": "134_1-2",
+                "query_dependence": "134_1-1",
+                "utterance_type": "Follow-up"
             },
             {
                 "number": "4-4",
@@ -644,7 +799,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_4-3",
                 "Query Dependence": "134_4-2",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Considerations",
+                "requires_initiative?": false,
+                "result_dependence": "134_4-3",
+                "query_dependence": "134_4-2",
+                "utterance_type": "Feedback"
             }
         ],
         "title": "Buying a Phone"
@@ -675,7 +835,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_1-2",
                 "Query Dependence": "134_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Considerations",
+                "requires_initiative?": false,
+                "result_dependence": "134_1-2",
+                "query_dependence": "134_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -690,7 +855,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Considerations",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -704,7 +874,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_1-4",
                 "Query Dependence": "134_1-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Samsung vs Motorola",
+                "requires_initiative?": false,
+                "result_dependence": "134_1-4",
+                "query_dependence": "134_1-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -718,7 +893,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_1-4",
                 "Query Dependence": "134_1-5, 134_1-7",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Samsung vs Motorola",
+                "requires_initiative?": false,
+                "result_dependence": "134_1-4",
+                "query_dependence": "134_1-5, 134_1-7",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-11",
@@ -734,7 +914,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_1-6",
                 "Query Dependence": "134_1-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Samsung vs Motorola",
+                "requires_initiative?": false,
+                "result_dependence": "134_1-6",
+                "query_dependence": "134_1-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-13",
@@ -751,7 +936,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "134_1-12",
                 "Query Dependence": "134_1-11",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Samsung vs Motorola",
+                "requires_initiative?": false,
+                "result_dependence": "134_1-12",
+                "query_dependence": "134_1-11",
+                "utterance_type": "Question"
             }
         ],
         "title": "Buying a Phone"
@@ -791,7 +981,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "134_2-1",
                 "Query Dependence": "134_2-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "iPhones",
+                "requires_initiative?": true,
+                "result_dependence": "134_2-1",
+                "query_dependence": "134_2-1",
+                "utterance_type": "Question"
             }
         ],
         "title": "Buying a Phone"
@@ -811,7 +1006,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Getting Back into Running",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -825,7 +1025,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_1-2",
                 "Query Dependence": "135_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Getting Back into Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_1-2",
+                "query_dependence": "135_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -839,7 +1044,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "135_1-4",
                 "Query Dependence": "135_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Getting Back into Running",
+                "requires_initiative?": true,
+                "result_dependence": "135_1-4",
+                "query_dependence": "135_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -854,7 +1064,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_1-6",
                 "Query Dependence": "135_1-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Getting Back into Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_1-6",
+                "query_dependence": "135_1-5",
+                "utterance_type": "Question"
             }
         ],
         "title": "Running"
@@ -883,7 +1098,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "135_1-2",
                 "Query Dependence": "135_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Alternatives to Running",
+                "requires_initiative?": true,
+                "result_dependence": "135_1-2",
+                "query_dependence": "135_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-3",
@@ -898,7 +1118,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "135_3-2",
                 "Query Dependence": "135_3-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Alternatives to Running",
+                "requires_initiative?": true,
+                "result_dependence": "135_3-2",
+                "query_dependence": "135_3-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-5",
@@ -912,7 +1137,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_3-4",
                 "Query Dependence": "135_3-3",
-                "Utterance Type": "Follow-up, Comment"
+                "Utterance Type": "Follow-up, Comment",
+                "sub_topic": "Alternatives to Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_3-4",
+                "query_dependence": "135_3-3",
+                "utterance_type": "Follow-up, Comment"
             }
         ],
         "title": "Running"
@@ -941,7 +1171,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "135_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Weightloss by Running",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "135_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -955,7 +1190,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_1-2",
                 "Query Dependence": "135_1-1, 135_2-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Weightloss by Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_1-2",
+                "query_dependence": "135_1-1, 135_2-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -969,7 +1209,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_1-2, 135_2-4",
                 "Query Dependence": "135_2-1, 135_1-9",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Weightloss by Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_1-2, 135_2-4",
+                "query_dependence": "135_2-1, 135_1-9",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-7",
@@ -983,7 +1228,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_2-6",
                 "Query Dependence": "135_2-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Weightloss by Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_2-6",
+                "query_dependence": "135_2-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-9",
@@ -997,7 +1247,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_2-8",
                 "Query Dependence": "135_2-7",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Weightloss by Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_2-8",
+                "query_dependence": "135_2-7",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-11",
@@ -1011,7 +1266,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_2-8, 135_2-10",
                 "Query Dependence": "135_2-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Weightloss by Running",
+                "requires_initiative?": false,
+                "result_dependence": "135_2-8, 135_2-10",
+                "query_dependence": "135_2-5",
+                "utterance_type": "Question"
             }
         ],
         "title": "Running"
@@ -1059,7 +1319,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "135_3-4",
                 "Query Dependence": "135_3-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Jumping Rope at Home",
+                "requires_initiative?": false,
+                "result_dependence": "135_3-4",
+                "query_dependence": "135_3-3",
+                "utterance_type": "Question"
             }
         ],
         "title": "Running"
@@ -1079,7 +1344,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Background",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -1093,7 +1363,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-2",
                 "Query Dependence": "136_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Background",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-2",
+                "query_dependence": "136_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -1107,7 +1382,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-4",
                 "Query Dependence": "136_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Background",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-4",
+                "query_dependence": "136_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -1121,7 +1401,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-6",
                 "Query Dependence": "136_1-1, 136_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Background",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-6",
+                "query_dependence": "136_1-1, 136_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -1135,7 +1420,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-8",
                 "Query Dependence": "136_1-1, 136_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Aftermath",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-8",
+                "query_dependence": "136_1-1, 136_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-11",
@@ -1150,7 +1440,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-2, 136_1-4, 136_1-6, 136_1-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Aftermath",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-2, 136_1-4, 136_1-6, 136_1-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-13",
@@ -1165,7 +1460,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-2, 136_1-4, 136_1-6, 136_1-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Aftermath",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-2, 136_1-4, 136_1-6, 136_1-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Watergate Scandal"
@@ -1195,7 +1495,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Deep Throat",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -1210,7 +1515,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_1-2, 136_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Deep Throat",
+                "requires_initiative?": false,
+                "result_dependence": "136_1-2, 136_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -1224,7 +1534,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "136_2-2, 136_2-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Deep Throat",
+                "requires_initiative?": false,
+                "result_dependence": "136_2-2, 136_2-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Watergate Scandal"
@@ -1244,7 +1559,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Simulation Hypothesis",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -1258,7 +1578,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "137_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Simulation Hypothesis",
+                "requires_initiative?": false,
+                "result_dependence": "137_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -1273,7 +1598,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "137_1-1, 137_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Simulation Hypothesis",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "137_1-1, 137_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -1287,7 +1617,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "137_1-6",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Simulation Hypothesis",
+                "requires_initiative?": false,
+                "result_dependence": "137_1-6",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -1301,7 +1636,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "137_1-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Simulation Hypothesis",
+                "requires_initiative?": false,
+                "result_dependence": "137_1-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-11",
@@ -1315,7 +1655,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "137_1-10",
                 "Query Dependence": "",
-                "Utterance Type": "Comment"
+                "Utterance Type": "Comment",
+                "sub_topic": "Simulation Hypothesis",
+                "requires_initiative?": false,
+                "result_dependence": "137_1-10",
+                "query_dependence": "",
+                "utterance_type": "Comment"
             }
         ],
         "title": "Simulated Reality"
@@ -1335,7 +1680,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Building a teenager's self esteem",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -1349,7 +1699,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "138_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Building a teenager's self esteem",
+                "requires_initiative?": false,
+                "result_dependence": "138_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -1363,7 +1718,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "138_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Building a teenager's self esteem",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "138_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -1378,7 +1738,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "138_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Building a teenager's self esteem",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "138_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -1392,7 +1757,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "138_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Building a teenager's self esteem",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "138_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-11",
@@ -1406,7 +1776,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "138_1-9",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Building a teenager's self esteem",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "138_1-9",
+                "utterance_type": "Question"
             }
         ],
         "title": "Self-esteem"
@@ -1426,7 +1801,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Wonders of the World",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-1",
@@ -1440,7 +1820,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_1-2",
                 "Query Dependence": "139_2-1",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Wonders of the World",
+                "requires_initiative?": false,
+                "result_dependence": "139_1-2",
+                "query_dependence": "139_2-1",
+                "utterance_type": "Feedback"
             },
             {
                 "number": "2-3",
@@ -1454,7 +1839,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Wonders of the World",
+                "requires_initiative?": false,
+                "result_dependence": "139_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -1468,7 +1858,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_2-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Great Wall of China",
+                "requires_initiative?": false,
+                "result_dependence": "139_2-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-7",
@@ -1482,7 +1877,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_2-2",
                 "Query Dependence": "139_2-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Wonders of the World in Asia",
+                "requires_initiative?": false,
+                "result_dependence": "139_2-2",
+                "query_dependence": "139_2-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-9",
@@ -1496,7 +1896,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "139_2-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Taj Mahal",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "139_2-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-11",
@@ -1510,7 +1915,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_2-8, 139_2-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Wonders of the World in Asia",
+                "requires_initiative?": false,
+                "result_dependence": "139_2-8, 139_2-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-13",
@@ -1525,7 +1935,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_2-8, 139_2-4, 139_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Wonders of the World outside of Asia",
+                "requires_initiative?": false,
+                "result_dependence": "139_2-8, 139_2-4, 139_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-15",
@@ -1539,7 +1954,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_2-8, 139_2-4, 139_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Wonders of the World outside of Asia",
+                "requires_initiative?": false,
+                "result_dependence": "139_2-8, 139_2-4, 139_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-17",
@@ -1553,7 +1973,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Comment"
+                "Utterance Type": "Comment",
+                "sub_topic": "Achitecture vs Nature",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Comment"
             },
             {
                 "number": "2-19",
@@ -1567,7 +1992,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_2-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Taj Mahal",
+                "requires_initiative?": false,
+                "result_dependence": "139_2-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Wonders of the World"
@@ -1596,7 +2026,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "What a Wonderful World by Louis Armstrong",
+                "requires_initiative?": false,
+                "result_dependence": "139_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -1610,7 +2045,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "What a Wonderful World by Louis Armstrong",
+                "requires_initiative?": false,
+                "result_dependence": "139_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -1624,7 +2064,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "139_1-7",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "What a Wonderful World by Louis Armstrong",
+                "requires_initiative?": false,
+                "result_dependence": "139_1-7",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Wonders of the World"
@@ -1644,7 +2089,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Interesting aspects",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -1658,7 +2108,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "140_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best places to visit",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "140_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -1672,7 +2127,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_1-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Obudu Cattle Ranch",
+                "requires_initiative?": false,
+                "result_dependence": "140_1-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -1686,7 +2146,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_1-6",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Obudu Cattle Ranch",
+                "requires_initiative?": false,
+                "result_dependence": "140_1-6",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Nigeria"
@@ -1713,7 +2178,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_4-1",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "140_4-1",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "4-4",
@@ -1727,7 +2197,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_4-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "140_4-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "4-6",
@@ -1741,7 +2216,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "140_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "140_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "4-8",
@@ -1756,7 +2236,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_4-7",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "140_4-7",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "4-10",
@@ -1771,7 +2256,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_4-7",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "140_4-7",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "4-12",
@@ -1785,7 +2275,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_4-7",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "140_4-7",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "4-14",
@@ -1799,7 +2294,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "140_4-6",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "140_4-6",
+                "utterance_type": "Question"
             },
             {
                 "number": "4-16",
@@ -1813,7 +2313,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "140_4-6",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cuisine",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "140_4-6",
+                "utterance_type": "Question"
             }
         ],
         "title": "Nigeria"
@@ -1842,7 +2347,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Tourism sector",
+                "requires_initiative?": false,
+                "result_dependence": "140_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -1856,7 +2366,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_1-2",
                 "Query Dependence": "140_2-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Tourism sector",
+                "requires_initiative?": false,
+                "result_dependence": "140_1-2",
+                "query_dependence": "140_2-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -1871,7 +2386,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_2-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Tourism sector",
+                "requires_initiative?": false,
+                "result_dependence": "140_2-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Nigeria"
@@ -1910,7 +2430,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_1-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Duke Town in Calabar",
+                "requires_initiative?": false,
+                "result_dependence": "140_1-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-11",
@@ -1924,7 +2449,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_1-10",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Calabar",
+                "requires_initiative?": false,
+                "result_dependence": "140_1-10",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Nigeria"
@@ -1963,7 +2493,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "140_1-4",
                 "Query Dependence": "140_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best places to visit",
+                "requires_initiative?": true,
+                "result_dependence": "140_1-4",
+                "query_dependence": "140_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-3",
@@ -1978,7 +2513,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "140_3-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best places to visit",
+                "requires_initiative?": false,
+                "result_dependence": "140_3-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Nigeria"
@@ -1998,7 +2538,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Identifying scams",
+                "requires_initiative?": true,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -2012,7 +2557,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "141_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Identifying scams",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "141_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -2026,7 +2576,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_1-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Identifying scams",
+                "requires_initiative?": false,
+                "result_dependence": "141_1-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Investment Scams"
@@ -2055,7 +2610,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Ponzi Schemes",
+                "requires_initiative?": false,
+                "result_dependence": "141_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -2070,7 +2630,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Ponzi Schemes",
+                "requires_initiative?": false,
+                "result_dependence": "141_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -2084,7 +2649,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Ponzi Schemes",
+                "requires_initiative?": false,
+                "result_dependence": "141_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-7",
@@ -2099,7 +2669,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Ponzi Schemes",
+                "requires_initiative?": false,
+                "result_dependence": "141_2-2",
+                "query_dependence": "",
+                "utterance_type": "Feedback"
             },
             {
                 "number": "2-9",
@@ -2113,7 +2688,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Ponzi Schemes",
+                "requires_initiative?": false,
+                "result_dependence": "141_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-11",
@@ -2127,7 +2707,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Ponzi Schemes",
+                "requires_initiative?": false,
+                "result_dependence": "141_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-13",
@@ -2141,7 +2726,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "141_1-12",
                 "Query Dependence": "",
-                "Utterance Type": "Comment"
+                "Utterance Type": "Comment",
+                "sub_topic": "Ponzi Schemes",
+                "requires_initiative?": false,
+                "result_dependence": "141_1-12",
+                "query_dependence": "",
+                "utterance_type": "Comment"
             }
         ],
         "title": "Investment Scams"
@@ -2163,7 +2753,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Argentina",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -2177,7 +2772,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "142_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Buenos Aires",
+                "requires_initiative?": true,
+                "result_dependence": "142_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-2",
@@ -2191,7 +2791,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "142_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Portenos",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "142_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-1",
@@ -2203,7 +2808,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "142_2-3",
                 "Query Dependence": "142_3-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Tango",
+                "requires_initiative?": true,
+                "result_dependence": "142_2-3",
+                "query_dependence": "142_3-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-3",
@@ -2217,7 +2827,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_3-2",
                 "Query Dependence": "",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Tango",
+                "requires_initiative?": false,
+                "result_dependence": "142_3-2",
+                "query_dependence": "",
+                "utterance_type": "Feedback"
             },
             {
                 "number": "3-5",
@@ -2227,7 +2842,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "142_3-3",
-                "Utterance Type": "Feedback / Question"
+                "Utterance Type": "Feedback / Question",
+                "sub_topic": "Tango",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "142_3-3",
+                "utterance_type": "Feedback / Question"
             }
         ],
         "title": "South American Culture"
@@ -2258,7 +2878,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "142_1-2",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": NaN,
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "142_1-2",
+                "utterance_type": "Question"
             }
         ],
         "title": "South American Culture"
@@ -2294,7 +2919,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_2-1",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Portenos",
+                "requires_initiative?": false,
+                "result_dependence": "142_2-1",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "South American Culture"
@@ -2344,7 +2974,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Merienda",
+                "requires_initiative?": false,
+                "result_dependence": "142_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "6-1",
@@ -2356,7 +2991,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "142_2-5",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Mate",
+                "requires_initiative?": true,
+                "result_dependence": "142_2-5",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "6-3",
@@ -2366,7 +3006,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "142_6-1",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Mate",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "142_6-1",
+                "utterance_type": "Feedback"
             }
         ],
         "title": "South American Culture"
@@ -2397,7 +3042,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Meat",
+                "requires_initiative?": false,
+                "result_dependence": "142_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "5-3",
@@ -2411,7 +3061,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "142_5-1",
-                "Utterance Type": "Feedback / Question"
+                "Utterance Type": "Feedback / Question",
+                "sub_topic": "Meat",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "142_5-1",
+                "utterance_type": "Feedback / Question"
             },
             {
                 "number": "8-1",
@@ -2421,7 +3076,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_5-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Meat dishes",
+                "requires_initiative?": false,
+                "result_dependence": "142_5-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "South American Culture"
@@ -2480,7 +3140,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_2-5",
                 "Query Dependence": "144_2-4",
-                "Utterance Type": "Feedback / Question"
+                "Utterance Type": "Feedback / Question",
+                "sub_topic": "Meat dishes",
+                "requires_initiative?": false,
+                "result_dependence": "144_2-5",
+                "query_dependence": "144_2-4",
+                "utterance_type": "Feedback / Question"
             }
         ],
         "title": "South American Culture"
@@ -2529,7 +3194,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_5-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Meat",
+                "requires_initiative?": false,
+                "result_dependence": "142_5-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "5-7",
@@ -2543,7 +3213,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_5-6",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Meat",
+                "requires_initiative?": false,
+                "result_dependence": "142_5-6",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "5-9",
@@ -2553,7 +3228,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_5-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Meat",
+                "requires_initiative?": false,
+                "result_dependence": "142_5-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "South American Culture"
@@ -2589,7 +3269,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "142_1-4",
                 "Query Dependence": "",
-                "Utterance Type": "Feedback / Question"
+                "Utterance Type": "Feedback / Question",
+                "sub_topic": NaN,
+                "requires_initiative?": false,
+                "result_dependence": "142_1-4",
+                "query_dependence": "",
+                "utterance_type": "Feedback / Question"
             }
         ],
         "title": "South American Culture"
@@ -2610,7 +3295,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Open banking regulation",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -2625,7 +3315,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-2",
                 "Query Dependence": "143_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "PSD2",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-2",
+                "query_dependence": "143_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -2640,7 +3335,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-4",
                 "Query Dependence": "143_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "United States Open Banking",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-4",
+                "query_dependence": "143_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -2652,7 +3352,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "143_1-6",
                 "Query Dependence": "143_1-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Open Banking products ",
+                "requires_initiative?": true,
+                "result_dependence": "143_1-6",
+                "query_dependence": "143_1-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -2667,7 +3372,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-8",
                 "Query Dependence": "143_1-7",
-                "Utterance Type": "Feedback"
+                "Utterance Type": "Feedback",
+                "sub_topic": "Open Banking products ",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-8",
+                "query_dependence": "143_1-7",
+                "utterance_type": "Feedback"
             },
             {
                 "number": "1-11",
@@ -2682,7 +3392,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-10",
                 "Query Dependence": "143_1-9",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Open Banking products ",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-10",
+                "query_dependence": "143_1-9",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-13",
@@ -2697,7 +3412,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-12",
                 "Query Dependence": "143_1-11",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Fintech startups",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-12",
+                "query_dependence": "143_1-11",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-15",
@@ -2712,7 +3432,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-14",
                 "Query Dependence": "143_1-13",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cryptocurrency regulation",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-14",
+                "query_dependence": "143_1-13",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-17",
@@ -2727,7 +3452,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-16",
                 "Query Dependence": "143_1-15",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Cryptocurrency regulation",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-16",
+                "query_dependence": "143_1-15",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-19",
@@ -2742,7 +3472,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "143_1-18",
                 "Query Dependence": "143_1-17",
-                "Utterance Type": "Follow-up"
+                "Utterance Type": "Follow-up",
+                "sub_topic": "Cryptocurrency regulation",
+                "requires_initiative?": false,
+                "result_dependence": "143_1-18",
+                "query_dependence": "143_1-17",
+                "utterance_type": "Follow-up"
             }
         ],
         "title": "Open Banking"
@@ -2763,7 +3498,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine reusability",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -2779,7 +3519,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "144_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine reusability",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "144_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -2795,7 +3540,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "144_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine reusability",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "144_1-1",
+                "utterance_type": "Question"
             }
         ],
         "title": "Rocket Engines"
@@ -2837,7 +3587,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_1-4",
                 "Query Dependence": "144_1-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine reusability",
+                "requires_initiative?": false,
+                "result_dependence": "144_1-4",
+                "query_dependence": "144_1-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -2852,7 +3607,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "varieties of spaceX rocket engines",
+                "requires_initiative?": false,
+                "result_dependence": "144_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -2867,7 +3627,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_2-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "propellent type",
+                "requires_initiative?": false,
+                "result_dependence": "144_2-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-7",
@@ -2882,7 +3647,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_2-6",
                 "Query Dependence": "144_2-5",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "building rocket engines",
+                "requires_initiative?": false,
+                "result_dependence": "144_2-6",
+                "query_dependence": "144_2-5",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-9",
@@ -2897,7 +3667,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "144_2-7",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "building rocket engines",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "144_2-7",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-11",
@@ -2912,7 +3687,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "types of rocket engines",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-13",
@@ -2930,7 +3710,12 @@
                 "Requires Initiative?": true,
                 "Result Dependence": "144_2-12",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine cycle definition",
+                "requires_initiative?": true,
+                "result_dependence": "144_2-12",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-15",
@@ -2949,7 +3734,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_2-14",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine tradeoffs",
+                "requires_initiative?": false,
+                "result_dependence": "144_2-14",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-17",
@@ -2964,7 +3754,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_2-16",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine property",
+                "requires_initiative?": false,
+                "result_dependence": "144_2-16",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Rocket Engines"
@@ -3093,7 +3888,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "144_2-16",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "rocket engine comparison",
+                "requires_initiative?": false,
+                "result_dependence": "144_2-16",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Rocket Engines"
@@ -3114,7 +3914,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Current state",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -3128,7 +3933,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "145_1-2",
                 "Query Dependence": "145_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "current state",
+                "requires_initiative?": false,
+                "result_dependence": "145_1-2",
+                "query_dependence": "145_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -3142,7 +3952,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "145_1-4",
                 "Query Dependence": "145_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "current state",
+                "requires_initiative?": false,
+                "result_dependence": "145_1-4",
+                "query_dependence": "145_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -3157,7 +3972,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "current state",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Coral Reefs"
@@ -3205,7 +4025,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Effects of coral death",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -3219,7 +4044,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "145_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Effects of coral death",
+                "requires_initiative?": false,
+                "result_dependence": "145_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -3233,7 +4063,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "145_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Effects of coral death",
+                "requires_initiative?": false,
+                "result_dependence": "145_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Coral Reefs"
@@ -3253,7 +4088,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Overview",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -3267,7 +4107,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "146_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Overview",
+                "requires_initiative?": false,
+                "result_dependence": "146_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -3281,7 +4126,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "146_1-2",
                 "Query Dependence": "146_1-3",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Overview",
+                "requires_initiative?": false,
+                "result_dependence": "146_1-2",
+                "query_dependence": "146_1-3",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -3295,7 +4145,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "146_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Overview",
+                "requires_initiative?": false,
+                "result_dependence": "146_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -3307,7 +4162,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "146_1-2",
                 "Query Dependence": "146_1-9",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Overview",
+                "requires_initiative?": false,
+                "result_dependence": "146_1-2",
+                "query_dependence": "146_1-9",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-11",
@@ -3321,7 +4181,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "146_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Clarification"
+                "Utterance Type": "Clarification",
+                "sub_topic": "Overview",
+                "requires_initiative?": false,
+                "result_dependence": "146_1-2",
+                "query_dependence": "",
+                "utterance_type": "Clarification"
             }
         ],
         "title": "Bikepacking"
@@ -3341,7 +4206,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best Marvel Movie",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -3356,7 +4226,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "147_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best Marvel Movie",
+                "requires_initiative?": false,
+                "result_dependence": "147_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -3371,7 +4246,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "147_1-4",
                 "Query Dependence": "",
-                "Utterance Type": "Comment"
+                "Utterance Type": "Comment",
+                "sub_topic": "Best Marvel Movie",
+                "requires_initiative?": false,
+                "result_dependence": "147_1-4",
+                "query_dependence": "",
+                "utterance_type": "Comment"
             },
             {
                 "number": "1-7",
@@ -3385,7 +4265,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best Marvel Movie",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -3399,7 +4284,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "147_1-8",
                 "Query Dependence": "",
-                "Utterance Type": "Comment"
+                "Utterance Type": "Comment",
+                "sub_topic": "Best Marvel Movie",
+                "requires_initiative?": false,
+                "result_dependence": "147_1-8",
+                "query_dependence": "",
+                "utterance_type": "Comment"
             },
             {
                 "number": "1-11",
@@ -3413,7 +4303,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "147_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best Marvel Movie",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "147_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-13",
@@ -3428,7 +4323,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "147_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Best Marvel Movie",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "147_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-1",
@@ -3442,7 +4342,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "147_1-14",
                 "Query Dependence": "147_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Diversity and Inclusion at Marvel",
+                "requires_initiative?": false,
+                "result_dependence": "147_1-14",
+                "query_dependence": "147_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-3",
@@ -3457,7 +4362,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "147_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Diversity and Inclusion at Marvel",
+                "requires_initiative?": false,
+                "result_dependence": "147_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -3471,7 +4381,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "147_2-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Diversity and Inclusion at Marvel",
+                "requires_initiative?": false,
+                "result_dependence": "147_2-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Marvel Cinematic Universe"
@@ -3557,7 +4472,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "147_2-6",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Diversity and Inclusion at Marvel",
+                "requires_initiative?": false,
+                "result_dependence": "147_2-6",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Marvel Cinematic Universe"
@@ -3577,7 +4497,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -3591,7 +4516,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "148_1-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "148_1-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -3605,7 +4535,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "148_1-4",
                 "Query Dependence": "148_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "148_1-4",
+                "query_dependence": "148_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-7",
@@ -3619,7 +4554,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "148_1-2, 148_1-6",
                 "Query Dependence": "148_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "148_1-2, 148_1-6",
+                "query_dependence": "148_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-9",
@@ -3634,7 +4574,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "148_1-10",
                 "Query Dependence": "148_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "148_1-10",
+                "query_dependence": "148_1-1",
+                "utterance_type": "Question"
             }
         ],
         "title": "Working in Tech"
@@ -3672,7 +4617,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "148_1-1",
-                "Utterance Type": "Feedback / Comment"
+                "Utterance Type": "Feedback / Comment",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "148_1-1",
+                "utterance_type": "Feedback / Comment"
             },
             {
                 "number": "2-3",
@@ -3686,7 +4636,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "148_2-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "148_2-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -3700,7 +4655,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "148_2-4",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Breaking in to Tech",
+                "requires_initiative?": false,
+                "result_dependence": "148_2-4",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Working in Tech"
@@ -3722,7 +4682,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-3",
@@ -3739,7 +4704,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "1-5",
@@ -3756,7 +4726,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_1-4",
                 "Query Dependence": "149_1-3",
-                "Utterance Type": "Clarification"
+                "Utterance Type": "Clarification",
+                "sub_topic": "Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_1-4",
+                "query_dependence": "149_1-3",
+                "utterance_type": "Clarification"
             }
         ],
         "title": "Search Engine Bias"
@@ -3787,7 +4762,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "149_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "149_1-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-3",
@@ -3801,7 +4781,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_3-2",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_3-2",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-5",
@@ -3813,7 +4798,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_3-2",
                 "Query Dependence": "149_3-1",
-                "Utterance Type": "Clarification"
+                "Utterance Type": "Clarification",
+                "sub_topic": "Reducing search engine bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_3-2",
+                "query_dependence": "149_3-1",
+                "utterance_type": "Clarification"
             },
             {
                 "number": "4-1",
@@ -3829,7 +4819,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_3-6",
                 "Query Dependence": "",
-                "Utterance Type": "Clarification"
+                "Utterance Type": "Clarification",
+                "sub_topic": "reducing search engine bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_3-6",
+                "query_dependence": "",
+                "utterance_type": "Clarification"
             }
         ],
         "title": "Search Engine Bias"
@@ -3873,7 +4868,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_1-4",
                 "Query Dependence": "149_1-3",
-                "Utterance Type": "Clarification"
+                "Utterance Type": "Clarification",
+                "sub_topic": "Racial Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_1-4",
+                "query_dependence": "149_1-3",
+                "utterance_type": "Clarification"
             },
             {
                 "number": "2-3",
@@ -3889,7 +4889,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_2-2",
                 "Query Dependence": "149_2-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Racial Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_2-2",
+                "query_dependence": "149_2-1",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-5",
@@ -3905,7 +4910,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Racial Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "2-7",
@@ -3921,7 +4931,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "",
                 "Query Dependence": "149_1-1",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "Racial Search Engine Bias",
+                "requires_initiative?": false,
+                "result_dependence": "",
+                "query_dependence": "149_1-1",
+                "utterance_type": "Question"
             }
         ],
         "title": "Search Engine Bias"
@@ -3979,7 +4994,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_3-6",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "reducing search engine bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_3-6",
+                "query_dependence": "",
+                "utterance_type": "Question"
             },
             {
                 "number": "3-9",
@@ -3994,7 +5014,12 @@
                 "Requires Initiative?": false,
                 "Result Dependence": "149_3-8",
                 "Query Dependence": "",
-                "Utterance Type": "Question"
+                "Utterance Type": "Question",
+                "sub_topic": "reducing search engine bias",
+                "requires_initiative?": false,
+                "result_dependence": "149_3-8",
+                "query_dependence": "",
+                "utterance_type": "Question"
             }
         ],
         "title": "Search Engine Bias"
